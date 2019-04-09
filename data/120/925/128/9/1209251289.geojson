@@ -1,0 +1,65 @@
+{
+  "id": 1209251289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89213,55.44089,24.89213,55.44089",
+    "geom:latitude":55.44089,
+    "geom:longitude":24.89213,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Jerzuvka",
+    "gn:country_code":"LT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299397,
+    "gn:latitude":55.44089,
+    "gn:longitude":24.89213,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jerzuvka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jerzuvka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299397
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b6209a4fe09fe4eb76a934349a5efc0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209251289
+        }
+    ],
+    "wof:id":1209251289,
+    "wof:lastmodified":1537662700,
+    "wof:name":"Jerzuvka",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89213,
+    55.44089,
+    24.89213,
+    55.44089
+],
+  "geometry": {"coordinates":[24.89213,55.44089],"type":"Point"}
+}

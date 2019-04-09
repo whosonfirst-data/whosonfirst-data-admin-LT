@@ -1,0 +1,75 @@
+{
+  "id": 1344188373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92075,56.09112,21.92075,56.09112",
+    "geom:latitude":56.09112,
+    "geom:longitude":21.92075,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Gegrenai",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599437,
+    "gn:latitude":56.09112,
+    "gn:longitude":21.92075,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gegr\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giegrany",
+        "Gegrenay",
+        "Greg\u0117nai",
+        "Gegr\u0117n\u0173",
+        "Gegr\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599437
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c87882a18211a039a040d1e2bfc2bc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1344188373,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1344188373,
+    "wof:lastmodified":1537662319,
+    "wof:name":"Gegrenai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92075,
+    56.09112,
+    21.92075,
+    56.09112
+],
+  "geometry": {"coordinates":[21.92075,56.09112],"type":"Point"}
+}

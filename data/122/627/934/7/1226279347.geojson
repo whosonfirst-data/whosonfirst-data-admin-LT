@@ -1,0 +1,71 @@
+{
+  "id": 1226279347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71007,54.85805,25.71007,54.85805",
+    "geom:latitude":54.85805,
+    "geom:longitude":25.71007,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Strazninkai",
+    "gn:country_code":"LT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295048,
+    "gn:latitude":54.85805,
+    "gn:longitude":25.71007,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Stra\u017eninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Stra\u017eninkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295048
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7aace54b1cf18f2f772d4e8f80b42105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1226279347,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226279347,
+    "wof:lastmodified":1537662581,
+    "wof:name":"Strazninkai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71007,
+    54.85805,
+    25.71007,
+    54.85805
+],
+  "geometry": {"coordinates":[25.71007,54.85805],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343390393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.99372,55.08639,24.99372,55.08639",
+    "geom:latitude":55.08639,
+    "geom:longitude":24.99372,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Zibalai",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592795,
+    "gn:latitude":55.08639,
+    "gn:longitude":24.99372,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Zibalai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sta\u0161kuni\u0161kis",
+        "Zybalai",
+        "Zybal\u0173",
+        "\u017dibaliai",
+        "Zibalay",
+        "Zibalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592795,
+        "wk:page":"Zibalai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e1bd3ad4e53df66540fdd6d9c634a2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1343390393,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343390393,
+    "wof:lastmodified":1537661865,
+    "wof:name":"Zibalai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99372,
+    55.08639,
+    24.99372,
+    55.08639
+],
+  "geometry": {"coordinates":[24.99372,55.08639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343793363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.32153,55.34002,23.32153,55.34002",
+    "geom:latitude":55.34002,
+    "geom:longitude":23.32153,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Palukstys",
+    "gn:country_code":"LT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596172,
+    "gn:latitude":55.34002,
+    "gn:longitude":23.32153,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Paluk\u0161tys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polukstsyay",
+        "Poluksiye",
+        "Paluk\u0161tys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596172
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9d912cb1286f255f3b7b462137d54e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1343793363,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343793363,
+    "wof:lastmodified":1537662094,
+    "wof:name":"Palukstys",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.32153,
+    55.34002,
+    23.32153,
+    55.34002
+],
+  "geometry": {"coordinates":[23.32153,55.34002],"type":"Point"}
+}

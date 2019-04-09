@@ -1,0 +1,81 @@
+{
+  "id": 1310334557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7299,55.41019,23.7299,55.41019",
+    "geom:latitude":55.41019,
+    "geom:longitude":23.7299,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Krakes",
+    "gn:country_code":"LT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598022,
+    "gn:latitude":55.41019,
+    "gn:longitude":23.7299,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Krak\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krak\u0117s"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043a\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Krake",
+        "Kraki\u0173",
+        "Kroki",
+        "Krak\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598022,
+        "wk:page":"Krak%C4%97s"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"80b233c4af307417bb01a5ffc3d468e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1310334557,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310334557,
+    "wof:lastmodified":1537662224,
+    "wof:name":"Krakes",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7299,
+    55.41019,
+    23.7299,
+    55.41019
+],
+  "geometry": {"coordinates":[23.7299,55.41019],"type":"Point"}
+}

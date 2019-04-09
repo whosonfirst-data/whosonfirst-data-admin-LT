@@ -1,0 +1,71 @@
+{
+  "id": 1327263161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.56273,55.58363,26.56273,55.58363",
+    "geom:latitude":55.58363,
+    "geom:longitude":26.56273,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"30.0",
+    "gn:asciiname":"Skryteliai",
+    "gn:country_code":"LT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291013,
+    "gn:latitude":55.58363,
+    "gn:longitude":26.56273,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Skryteliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Skryteliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291013
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c29a7432aa520467d8ddaa75f077d30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073691,
+            "locality_id":1327263161,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327263161,
+    "wof:lastmodified":1537662483,
+    "wof:name":"Skryteliai",
+    "wof:parent_id":102073691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56273,
+    55.58363000000001,
+    26.56273,
+    55.58363000000001
+],
+  "geometry": {"coordinates":[26.56273,55.58363000000001],"type":"Point"}
+}

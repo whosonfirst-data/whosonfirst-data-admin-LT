@@ -1,0 +1,73 @@
+{
+  "id": 1276803755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72806,55.77274,23.72806,55.77274",
+    "geom:latitude":55.77274,
+    "geom:longitude":23.72806,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Pavartyciai",
+    "gn:country_code":"LT",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595943,
+    "gn:latitude":55.77274,
+    "gn:longitude":23.72806,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pavarty\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pavarty\u010di\u0173",
+        "Pavartichyay",
+        "Pavarty\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595943
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"015ac4630350a24c81e4154394950730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1276803755,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1276803755,
+    "wof:lastmodified":1537662077,
+    "wof:name":"Pavartyciai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72806,
+    55.77274,
+    23.72806,
+    55.77274
+],
+  "geometry": {"coordinates":[23.72806,55.77274],"type":"Point"}
+}

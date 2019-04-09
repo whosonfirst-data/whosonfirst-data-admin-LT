@@ -1,0 +1,71 @@
+{
+  "id": 1310442223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03292,54.12741,24.03292,54.12741",
+    "geom:latitude":54.12741,
+    "geom:longitude":24.03292,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Papiskes",
+    "gn:country_code":"LT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308379,
+    "gn:latitude":54.12741,
+    "gn:longitude":24.03292,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Papi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Papi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308379
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"213cca3ba3aa04aaa502e37e516e4322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1310442223,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1310442223,
+    "wof:lastmodified":1537662903,
+    "wof:name":"Papiskes",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03292,
+    54.12741,
+    24.03292,
+    54.12741
+],
+  "geometry": {"coordinates":[24.03292,54.12741],"type":"Point"}
+}

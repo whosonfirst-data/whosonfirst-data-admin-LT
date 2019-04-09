@@ -1,0 +1,76 @@
+{
+  "id": 1226272863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45224,55.91411,25.45224,55.91411",
+    "geom:latitude":55.91411,
+    "geom:longitude":25.45224,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Panemunelis",
+    "gn:country_code":"LT",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596141,
+    "gn:latitude":55.91411,
+    "gn:longitude":25.45224,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Panemun\u0117lis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poniemunek",
+        "Panemun\u0117lio",
+        "Panemunis",
+        "Panemun\u2019",
+        "Panemun\u0117lis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596141,
+        "wk:page":"Panemun%C4%97lis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d99224a4a5340776ed08521148d95d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1226272863,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226272863,
+    "wof:lastmodified":1537662092,
+    "wof:name":"Panemunelis",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45224,
+    55.91411,
+    25.45224,
+    55.91411
+],
+  "geometry": {"coordinates":[25.45224,55.91411],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343888507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4228,55.05752,23.4228,55.05752",
+    "geom:latitude":55.05752,
+    "geom:longitude":23.4228,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Jokuboniai",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598832,
+    "gn:latitude":55.05752,
+    "gn:longitude":23.4228,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jok\u016bboniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jok\u016bboniai"
+    ],
+    "name:und_x_variant":[
+        "Yakubanchyay",
+        "Yakubantse",
+        "Jok\u016bboniai Senieji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598832
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4edf6a63f7f55a05d0dc06aee3c2c861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1343888507,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1343888507,
+    "wof:lastmodified":1537662279,
+    "wof:name":"Jokuboniai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4228,
+    55.05752,
+    23.4228,
+    55.05752
+],
+  "geometry": {"coordinates":[23.4228,55.05752],"type":"Point"}
+}

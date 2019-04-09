@@ -1,0 +1,82 @@
+{
+  "id": 1276152117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.08657,55.84009,26.08657,55.84009",
+    "geom:latitude":55.84009,
+    "geom:longitude":26.08657,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Suviekas",
+    "gn:country_code":"LT",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594087,
+    "gn:latitude":55.84009,
+    "gn:longitude":26.08657,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Suviekas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Suviekas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0432\u0435\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Suviyenas",
+        "Suviyekas",
+        "Suviek\u0173",
+        "Suvekas",
+        "Suvieko",
+        "Suviekas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594087
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9a28abcd47eaba89ede5e8cb83b52d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276152117,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276152117,
+    "wof:lastmodified":1537661947,
+    "wof:name":"Suviekas",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.08657,
+    55.84009,
+    26.08657,
+    55.84009
+],
+  "geometry": {"coordinates":[26.08657,55.84009],"type":"Point"}
+}

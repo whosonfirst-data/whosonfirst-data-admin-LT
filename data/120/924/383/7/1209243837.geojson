@@ -1,0 +1,67 @@
+{
+  "id": 1209243837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83807,54.24695,23.83807,54.24695",
+    "geom:latitude":54.24695,
+    "geom:longitude":23.83807,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Gervenai",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599369,
+    "gn:latitude":54.24695,
+    "gn:longitude":23.83807,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gerv\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gerv\u0117n\u0173",
+        "Gervany",
+        "Gerv\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599369
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"92ed456be8fc5fe745bea92ec970f8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209243837
+        }
+    ],
+    "wof:id":1209243837,
+    "wof:lastmodified":1537662315,
+    "wof:name":"Gervenai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83807,
+    54.24695,
+    23.83807,
+    54.24695
+],
+  "geometry": {"coordinates":[23.83807,54.24695],"type":"Point"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 85897745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4463274.846037,
+    "geom:bbox":"25.089111,54.667741,25.089111,54.667741",
+    "geom:latitude":54.667741,
+    "geom:longitude":25.089111,
+    "gn:population":11555,
+    "iso:country":"LT",
+    "lbl:latitude":54.667741,
+    "lbl:longitude":25.089111,
+    "mps:latitude":54.688122,
+    "mps:longitude":25.079041,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Grigi\u0161k\u0117s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0433\u0438\u0448\u043a\u0435\u0441"
+    ],
+    "name:und_x_preferred":[
+        "Grigiskes"
+    ],
+    "name:und_x_variant":[
+        "Grigishkes",
+        "Grigiskiu",
+        "Grigor'yevo"
+    ],
+    "name:unk_x_variant":[
+        "Grigor\u2019yevo",
+        "Grigiskes"
+    ],
+    "qs:gn_adm0_cc":"LT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":593116,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Grigi\u0161k\u0117s",
+    "qs:local_max":12571,
+    "qs:local_sum":23762,
+    "qs:localhoods":20,
+    "qs:name":"Grigiskes",
+    "qs:name_adm0":"Lietuva",
+    "qs:name_adm1":"Vilniaus Apskritis",
+    "qs:name_adm2":"Vilniaus Miesto Savivaldybe",
+    "qs:name_lau":"Vilnius",
+    "qs:name_local":"Vilnius",
+    "qs:photo_max":11,
+    "qs:photo_sum":12,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424875,
+    "qs:woe_adm1":55848083,
+    "qs:woe_adm2":2346097,
+    "qs:woe_lau":56044000,
+    "qs:woe_local":479616,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        101754089,
+        102073615,
+        85685759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599161,
+        "gp:id":474780,
+        "qs:id":126008,
+        "qs_pg:id":126008,
+        "wd:id":"Q950639",
+        "wk:page":"Grigi\u0161k\u0117s"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b0647f89dca9cc235fd4f156f07f8c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101754089,
+            "neighbourhood_id":85897745,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":85897745,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531931931,
+    "wof:name":"Grigiskes",
+    "wof:parent_id":101754089,
+    "wof:placetype":"neighbourhood",
+    "wof:population":11555,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.089111,
+    54.667741,
+    25.089111,
+    54.667741
+],
+  "geometry": {"coordinates":[25.089111,54.667741],"type":"Point"}
+}

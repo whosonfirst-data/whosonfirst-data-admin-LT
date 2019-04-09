@@ -1,0 +1,71 @@
+{
+  "id": 1326563495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.37794,55.43817,26.37794,55.43817",
+    "geom:latitude":55.43817,
+    "geom:longitude":26.37794,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Polianka",
+    "gn:country_code":"LT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291118,
+    "gn:latitude":55.43817,
+    "gn:longitude":26.37794,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Polianka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Polianka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291118
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"18f308381a9b90b3df9a815151e79d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1326563495,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1326563495,
+    "wof:lastmodified":1537662486,
+    "wof:name":"Polianka",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.37794,
+    55.43816999999999,
+    26.37794,
+    55.43816999999999
+],
+  "geometry": {"coordinates":[26.37794,55.43816999999999],"type":"Point"}
+}

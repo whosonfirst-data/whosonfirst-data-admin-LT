@@ -1,0 +1,65 @@
+{
+  "id": 1209552391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80608,55.13267,21.80608,55.13267",
+    "geom:latitude":55.13267,
+    "geom:longitude":21.80608,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Peleniai",
+    "gn:country_code":"LT",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289702,
+    "gn:latitude":55.13267,
+    "gn:longitude":21.80608,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Peleniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Peleniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289702
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"711d3d207547a9b7138dbd0bbaf3a3fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209552391
+        }
+    ],
+    "wof:id":1209552391,
+    "wof:lastmodified":1537662460,
+    "wof:name":"Peleniai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80608,
+    55.13267,
+    21.80608,
+    55.13267
+],
+  "geometry": {"coordinates":[21.80608,55.13267],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259916333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00764,55.38749,22.00764,55.38749",
+    "geom:latitude":55.38749,
+    "geom:longitude":22.00764,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Lolytis",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289849,
+    "gn:latitude":55.38749,
+    "gn:longitude":22.00764,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lolytis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lolytis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289849
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"359d23e92c014a517015e3cfa2f99dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1259916333,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1259916333,
+    "wof:lastmodified":1537662463,
+    "wof:name":"Lolytis",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00764,
+    55.38749,
+    22.00764,
+    55.38749
+],
+  "geometry": {"coordinates":[22.00764,55.38749],"type":"Point"}
+}

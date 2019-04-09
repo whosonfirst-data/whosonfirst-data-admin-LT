@@ -1,0 +1,80 @@
+{
+  "id": 1209953623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13299,55.57972,26.13299,55.57972",
+    "geom:latitude":55.57972,
+    "geom:longitude":26.13299,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Salakas",
+    "gn:country_code":"LT",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595026,
+    "gn:latitude":55.57972,
+    "gn:longitude":26.13299,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Salakas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Salakas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043a\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "So\u0142oki",
+        "Salako",
+        "Salakas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595026,
+        "wk:page":"Salakas"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9f4c109bae3564a0feae8a77b7a6eb21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1209953623,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1209953623,
+    "wof:lastmodified":1537662012,
+    "wof:name":"Salakas",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13299,
+    55.57972,
+    26.13299,
+    55.57972
+],
+  "geometry": {"coordinates":[26.13299,55.57972],"type":"Point"}
+}

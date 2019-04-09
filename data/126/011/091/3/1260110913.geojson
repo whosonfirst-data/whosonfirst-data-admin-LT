@@ -1,0 +1,71 @@
+{
+  "id": 1260110913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.89153,55.72866,25.89153,55.72866",
+    "geom:latitude":55.72866,
+    "geom:longitude":25.89153,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Lungeliai",
+    "gn:country_code":"LT",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293385,
+    "gn:latitude":55.72866,
+    "gn:longitude":25.89153,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lungeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lungeliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293385
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c1c1aee0ec306c87f7e041e0084672d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1260110913,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1260110913,
+    "wof:lastmodified":1537662544,
+    "wof:name":"Lungeliai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.89153,
+    55.72866,
+    25.89153,
+    55.72866
+],
+  "geometry": {"coordinates":[25.89153,55.72866],"type":"Point"}
+}

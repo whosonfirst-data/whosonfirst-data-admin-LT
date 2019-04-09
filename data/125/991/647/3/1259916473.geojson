@@ -1,0 +1,72 @@
+{
+  "id": 1259916473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21841,55.27269,24.21841,55.27269",
+    "geom:latitude":55.27269,
+    "geom:longitude":24.21841,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Paksciai",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596256,
+    "gn:latitude":55.27269,
+    "gn:longitude":24.21841,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pak\u0161\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakshchay",
+        "Pak\u0161\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596256
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"078529f2e026844730a57e62823c22e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1259916473,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1259916473,
+    "wof:lastmodified":1537662100,
+    "wof:name":"Paksciai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21841,
+    55.27269,
+    24.21841,
+    55.27269
+],
+  "geometry": {"coordinates":[24.21841,55.27269],"type":"Point"}
+}

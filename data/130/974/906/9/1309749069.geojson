@@ -1,0 +1,71 @@
+{
+  "id": 1309749069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.72761,55.14355,24.72761,55.14355",
+    "geom:latitude":55.14355,
+    "geom:longitude":24.72761,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Daumantiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311674,
+    "gn:latitude":55.14355,
+    "gn:longitude":24.72761,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Daumanti\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Daumanti\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311674
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"57ea581658e3a55589cda25b13b829a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1309749069,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309749069,
+    "wof:lastmodified":1537662972,
+    "wof:name":"Daumantiskiai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.72761,
+    55.14355,
+    24.72761,
+    55.14355
+],
+  "geometry": {"coordinates":[24.72761,55.14355],"type":"Point"}
+}

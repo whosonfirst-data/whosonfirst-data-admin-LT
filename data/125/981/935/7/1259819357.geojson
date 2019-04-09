@@ -1,0 +1,71 @@
+{
+  "id": 1259819357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91277,54.69073,24.91277,54.69073",
+    "geom:latitude":54.69073,
+    "geom:longitude":24.91277,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Uzugiris",
+    "gn:country_code":"LT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300625,
+    "gn:latitude":54.69073,
+    "gn:longitude":24.91277,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"U\u017eugiris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "U\u017eugiris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300625
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3ddeb47a18d2c7ce0741bcac4277ca33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1259819357,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259819357,
+    "wof:lastmodified":1537662739,
+    "wof:name":"Uzugiris",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91277,
+    54.69073,
+    24.91277,
+    54.69073
+],
+  "geometry": {"coordinates":[24.91277,54.69073],"type":"Point"}
+}

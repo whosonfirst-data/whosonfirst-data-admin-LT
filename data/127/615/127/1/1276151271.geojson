@@ -1,0 +1,81 @@
+{
+  "id": 1276151271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21821,55.26156,23.21821,55.26156",
+    "geom:latitude":55.26156,
+    "geom:longitude":23.21821,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Pramedziava",
+    "gn:country_code":"LT",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595631,
+    "gn:latitude":55.26156,
+    "gn:longitude":23.21821,
+    "gn:modification_date":"2018-02-20",
+    "gn:name":"Pramed\u017eiava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_historical":[
+        "Promiatschew",
+        "Promiaczew"
+    ],
+    "name:deu_x_preferred":[
+        "Promiatschew"
+    ],
+    "name:deu_x_variant":[
+        "Promiaczew"
+    ],
+    "name:lit_x_preferred":[
+        "Pramed\u017eiava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595631
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1224b3314183151b268d96ec36bfb3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1276151271,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276151271,
+    "wof:lastmodified":1537662054,
+    "wof:name":"Pramedziava",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21821,
+    55.26156,
+    23.21821,
+    55.26156
+],
+  "geometry": {"coordinates":[23.21821,55.26156],"type":"Point"}
+}

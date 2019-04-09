@@ -1,0 +1,71 @@
+{
+  "id": 1259911173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53079,54.62358,24.53079,54.62358",
+    "geom:latitude":54.62358,
+    "geom:longitude":24.53079,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Piliakalnis I",
+    "gn:country_code":"LT",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311014,
+    "gn:latitude":54.62358,
+    "gn:longitude":24.53079,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Piliakalnis I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Piliakalnis I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311014
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"902c76dffec95c5a526b08ac5b8455ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1259911173,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259911173,
+    "wof:lastmodified":1537662955,
+    "wof:name":"Piliakalnis I",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53079,
+    54.62358,
+    24.53079,
+    54.62358
+],
+  "geometry": {"coordinates":[24.53079,54.62358],"type":"Point"}
+}

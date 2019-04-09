@@ -1,0 +1,65 @@
+{
+  "id": 1209042335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11482,54.8358,24.11482,54.8358",
+    "geom:latitude":54.8358,
+    "geom:longitude":24.11482,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Dubravai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9610404,
+    "gn:latitude":54.8358,
+    "gn:longitude":24.11482,
+    "gn:modification_date":"2014-09-23",
+    "gn:name":"Dubravai",
+    "gn:population":122,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9610404
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d76b3bf6ca2c3c1093c8dd1fa21092cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209042335
+        }
+    ],
+    "wof:id":1209042335,
+    "wof:lastmodified":1536299505,
+    "wof:name":"Dubravai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11482,
+    54.8358,
+    24.11482,
+    54.8358
+],
+  "geometry": {"coordinates":[24.11482,54.8358],"type":"Point"}
+}

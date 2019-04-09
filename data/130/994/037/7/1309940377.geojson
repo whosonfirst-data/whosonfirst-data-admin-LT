@@ -1,0 +1,72 @@
+{
+  "id": 1309940377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.40493,55.62933,21.40493,55.62933",
+    "geom:latitude":55.62933,
+    "geom:longitude":21.40493,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Gelziniai",
+    "gn:country_code":"LT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599404,
+    "gn:latitude":55.62933,
+    "gn:longitude":21.40493,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gel\u017einiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gelazhine",
+        "Gel\u017einiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599404
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8191df4625e7dcb84c22bfa8589d12a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1309940377,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1309940377,
+    "wof:lastmodified":1537662317,
+    "wof:name":"Gelziniai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.40493,
+    55.62933,
+    21.40493,
+    55.62933
+],
+  "geometry": {"coordinates":[21.40493,55.62933],"type":"Point"}
+}

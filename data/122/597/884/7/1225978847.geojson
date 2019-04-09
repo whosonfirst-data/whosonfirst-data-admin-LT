@@ -1,0 +1,83 @@
+{
+  "id": 1225978847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08167,55.87848,21.08167,55.87848",
+    "geom:latitude":55.87848,
+    "geom:longitude":21.08167,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Nemirseta",
+    "gn:country_code":"LT",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596659,
+    "gn:latitude":55.87848,
+    "gn:longitude":21.08167,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nemirseta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nimmersatt"
+    ],
+    "name:lit_x_preferred":[
+        "Nemerzat\u0117"
+    ],
+    "name:und_x_variant":[
+        "N\u0117mer\u017eata",
+        "Nemerzhara",
+        "Nemer\u017eet\u00e0",
+        "Nemirseta",
+        "Nimmersatt",
+        "Nemerzat\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596659,
+        "wk:page":"Nemirseta"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6e0a92ebfe22748addefd200b9b7cef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073675,
+            "locality_id":1225978847,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1225978847,
+    "wof:lastmodified":1537662130,
+    "wof:name":"Nemirseta",
+    "wof:parent_id":102073675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08167000000001,
+    55.87848,
+    21.08167000000001,
+    55.87848
+],
+  "geometry": {"coordinates":[21.08167000000001,55.87848],"type":"Point"}
+}

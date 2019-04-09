@@ -1,0 +1,71 @@
+{
+  "id": 1310239875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.05651,55.29735,26.05651,55.29735",
+    "geom:latitude":55.29735,
+    "geom:longitude":26.05651,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Senieji Bajorai",
+    "gn:country_code":"LT",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292163,
+    "gn:latitude":55.29735,
+    "gn:longitude":26.05651,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Senieji Bajorai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Senieji Bajorai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292163
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d5e807a550e16f4cad20f65f18262c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1310239875,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310239875,
+    "wof:lastmodified":1537662515,
+    "wof:name":"Senieji Bajorai",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.05651,
+    55.29735,
+    26.05651,
+    55.29735
+],
+  "geometry": {"coordinates":[26.05651,55.29735],"type":"Point"}
+}

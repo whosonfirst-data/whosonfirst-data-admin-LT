@@ -1,0 +1,66 @@
+{
+  "id": 1209120819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16667,55.71667,21.16667,55.71667",
+    "geom:latitude":55.71667,
+    "geom:longitude":21.16667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Paupis",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595958,
+    "gn:latitude":55.71667,
+    "gn:longitude":21.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Paupis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakhman",
+        "Paupis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595958
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"af6692896a1883816a8f2127972e5ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209120819
+        }
+    ],
+    "wof:id":1209120819,
+    "wof:lastmodified":1537662078,
+    "wof:name":"Paupis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16667,
+    55.71666999999999,
+    21.16667,
+    55.71666999999999
+],
+  "geometry": {"coordinates":[21.16667,55.71666999999999],"type":"Point"}
+}

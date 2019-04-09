@@ -1,0 +1,74 @@
+{
+  "id": 1209446061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69456,56.24271,24.69456,56.24271",
+    "geom:latitude":56.24271,
+    "geom:longitude":24.69456,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Kirkilai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598133,
+    "gn:latitude":56.24271,
+    "gn:longitude":24.69456,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kirkilai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kirkilai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u043a\u0438\u043b\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kirkilay",
+        "Kirkil\u0173",
+        "Kirklyay",
+        "Kirkilai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598133
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f911a67e81266d35259b68d817f67ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209446061
+        }
+    ],
+    "wof:id":1209446061,
+    "wof:lastmodified":1537662232,
+    "wof:name":"Kirkilai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69456,
+    56.24271,
+    24.69456,
+    56.24271
+],
+  "geometry": {"coordinates":[24.69456,56.24271],"type":"Point"}
+}

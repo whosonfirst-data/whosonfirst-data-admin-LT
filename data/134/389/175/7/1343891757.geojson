@@ -1,0 +1,84 @@
+{
+  "id": 1343891757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.50226,54.32009,24.50226,54.32009",
+    "geom:latitude":54.32009,
+    "geom:longitude":24.50226,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Babriskes",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600808,
+    "gn:latitude":54.32009,
+    "gn:longitude":24.50226,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Babri\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Babri\u0161kis"
+    ],
+    "name:lit_x_preferred":[
+        "Babri\u0161k\u0117s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0440\u0438\u0448\u043a\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Babri\u0161kes",
+        "Babri\u0161ki\u0173",
+        "Bobri\u0161kis",
+        "Babri\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600808,
+        "wk:page":"Babri%C5%A1k%C4%97s_%28Var%C4%97na%29"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"452aa4d1365953e08e2d5497ecac8343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1343891757,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1343891757,
+    "wof:lastmodified":1537662416,
+    "wof:name":"Babriskes",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.50226,
+    54.32009,
+    24.50226,
+    54.32009
+],
+  "geometry": {"coordinates":[24.50226,54.32009],"type":"Point"}
+}

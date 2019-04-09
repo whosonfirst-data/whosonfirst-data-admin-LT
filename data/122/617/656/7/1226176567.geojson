@@ -1,0 +1,73 @@
+{
+  "id": 1226176567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51911,55.11876,23.51911,55.11876",
+    "geom:latitude":55.11876,
+    "geom:longitude":23.51911,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Kruvandai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597926,
+    "gn:latitude":55.11876,
+    "gn:longitude":23.51911,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kr\u016bvandai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kruvondy",
+        "Kruvonday",
+        "Kr\u016bvandai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597926
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fcfef09876fd9427693fd13982b9f74c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1226176567,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226176567,
+    "wof:lastmodified":1537662217,
+    "wof:name":"Kruvandai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51911,
+    55.11876,
+    23.51911,
+    55.11876
+],
+  "geometry": {"coordinates":[23.51911,55.11876],"type":"Point"}
+}

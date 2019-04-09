@@ -1,0 +1,71 @@
+{
+  "id": 1310439079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22247,55.15721,23.22247,55.15721",
+    "geom:latitude":55.15721,
+    "geom:longitude":23.22247,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Paagliuonys",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305496,
+    "gn:latitude":55.15721,
+    "gn:longitude":23.22247,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paagliuonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paagliuonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305496
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dd1cde931fb7306f1dd392d6e3f37070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1310439079,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1310439079,
+    "wof:lastmodified":1537662850,
+    "wof:name":"Paagliuonys",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22247,
+    55.15721,
+    23.22247,
+    55.15721
+],
+  "geometry": {"coordinates":[23.22247,55.15721],"type":"Point"}
+}

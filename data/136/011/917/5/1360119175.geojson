@@ -1,0 +1,76 @@
+{
+  "id": 1360119175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29928,55.66595,21.29928,55.66595",
+    "geom:latitude":55.66595,
+    "geom:longitude":21.29928,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Lebartai",
+    "gn:country_code":"LT",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599964,
+    "gn:latitude":55.66595,
+    "gn:longitude":21.29928,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"L\u0117bartai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "L\u0117bartai"
+    ],
+    "name:und_x_variant":[
+        "L\u00f6bardten",
+        "Lyubartay",
+        "D\u0117ckiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599964
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"89e467971f7d49120003416347675019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1360119175,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1360119175,
+    "wof:lastmodified":1537662353,
+    "wof:name":"Lebartai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29928,
+    55.66595,
+    21.29928,
+    55.66595
+],
+  "geometry": {"coordinates":[21.29928,55.66595],"type":"Point"}
+}

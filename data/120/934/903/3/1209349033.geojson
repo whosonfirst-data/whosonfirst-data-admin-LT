@@ -1,0 +1,67 @@
+{
+  "id": 1209349033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.42944,56.15417,23.42944,56.15417",
+    "geom:latitude":56.15417,
+    "geom:longitude":23.42944,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Rudiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595159,
+    "gn:latitude":56.15417,
+    "gn:longitude":23.42944,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rudi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rudishkyay",
+        "R\u016bdi\u0161ki\u0173",
+        "Rudi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595159
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c0de5f616eb10b6b644d34353eed0aff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209349033
+        }
+    ],
+    "wof:id":1209349033,
+    "wof:lastmodified":1537662022,
+    "wof:name":"Rudiskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.42944,
+    56.15416999999999,
+    23.42944,
+    56.15416999999999
+],
+  "geometry": {"coordinates":[23.42944,56.15416999999999],"type":"Point"}
+}

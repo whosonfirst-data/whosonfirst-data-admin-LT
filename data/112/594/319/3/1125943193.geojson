@@ -1,0 +1,91 @@
+{
+  "id": 1125943193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.03333,55.05,26.03333,55.05",
+    "geom:latitude":55.05,
+    "geom:longitude":26.03333,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":55.05,
+    "lbl:longitude":26.03333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:lit_x_preferred":[
+        "Sariai"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":594940,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sariai",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Vilniaus Apskritis",
+    "qs_pg:photos":5,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":495834,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":478202,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Vilniaus Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594940,
+        "gp:id":478202,
+        "qs_pg:id":495834
+    },
+    "wof:country":"LT",
+    "wof:created":1497297187,
+    "wof:geomhash":"c4aa10d1ac409cdc15e04a985a105cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1125943193,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1125943193,
+    "wof:lastmodified":1509402194,
+    "wof:name":"Sariai",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.03333,
+    55.05,
+    26.03333,
+    55.05
+],
+  "geometry": {"coordinates":[26.03333,55.05],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343397071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3213,54.49359,24.3213,54.49359",
+    "geom:latitude":54.49359,
+    "geom:longitude":24.3213,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Ratininkai",
+    "gn:country_code":"LT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595372,
+    "gn:latitude":54.49359,
+    "gn:longitude":24.3213,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ratininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ratininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595372
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0b0f45b3dd7098e2eafd7737d8ffffc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1343397071,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1343397071,
+    "wof:lastmodified":1537662036,
+    "wof:name":"Ratininkai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3213,
+    54.49359000000001,
+    24.3213,
+    54.49359000000001
+],
+  "geometry": {"coordinates":[24.3213,54.49359000000001],"type":"Point"}
+}

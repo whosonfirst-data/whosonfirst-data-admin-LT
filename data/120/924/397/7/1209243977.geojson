@@ -1,0 +1,65 @@
+{
+  "id": 1209243977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69137,55.77658,25.69137,55.77658",
+    "geom:latitude":55.77658,
+    "geom:longitude":25.69137,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Joneliskes",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293197,
+    "gn:latitude":55.77658,
+    "gn:longitude":25.69137,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Joneli\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Joneli\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293197
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ec6ab7cc9eeb36d7e66739e07e0424a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209243977
+        }
+    ],
+    "wof:id":1209243977,
+    "wof:lastmodified":1537662541,
+    "wof:name":"Joneliskes",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69137000000001,
+    55.77658,
+    25.69137000000001,
+    55.77658
+],
+  "geometry": {"coordinates":[25.69137000000001,55.77658],"type":"Point"}
+}

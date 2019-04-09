@@ -1,0 +1,71 @@
+{
+  "id": 1310532549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31398,56.16508,21.31398,56.16508",
+    "geom:latitude":56.16508,
+    "geom:longitude":21.31398,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Zemyte",
+    "gn:country_code":"LT",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592804,
+    "gn:latitude":56.16508,
+    "gn:longitude":21.31398,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017demyt\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017demyt\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592804
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e5ab8dcd92181f8b7c0e2c9f91161a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1310532549,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1310532549,
+    "wof:lastmodified":1537661865,
+    "wof:name":"Zemyte",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31398,
+    56.16508,
+    21.31398,
+    56.16508
+],
+  "geometry": {"coordinates":[21.31398,56.16508],"type":"Point"}
+}

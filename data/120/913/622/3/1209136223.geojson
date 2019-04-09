@@ -1,0 +1,76 @@
+{
+  "id": 1209136223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86366,55.30796,24.86366,55.30796",
+    "geom:latitude":55.30796,
+    "geom:longitude":24.86366,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Vidiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593230,
+    "gn:latitude":55.30796,
+    "gn:longitude":24.86366,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vidi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vidi\u0161kiai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0434\u0438\u0448\u043a\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Vidi\u0161kis",
+        "Vidi\u0161ki\u0173",
+        "Vidzishki",
+        "Vidishkyay",
+        "Vidi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593230,
+        "wk:page":"Vidi%C5%A1kiai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"21f62140713cf3f3906d8f16c13e9a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209136223
+        }
+    ],
+    "wof:id":1209136223,
+    "wof:lastmodified":1537661892,
+    "wof:name":"Vidiskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86366,
+    55.30796,
+    24.86366,
+    55.30796
+],
+  "geometry": {"coordinates":[24.86366,55.30796],"type":"Point"}
+}

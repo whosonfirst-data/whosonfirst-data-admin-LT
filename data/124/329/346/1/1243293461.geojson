@@ -1,0 +1,75 @@
+{
+  "id": 1243293461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71868,55.22494,22.71868,55.22494",
+    "geom:latitude":55.22494,
+    "geom:longitude":22.71868,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Jerubiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598862,
+    "gn:latitude":55.22494,
+    "gn:longitude":22.71868,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jerubi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jerubi\u0161kiai"
+    ],
+    "name:und_x_variant":[
+        "Yerubishki",
+        "J\u0117rubi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598862
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"87c929a890f9a4fcd01e5c139f1ff2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1243293461,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1243293461,
+    "wof:lastmodified":1537662281,
+    "wof:name":"Jerubiskiai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71868,
+    55.22494,
+    22.71868,
+    55.22494
+],
+  "geometry": {"coordinates":[22.71868,55.22494],"type":"Point"}
+}

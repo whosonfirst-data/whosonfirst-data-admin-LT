@@ -1,0 +1,72 @@
+{
+  "id": 1209136801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.40064,55.44545,26.40064,55.44545",
+    "geom:latitude":55.44545,
+    "geom:longitude":26.40064,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Mazenai",
+    "gn:country_code":"LT",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597180,
+    "gn:latitude":55.44545,
+    "gn:longitude":26.40064,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ma\u017e\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ma\u017e\u0117nai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0436\u0435\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Mazhany",
+        "Ma\u017e\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597180
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"70d78cc4c7a2ca8ae8738176df253f09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209136801
+        }
+    ],
+    "wof:id":1209136801,
+    "wof:lastmodified":1537662168,
+    "wof:name":"Mazenai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40064000000001,
+    55.44545,
+    26.40064000000001,
+    55.44545
+],
+  "geometry": {"coordinates":[26.40064000000001,55.44545],"type":"Point"}
+}

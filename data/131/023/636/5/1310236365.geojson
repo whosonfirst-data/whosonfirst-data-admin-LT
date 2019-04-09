@@ -1,0 +1,74 @@
+{
+  "id": 1310236365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.20798,55.06094,24.20798,55.06094",
+    "geom:latitude":55.06094,
+    "geom:longitude":24.20798,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Kurmagala",
+    "gn:country_code":"LT",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597777,
+    "gn:latitude":55.06094,
+    "gn:longitude":24.20798,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kurmagala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kurmagala"
+    ],
+    "name:lit_x_variant":[
+        "Kurm\u0117gala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597777
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6920b752940aefed43b869da5b1e33e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1310236365,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310236365,
+    "wof:lastmodified":1537662207,
+    "wof:name":"Kurmagala",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.20798,
+    55.06094,
+    24.20798,
+    55.06094
+],
+  "geometry": {"coordinates":[24.20798,55.06094],"type":"Point"}
+}

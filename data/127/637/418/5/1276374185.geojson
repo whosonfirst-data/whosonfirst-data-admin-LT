@@ -1,0 +1,72 @@
+{
+  "id": 1276374185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31663,54.42288,24.31663,54.42288",
+    "geom:latitude":54.42288,
+    "geom:longitude":24.31663,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Krumijos",
+    "gn:country_code":"LT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308921,
+    "gn:latitude":54.42288,
+    "gn:longitude":24.31663,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kr\u016bmijos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kr\u016bmijos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308921
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"07cab367f81928e092491574ca500157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1276374185,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1276374185,
+    "wof:lastmodified":1537662912,
+    "wof:name":"Krumijos",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31663,
+    54.42288000000001,
+    24.31663,
+    54.42288000000001
+],
+  "geometry": {"coordinates":[24.31663,54.42288000000001],"type":"Point"}
+}

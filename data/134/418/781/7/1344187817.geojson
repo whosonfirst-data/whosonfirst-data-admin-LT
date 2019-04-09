@@ -1,0 +1,74 @@
+{
+  "id": 1344187817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74505,54.61055,22.74505,54.61055",
+    "geom:latitude":54.61055,
+    "geom:longitude":22.74505,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Kybeikiai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597726,
+    "gn:latitude":54.61055,
+    "gn:longitude":22.74505,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kybeikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibeykyay",
+        "Kybeiki\u0173",
+        "Kibeyki",
+        "Kybeikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597726
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0f10f1b4d3cf1c7c3071c6e06fac95af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1344187817,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1344187817,
+    "wof:lastmodified":1537662204,
+    "wof:name":"Kybeikiai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74505,
+    54.61055,
+    22.74505,
+    54.61055
+],
+  "geometry": {"coordinates":[22.74505,54.61055],"type":"Point"}
+}

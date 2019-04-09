@@ -1,0 +1,73 @@
+{
+  "id": 1310334177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09532,55.5301,22.09532,55.5301",
+    "geom:latitude":55.5301,
+    "geom:longitude":22.09532,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Bokstai",
+    "gn:country_code":"LT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600400,
+    "gn:latitude":55.5301,
+    "gn:longitude":22.09532,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bok\u0161tai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bok\u0161t\u0173",
+        "Bokshtay",
+        "Bok\u0161tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600400
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"279a779a1e6e248ff2c7939fede9f99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1310334177,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1310334177,
+    "wof:lastmodified":1537662387,
+    "wof:name":"Bokstai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09532,
+    55.5301,
+    22.09532,
+    55.5301
+],
+  "geometry": {"coordinates":[22.09532,55.5301],"type":"Point"}
+}

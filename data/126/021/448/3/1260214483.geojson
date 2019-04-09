@@ -1,0 +1,72 @@
+{
+  "id": 1260214483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.49688,54.75883,24.49688,54.75883",
+    "geom:latitude":54.75883,
+    "geom:longitude":24.49688,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Dauginava",
+    "gn:country_code":"LT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600024,
+    "gn:latitude":54.75883,
+    "gn:longitude":24.49688,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dauginava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dolginovo",
+        "Dauginava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600024
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7281ab498cb44eb4c2e7810088b2cdee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1260214483,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260214483,
+    "wof:lastmodified":1537662358,
+    "wof:name":"Dauginava",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.49688,
+    54.75883,
+    24.49688,
+    54.75883
+],
+  "geometry": {"coordinates":[24.49688,54.75883],"type":"Point"}
+}

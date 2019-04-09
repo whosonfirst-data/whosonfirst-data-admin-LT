@@ -1,0 +1,71 @@
+{
+  "id": 1276157623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75824,56.00252,22.75824,56.00252",
+    "geom:latitude":56.00252,
+    "geom:longitude":22.75824,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Pakentraiciai",
+    "gn:country_code":"LT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302851,
+    "gn:latitude":56.00252,
+    "gn:longitude":22.75824,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pakentrai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pakentrai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302851
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5d3a055561263a043093f178d65972ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1276157623,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1276157623,
+    "wof:lastmodified":1537662788,
+    "wof:name":"Pakentraiciai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75824,
+    56.00252,
+    22.75824,
+    56.00252
+],
+  "geometry": {"coordinates":[22.75824,56.00252],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343893121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92817,55.40132,21.92817,55.40132",
+    "geom:latitude":55.40132,
+    "geom:longitude":21.92817,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Gorainiai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599222,
+    "gn:latitude":55.40132,
+    "gn:longitude":21.92817,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gorainiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Girayney",
+        "Goraynyay",
+        "Gorainiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599222
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c825acbe2bc28ce3a665ff85ee791374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1343893121,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1343893121,
+    "wof:lastmodified":1537662305,
+    "wof:name":"Gorainiai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92817,
+    55.40132,
+    21.92817,
+    55.40132
+],
+  "geometry": {"coordinates":[21.92817,55.40132],"type":"Point"}
+}

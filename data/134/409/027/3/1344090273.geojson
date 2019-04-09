@@ -1,0 +1,82 @@
+{
+  "id": 1344090273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64811,54.24205,23.64811,54.24205",
+    "geom:latitude":54.24205,
+    "geom:longitude":23.64811,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Sventezeris",
+    "gn:country_code":"LT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594053,
+    "gn:latitude":54.24205,
+    "gn:longitude":23.64811,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160vente\u017eeris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u0160vente\u017eeris"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0432\u0435\u043d\u0442\u044d\u0436\u0435\u0440\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Shventezheris",
+        "\u0160vente\u017eerio",
+        "Svento-Yezery",
+        "Swi\u0119to-Jeziory",
+        "\u0160vente\u017eeris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594053,
+        "wk:page":"%C5%A0vente%C5%BEeris"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5ee2e6e934ebda4e2b57069e924671b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1344090273,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1344090273,
+    "wof:lastmodified":1537661945,
+    "wof:name":"Sventezeris",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64811,
+    54.24205,
+    23.64811,
+    54.24205
+],
+  "geometry": {"coordinates":[23.64811,54.24205],"type":"Point"}
+}

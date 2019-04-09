@@ -1,0 +1,71 @@
+{
+  "id": 1259916367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36225,55.11507,24.36225,55.11507",
+    "geom:latitude":55.11507,
+    "geom:longitude":24.36225,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Gegute",
+    "gn:country_code":"LT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309527,
+    "gn:latitude":55.11507,
+    "gn:longitude":24.36225,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gegut\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gegut\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309527
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2aecbbc07e2341747c8694a85639da18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1259916367,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1259916367,
+    "wof:lastmodified":1537662924,
+    "wof:name":"Gegute",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36225,
+    55.11507,
+    24.36225,
+    55.11507
+],
+  "geometry": {"coordinates":[24.36225,55.11507],"type":"Point"}
+}

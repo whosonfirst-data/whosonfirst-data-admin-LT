@@ -1,0 +1,74 @@
+{
+  "id": 1209746183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61044,55.90845,22.61044,55.90845",
+    "geom:latitude":55.90845,
+    "geom:longitude":22.61044,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Kirkliai",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598131,
+    "gn:latitude":55.90845,
+    "gn:longitude":22.61044,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kirkliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirklyay",
+        "Kirkliai",
+        "Kirklyunay",
+        "Kirkliukai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598131
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e143189d0c0fb2faeed4e1c0aac0fdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1209746183,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1209746183,
+    "wof:lastmodified":1537662232,
+    "wof:name":"Kirkliai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61044,
+    55.90845,
+    22.61044,
+    55.90845
+],
+  "geometry": {"coordinates":[22.61044,55.90845],"type":"Point"}
+}

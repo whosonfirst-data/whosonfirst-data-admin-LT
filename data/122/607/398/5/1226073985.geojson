@@ -1,0 +1,75 @@
+{
+  "id": 1226073985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34714,55.63842,24.34714,55.63842",
+    "geom:latitude":55.63842,
+    "geom:longitude":24.34714,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Pasiliai I",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596031,
+    "gn:latitude":55.63842,
+    "gn:longitude":24.34714,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u0161iliai I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u0161iliai I"
+    ],
+    "name:und_x_variant":[
+        "Poshile",
+        "Pa\u0161iliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596031
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"129c4874e2d88bbde44b06fff35c02bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1226073985,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226073985,
+    "wof:lastmodified":1537662083,
+    "wof:name":"Pasiliai I",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34714,
+    55.63842,
+    24.34714,
+    55.63842
+],
+  "geometry": {"coordinates":[24.34714,55.63842],"type":"Point"}
+}

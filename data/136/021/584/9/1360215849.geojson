@@ -1,0 +1,71 @@
+{
+  "id": 1360215849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3789,54.43388,25.3789,54.43388",
+    "geom:latitude":54.43388,
+    "geom:longitude":25.3789,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Geloze",
+    "gn:country_code":"LT",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298282,
+    "gn:latitude":54.43388,
+    "gn:longitude":25.3789,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gelo\u017e\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gelo\u017e\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298282
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dd1a474ca631402be9199f1aa0a1b462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1360215849,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1360215849,
+    "wof:lastmodified":1537662671,
+    "wof:name":"Geloze",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3789,
+    54.43388,
+    25.3789,
+    54.43388
+],
+  "geometry": {"coordinates":[25.3789,54.43388],"type":"Point"}
+}

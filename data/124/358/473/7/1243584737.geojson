@@ -1,0 +1,74 @@
+{
+  "id": 1243584737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02977,55.49425,22.02977,55.49425",
+    "geom:latitude":55.49425,
+    "geom:longitude":22.02977,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Loma",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597394,
+    "gn:latitude":55.49425,
+    "gn:longitude":22.02977,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Loma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lomo",
+        "Loma",
+        "Lomay",
+        "Lomai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597394
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dc4f4e53aa7eb866a802b465bbd42113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1243584737,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1243584737,
+    "wof:lastmodified":1537662181,
+    "wof:name":"Loma",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02977000000001,
+    55.49425,
+    22.02977000000001,
+    55.49425
+],
+  "geometry": {"coordinates":[22.02977000000001,55.49425],"type":"Point"}
+}

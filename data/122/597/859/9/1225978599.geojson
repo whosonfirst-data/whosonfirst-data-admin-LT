@@ -1,0 +1,72 @@
+{
+  "id": 1225978599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9011,55.83572,23.9011,55.83572",
+    "geom:latitude":55.83572,
+    "geom:longitude":23.9011,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Gikoniai",
+    "gn:country_code":"LT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599347,
+    "gn:latitude":55.83572,
+    "gn:longitude":23.9011,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gikoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gikanay",
+        "Gikoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599347
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"376ab03c5aefbaeff651d1ef34a1235e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1225978599,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1225978599,
+    "wof:lastmodified":1537662313,
+    "wof:name":"Gikoniai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9011,
+    55.83572,
+    23.9011,
+    55.83572
+],
+  "geometry": {"coordinates":[23.9011,55.83572],"type":"Point"}
+}

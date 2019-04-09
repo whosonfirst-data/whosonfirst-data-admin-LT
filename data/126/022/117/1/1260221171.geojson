@@ -1,0 +1,83 @@
+{
+  "id": 1260221171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52453,56.08272,24.52453,56.08272",
+    "geom:latitude":56.08272,
+    "geom:longitude":24.52453,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Krincinas",
+    "gn:country_code":"LT",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597963,
+    "gn:latitude":56.08272,
+    "gn:longitude":24.52453,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Krin\u010dinas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krin\u010dinas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u043d\u0447\u0438\u043d\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Krikchinas",
+        "Krinchinas",
+        "Krin\u010dino",
+        "Krinchin",
+        "Kryniczyn",
+        "Krin\u010dinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597963,
+        "wk:page":"Krin%C4%8Dinas"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"58e7ede1e3a40f19bd7bc6a88cb51022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1260221171,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1260221171,
+    "wof:lastmodified":1537662220,
+    "wof:name":"Krincinas",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52453,
+    56.08272,
+    24.52453,
+    56.08272
+],
+  "geometry": {"coordinates":[24.52453,56.08272],"type":"Point"}
+}

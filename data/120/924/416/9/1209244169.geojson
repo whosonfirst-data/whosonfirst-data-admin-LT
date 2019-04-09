@@ -1,0 +1,68 @@
+{
+  "id": 1209244169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78625,55.8318,24.78625,55.8318",
+    "geom:latitude":55.8318,
+    "geom:longitude":24.78625,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Miliunai",
+    "gn:country_code":"LT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596952,
+    "gn:latitude":55.8318,
+    "gn:longitude":24.78625,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mili\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mili\u016bn\u0173",
+        "Mili\u016bnai Antrieji",
+        "Milyunay",
+        "Mili\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596952
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"323ed189261f098340dac5da546055b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209244169
+        }
+    ],
+    "wof:id":1209244169,
+    "wof:lastmodified":1537662151,
+    "wof:name":"Miliunai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78625,
+    55.8318,
+    24.78625,
+    55.8318
+],
+  "geometry": {"coordinates":[24.78625,55.8318],"type":"Point"}
+}

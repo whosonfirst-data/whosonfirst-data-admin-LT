@@ -1,0 +1,67 @@
+{
+  "id": 1209446215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91976,55.4564,25.91976,55.4564",
+    "geom:latitude":55.4564,
+    "geom:longitude":25.91976,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Seimatis",
+    "gn:country_code":"LT",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594856,
+    "gn:latitude":55.4564,
+    "gn:longitude":25.91976,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160eimatis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheymatis",
+        "\u0160eima\u010dio",
+        "\u0160eimatis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594856
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f28f4382cb0ec86cb2d6d9296bed296b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209446215
+        }
+    ],
+    "wof:id":1209446215,
+    "wof:lastmodified":1537662001,
+    "wof:name":"Seimatis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91976,
+    55.4564,
+    25.91976,
+    55.4564
+],
+  "geometry": {"coordinates":[25.91976,55.4564],"type":"Point"}
+}

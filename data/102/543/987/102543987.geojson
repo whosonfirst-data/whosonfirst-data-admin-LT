@@ -1,0 +1,65 @@
+{
+  "id": 102543987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5305555556,55.3369444444,21.5305555556,55.3369444444",
+    "geom:latitude":55.336944,
+    "geom:longitude":21.530556,
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"59",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424875,
+        "county_id":2346085,
+        "localadmin_id":56043905,
+        "planet_id":1,
+        "state_id":55848085
+    },
+    "wof:belongsto":[
+        85633269,
+        85685747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514598,
+        "icao:code":"EYSI",
+        "oa:id":"30415",
+        "wd:id":"Q12679895"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ad57abad836198fcce7983e96cd150d9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102543987,
+            "country_id":85633269,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":102543987,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Silute Airport",
+    "wof:parent_id":85685747,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    21.530555555556,
+    55.336944444444,
+    21.530555555556,
+    55.336944444444
+],
+  "geometry": {"coordinates":[21.530555555556,55.336944444444],"type":"Point"}
+}

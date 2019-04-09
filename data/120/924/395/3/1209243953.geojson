@@ -1,0 +1,65 @@
+{
+  "id": 1209243953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04032,55.40944,24.04032,55.40944",
+    "geom:latitude":55.40944,
+    "geom:longitude":24.04032,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Slaitkalnis",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309622,
+    "gn:latitude":55.40944,
+    "gn:longitude":24.04032,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160laitkalnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160laitkalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309622
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"30e5abbb2cdff8d819805f4b9905d5e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209243953
+        }
+    ],
+    "wof:id":1209243953,
+    "wof:lastmodified":1537662927,
+    "wof:name":"Slaitkalnis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04032,
+    55.40944,
+    24.04032,
+    55.40944
+],
+  "geometry": {"coordinates":[24.04032,55.40944],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226680017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25111,54.71676,24.25111,54.71676",
+    "geom:latitude":54.71676,
+    "geom:longitude":24.25111,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Butkiemis",
+    "gn:country_code":"LT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600231,
+    "gn:latitude":54.71676,
+    "gn:longitude":24.25111,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"B\u016btkiemis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butkyami",
+        "B\u016btkiemis",
+        "B\u016btkiemis II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600231
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"662891999a4480fa67a0b071a570b824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1226680017,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226680017,
+    "wof:lastmodified":1537662374,
+    "wof:name":"Butkiemis",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25111,
+    54.71676,
+    24.25111,
+    54.71676
+],
+  "geometry": {"coordinates":[24.25111,54.71676],"type":"Point"}
+}

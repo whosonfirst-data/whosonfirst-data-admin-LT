@@ -1,0 +1,74 @@
+{
+  "id": 1209846217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49863,54.37559,25.49863,54.37559",
+    "geom:latitude":54.37559,
+    "geom:longitude":25.49863,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Akmenyne",
+    "gn:country_code":"LT",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601168,
+    "gn:latitude":54.37559,
+    "gn:longitude":25.49863,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Akmenyn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamionka",
+        "Akmuo",
+        "Kamenka",
+        "Akmenyn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601168
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"108c3b1b5daa96423a0659a8141cfcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1209846217,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1209846217,
+    "wof:lastmodified":1537662437,
+    "wof:name":"Akmenyne",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49863,
+    54.37559,
+    25.49863,
+    54.37559
+],
+  "geometry": {"coordinates":[25.49863,54.37559],"type":"Point"}
+}

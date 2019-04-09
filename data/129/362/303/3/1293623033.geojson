@@ -1,0 +1,71 @@
+{
+  "id": 1293623033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22808,54.98559,23.22808,54.98559",
+    "geom:latitude":54.98559,
+    "geom:longitude":23.22808,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Kudros",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597902,
+    "gn:latitude":54.98559,
+    "gn:longitude":23.22808,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"K\u016bdros",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "K\u016bdros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597902
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"46766d2fb071cab1affd0db1bfa7bd2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1293623033,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1293623033,
+    "wof:lastmodified":1537662216,
+    "wof:name":"Kudros",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22808,
+    54.98559,
+    23.22808,
+    54.98559
+],
+  "geometry": {"coordinates":[23.22808,54.98559],"type":"Point"}
+}

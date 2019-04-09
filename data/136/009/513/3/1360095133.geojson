@@ -1,0 +1,67 @@
+{
+  "id": 1360095133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1,55.16667,24.1,55.16667",
+    "geom:latitude":55.16667,
+    "geom:longitude":24.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pabarupis",
+    "gn:country_code":"LT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596490,
+    "gn:latitude":55.16667,
+    "gn:longitude":24.1,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Pabarupis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596490
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a3832173b09f987bdc85e016bd5c0379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1360095133,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1360095133,
+    "wof:lastmodified":1536931810,
+    "wof:name":"Pabarupis",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1,
+    55.16667,
+    24.1,
+    55.16667
+],
+  "geometry": {"coordinates":[24.1,55.16667],"type":"Point"}
+}

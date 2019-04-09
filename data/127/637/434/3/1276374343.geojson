@@ -1,0 +1,82 @@
+{
+  "id": 1276374343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49155,55.57895,21.49155,55.57895",
+    "geom:latitude":55.57895,
+    "geom:longitude":21.49155,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Pezaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595801,
+    "gn:latitude":55.57895,
+    "gn:longitude":21.49155,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"P\u0117\u017eai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "P\u00f6szeiten"
+    ],
+    "name:eng_x_preferred":[
+        "P\u0117\u017eai\u010diai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0436\u0430\u0439\u0447\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pezhaychey",
+        "P\u0117\u017eai\u010diai",
+        "P\u00f6szeiten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595801
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"aaceca44474dcfa683b2aef031c156df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1276374343,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1276374343,
+    "wof:lastmodified":1537662066,
+    "wof:name":"Pezaiciai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49155,
+    55.57895,
+    21.49155,
+    55.57895
+],
+  "geometry": {"coordinates":[21.49155,55.57895],"type":"Point"}
+}

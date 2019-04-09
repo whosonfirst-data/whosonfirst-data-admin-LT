@@ -1,0 +1,108 @@
+{
+  "id": 85929233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4195766.649301,
+    "geom:bbox":"25.264768,54.680141,25.264768,54.680141",
+    "geom:latitude":54.680141,
+    "geom:longitude":25.264768,
+    "gn:id":"",
+    "iso:country":"LT",
+    "lbl:latitude":54.680141,
+    "lbl:longitude":25.264768,
+    "mps:latitude":54.679829,
+    "mps:longitude":25.267744,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:und_x_preferred":[
+        "Naujamiestis"
+    ],
+    "name:unk_x_variant":[
+        "Naujamiestis"
+    ],
+    "qs:gn_adm0_cc":"LT",
+    "qs:gn_id":0,
+    "qs:gn_local":593116,
+    "qs:local_max":12571,
+    "qs:local_sum":23762,
+    "qs:localhoods":20,
+    "qs:name":"Naujamiestis",
+    "qs:name_adm0":"Lietuva",
+    "qs:name_adm1":"Vilniaus Apskritis",
+    "qs:name_adm2":"Vilniaus Miesto Savivaldybe",
+    "qs:name_lau":"Vilnius",
+    "qs:name_local":"Vilnius",
+    "qs:photo_max":854,
+    "qs:photo_sum":4995,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":94,
+    "qs:woe_adm0":23424875,
+    "qs:woe_adm1":55848083,
+    "qs:woe_adm2":2346097,
+    "qs:woe_lau":56044000,
+    "qs:woe_local":479616,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        101753031,
+        102073615,
+        85685759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55848107,
+        "qs:id":216185,
+        "qs_pg:id":216185
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"93977aae57f3721d7e3072163e85231e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":85929233,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":85929233,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531939120,
+    "wof:name":"Naujamiestis",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.264768,
+    54.680141,
+    25.264768,
+    54.680141
+],
+  "geometry": {"coordinates":[25.264768,54.680141],"type":"Point"}
+}

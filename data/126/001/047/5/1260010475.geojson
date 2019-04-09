@@ -1,0 +1,73 @@
+{
+  "id": 1260010475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1694,55.62205,21.1694,55.62205",
+    "geom:latitude":55.62205,
+    "geom:longitude":21.1694,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Kairiai",
+    "gn:country_code":"LT",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598576,
+    "gn:latitude":55.62205,
+    "gn:longitude":21.1694,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kairiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kairi\u0173",
+        "Kayryay",
+        "Kairiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598576
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"92b6c0acfd11c01a917e92bf3a9a4093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1260010475,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1260010475,
+    "wof:lastmodified":1537662261,
+    "wof:name":"Kairiai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1694,
+    55.62205,
+    21.1694,
+    55.62205
+],
+  "geometry": {"coordinates":[21.1694,55.62205],"type":"Point"}
+}

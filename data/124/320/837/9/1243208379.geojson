@@ -1,0 +1,71 @@
+{
+  "id": 1243208379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35385,55.65767,26.35385,55.65767",
+    "geom:latitude":55.65767,
+    "geom:longitude":26.35385,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Saplaucizna",
+    "gn:country_code":"LT",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292058,
+    "gn:latitude":55.65767,
+    "gn:longitude":26.35385,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Saplau\u010dizna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Saplau\u010dizna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292058
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fbcab9adedc6b24c590753f905b0df09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1243208379,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243208379,
+    "wof:lastmodified":1537662512,
+    "wof:name":"Saplaucizna",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35385,
+    55.65767,
+    26.35385,
+    55.65767
+],
+  "geometry": {"coordinates":[26.35385,55.65767],"type":"Point"}
+}

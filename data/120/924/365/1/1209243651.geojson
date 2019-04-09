@@ -1,0 +1,67 @@
+{
+  "id": 1209243651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70961,54.8846,24.70961,54.8846",
+    "geom:latitude":54.8846,
+    "geom:longitude":24.70961,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Vareikonys",
+    "gn:country_code":"LT",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593408,
+    "gn:latitude":54.8846,
+    "gn:longitude":24.70961,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vareikonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vareykany",
+        "Vareikoni\u0173",
+        "Vareikonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593408
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"65a64035c2d5b2e046bc0cfbae0cf85c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209243651
+        }
+    ],
+    "wof:id":1209243651,
+    "wof:lastmodified":1537661902,
+    "wof:name":"Vareikonys",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70961,
+    54.8846,
+    24.70961,
+    54.8846
+],
+  "geometry": {"coordinates":[24.70961,54.8846],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360321247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.50204,56.25603,23.50204,56.25603",
+    "geom:latitude":56.25603,
+    "geom:longitude":23.50204,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Buivydziai",
+    "gn:country_code":"LT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600291,
+    "gn:latitude":56.25603,
+    "gn:longitude":23.50204,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Buivyd\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buyvidzhyay",
+        "Buivyd\u017ei\u0173",
+        "Buivyd\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600291
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7d82d615ba6b0ed64e52d99c1d64eefe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1360321247,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1360321247,
+    "wof:lastmodified":1537662379,
+    "wof:name":"Buivydziai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.50204,
+    56.25603,
+    23.50204,
+    56.25603
+],
+  "geometry": {"coordinates":[23.50204,56.25603],"type":"Point"}
+}

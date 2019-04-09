@@ -1,0 +1,79 @@
+{
+  "id": 1344190867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57259,55.23375,25.57259,55.23375",
+    "geom:latitude":55.23375,
+    "geom:longitude":25.57259,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Mindunai",
+    "gn:country_code":"LT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596931,
+    "gn:latitude":55.23375,
+    "gn:longitude":25.57259,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mind\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mind\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u043d\u0434\u0443\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Munduny",
+        "Mindunay",
+        "Mind\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596931
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9d0b7dc4b5e5fda7d72b64cdaae939c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1344190867,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1344190867,
+    "wof:lastmodified":1537662150,
+    "wof:name":"Mindunai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57259,
+    55.23375,
+    25.57259,
+    55.23375
+],
+  "geometry": {"coordinates":[25.57259,55.23375],"type":"Point"}
+}

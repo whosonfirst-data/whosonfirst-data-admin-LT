@@ -1,0 +1,74 @@
+{
+  "id": 1360316355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.05292,56.16503,25.05292,56.16503",
+    "geom:latitude":56.16503,
+    "geom:longitude":25.05292,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Latvygala",
+    "gn:country_code":"LT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597647,
+    "gn:latitude":56.16503,
+    "gn:longitude":25.05292,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Latvygala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Latvygal\u0117s",
+        "Latvygale",
+        "Latvigala",
+        "Latvygala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597647
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"466b9e7b317580df11e597d26e67f265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1360316355,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360316355,
+    "wof:lastmodified":1537662199,
+    "wof:name":"Latvygala",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.05292,
+    56.16503,
+    25.05292,
+    56.16503
+],
+  "geometry": {"coordinates":[25.05292,56.16503],"type":"Point"}
+}

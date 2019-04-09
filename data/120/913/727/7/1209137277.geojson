@@ -1,0 +1,65 @@
+{
+  "id": 1209137277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07456,54.82204,25.07456,54.82204",
+    "geom:latitude":54.82204,
+    "geom:longitude":25.07456,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Babrukiskes",
+    "gn:country_code":"LT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300323,
+    "gn:latitude":54.82204,
+    "gn:longitude":25.07456,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Babruki\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Babruki\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300323
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3f0b625852f0ddf56f8596bd36e6b0c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209137277
+        }
+    ],
+    "wof:id":1209137277,
+    "wof:lastmodified":1537662733,
+    "wof:name":"Babrukiskes",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07456,
+    54.82204,
+    25.07456,
+    54.82204
+],
+  "geometry": {"coordinates":[25.07456,54.82204],"type":"Point"}
+}

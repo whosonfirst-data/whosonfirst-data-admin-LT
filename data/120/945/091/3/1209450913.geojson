@@ -1,0 +1,65 @@
+{
+  "id": 1209450913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18192,55.7773,21.18192,55.7773",
+    "geom:latitude":55.7773,
+    "geom:longitude":21.18192,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Gvildziai",
+    "gn:country_code":"LT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289029,
+    "gn:latitude":55.7773,
+    "gn:longitude":21.18192,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gvild\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gvild\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289029
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0676f72f174a2ce175756e6863a36aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209450913
+        }
+    ],
+    "wof:id":1209450913,
+    "wof:lastmodified":1537662451,
+    "wof:name":"Gvildziai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18192,
+    55.7773,
+    21.18192,
+    55.7773
+],
+  "geometry": {"coordinates":[21.18192,55.7773],"type":"Point"}
+}

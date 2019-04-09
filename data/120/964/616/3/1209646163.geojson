@@ -1,0 +1,65 @@
+{
+  "id": 1209646163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8312,55.38464,23.8312,55.38464",
+    "geom:latitude":55.38464,
+    "geom:longitude":23.8312,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Zemaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307626,
+    "gn:latitude":55.38464,
+    "gn:longitude":23.8312,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u017demai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017demai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307626
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f250e08f440a4113adbbf61942f28c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209646163
+        }
+    ],
+    "wof:id":1209646163,
+    "wof:lastmodified":1537662892,
+    "wof:name":"Zemaiciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8312,
+    55.38464000000001,
+    23.8312,
+    55.38464000000001
+],
+  "geometry": {"coordinates":[23.8312,55.38464000000001],"type":"Point"}
+}

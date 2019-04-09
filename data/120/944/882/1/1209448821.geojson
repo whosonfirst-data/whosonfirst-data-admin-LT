@@ -1,0 +1,68 @@
+{
+  "id": 1209448821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36826,55.06526,23.36826,55.06526",
+    "geom:latitude":55.06526,
+    "geom:longitude":23.36826,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Paezereliai",
+    "gn:country_code":"LT",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596419,
+    "gn:latitude":55.06526,
+    "gn:longitude":23.36826,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pae\u017eer\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poyeziorki",
+        "Paezherelyay",
+        "Pae\u017eereli\u0173",
+        "Pae\u017eer\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596419
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"95f6b9db2f9d7e9d14e9c1112f685c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209448821
+        }
+    ],
+    "wof:id":1209448821,
+    "wof:lastmodified":1537662113,
+    "wof:name":"Paezereliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36826,
+    55.06526,
+    23.36826,
+    55.06526
+],
+  "geometry": {"coordinates":[23.36826,55.06526],"type":"Point"}
+}

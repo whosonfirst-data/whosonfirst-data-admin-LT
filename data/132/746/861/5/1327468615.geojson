@@ -1,0 +1,71 @@
+{
+  "id": 1327468615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25182,55.39759,21.25182,55.39759",
+    "geom:latitude":55.39759,
+    "geom:longitude":21.25182,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Suvernai",
+    "gn:country_code":"LT",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289146,
+    "gn:latitude":55.39759,
+    "gn:longitude":21.25182,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Suvernai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Suvernai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289146
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"49e838fa8f94a3980262e7d45ac5fecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1327468615,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1327468615,
+    "wof:lastmodified":1537662452,
+    "wof:name":"Suvernai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25182,
+    55.39759,
+    21.25182,
+    55.39759
+],
+  "geometry": {"coordinates":[21.25182,55.39759],"type":"Point"}
+}

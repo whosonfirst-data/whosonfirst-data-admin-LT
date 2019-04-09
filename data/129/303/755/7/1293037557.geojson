@@ -1,0 +1,82 @@
+{
+  "id": 1293037557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13826,56.14854,25.13826,56.14854",
+    "geom:latitude":56.14854,
+    "geom:longitude":25.13826,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Kvetkai",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597735,
+    "gn:latitude":56.14854,
+    "gn:longitude":25.13826,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kvetkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kvetkai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0435\u0442\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kvetkay",
+        "Kvetki",
+        "Kvietk\u0173",
+        "Kvietkai",
+        "Kvetkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597735,
+        "wk:page":"Kvetkai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a655e6817f22d7e94b9bf17ab37e1b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1293037557,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293037557,
+    "wof:lastmodified":1537662205,
+    "wof:name":"Kvetkai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13826,
+    56.14854,
+    25.13826,
+    56.14854
+],
+  "geometry": {"coordinates":[25.13826,56.14854],"type":"Point"}
+}

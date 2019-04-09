@@ -1,0 +1,77 @@
+{
+  "id": 1360216021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69427,54.85643,23.69427,54.85643",
+    "geom:latitude":54.85643,
+    "geom:longitude":23.69427,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Girininkai II",
+    "gn:country_code":"LT",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599281,
+    "gn:latitude":54.85643,
+    "gn:longitude":23.69427,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Girininkai II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Girininkai II"
+    ],
+    "name:und_x_variant":[
+        "Girniki-Lesnyye",
+        "Girinink\u0173",
+        "Girininkai Antrieji",
+        "Girininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599281
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8d65a09b72c7814109179e7b415f78d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1360216021,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1360216021,
+    "wof:lastmodified":1537662308,
+    "wof:name":"Girininkai II",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69427,
+    54.85643,
+    23.69427,
+    54.85643
+],
+  "geometry": {"coordinates":[23.69427,54.85643],"type":"Point"}
+}

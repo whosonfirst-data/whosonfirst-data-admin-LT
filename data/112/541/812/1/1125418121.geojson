@@ -1,0 +1,82 @@
+{
+  "id": 1125418121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4265645,55.6001825,26.4265645,55.6001825",
+    "geom:latitude":55.600183,
+    "geom:longitude":26.426565,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":55.600183,
+    "lbl:longitude":26.426565,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Visaginas",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Utenos Apskritis",
+    "qs_pg:photos":140,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":190,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1191389,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56043991,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Utenos Apskritis",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043991,
+        "qs_pg:id":1191389
+    },
+    "wof:country":"LT",
+    "wof:created":1497051711,
+    "wof:geomhash":"0b80cbe0ec36dacc4c23e34b1f715270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073691,
+            "localadmin_id":1125418121,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1125418121,
+    "wof:lastmodified":1509390414,
+    "wof:name":"Visaginas",
+    "wof:parent_id":102073691,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4265645,
+    55.6001825,
+    26.4265645,
+    55.6001825
+],
+  "geometry": {"coordinates":[26.4265645,55.6001825],"type":"Point"}
+}

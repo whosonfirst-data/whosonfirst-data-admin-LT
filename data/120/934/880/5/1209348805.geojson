@@ -1,0 +1,65 @@
+{
+  "id": 1209348805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36363,54.45273,25.36363,54.45273",
+    "geom:latitude":54.45273,
+    "geom:longitude":25.36363,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Vidnapolis",
+    "gn:country_code":"LT",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298287,
+    "gn:latitude":54.45273,
+    "gn:longitude":25.36363,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vidnapolis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vidnapolis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298287
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c77a591955a422ca0a01e9e5a9371210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209348805
+        }
+    ],
+    "wof:id":1209348805,
+    "wof:lastmodified":1537662672,
+    "wof:name":"Vidnapolis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36363,
+    54.45273,
+    25.36363,
+    54.45273
+],
+  "geometry": {"coordinates":[25.36363,54.45273],"type":"Point"}
+}

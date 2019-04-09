@@ -1,0 +1,73 @@
+{
+  "id": 1327364285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.70376,55.53186,22.70376,55.53186",
+    "geom:latitude":55.53186,
+    "geom:longitude":22.70376,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Laplegiai",
+    "gn:country_code":"LT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597657,
+    "gn:latitude":55.53186,
+    "gn:longitude":22.70376,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lapl\u0117giai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laplega",
+        "Laplegyay",
+        "Lapl\u0117giai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597657
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9f5bf7c1f3c8e15d5e64ec114183c865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1327364285,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1327364285,
+    "wof:lastmodified":1537662200,
+    "wof:name":"Laplegiai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.70376,
+    55.53186,
+    22.70376,
+    55.53186
+],
+  "geometry": {"coordinates":[22.70376,55.53186],"type":"Point"}
+}

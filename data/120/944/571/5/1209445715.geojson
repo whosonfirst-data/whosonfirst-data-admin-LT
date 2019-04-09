@@ -1,0 +1,70 @@
+{
+  "id": 1209445715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36504,55.77766,23.36504,55.77766",
+    "geom:latitude":55.77766,
+    "geom:longitude":23.36504,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Pusinava",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595495,
+    "gn:latitude":55.77766,
+    "gn:longitude":23.36504,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pu\u0161inava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pu\u0161inava"
+    ],
+    "name:und_x_variant":[
+        "Pu\u0161ynava",
+        "Pushinavas",
+        "Pu\u0161ynkalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595495
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3bc3c4407dd7529ac8f9422ec57a6f16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209445715
+        }
+    ],
+    "wof:id":1209445715,
+    "wof:lastmodified":1537662044,
+    "wof:name":"Pusinava",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36504,
+    55.77766,
+    23.36504,
+    55.77766
+],
+  "geometry": {"coordinates":[23.36504,55.77766],"type":"Point"}
+}

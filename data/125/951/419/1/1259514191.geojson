@@ -1,0 +1,71 @@
+{
+  "id": 1259514191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.77122,55.00324,24.77122,55.00324",
+    "geom:latitude":55.00324,
+    "geom:longitude":24.77122,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Santariskiai",
+    "gn:country_code":"LT",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311383,
+    "gn:latitude":55.00324,
+    "gn:longitude":24.77122,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Santari\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Santari\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311383
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9200fbd48180c16e38458ce2d6765f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1259514191,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259514191,
+    "wof:lastmodified":1537662964,
+    "wof:name":"Santariskiai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.77122,
+    55.00324000000001,
+    24.77122,
+    55.00324000000001
+],
+  "geometry": {"coordinates":[24.77122,55.00324000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1326665803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64028,55.04306,22.64028,55.04306",
+    "geom:latitude":55.04306,
+    "geom:longitude":22.64028,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Sudargas",
+    "gn:country_code":"LT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594169,
+    "gn:latitude":55.04306,
+    "gn:longitude":22.64028,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sudargas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sudargas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0434\u0430\u0440\u0433\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Sudargis",
+        "Sudargi",
+        "Sudergas",
+        "Sudargo",
+        "Sudargas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594169
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"34091657a62938079640408c4f0aa180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1326665803,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1326665803,
+    "wof:lastmodified":1537661953,
+    "wof:name":"Sudargas",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64028,
+    55.04306,
+    22.64028,
+    55.04306
+],
+  "geometry": {"coordinates":[22.64028,55.04306],"type":"Point"}
+}

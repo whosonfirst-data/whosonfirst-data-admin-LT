@@ -1,0 +1,72 @@
+{
+  "id": 1293623439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.14197,55.18623,26.14197,55.18623",
+    "geom:latitude":55.18623,
+    "geom:longitude":26.14197,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Dauksiai",
+    "gn:country_code":"LT",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599998,
+    "gn:latitude":55.18623,
+    "gn:longitude":26.14197,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dauk\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daukshe",
+        "Dauk\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599998
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"89d28096819c929466b1f68727b96982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1293623439,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293623439,
+    "wof:lastmodified":1537662356,
+    "wof:name":"Dauksiai",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.14197,
+    55.18623,
+    26.14197,
+    55.18623
+],
+  "geometry": {"coordinates":[26.14197,55.18623],"type":"Point"}
+}

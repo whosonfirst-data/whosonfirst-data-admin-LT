@@ -1,0 +1,71 @@
+{
+  "id": 1209746555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.23677,55.2949,26.23677,55.2949",
+    "geom:latitude":55.2949,
+    "geom:longitude":26.23677,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Urviniske",
+    "gn:country_code":"LT",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292338,
+    "gn:latitude":55.2949,
+    "gn:longitude":26.23677,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Urvini\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Urvini\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292338
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"79f77443b82fd4516271fb9664abc34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1209746555,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1209746555,
+    "wof:lastmodified":1537662519,
+    "wof:name":"Urviniske",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.23677,
+    55.2949,
+    26.23677,
+    55.2949
+],
+  "geometry": {"coordinates":[26.23677,55.2949],"type":"Point"}
+}

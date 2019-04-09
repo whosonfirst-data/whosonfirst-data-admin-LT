@@ -1,0 +1,72 @@
+{
+  "id": 1327262673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47647,54.71416,24.47647,54.71416",
+    "geom:latitude":54.71416,
+    "geom:longitude":24.47647,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Kaukine",
+    "gn:country_code":"LT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598325,
+    "gn:latitude":54.71416,
+    "gn:longitude":24.47647,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kaukin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kavkini",
+        "Kaukin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598325
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"74cf8c24dac574d78e8237dc781d413d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1327262673,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327262673,
+    "wof:lastmodified":1537662244,
+    "wof:name":"Kaukine",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47647000000001,
+    54.71416,
+    24.47647000000001,
+    54.71416
+],
+  "geometry": {"coordinates":[24.47647000000001,54.71416],"type":"Point"}
+}

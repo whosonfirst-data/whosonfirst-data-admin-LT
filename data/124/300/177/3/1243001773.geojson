@@ -1,0 +1,72 @@
+{
+  "id": 1243001773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79639,54.36854,24.79639,54.36854",
+    "geom:latitude":54.36854,
+    "geom:longitude":24.79639,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Degsnes",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599947,
+    "gn:latitude":54.36854,
+    "gn:longitude":24.79639,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Degsn\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Degsn\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599947,
+        "wk:page":"Degsn%C4%97s"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d4b02712607cbe036fcea4a64514e56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1243001773,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1243001773,
+    "wof:lastmodified":1537662352,
+    "wof:name":"Degsnes",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79639,
+    54.36854,
+    24.79639,
+    54.36854
+],
+  "geometry": {"coordinates":[24.79639,54.36854],"type":"Point"}
+}

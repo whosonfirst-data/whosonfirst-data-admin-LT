@@ -1,0 +1,71 @@
+{
+  "id": 1309741365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85042,54.6569,24.85042,54.6569",
+    "geom:latitude":54.6569,
+    "geom:longitude":24.85042,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Jogeliskes",
+    "gn:country_code":"LT",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300645,
+    "gn:latitude":54.6569,
+    "gn:longitude":24.85042,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jog\u0117li\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jog\u0117li\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300645
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4687f75ec0e1362115bd644659e3e4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1309741365,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309741365,
+    "wof:lastmodified":1537662739,
+    "wof:name":"Jogeliskes",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85042,
+    54.6569,
+    24.85042,
+    54.6569
+],
+  "geometry": {"coordinates":[24.85042,54.6569],"type":"Point"}
+}

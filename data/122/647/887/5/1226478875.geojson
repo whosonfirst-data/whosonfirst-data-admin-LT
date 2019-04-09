@@ -1,0 +1,73 @@
+{
+  "id": 1226478875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.804,55.31782,22.804,55.31782",
+    "geom:latitude":55.31782,
+    "geom:longitude":22.804,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Pikeliai",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595780,
+    "gn:latitude":55.31782,
+    "gn:longitude":22.804,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pikeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pikeli",
+        "Pikeli\u0173",
+        "Pikeliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595780
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0f4f7bc77169a5c8c71575972c59f98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1226478875,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1226478875,
+    "wof:lastmodified":1537662064,
+    "wof:name":"Pikeliai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.804,
+    55.31782,
+    22.804,
+    55.31782
+],
+  "geometry": {"coordinates":[22.804,55.31782],"type":"Point"}
+}

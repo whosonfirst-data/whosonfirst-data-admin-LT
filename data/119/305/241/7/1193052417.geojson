@@ -1,0 +1,83 @@
+{
+  "id": 1193052417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65303,55.80443,21.65303,55.80443",
+    "geom:latitude":55.80443,
+    "geom:longitude":21.65303,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Kuliai",
+    "gn:country_code":"LT",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597875,
+    "gn:latitude":55.80443,
+    "gn:longitude":21.65303,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kuliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuliai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kulyay",
+        "Kule",
+        "Kuli",
+        "Kuli\u0173",
+        "Kuley",
+        "Kuliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597875,
+        "wk:page":"Kuliai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"31cf9ce0c83492b3ef50c9315a88bc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1193052417,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1193052417,
+    "wof:lastmodified":1537662214,
+    "wof:name":"Kuliai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65303,
+    55.80443,
+    21.65303,
+    55.80443
+],
+  "geometry": {"coordinates":[21.65303,55.80443],"type":"Point"}
+}

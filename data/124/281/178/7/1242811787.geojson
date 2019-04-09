@@ -1,0 +1,81 @@
+{
+  "id": 1242811787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98807,54.76291,22.98807,54.76291",
+    "geom:latitude":54.76291,
+    "geom:longitude":22.98807,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Slabadai",
+    "gn:country_code":"LT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594472,
+    "gn:latitude":54.76291,
+    "gn:longitude":22.98807,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Slabadai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Slabadai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0431\u0430\u0434\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Sloboda",
+        "Slabaday",
+        "Slabados",
+        "Slabad\u0173",
+        "Slabadai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594472
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9b94328452be3bf97a0355bdbed6572f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1242811787,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1242811787,
+    "wof:lastmodified":1537661975,
+    "wof:name":"Slabadai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98807,
+    54.76291,
+    22.98807,
+    54.76291
+],
+  "geometry": {"coordinates":[22.98807,54.76291],"type":"Point"}
+}

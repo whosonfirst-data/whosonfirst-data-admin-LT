@@ -1,0 +1,72 @@
+{
+  "id": 1243469119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55,55.85,21.55,55.85",
+    "geom:latitude":55.85,
+    "geom:longitude":21.55,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lugnaliai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597387,
+    "gn:latitude":55.85,
+    "gn:longitude":21.55,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"L\u016bgnaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lugneli",
+        "L\u016bgnaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597387
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"15ff0a8ebe7997b6880afe92fe93b060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":1243469119,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1243469119,
+    "wof:lastmodified":1537662181,
+    "wof:name":"Lugnaliai",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55,
+    55.85,
+    21.55,
+    55.85
+],
+  "geometry": {"coordinates":[21.55,55.85],"type":"Point"}
+}

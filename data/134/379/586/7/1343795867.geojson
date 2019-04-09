@@ -1,0 +1,71 @@
+{
+  "id": 1343795867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.70219,56.23755,22.70219,56.23755",
+    "geom:latitude":56.23755,
+    "geom:longitude":22.70219,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Dabikinele",
+    "gn:country_code":"LT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301811,
+    "gn:latitude":56.23755,
+    "gn:longitude":22.70219,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dabikin\u0117l\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dabikin\u0117l\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301811
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b3312ea4d9a7775c333fa03bf2399f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1343795867,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343795867,
+    "wof:lastmodified":1537662766,
+    "wof:name":"Dabikinele",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.70219,
+    56.23755,
+    22.70219,
+    56.23755
+],
+  "geometry": {"coordinates":[22.70219,56.23755],"type":"Point"}
+}

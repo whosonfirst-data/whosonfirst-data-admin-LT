@@ -1,0 +1,72 @@
+{
+  "id": 1260323161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91314,54.74871,22.91314,54.74871",
+    "geom:latitude":54.74871,
+    "geom:longitude":22.91314,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Darzininkai",
+    "gn:country_code":"LT",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600054,
+    "gn:latitude":54.74871,
+    "gn:longitude":22.91314,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dar\u017eininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darzhininkay",
+        "Dar\u017eininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600054
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fa2ae38a4c570deaf7c29888aadf463d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1260323161,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1260323161,
+    "wof:lastmodified":1537662360,
+    "wof:name":"Darzininkai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91314,
+    54.74871,
+    22.91314,
+    54.74871
+],
+  "geometry": {"coordinates":[22.91314,54.74871],"type":"Point"}
+}

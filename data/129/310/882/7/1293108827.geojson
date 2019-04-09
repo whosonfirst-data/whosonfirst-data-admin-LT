@@ -1,0 +1,71 @@
+{
+  "id": 1293108827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60022,55.25972,21.60022,55.25972",
+    "geom:latitude":55.25972,
+    "geom:longitude":21.60022,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Svarai",
+    "gn:country_code":"LT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594079,
+    "gn:latitude":55.25972,
+    "gn:longitude":21.60022,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Svarai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Evarren",
+        "Svarai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594079
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f843c3e8210048e2dad2c72909a8361d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1293108827,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1293108827,
+    "wof:lastmodified":1537661946,
+    "wof:name":"Svarai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60022,
+    55.25972,
+    21.60022,
+    55.25972
+],
+  "geometry": {"coordinates":[21.60022,55.25972],"type":"Point"}
+}

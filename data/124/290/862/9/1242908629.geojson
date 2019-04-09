@@ -1,0 +1,71 @@
+{
+  "id": 1242908629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60549,54.52727,25.60549,54.52727",
+    "geom:latitude":54.52727,
+    "geom:longitude":25.60549,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Batviniskes",
+    "gn:country_code":"LT",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295260,
+    "gn:latitude":54.52727,
+    "gn:longitude":25.60549,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Batvini\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Batvini\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295260
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c7b12b0d7969ca9c59881227716fb988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1242908629,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1242908629,
+    "wof:lastmodified":1537662587,
+    "wof:name":"Batviniskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60549,
+    54.52727,
+    25.60549,
+    54.52727
+],
+  "geometry": {"coordinates":[25.60549,54.52727],"type":"Point"}
+}

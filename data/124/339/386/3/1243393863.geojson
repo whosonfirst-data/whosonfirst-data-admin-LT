@@ -1,0 +1,71 @@
+{
+  "id": 1243393863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02449,54.45612,23.02449,54.45612",
+    "geom:latitude":54.45612,
+    "geom:longitude":23.02449,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Seskiniai",
+    "gn:country_code":"LT",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303013,
+    "gn:latitude":54.45612,
+    "gn:longitude":23.02449,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160e\u0161kiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160e\u0161kiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303013
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4fea7a90493f7ee3c88ccd084e0b5ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1243393863,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1243393863,
+    "wof:lastmodified":1537662790,
+    "wof:name":"Seskiniai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02449,
+    54.45612,
+    23.02449,
+    54.45612
+],
+  "geometry": {"coordinates":[23.02449,54.45612],"type":"Point"}
+}

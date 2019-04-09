@@ -1,0 +1,68 @@
+{
+  "id": 1209035383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.67469,55.31861,26.67469,55.31861",
+    "geom:latitude":55.31861,
+    "geom:longitude":26.67469,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Didziasalis",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599888,
+    "gn:latitude":55.31861,
+    "gn:longitude":26.67469,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Did\u017eiasalis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vel\u2019ka Ves\u2019",
+        "Didzhyasalis",
+        "Did\u017eiasalis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599888,
+        "wk:page":"Did%C5%BEiasalis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1d661c276606905e8b7853ef2edf744c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209035383
+        }
+    ],
+    "wof:id":1209035383,
+    "wof:lastmodified":1537662348,
+    "wof:name":"Didziasalis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.67469,
+    55.31861,
+    26.67469,
+    55.31861
+],
+  "geometry": {"coordinates":[26.67469,55.31861],"type":"Point"}
+}

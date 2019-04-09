@@ -1,0 +1,71 @@
+{
+  "id": 1343895171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.62068,54.17481,25.62068,54.17481",
+    "geom:latitude":54.17481,
+    "geom:longitude":25.62068,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Dvariskes",
+    "gn:country_code":"LT",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295369,
+    "gn:latitude":54.17481,
+    "gn:longitude":25.62068,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dvari\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dvari\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295369
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"96c084bf19ac1922689a96991344df22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1343895171,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343895171,
+    "wof:lastmodified":1537662591,
+    "wof:name":"Dvariskes",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.62068,
+    54.17481,
+    25.62068,
+    54.17481
+],
+  "geometry": {"coordinates":[25.62068,54.17481],"type":"Point"}
+}

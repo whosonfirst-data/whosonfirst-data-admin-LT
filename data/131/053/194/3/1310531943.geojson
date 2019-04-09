@@ -1,0 +1,71 @@
+{
+  "id": 1310531943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26237,55.78987,22.26237,55.78987",
+    "geom:latitude":55.78987,
+    "geom:longitude":22.26237,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Silai",
+    "gn:country_code":"LT",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301410,
+    "gn:latitude":55.78987,
+    "gn:longitude":22.26237,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Silai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Silai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301410
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3de1f7869076c8b746205406a0a423f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1310531943,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1310531943,
+    "wof:lastmodified":1537662760,
+    "wof:name":"Silai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26237,
+    55.78986999999999,
+    22.26237,
+    55.78986999999999
+],
+  "geometry": {"coordinates":[22.26237,55.78986999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209852283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44331,54.18793,23.44331,54.18793",
+    "geom:latitude":54.18793,
+    "geom:longitude":23.44331,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Bevirsiai",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304781,
+    "gn:latitude":54.18793,
+    "gn:longitude":23.44331,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bevir\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bevir\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304781
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"244107093230c71cbc0c99c2ab504423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1209852283,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1209852283,
+    "wof:lastmodified":1537662831,
+    "wof:name":"Bevirsiai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44331,
+    54.18793,
+    23.44331,
+    54.18793
+],
+  "geometry": {"coordinates":[23.44331,54.18793],"type":"Point"}
+}

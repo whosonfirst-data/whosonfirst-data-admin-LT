@@ -1,0 +1,71 @@
+{
+  "id": 1327470715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44635,55.83832,22.44635,55.83832",
+    "geom:latitude":55.83832,
+    "geom:longitude":22.44635,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Sloviai",
+    "gn:country_code":"LT",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302716,
+    "gn:latitude":55.83832,
+    "gn:longitude":22.44635,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160loviai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160loviai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302716
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1526d66c5e68410a4f9f02c3fe9498b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1327470715,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1327470715,
+    "wof:lastmodified":1537662785,
+    "wof:name":"Sloviai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44635,
+    55.83832,
+    22.44635,
+    55.83832
+],
+  "geometry": {"coordinates":[22.44635,55.83832],"type":"Point"}
+}

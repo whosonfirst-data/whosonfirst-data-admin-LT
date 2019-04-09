@@ -1,0 +1,71 @@
+{
+  "id": 1343495365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83485,55.94855,24.83485,55.94855",
+    "geom:latitude":55.94855,
+    "geom:longitude":24.83485,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Plikiai",
+    "gn:country_code":"LT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298657,
+    "gn:latitude":55.94855,
+    "gn:longitude":24.83485,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Plikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Plikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298657
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"476a979a30f7a3a0c975ef5abb40ec02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1343495365,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343495365,
+    "wof:lastmodified":1537662682,
+    "wof:name":"Plikiai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83485,
+    55.94855,
+    24.83485,
+    55.94855
+],
+  "geometry": {"coordinates":[24.83485,55.94855],"type":"Point"}
+}

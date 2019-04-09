@@ -1,0 +1,73 @@
+{
+  "id": 1276265667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65009,55.62159,24.65009,55.62159",
+    "geom:latitude":55.62159,
+    "geom:longitude":24.65009,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Limeikiai",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597460,
+    "gn:latitude":55.62159,
+    "gn:longitude":24.65009,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Limeikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Limeiki\u0173",
+        "Limeyki",
+        "Limeikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597460
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"67ddf5b11602b01e5b41092a752e4e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1276265667,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276265667,
+    "wof:lastmodified":1537662186,
+    "wof:name":"Limeikiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65009,
+    55.62159000000001,
+    24.65009,
+    55.62159000000001
+],
+  "geometry": {"coordinates":[24.65009,55.62159000000001],"type":"Point"}
+}

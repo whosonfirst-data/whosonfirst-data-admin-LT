@@ -1,0 +1,66 @@
+{
+  "id": 1209651217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46338,55.5927,21.46338,55.5927",
+    "geom:latitude":55.5927,
+    "geom:longitude":21.46338,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Pozingiai",
+    "gn:country_code":"LT",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595637,
+    "gn:latitude":55.5927,
+    "gn:longitude":21.46338,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pozingiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pozerunay",
+        "Pozingiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595637
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5751c494614d2e1053febbaef284aed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209651217
+        }
+    ],
+    "wof:id":1209651217,
+    "wof:lastmodified":1537662054,
+    "wof:name":"Pozingiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46338,
+    55.5927,
+    21.46338,
+    55.5927
+],
+  "geometry": {"coordinates":[21.46338,55.5927],"type":"Point"}
+}

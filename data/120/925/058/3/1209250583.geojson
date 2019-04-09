@@ -1,0 +1,65 @@
+{
+  "id": 1209250583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69987,55.03815,24.69987,55.03815",
+    "geom:latitude":55.03815,
+    "geom:longitude":24.69987,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Iseriskiai",
+    "gn:country_code":"LT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311716,
+    "gn:latitude":55.03815,
+    "gn:longitude":24.69987,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"I\u0161eri\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "I\u0161eri\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311716
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f032294324e203170e3632e012833aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209250583
+        }
+    ],
+    "wof:id":1209250583,
+    "wof:lastmodified":1537662973,
+    "wof:name":"Iseriskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69987,
+    55.03815,
+    24.69987,
+    55.03815
+],
+  "geometry": {"coordinates":[24.69987,55.03815],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327462547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.80318,55.95834,22.80318,55.95834",
+    "geom:latitude":55.95834,
+    "geom:longitude":22.80318,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Paezeriai",
+    "gn:country_code":"LT",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596413,
+    "gn:latitude":55.95834,
+    "gn:longitude":22.80318,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pae\u017eeriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pae\u017eeriai"
+    ],
+    "name:und_x_variant":[
+        "Fol\u2019vark Poyeziory",
+        "Dvaras Pae\u017eeriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596413
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"918fbbba6e7968cd8a2e98a9d0da86a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1327462547,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1327462547,
+    "wof:lastmodified":1537662112,
+    "wof:name":"Paezeriai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.80318,
+    55.95834,
+    22.80318,
+    55.95834
+],
+  "geometry": {"coordinates":[22.80318,55.95834],"type":"Point"}
+}

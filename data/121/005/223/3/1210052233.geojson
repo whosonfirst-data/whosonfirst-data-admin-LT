@@ -1,0 +1,76 @@
+{
+  "id": 1210052233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0402,53.98321,24.0402,53.98321",
+    "geom:latitude":53.98321,
+    "geom:longitude":24.0402,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Jaskonys",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598885,
+    "gn:latitude":53.98321,
+    "gn:longitude":24.0402,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jaskonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jaskonys"
+    ],
+    "name:und_x_variant":[
+        "Yaskonis",
+        "Yas\u2019keleviche",
+        "Joskevi\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598885
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6aea4f430d552b3b72de2713de04542b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073579,
+            "locality_id":1210052233,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1210052233,
+    "wof:lastmodified":1537662283,
+    "wof:name":"Jaskonys",
+    "wof:parent_id":102073579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0402,
+    53.98321,
+    24.0402,
+    53.98321
+],
+  "geometry": {"coordinates":[24.0402,53.98321],"type":"Point"}
+}

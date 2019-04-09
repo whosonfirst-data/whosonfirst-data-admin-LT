@@ -1,0 +1,71 @@
+{
+  "id": 1260320449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08598,55.60099,23.08598,55.60099",
+    "geom:latitude":55.60099,
+    "geom:longitude":23.08598,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Kazanka",
+    "gn:country_code":"LT",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303954,
+    "gn:latitude":55.60099,
+    "gn:longitude":23.08598,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kazanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kazanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303954
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7b1f8d45fcaf858f6a4f95c5418a64e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1260320449,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1260320449,
+    "wof:lastmodified":1537662812,
+    "wof:name":"Kazanka",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08598,
+    55.60099,
+    23.08598,
+    55.60099
+],
+  "geometry": {"coordinates":[23.08598,55.60099],"type":"Point"}
+}

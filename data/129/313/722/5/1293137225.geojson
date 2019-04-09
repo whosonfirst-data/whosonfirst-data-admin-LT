@@ -1,0 +1,71 @@
+{
+  "id": 1293137225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.29128,54.31551,25.29128,54.31551",
+    "geom:latitude":54.31551,
+    "geom:longitude":25.29128,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Paberze",
+    "gn:country_code":"LT",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298456,
+    "gn:latitude":54.31551,
+    "gn:longitude":25.29128,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paber\u017e\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paber\u017e\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298456
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e51e12f02eb455afd0a6ebd531de4316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1293137225,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293137225,
+    "wof:lastmodified":1537662677,
+    "wof:name":"Paberze",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29128,
+    54.31551,
+    25.29128,
+    54.31551
+],
+  "geometry": {"coordinates":[25.29128,54.31551],"type":"Point"}
+}

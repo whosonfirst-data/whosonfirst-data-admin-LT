@@ -1,0 +1,74 @@
+{
+  "id": 1343892931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.37033,54.5028,23.37033,54.5028",
+    "geom:latitude":54.5028,
+    "geom:longitude":23.37033,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Netickampis",
+    "gn:country_code":"LT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596636,
+    "gn:latitude":54.5028,
+    "gn:longitude":23.37033,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Neti\u010dkampis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neti\u010dkampio",
+        "Netychkampe",
+        "Neti\u0161kampio",
+        "Neti\u010dkampis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596636
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"35c8371ec4ace9713c05066b4dfb1100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073595,
+            "locality_id":1343892931,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1343892931,
+    "wof:lastmodified":1537662129,
+    "wof:name":"Netickampis",
+    "wof:parent_id":102073595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.37033,
+    54.5028,
+    23.37033,
+    54.5028
+],
+  "geometry": {"coordinates":[23.37033,54.5028],"type":"Point"}
+}

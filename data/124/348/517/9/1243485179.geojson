@@ -1,0 +1,71 @@
+{
+  "id": 1243485179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.55237,55.7802,24.55237,55.7802",
+    "geom:latitude":55.7802,
+    "geom:longitude":24.55237,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Virsnis",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312133,
+    "gn:latitude":55.7802,
+    "gn:longitude":24.55237,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Virsnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Virsnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312133
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c53a8fdc02cb6bee55a5c198107bb32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1243485179,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243485179,
+    "wof:lastmodified":1537662985,
+    "wof:name":"Virsnis",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.55237,
+    55.7802,
+    24.55237,
+    55.7802
+],
+  "geometry": {"coordinates":[24.55237,55.7802],"type":"Point"}
+}

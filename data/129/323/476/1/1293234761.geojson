@@ -1,0 +1,72 @@
+{
+  "id": 1293234761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91401,55.83437,22.91401,55.83437",
+    "geom:latitude":55.83437,
+    "geom:longitude":22.91401,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Spaudziai",
+    "gn:country_code":"LT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594347,
+    "gn:latitude":55.83437,
+    "gn:longitude":22.91401,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Spaud\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spavdzyay",
+        "Spaud\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594347
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2f47508265ed766d81d64a922e071ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1293234761,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1293234761,
+    "wof:lastmodified":1537661966,
+    "wof:name":"Spaudziai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91401,
+    55.83436999999999,
+    22.91401,
+    55.83436999999999
+],
+  "geometry": {"coordinates":[22.91401,55.83436999999999],"type":"Point"}
+}

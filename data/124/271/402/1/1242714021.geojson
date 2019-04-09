@@ -1,0 +1,71 @@
+{
+  "id": 1242714021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95435,55.1087,24.95435,55.1087",
+    "geom:latitude":55.1087,
+    "geom:longitude":24.95435,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Kyvonys",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299849,
+    "gn:latitude":55.1087,
+    "gn:longitude":24.95435,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kyvonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kyvonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299849
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ee03fc34af3d0f945b8ebcb79a9b5059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1242714021,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1242714021,
+    "wof:lastmodified":1537662716,
+    "wof:name":"Kyvonys",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95435,
+    55.1087,
+    24.95435,
+    55.1087
+],
+  "geometry": {"coordinates":[24.95435,55.1087],"type":"Point"}
+}

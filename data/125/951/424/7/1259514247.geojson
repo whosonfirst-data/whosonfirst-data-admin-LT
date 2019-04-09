@@ -1,0 +1,71 @@
+{
+  "id": 1259514247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56928,56.11606,25.56928,56.11606",
+    "geom:latitude":56.11606,
+    "geom:longitude":25.56928,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Krastai",
+    "gn:country_code":"LT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295583,
+    "gn:latitude":56.11606,
+    "gn:longitude":25.56928,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kra\u0161tai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kra\u0161tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295583
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cecea7449fbbee2ad473be898c5996cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1259514247,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1259514247,
+    "wof:lastmodified":1537662597,
+    "wof:name":"Krastai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56928,
+    56.11606,
+    25.56928,
+    56.11606
+],
+  "geometry": {"coordinates":[25.56928,56.11606],"type":"Point"}
+}

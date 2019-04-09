@@ -1,0 +1,65 @@
+{
+  "id": 1209139775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50722,55.09718,25.50722,55.09718",
+    "geom:latitude":55.09718,
+    "geom:longitude":25.50722,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Kruopine",
+    "gn:country_code":"LT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297460,
+    "gn:latitude":55.09718,
+    "gn:longitude":25.50722,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kruopin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kruopin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297460
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"58a3574dfad5286355497b520b604118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209139775
+        }
+    ],
+    "wof:id":1209139775,
+    "wof:lastmodified":1537662648,
+    "wof:name":"Kruopine",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50722,
+    55.09718,
+    25.50722,
+    55.09718
+],
+  "geometry": {"coordinates":[25.50722,55.09718],"type":"Point"}
+}

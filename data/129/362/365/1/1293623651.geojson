@@ -1,0 +1,73 @@
+{
+  "id": 1293623651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.59664,56.05218,21.59664,56.05218",
+    "geom:latitude":56.05218,
+    "geom:longitude":21.59664,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Gargzdele",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599461,
+    "gn:latitude":56.05218,
+    "gn:longitude":21.59664,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Garg\u017edel\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garg\u017edel\u0117",
+        "Gedgaud\u017eiai",
+        "Garg\u017edei\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599461
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b1affc4320ac24278bd39f494f702eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":1293623651,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1293623651,
+    "wof:lastmodified":1537662321,
+    "wof:name":"Gargzdele",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.59664,
+    56.05218000000001,
+    21.59664,
+    56.05218000000001
+],
+  "geometry": {"coordinates":[21.59664,56.05218000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243293207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.12685,56.0894,25.12685,56.0894",
+    "geom:latitude":56.0894,
+    "geom:longitude":25.12685,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Gozeliskis",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298754,
+    "gn:latitude":56.0894,
+    "gn:longitude":25.12685,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Go\u017eeli\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Go\u017eeli\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298754
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"62c58696cef8c27562ca471f5f4dcb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1243293207,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243293207,
+    "wof:lastmodified":1537662685,
+    "wof:name":"Gozeliskis",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.12685,
+    56.0894,
+    25.12685,
+    56.0894
+],
+  "geometry": {"coordinates":[25.12685,56.0894],"type":"Point"}
+}

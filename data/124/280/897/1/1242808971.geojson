@@ -1,0 +1,80 @@
+{
+  "id": 1242808971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03618,54.3657,23.03618,54.3657",
+    "geom:latitude":54.3657,
+    "geom:longitude":23.03618,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Liubavas",
+    "gn:country_code":"LT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597423,
+    "gn:latitude":54.3657,
+    "gn:longitude":23.03618,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Liubavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Liubavas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u0430\u0432\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Lyubovo",
+        "Liubavo",
+        "Lyubavas",
+        "Liubavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597423
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7ef7e8933915365fcc90dff12cbfd07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073585,
+            "locality_id":1242808971,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1242808971,
+    "wof:lastmodified":1537662183,
+    "wof:name":"Liubavas",
+    "wof:parent_id":102073585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03618,
+    54.3657,
+    23.03618,
+    54.3657
+],
+  "geometry": {"coordinates":[23.03618,54.3657],"type":"Point"}
+}

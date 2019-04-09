@@ -1,0 +1,75 @@
+{
+  "id": 1259914781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09137,55.27731,22.09137,55.27731",
+    "geom:latitude":55.27731,
+    "geom:longitude":22.09137,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Aukstupiai",
+    "gn:country_code":"LT",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600865,
+    "gn:latitude":55.27731,
+    "gn:longitude":22.09137,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Auk\u0161tupiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guk\u0161tupiai",
+        "Aukshtupe",
+        "Aukshtupyay",
+        "Aukstupi\u0173",
+        "Auk\u0161tupiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600865
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9511801d8b9fd620896a132d7cd7cb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1259914781,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1259914781,
+    "wof:lastmodified":1537662420,
+    "wof:name":"Aukstupiai",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09137,
+    55.27731,
+    22.09137,
+    55.27731
+],
+  "geometry": {"coordinates":[22.09137,55.27731],"type":"Point"}
+}

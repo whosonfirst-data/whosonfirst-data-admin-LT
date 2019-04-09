@@ -1,0 +1,71 @@
+{
+  "id": 1309943071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22835,55.94698,22.22835,55.94698",
+    "geom:latitude":55.94698,
+    "geom:longitude":22.22835,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Purpliai",
+    "gn:country_code":"LT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595235,
+    "gn:latitude":55.94698,
+    "gn:longitude":22.22835,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Purpliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ri\u0161k\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595235
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7974565048170fb2ad4778dee7fe0ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1309943071,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1309943071,
+    "wof:lastmodified":1537662027,
+    "wof:name":"Purpliai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22835,
+    55.94698,
+    22.22835,
+    55.94698
+],
+  "geometry": {"coordinates":[22.22835,55.94698],"type":"Point"}
+}

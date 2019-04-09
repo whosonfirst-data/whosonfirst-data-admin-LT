@@ -1,0 +1,71 @@
+{
+  "id": 1326666369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60719,55.08746,25.60719,55.08746",
+    "geom:latitude":55.08746,
+    "geom:longitude":25.60719,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Grauziniai",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599195,
+    "gn:latitude":55.08746,
+    "gn:longitude":25.60719,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Grau\u017einiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Grau\u017einiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599195
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dcd9893b18ec3e2950901f8b63b27a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1326666369,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1326666369,
+    "wof:lastmodified":1537662302,
+    "wof:name":"Grauziniai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60719,
+    55.08746,
+    25.60719,
+    55.08746
+],
+  "geometry": {"coordinates":[25.60719,55.08746],"type":"Point"}
+}

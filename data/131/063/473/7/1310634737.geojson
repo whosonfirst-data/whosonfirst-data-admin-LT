@@ -1,0 +1,72 @@
+{
+  "id": 1310634737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.37455,55.70895,22.37455,55.70895",
+    "geom:latitude":55.70895,
+    "geom:longitude":22.37455,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Godeliai",
+    "gn:country_code":"LT",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599233,
+    "gn:latitude":55.70895,
+    "gn:longitude":22.37455,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Godeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gudelyay",
+        "Godeliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599233
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7388877bad948636637ed0251489d4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1310634737,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1310634737,
+    "wof:lastmodified":1537662305,
+    "wof:name":"Godeliai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.37455,
+    55.70895,
+    22.37455,
+    55.70895
+],
+  "geometry": {"coordinates":[22.37455,55.70895],"type":"Point"}
+}

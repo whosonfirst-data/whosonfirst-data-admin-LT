@@ -1,0 +1,77 @@
+{
+  "id": 1310041941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64376,55.26754,23.64376,55.26754",
+    "geom:latitude":55.26754,
+    "geom:longitude":23.64376,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Pernarava",
+    "gn:country_code":"LT",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595848,
+    "gn:latitude":55.26754,
+    "gn:longitude":23.64376,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pernarava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pyarnavara",
+        "Pernurava",
+        "Pernuvara",
+        "Pernaravos",
+        "Pernaruva",
+        "Pernarava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595848,
+        "wk:page":"Pernarava"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"12cf8c48f54d8d75a88602ec6c8844f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1310041941,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310041941,
+    "wof:lastmodified":1537662070,
+    "wof:name":"Pernarava",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64376,
+    55.26754,
+    23.64376,
+    55.26754
+],
+  "geometry": {"coordinates":[23.64376,55.26754],"type":"Point"}
+}

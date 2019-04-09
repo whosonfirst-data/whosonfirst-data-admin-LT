@@ -1,0 +1,71 @@
+{
+  "id": 1276801135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28536,54.87006,25.28536,54.87006",
+    "geom:latitude":54.87006,
+    "geom:longitude":25.28536,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Uzuezere",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297669,
+    "gn:latitude":54.87006,
+    "gn:longitude":25.28536,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"U\u017eue\u017eer\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "U\u017eue\u017eer\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297669
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"94cf5ebe9419cd89d6ed68eb865ac234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1276801135,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276801135,
+    "wof:lastmodified":1537662654,
+    "wof:name":"Uzuezere",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28536,
+    54.87006,
+    25.28536,
+    54.87006
+],
+  "geometry": {"coordinates":[25.28536,54.87006],"type":"Point"}
+}

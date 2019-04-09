@@ -1,0 +1,72 @@
+{
+  "id": 1326748737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58333,55.25,23.58333,55.25",
+    "geom:latitude":55.25,
+    "geom:longitude":23.58333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Duogiai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599694,
+    "gn:latitude":55.25,
+    "gn:longitude":23.58333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Duogiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dogi",
+        "Dagyay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599694
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"90b1ffb45c106004c31b568dd663b02e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1326748737,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1326748737,
+    "wof:lastmodified":1537662336,
+    "wof:name":"Duogiai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58333,
+    55.25,
+    23.58333,
+    55.25
+],
+  "geometry": {"coordinates":[23.58333,55.25],"type":"Point"}
+}

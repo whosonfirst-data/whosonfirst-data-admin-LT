@@ -1,0 +1,75 @@
+{
+  "id": 1243585051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70894,54.62824,24.70894,54.62824",
+    "geom:latitude":54.62824,
+    "geom:longitude":24.70894,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Bagdononys",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600785,
+    "gn:latitude":54.62824,
+    "gn:longitude":24.70894,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bagdononys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagdanonyay",
+        "Bagdanoniai",
+        "Bagdononi\u0173",
+        "Bogdanan\u2019tse",
+        "Bagdononys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600785
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e77b5298dc363d29be52eaaf3d3bf7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1243585051,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243585051,
+    "wof:lastmodified":1537662414,
+    "wof:name":"Bagdononys",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70894,
+    54.62824000000001,
+    24.70894,
+    54.62824000000001
+],
+  "geometry": {"coordinates":[24.70894,54.62824000000001],"type":"Point"}
+}

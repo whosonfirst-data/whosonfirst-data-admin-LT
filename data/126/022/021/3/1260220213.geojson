@@ -1,0 +1,73 @@
+{
+  "id": 1260220213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.57308,56.08727,24.57308,56.08727",
+    "geom:latitude":56.08727,
+    "geom:longitude":24.57308,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Barklainiai",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600532,
+    "gn:latitude":56.08727,
+    "gn:longitude":24.57308,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Barklainiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Byarklaynyay",
+        "Berklainiai",
+        "Barklainiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600532
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"14e4e47234b0203d426dee963c161429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1260220213,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1260220213,
+    "wof:lastmodified":1537662395,
+    "wof:name":"Barklainiai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.57308,
+    56.08727,
+    24.57308,
+    56.08727
+],
+  "geometry": {"coordinates":[24.57308,56.08727],"type":"Point"}
+}

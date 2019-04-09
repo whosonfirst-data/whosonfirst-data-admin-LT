@@ -1,0 +1,76 @@
+{
+  "id": 1226783177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84806,56.14617,24.84806,56.14617",
+    "geom:latitude":56.14617,
+    "geom:longitude":24.84806,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Stakiriai",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594304,
+    "gn:latitude":56.14617,
+    "gn:longitude":24.84806,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160takiriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shtakiryay",
+        "\u0160takirai",
+        "Shtakiry",
+        "\u0160takir\u0173",
+        "Shtakirai",
+        "\u0160takiriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594304
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"388b660bb67215f9a4a05772e6e2c6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1226783177,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226783177,
+    "wof:lastmodified":1537661963,
+    "wof:name":"Stakiriai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84806,
+    56.14617,
+    24.84806,
+    56.14617
+],
+  "geometry": {"coordinates":[24.84806,56.14617],"type":"Point"}
+}

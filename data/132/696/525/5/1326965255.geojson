@@ -1,0 +1,71 @@
+{
+  "id": 1326965255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62964,55.24492,21.62964,55.24492",
+    "geom:latitude":55.24492,
+    "geom:longitude":21.62964,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Domaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289112,
+    "gn:latitude":55.24492,
+    "gn:longitude":21.62964,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Domai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Domai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289112
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"59b24e5b6b8d1c59081d70818cdb6d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1326965255,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1326965255,
+    "wof:lastmodified":1537662452,
+    "wof:name":"Domaiciai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62964,
+    55.24491999999999,
+    21.62964,
+    55.24491999999999
+],
+  "geometry": {"coordinates":[21.62964,55.24491999999999],"type":"Point"}
+}

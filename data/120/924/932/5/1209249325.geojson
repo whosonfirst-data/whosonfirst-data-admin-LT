@@ -1,0 +1,65 @@
+{
+  "id": 1209249325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47947,54.58845,24.47947,54.58845",
+    "geom:latitude":54.58845,
+    "geom:longitude":24.47947,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Vigodka",
+    "gn:country_code":"LT",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310988,
+    "gn:latitude":54.58845,
+    "gn:longitude":24.47947,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vigodka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vigodka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310988
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1efe037c0fddbca4d1fc7e3e6757b1e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249325
+        }
+    ],
+    "wof:id":1209249325,
+    "wof:lastmodified":1537662955,
+    "wof:name":"Vigodka",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47947000000001,
+    54.58845,
+    24.47947000000001,
+    54.58845
+],
+  "geometry": {"coordinates":[24.47947000000001,54.58845],"type":"Point"}
+}

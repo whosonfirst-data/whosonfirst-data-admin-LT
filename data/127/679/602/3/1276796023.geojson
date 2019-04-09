@@ -1,0 +1,72 @@
+{
+  "id": 1276796023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.90101,55.79847,23.90101,55.79847",
+    "geom:latitude":55.79847,
+    "geom:longitude":23.90101,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Maneitai",
+    "gn:country_code":"LT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597273,
+    "gn:latitude":55.79847,
+    "gn:longitude":23.90101,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Maneitai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moneytay",
+        "Maneitai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597273
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2657031129ca15c32bc83e1dde376c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1276796023,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1276796023,
+    "wof:lastmodified":1537662174,
+    "wof:name":"Maneitai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90101,
+    55.79847,
+    23.90101,
+    55.79847
+],
+  "geometry": {"coordinates":[23.90101,55.79847],"type":"Point"}
+}

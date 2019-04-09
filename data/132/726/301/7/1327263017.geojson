@@ -1,0 +1,74 @@
+{
+  "id": 1327263017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53159,55.07062,23.53159,55.07062",
+    "geom:latitude":55.07062,
+    "geom:longitude":23.53159,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Sauletekiai",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594889,
+    "gn:latitude":55.07062,
+    "gn:longitude":23.53159,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Saul\u0117tekiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Saul\u0117tekiai"
+    ],
+    "name:lit_x_variant":[
+        "Saul\u0117tekai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594889
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e4646301a4098bb04c32f660bc62b36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1327263017,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327263017,
+    "wof:lastmodified":1537662003,
+    "wof:name":"Sauletekiai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53159,
+    55.07062,
+    23.53159,
+    55.07062
+],
+  "geometry": {"coordinates":[23.53159,55.07062],"type":"Point"}
+}

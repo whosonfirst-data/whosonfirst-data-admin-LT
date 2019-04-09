@@ -1,0 +1,71 @@
+{
+  "id": 1226079535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5383,54.78888,24.5383,54.78888",
+    "geom:latitude":54.78888,
+    "geom:longitude":24.5383,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Dirgalonys",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311095,
+    "gn:latitude":54.78888,
+    "gn:longitude":24.5383,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dirgalonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dirgalonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311095
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d5d652017f38c2a3050bb2f355994f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1226079535,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226079535,
+    "wof:lastmodified":1537662958,
+    "wof:name":"Dirgalonys",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5383,
+    54.78888000000001,
+    24.5383,
+    54.78888000000001
+],
+  "geometry": {"coordinates":[24.5383,54.78888000000001],"type":"Point"}
+}

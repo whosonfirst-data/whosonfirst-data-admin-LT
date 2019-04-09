@@ -1,0 +1,71 @@
+{
+  "id": 1326564885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72924,55.16468,23.72924,55.16468",
+    "geom:latitude":55.16468,
+    "geom:longitude":23.72924,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Budvieciai",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307495,
+    "gn:latitude":55.16468,
+    "gn:longitude":23.72924,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"B\u016bdvie\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "B\u016bdvie\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307495
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c31acf1300906fa6c2b45840215ff76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1326564885,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1326564885,
+    "wof:lastmodified":1537662889,
+    "wof:name":"Budvieciai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72924,
+    55.16468,
+    23.72924,
+    55.16468
+],
+  "geometry": {"coordinates":[23.72924,55.16468],"type":"Point"}
+}

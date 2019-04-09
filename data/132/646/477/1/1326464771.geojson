@@ -1,0 +1,71 @@
+{
+  "id": 1326464771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16983,54.13044,24.16983,54.13044",
+    "geom:latitude":54.13044,
+    "geom:longitude":24.16983,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Pasilinge",
+    "gn:country_code":"LT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596028,
+    "gn:latitude":54.13044,
+    "gn:longitude":24.16983,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u0161iling\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u0161iling\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596028
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2d9fa198213e4987a099fd8b9603ab70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1326464771,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1326464771,
+    "wof:lastmodified":1537662083,
+    "wof:name":"Pasilinge",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16983,
+    54.13044,
+    24.16983,
+    54.13044
+],
+  "geometry": {"coordinates":[24.16983,54.13044],"type":"Point"}
+}

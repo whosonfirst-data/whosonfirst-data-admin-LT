@@ -1,0 +1,91 @@
+{
+  "id": 1125888531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98985,54.89221,23.98985,54.89221",
+    "geom:latitude":54.89221,
+    "geom:longitude":23.98985,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":54.89221,
+    "lbl:longitude":23.98985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Nizhniy Petrashuny"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":595807,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Petra\u0161i\u016bnai",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos":23,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":23,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":910263,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":477508,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595807,
+        "gp:id":477508,
+        "qs_pg:id":910263
+    },
+    "wof:country":"LT",
+    "wof:created":1497295210,
+    "wof:geomhash":"78d2800ebb125b278a50dd7aa508ff47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073611,
+            "locality_id":1125888531,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1125888531,
+    "wof:lastmodified":1509398661,
+    "wof:name":"Petra\u0161i\u016bnai",
+    "wof:parent_id":102073611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98985,
+    54.89221,
+    23.98985,
+    54.89221
+],
+  "geometry": {"coordinates":[23.98985,54.89221],"type":"Point"}
+}

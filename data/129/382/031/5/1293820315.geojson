@@ -1,0 +1,71 @@
+{
+  "id": 1293820315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41088,54.74277,25.41088,54.74277",
+    "geom:latitude":54.74277,
+    "geom:longitude":25.41088,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"41.0",
+    "gn:asciiname":"Silenai",
+    "gn:country_code":"LT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298087,
+    "gn:latitude":54.74277,
+    "gn:longitude":25.41088,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160il\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160il\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298087
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"837cfb6217030856e4f9ffe885615402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":1293820315,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293820315,
+    "wof:lastmodified":1537662667,
+    "wof:name":"Silenai",
+    "wof:parent_id":102073615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41088,
+    54.74276999999999,
+    25.41088,
+    54.74276999999999
+],
+  "geometry": {"coordinates":[25.41088,54.74276999999999],"type":"Point"}
+}

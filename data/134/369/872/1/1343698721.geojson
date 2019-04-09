@@ -1,0 +1,71 @@
+{
+  "id": 1343698721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.44623,55.7102,25.44623,55.7102",
+    "geom:latitude":55.7102,
+    "geom:longitude":25.44623,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Saviciunai",
+    "gn:country_code":"LT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295760,
+    "gn:latitude":55.7102,
+    "gn:longitude":25.44623,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Savi\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Savi\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295760
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7a851d8552c3075982cc99ce2881dc11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1343698721,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343698721,
+    "wof:lastmodified":1537662600,
+    "wof:name":"Saviciunai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.44623,
+    55.7102,
+    25.44623,
+    55.7102
+],
+  "geometry": {"coordinates":[25.44623,55.7102],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226178511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07082,55.82194,25.07082,55.82194",
+    "geom:latitude":55.82194,
+    "geom:longitude":25.07082,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Skodiniai",
+    "gn:country_code":"LT",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299025,
+    "gn:latitude":55.82194,
+    "gn:longitude":25.07082,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Skodiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Skodiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299025
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d8e55ef8244400483f637aaebf64c5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1226178511,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226178511,
+    "wof:lastmodified":1537662691,
+    "wof:name":"Skodiniai",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07082,
+    55.82194000000001,
+    25.07082,
+    55.82194000000001
+],
+  "geometry": {"coordinates":[25.07082,55.82194000000001],"type":"Point"}
+}

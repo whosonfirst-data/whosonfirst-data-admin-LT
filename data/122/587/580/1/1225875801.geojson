@@ -1,0 +1,71 @@
+{
+  "id": 1225875801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56885,53.96909,23.56885,53.96909",
+    "geom:latitude":53.96909,
+    "geom:longitude":23.56885,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Stalai",
+    "gn:country_code":"LT",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304675,
+    "gn:latitude":53.96909,
+    "gn:longitude":23.56885,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Stalai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Stalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304675
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"82191f01d3fa83d13e1cd3338b749ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1225875801,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1225875801,
+    "wof:lastmodified":1537662828,
+    "wof:name":"Stalai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56885,
+    53.96909,
+    23.56885,
+    53.96909
+],
+  "geometry": {"coordinates":[23.56885,53.96909],"type":"Point"}
+}

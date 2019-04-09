@@ -1,0 +1,71 @@
+{
+  "id": 1209946189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.19435,55.09031,26.19435,55.09031",
+    "geom:latitude":55.09031,
+    "geom:longitude":26.19435,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Konstantinavas",
+    "gn:country_code":"LT",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292747,
+    "gn:latitude":55.09031,
+    "gn:longitude":26.19435,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Konstantinavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Konstantinavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292747
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2700dedb05f18c2bea5459211effbe67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1209946189,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1209946189,
+    "wof:lastmodified":1537662531,
+    "wof:name":"Konstantinavas",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19435,
+    55.09031,
+    26.19435,
+    55.09031
+],
+  "geometry": {"coordinates":[26.19435,55.09031],"type":"Point"}
+}

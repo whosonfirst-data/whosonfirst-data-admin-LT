@@ -1,0 +1,65 @@
+{
+  "id": 1209142703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.67034,55.04903,24.67034,55.04903",
+    "geom:latitude":55.04903,
+    "geom:longitude":24.67034,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Raudonka",
+    "gn:country_code":"LT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311698,
+    "gn:latitude":55.04903,
+    "gn:longitude":24.67034,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Raudonka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Raudonka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311698
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a594297a248896ded2fd0727438fb7d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209142703
+        }
+    ],
+    "wof:id":1209142703,
+    "wof:lastmodified":1537662973,
+    "wof:name":"Raudonka",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.67034,
+    55.04903,
+    24.67034,
+    55.04903
+],
+  "geometry": {"coordinates":[24.67034,55.04903],"type":"Point"}
+}

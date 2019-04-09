@@ -1,0 +1,71 @@
+{
+  "id": 1293420439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65853,54.17328,23.65853,54.17328",
+    "geom:latitude":54.17328,
+    "geom:longitude":23.65853,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Bajoriske",
+    "gn:country_code":"LT",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353174,
+    "gn:latitude":54.17328,
+    "gn:longitude":23.65853,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Bajori\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bajori\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353174
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6b83bee777e7d8bbcd2614d3b4422d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1293420439,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1293420439,
+    "wof:lastmodified":1537662990,
+    "wof:name":"Bajoriske",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65853,
+    54.17328000000001,
+    23.65853,
+    54.17328000000001
+],
+  "geometry": {"coordinates":[23.65853,54.17328000000001],"type":"Point"}
+}

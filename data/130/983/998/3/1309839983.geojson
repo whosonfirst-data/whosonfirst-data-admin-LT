@@ -1,0 +1,71 @@
+{
+  "id": 1309839983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10866,55.52651,24.10866,55.52651",
+    "geom:latitude":55.52651,
+    "geom:longitude":24.10866,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Lazdyneliai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309856,
+    "gn:latitude":55.52651,
+    "gn:longitude":24.10866,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lazdyn\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lazdyn\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309856
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2000901ef2b1a9820c066d5231828a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1309839983,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1309839983,
+    "wof:lastmodified":1537662932,
+    "wof:name":"Lazdyneliai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10866,
+    55.52651,
+    24.10866,
+    55.52651
+],
+  "geometry": {"coordinates":[24.10866,55.52651],"type":"Point"}
+}

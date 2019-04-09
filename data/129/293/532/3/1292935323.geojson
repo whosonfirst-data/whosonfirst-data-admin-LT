@@ -1,0 +1,71 @@
+{
+  "id": 1292935323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.50619,55.73873,21.50619,55.73873",
+    "geom:latitude":55.73873,
+    "geom:longitude":21.50619,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Perkunai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289415,
+    "gn:latitude":55.73873,
+    "gn:longitude":21.50619,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Perk\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Perk\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289415
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f5eb56adab2cde6482d7638b7cb29bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1292935323,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1292935323,
+    "wof:lastmodified":1537662456,
+    "wof:name":"Perkunai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.50619,
+    55.73873,
+    21.50619,
+    55.73873
+],
+  "geometry": {"coordinates":[21.50619,55.73873],"type":"Point"}
+}

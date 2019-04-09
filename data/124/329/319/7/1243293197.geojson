@@ -1,0 +1,73 @@
+{
+  "id": 1243293197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75019,54.21229,23.75019,54.21229",
+    "geom:latitude":54.21229,
+    "geom:longitude":23.75019,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Rockiai",
+    "gn:country_code":"LT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595227,
+    "gn:latitude":54.21229,
+    "gn:longitude":23.75019,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ro\u010dkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rachki",
+        "Ro\u010dki\u0173",
+        "Ro\u010dkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595227
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b9cf547c1b2b34e6ae096a6a627b242c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1243293197,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1243293197,
+    "wof:lastmodified":1537662027,
+    "wof:name":"Rockiai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75019,
+    54.21229,
+    23.75019,
+    54.21229
+],
+  "geometry": {"coordinates":[23.75019,54.21229],"type":"Point"}
+}

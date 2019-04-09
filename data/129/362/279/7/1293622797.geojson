@@ -1,0 +1,71 @@
+{
+  "id": 1293622797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56849,56.28428,24.56849,56.28428",
+    "geom:latitude":56.28428,
+    "geom:longitude":24.56849,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Joneliai",
+    "gn:country_code":"LT",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300974,
+    "gn:latitude":56.28428,
+    "gn:longitude":24.56849,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Joneliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Joneliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300974
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3d716f582ede5d12811d7a5f9e13f2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1293622797,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293622797,
+    "wof:lastmodified":1537662749,
+    "wof:name":"Joneliai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56849,
+    56.28428,
+    24.56849,
+    56.28428
+],
+  "geometry": {"coordinates":[24.56849,56.28428],"type":"Point"}
+}

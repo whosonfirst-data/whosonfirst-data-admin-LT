@@ -1,0 +1,72 @@
+{
+  "id": 1243297955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16704,55.36015,22.16704,55.36015",
+    "geom:latitude":55.36015,
+    "geom:longitude":22.16704,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Lylavenai",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597333,
+    "gn:latitude":55.36015,
+    "gn:longitude":22.16704,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lylav\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lilovyany",
+        "Lylav\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597333
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d911c706e97cf0d8753dd4bec6398f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1243297955,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1243297955,
+    "wof:lastmodified":1537662178,
+    "wof:name":"Lylavenai",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16704,
+    55.36015,
+    22.16704,
+    55.36015
+],
+  "geometry": {"coordinates":[22.16704,55.36015],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243190571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.27989,55.72133,25.27989,55.72133",
+    "geom:latitude":55.72133,
+    "geom:longitude":25.27989,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aluotos",
+    "gn:country_code":"LT",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601091,
+    "gn:latitude":55.72133,
+    "gn:longitude":25.27989,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Aluotos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Aluotos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601091
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9ce107ff4d2e98769006fa36d01a1ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1243190571,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243190571,
+    "wof:lastmodified":1537662432,
+    "wof:name":"Aluotos",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27989,
+    55.72133,
+    25.27989,
+    55.72133
+],
+  "geometry": {"coordinates":[25.27989,55.72133],"type":"Point"}
+}

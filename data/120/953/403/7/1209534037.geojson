@@ -1,0 +1,66 @@
+{
+  "id": 1209534037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03333,55.96667,24.03333,55.96667",
+    "geom:latitude":55.96667,
+    "geom:longitude":24.03333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuolingiai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597814,
+    "gn:latitude":55.96667,
+    "gn:longitude":24.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kuolingiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolingi",
+        "Kuolingiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597814
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9762279d45d41479df672d6fa4a2a414",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209534037
+        }
+    ],
+    "wof:id":1209534037,
+    "wof:lastmodified":1537662210,
+    "wof:name":"Kuolingiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03333,
+    55.96666999999999,
+    24.03333,
+    55.96666999999999
+],
+  "geometry": {"coordinates":[24.03333,55.96666999999999],"type":"Point"}
+}

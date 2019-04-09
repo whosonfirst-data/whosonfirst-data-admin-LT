@@ -1,0 +1,65 @@
+{
+  "id": 1209546073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75214,55.68742,22.75214,55.68742",
+    "geom:latitude":55.68742,
+    "geom:longitude":22.75214,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Tolisiai",
+    "gn:country_code":"LT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302511,
+    "gn:latitude":55.68742,
+    "gn:longitude":22.75214,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Toli\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Toli\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302511
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"da83f5454d79b8f25e07ac3b2d4bed78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209546073
+        }
+    ],
+    "wof:id":1209546073,
+    "wof:lastmodified":1537662780,
+    "wof:name":"Tolisiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75214,
+    55.68742,
+    22.75214,
+    55.68742
+],
+  "geometry": {"coordinates":[22.75214,55.68742],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243488943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.72,55.697,21.72,55.697",
+    "geom:latitude":55.697,
+    "geom:longitude":21.72,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Endriejavas",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599596,
+    "gn:latitude":55.697,
+    "gn:longitude":21.72,
+    "gn:modification_date":"2016-09-29",
+    "gn:name":"Endriejavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Endriejavas"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d\u0434\u0440\u0435\u044f\u0432\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Andrzejewo",
+        "Endriyeyavas",
+        "Yendreyavas",
+        "Endriejavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599596,
+        "wk:page":"Endriejavas"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9170371f75ed0a9c449e5dc19b49ed57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1243488943,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1243488943,
+    "wof:lastmodified":1537662330,
+    "wof:name":"Endriejavas",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.72,
+    55.697,
+    21.72,
+    55.697
+],
+  "geometry": {"coordinates":[21.72,55.697],"type":"Point"}
+}

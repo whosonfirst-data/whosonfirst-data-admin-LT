@@ -1,0 +1,71 @@
+{
+  "id": 1276690215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35033,55.28116,26.35033,55.28116",
+    "geom:latitude":55.28116,
+    "geom:longitude":26.35033,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Akmeniske",
+    "gn:country_code":"LT",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292378,
+    "gn:latitude":55.28116,
+    "gn:longitude":26.35033,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Akmeni\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Akmeni\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292378
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9b098bc19866c9b637a7c65c1faec55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1276690215,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276690215,
+    "wof:lastmodified":1537662520,
+    "wof:name":"Akmeniske",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35033,
+    55.28116,
+    26.35033,
+    55.28116
+],
+  "geometry": {"coordinates":[26.35033,55.28116],"type":"Point"}
+}

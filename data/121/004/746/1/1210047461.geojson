@@ -1,0 +1,73 @@
+{
+  "id": 1210047461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97134,55.52175,25.97134,55.52175",
+    "geom:latitude":55.52175,
+    "geom:longitude":25.97134,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Necenai",
+    "gn:country_code":"LT",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596683,
+    "gn:latitude":55.52175,
+    "gn:longitude":25.97134,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ne\u010d\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ne\u010den\u0173",
+        "Nechenay",
+        "Ne\u010d\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596683
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3677e54ee22e82c24d5bba68c34722fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1210047461,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1210047461,
+    "wof:lastmodified":1537662132,
+    "wof:name":"Necenai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97134,
+    55.52175,
+    25.97134,
+    55.52175
+],
+  "geometry": {"coordinates":[25.97134,55.52175],"type":"Point"}
+}

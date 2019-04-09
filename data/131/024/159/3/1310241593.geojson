@@ -1,0 +1,74 @@
+{
+  "id": 1310241593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93968,55.39877,22.93968,55.39877",
+    "geom:latitude":55.39877,
+    "geom:longitude":22.93968,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Lakstuciai",
+    "gn:country_code":"LT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597680,
+    "gn:latitude":55.39877,
+    "gn:longitude":22.93968,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lak\u0161tu\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lak\u0161tu\u010diai"
+    ],
+    "name:und_x_variant":[
+        "Galkai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597680
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2134f38f2ad39c47c62bd90da6470b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1310241593,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310241593,
+    "wof:lastmodified":1537662201,
+    "wof:name":"Lakstuciai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93968,
+    55.39876999999999,
+    22.93968,
+    55.39876999999999
+],
+  "geometry": {"coordinates":[22.93968,55.39876999999999],"type":"Point"}
+}

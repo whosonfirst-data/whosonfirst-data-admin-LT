@@ -1,0 +1,73 @@
+{
+  "id": 1276911393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97981,56.29912,22.97981,56.29912",
+    "geom:latitude":56.29912,
+    "geom:longitude":22.97981,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Sapnagiai",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594955,
+    "gn:latitude":56.29912,
+    "gn:longitude":22.97981,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160apnagiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shapnagyay",
+        "\u0160apnagi\u0173",
+        "\u0160apnagiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594955
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"66d7f8f9dca761c68fb70dd586f68736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1276911393,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1276911393,
+    "wof:lastmodified":1537662009,
+    "wof:name":"Sapnagiai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97981,
+    56.29912,
+    22.97981,
+    56.29912
+],
+  "geometry": {"coordinates":[22.97981,56.29912],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209140243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46673,55.59196,22.46673,55.59196",
+    "geom:latitude":55.59196,
+    "geom:longitude":22.46673,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Radiske",
+    "gn:country_code":"LT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595457,
+    "gn:latitude":55.59196,
+    "gn:longitude":22.46673,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Radi\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rodyshkyay",
+        "Radi\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595457
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b196399147647f17bb2b1342db2b5535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209140243
+        }
+    ],
+    "wof:id":1209140243,
+    "wof:lastmodified":1537662041,
+    "wof:name":"Radiske",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46673,
+    55.59196,
+    22.46673,
+    55.59196
+],
+  "geometry": {"coordinates":[22.46673,55.59196],"type":"Point"}
+}

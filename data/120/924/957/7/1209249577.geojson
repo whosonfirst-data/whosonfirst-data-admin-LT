@@ -1,0 +1,65 @@
+{
+  "id": 1209249577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43135,55.15938,25.43135,55.15938",
+    "geom:latitude":55.15938,
+    "geom:longitude":25.43135,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Sauksteliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297407,
+    "gn:latitude":55.15938,
+    "gn:longitude":25.43135,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160auk\u0161teli\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160auk\u0161teli\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297407
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"306e8e4e89ad8a67cb5dd05bf101b4a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249577
+        }
+    ],
+    "wof:id":1209249577,
+    "wof:lastmodified":1537662646,
+    "wof:name":"Sauksteliskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43135,
+    55.15938000000001,
+    25.43135,
+    55.15938000000001
+],
+  "geometry": {"coordinates":[25.43135,55.15938000000001],"type":"Point"}
+}

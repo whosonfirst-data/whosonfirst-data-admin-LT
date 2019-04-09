@@ -1,0 +1,72 @@
+{
+  "id": 1293323367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61202,54.78342,24.61202,54.78342",
+    "geom:latitude":54.78342,
+    "geom:longitude":24.61202,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Kloniniai Mijaugonys",
+    "gn:country_code":"LT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598056,
+    "gn:latitude":54.78342,
+    "gn:longitude":24.61202,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kloniniai Mijaugonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kloniniai",
+        "Kloniniai Mijaugonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598056
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e1f69ad60312950b05d9b6c1efaea436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1293323367,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293323367,
+    "wof:lastmodified":1537662227,
+    "wof:name":"Kloniniai Mijaugonys",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61202,
+    54.78341999999999,
+    24.61202,
+    54.78341999999999
+],
+  "geometry": {"coordinates":[24.61202,54.78341999999999],"type":"Point"}
+}

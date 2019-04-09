@@ -1,0 +1,76 @@
+{
+  "id": 1209950705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7384,55.52873,24.7384,55.52873",
+    "geom:latitude":55.52873,
+    "geom:longitude":24.7384,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Alukenai",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601096,
+    "gn:latitude":55.52873,
+    "gn:longitude":24.7384,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Aluk\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Aluk\u0117nai"
+    ],
+    "name:und_x_variant":[
+        "Olukyany",
+        "Aluk\u0117n\u0173",
+        "Al\u016bk\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601096
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b2db76c20486e277bba4bebc423d0253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1209950705,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1209950705,
+    "wof:lastmodified":1537662433,
+    "wof:name":"Alukenai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7384,
+    55.52873,
+    24.7384,
+    55.52873
+],
+  "geometry": {"coordinates":[24.7384,55.52873],"type":"Point"}
+}

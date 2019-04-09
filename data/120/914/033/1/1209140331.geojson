@@ -1,0 +1,65 @@
+{
+  "id": 1209140331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.30732,55.23645,25.30732,55.23645",
+    "geom:latitude":55.23645,
+    "geom:longitude":25.30732,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Vilijociai",
+    "gn:country_code":"LT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297547,
+    "gn:latitude":55.23645,
+    "gn:longitude":25.30732,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vilijo\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vilijo\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297547
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"eddc98e98592c072f19e8fba6637eaa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209140331
+        }
+    ],
+    "wof:id":1209140331,
+    "wof:lastmodified":1537662651,
+    "wof:name":"Vilijociai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30732,
+    55.23645,
+    25.30732,
+    55.23645
+],
+  "geometry": {"coordinates":[25.30732,55.23645],"type":"Point"}
+}

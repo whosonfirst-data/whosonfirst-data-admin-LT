@@ -1,0 +1,65 @@
+{
+  "id": 1209449177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48289,55.48091,24.48289,55.48091",
+    "geom:latitude":55.48091,
+    "geom:longitude":24.48289,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Plackelis",
+    "gn:country_code":"LT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311732,
+    "gn:latitude":55.48091,
+    "gn:longitude":24.48289,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pla\u010dkelis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pla\u010dkelis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311732
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c6df940e37925561aa71ff679befe671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209449177
+        }
+    ],
+    "wof:id":1209449177,
+    "wof:lastmodified":1537662974,
+    "wof:name":"Plackelis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48289,
+    55.48091,
+    24.48289,
+    55.48091
+],
+  "geometry": {"coordinates":[24.48289,55.48091],"type":"Point"}
+}

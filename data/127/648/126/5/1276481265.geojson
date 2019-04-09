@@ -1,0 +1,76 @@
+{
+  "id": 1276481265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20384,55.34506,23.20384,55.34506",
+    "geom:latitude":55.34506,
+    "geom:longitude":23.20384,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Kubetkiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597918,
+    "gn:latitude":55.34506,
+    "gn:longitude":23.20384,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kubetki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kubetki\u0161kiai"
+    ],
+    "name:und_x_variant":[
+        "Kubetskishki",
+        "Kubetskishkyay",
+        "K\u016bbetki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597918
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a9206627f04e704897cfaca5b79eb28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1276481265,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276481265,
+    "wof:lastmodified":1537662217,
+    "wof:name":"Kubetkiskiai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20384,
+    55.34506,
+    23.20384,
+    55.34506
+],
+  "geometry": {"coordinates":[23.20384,55.34506],"type":"Point"}
+}

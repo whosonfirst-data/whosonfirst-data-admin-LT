@@ -1,0 +1,72 @@
+{
+  "id": 1293231495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29149,55.48084,24.29149,55.48084",
+    "geom:latitude":55.48084,
+    "geom:longitude":24.29149,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Naujasode",
+    "gn:country_code":"LT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596747,
+    "gn:latitude":55.48084,
+    "gn:longitude":24.29149,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Naujasod\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novosady",
+        "Naujasod\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596747
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f25f738e2cba9d1d3e4572b8df67a9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1293231495,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293231495,
+    "wof:lastmodified":1537662137,
+    "wof:name":"Naujasode",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29149,
+    55.48084,
+    24.29149,
+    55.48084
+],
+  "geometry": {"coordinates":[24.29149,55.48084],"type":"Point"}
+}

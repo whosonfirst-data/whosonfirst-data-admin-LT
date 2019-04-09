@@ -1,0 +1,72 @@
+{
+  "id": 1293725933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74034,55.24348,21.74034,55.24348",
+    "geom:latitude":55.24348,
+    "geom:longitude":21.74034,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Uostiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593715,
+    "gn:latitude":55.24348,
+    "gn:longitude":21.74034,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Uosti\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ostishken",
+        "Uosti\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593715
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"31f3c45b09972a43943709bcc057026c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1293725933,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1293725933,
+    "wof:lastmodified":1537661924,
+    "wof:name":"Uostiskiai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74034,
+    55.24348000000001,
+    21.74034,
+    55.24348000000001
+],
+  "geometry": {"coordinates":[21.74034,55.24348000000001],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1344190883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36196,55.64131,26.36196,55.64131",
+    "geom:latitude":55.64131,
+    "geom:longitude":26.36196,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Smalvos",
+    "gn:country_code":"LT",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594424,
+    "gn:latitude":55.64131,
+    "gn:longitude":26.36196,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Smalvos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Smalvos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u0430\u043b\u0432\u043e\u0441"
+    ],
+    "name:und_x_variant":[
+        "Smalvai",
+        "Smo\u0142wy",
+        "Smolvy",
+        "Smalvos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594424
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0505210c1fa792beb2d26cd2604d523b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1344190883,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1344190883,
+    "wof:lastmodified":1537661971,
+    "wof:name":"Smalvos",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36196,
+    55.64131,
+    26.36196,
+    55.64131
+],
+  "geometry": {"coordinates":[26.36196,55.64131],"type":"Point"}
+}

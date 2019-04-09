@@ -1,0 +1,91 @@
+{
+  "id": 1125847933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.21667,55.36667,21.21667,55.36667",
+    "geom:latitude":55.36667,
+    "geom:longitude":21.21667,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":55.36667,
+    "lbl:longitude":21.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Feilenhof"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":596833,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mui\u017e\u0117",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Klaip\u00ecdos Apskritis",
+    "qs_pg:photos":90,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":90,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":908661,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":476639,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Klaip\u00ecdos Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596833,
+        "gp:id":476639,
+        "qs_pg:id":908661
+    },
+    "wof:country":"LT",
+    "wof:created":1497293251,
+    "wof:geomhash":"057c86e90448dc65fe9729e26b43bb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1125847933,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1125847933,
+    "wof:lastmodified":1509395742,
+    "wof:name":"Mui\u017e\u0117",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.21667,
+    55.36667,
+    21.21667,
+    55.36667
+],
+  "geometry": {"coordinates":[21.21667,55.36667],"type":"Point"}
+}

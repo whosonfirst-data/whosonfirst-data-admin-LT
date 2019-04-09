@@ -1,0 +1,73 @@
+{
+  "id": 1326466333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9963,55.63337,21.9963,55.63337",
+    "geom:latitude":55.63337,
+    "geom:longitude":21.9963,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Girenai",
+    "gn:country_code":"LT",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599285,
+    "gn:latitude":55.63337,
+    "gn:longitude":21.9963,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gir\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Girenay",
+        "Gir\u0117n\u0173",
+        "Gir\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599285
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"63cb25357e25dd00bc706883f2326558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1326466333,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1326466333,
+    "wof:lastmodified":1537662309,
+    "wof:name":"Girenai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9963,
+    55.63336999999999,
+    21.9963,
+    55.63336999999999
+],
+  "geometry": {"coordinates":[21.9963,55.63336999999999],"type":"Point"}
+}

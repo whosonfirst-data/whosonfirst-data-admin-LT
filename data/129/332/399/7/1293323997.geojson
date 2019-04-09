@@ -1,0 +1,81 @@
+{
+  "id": 1293323997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59966,55.27156,22.59966,55.27156",
+    "geom:latitude":55.27156,
+    "geom:longitude":22.59966,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Pasaltuonys",
+    "gn:country_code":"LT",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596054,
+    "gn:latitude":55.27156,
+    "gn:longitude":22.59966,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u0161altuonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pa\u0161altuonys"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u0430\u043b\u0442\u0443\u043e\u043d\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Poshaltune",
+        "Pashaltuonis",
+        "Pa\u0161altuonis",
+        "Pa\u0161altuonio",
+        "Pa\u0161altuonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596054
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"357bc9c160532b60c807ec2ff262f19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1293323997,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1293323997,
+    "wof:lastmodified":1537662085,
+    "wof:name":"Pasaltuonys",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59966,
+    55.27156,
+    22.59966,
+    55.27156
+],
+  "geometry": {"coordinates":[22.59966,55.27156],"type":"Point"}
+}

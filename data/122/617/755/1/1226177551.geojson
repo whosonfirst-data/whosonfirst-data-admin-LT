@@ -1,0 +1,85 @@
+{
+  "id": 1226177551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73095,54.83569,25.73095,54.83569",
+    "geom:latitude":54.83569,
+    "geom:longitude":25.73095,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Buivydziai I",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600293,
+    "gn:latitude":54.83569,
+    "gn:longitude":25.73095,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Buivyd\u017eiai I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buivyd\u017eiai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0439\u0432\u0438\u0434\u0436\u044f\u0439"
+    ],
+    "name:sgs_x_preferred":[
+        "Boiv\u012bd\u0113"
+    ],
+    "name:und_x_variant":[
+        "Buivyd\u017eiai I",
+        "Bujwidze",
+        "Buyvidzhyay",
+        "Buyvidzy",
+        "Buivyd\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600293,
+        "wk:page":"Buivyd%C5%BEiai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cff284187333e1f74be8fe471a5696ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1226177551,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226177551,
+    "wof:lastmodified":1537662379,
+    "wof:name":"Buivydziai I",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73095,
+    54.83569,
+    25.73095,
+    54.83569
+],
+  "geometry": {"coordinates":[25.73095,54.83569],"type":"Point"}
+}

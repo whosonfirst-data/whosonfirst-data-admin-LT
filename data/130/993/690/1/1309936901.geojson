@@ -1,0 +1,73 @@
+{
+  "id": 1309936901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.62226,55.45835,23.62226,55.45835",
+    "geom:latitude":55.45835,
+    "geom:longitude":23.62226,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Azytenai",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600816,
+    "gn:latitude":55.45835,
+    "gn:longitude":23.62226,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"A\u017eyt\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ozhitany",
+        "A\u017eitien\u0173",
+        "A\u017eyt\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600816
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d58e33d78bd73c2e63e508e31eab28af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1309936901,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309936901,
+    "wof:lastmodified":1537662416,
+    "wof:name":"Azytenai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.62226,
+    55.45835,
+    23.62226,
+    55.45835
+],
+  "geometry": {"coordinates":[23.62226,55.45835],"type":"Point"}
+}

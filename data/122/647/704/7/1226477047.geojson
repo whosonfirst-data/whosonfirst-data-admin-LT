@@ -1,0 +1,71 @@
+{
+  "id": 1226477047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.40423,56.1264,24.40423,56.1264",
+    "geom:latitude":56.1264,
+    "geom:longitude":24.40423,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Sunkiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301284,
+    "gn:latitude":56.1264,
+    "gn:longitude":24.40423,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160unki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160unki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301284
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5f9d349f30d74c3f4cda591763f99dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1226477047,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226477047,
+    "wof:lastmodified":1537662757,
+    "wof:name":"Sunkiskiai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.40423,
+    56.1264,
+    24.40423,
+    56.1264
+],
+  "geometry": {"coordinates":[24.40423,56.1264],"type":"Point"}
+}

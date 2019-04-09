@@ -1,0 +1,75 @@
+{
+  "id": 1243394297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30058,54.98866,23.30058,54.98866",
+    "geom:latitude":54.98866,
+    "geom:longitude":23.30058,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Sutkai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594096,
+    "gn:latitude":54.98866,
+    "gn:longitude":23.30058,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sutkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sutkay",
+        "Sutkiai",
+        "Sutk\u0173",
+        "Sutki",
+        "Sutkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594096
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"098781c76936f2c3db3b296c060bcbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1243394297,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1243394297,
+    "wof:lastmodified":1537661948,
+    "wof:name":"Sutkai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30058,
+    54.98866,
+    23.30058,
+    54.98866
+],
+  "geometry": {"coordinates":[23.30058,54.98866],"type":"Point"}
+}

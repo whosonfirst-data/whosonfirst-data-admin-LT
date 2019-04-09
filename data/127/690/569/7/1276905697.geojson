@@ -1,0 +1,76 @@
+{
+  "id": 1276905697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.24749,54.48689,25.24749,54.48689",
+    "geom:latitude":54.48689,
+    "geom:longitude":25.24749,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Teresiskes",
+    "gn:country_code":"LT",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593916,
+    "gn:latitude":54.48689,
+    "gn:longitude":25.24749,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tere\u0161i\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Staryye Tarashishki",
+        "Tere\u0161i\u0161k\u0117s",
+        "Tere\u0161i\u0161k\u0117s Senosios",
+        "Tere\u0161i\u0161k\u0117s Naujosios",
+        "Tere\u0161i\u0161k\u0117s Naujos",
+        "Novyye Tarashishki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593916
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"55c8386c6850e790b27a774267d9f020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1276905697,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276905697,
+    "wof:lastmodified":1537661937,
+    "wof:name":"Teresiskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.24749,
+    54.48689,
+    25.24749,
+    54.48689
+],
+  "geometry": {"coordinates":[25.24749,54.48689],"type":"Point"}
+}

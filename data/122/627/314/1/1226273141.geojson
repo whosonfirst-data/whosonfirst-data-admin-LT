@@ -1,0 +1,82 @@
+{
+  "id": 1226273141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21083,56.16733,24.21083,56.16733",
+    "geom:latitude":56.16733,
+    "geom:longitude":24.21083,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Vaskai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593361,
+    "gn:latitude":56.16733,
+    "gn:longitude":24.21083,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Va\u0161kai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Va\u0161kai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0448\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Konstantinov",
+        "Vashkay",
+        "Waszki",
+        "Va\u0161k\u0173",
+        "Va\u0161kai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593361,
+        "wk:page":"Va%C5%A1kai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"060da2fce5ff9b3d026b4af7b59f3efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1226273141,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226273141,
+    "wof:lastmodified":1537661899,
+    "wof:name":"Vaskai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21083,
+    56.16733000000001,
+    24.21083,
+    56.16733000000001
+],
+  "geometry": {"coordinates":[24.21083,56.16733000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209350555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.10417,55.29924,23.10417,55.29924",
+    "geom:latitude":55.29924,
+    "geom:longitude":23.10417,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Pagojis",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303665,
+    "gn:latitude":55.29924,
+    "gn:longitude":23.10417,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pagojis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pagojis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303665
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c91b5eed8c550352cf91e0a22253b7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209350555
+        }
+    ],
+    "wof:id":1209350555,
+    "wof:lastmodified":1537662806,
+    "wof:name":"Pagojis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.10417,
+    55.29924000000001,
+    23.10417,
+    55.29924000000001
+],
+  "geometry": {"coordinates":[23.10417,55.29924000000001],"type":"Point"}
+}

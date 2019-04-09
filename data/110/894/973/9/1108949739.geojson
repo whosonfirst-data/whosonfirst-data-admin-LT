@@ -1,0 +1,61 @@
+{
+  "id": 1108949739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3348545834,54.764451097,25.3348545834,54.764451097",
+    "geom:latitude":54.764451,
+    "geom:longitude":25.334855,
+    "iso:country":"LT",
+    "lbl:latitude":54.764451,
+    "lbl:longitude":25.334855,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367859,
+    "wof:geomhash":"0f23a818b1c1d500243db14ace43bf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "neighbourhood_id":1108949739,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949739,
+    "wof:lastmodified":1492123947,
+    "wof:name":"Naujieji Verkiai",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33485458336786,
+    54.7644510969654,
+    25.33485458336786,
+    54.7644510969654
+],
+  "geometry": {"coordinates":[25.33485458336786,54.7644510969654],"type":"Point"}
+}

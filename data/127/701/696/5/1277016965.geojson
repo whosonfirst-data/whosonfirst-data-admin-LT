@@ -1,0 +1,74 @@
+{
+  "id": 1277016965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44458,55.63551,23.44458,55.63551",
+    "geom:latitude":55.63551,
+    "geom:longitude":23.44458,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Kunigiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597826,
+    "gn:latitude":55.63551,
+    "gn:longitude":23.44458,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kunigi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunigishkyay",
+        "Kungi\u0161kiai",
+        "Kunigishki",
+        "Kunigi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597826
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"16d133d56420080554a70107e76e4ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1277016965,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1277016965,
+    "wof:lastmodified":1537662211,
+    "wof:name":"Kunigiskiai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44458,
+    55.63551,
+    23.44458,
+    55.63551
+],
+  "geometry": {"coordinates":[23.44458,55.63551],"type":"Point"}
+}

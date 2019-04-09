@@ -1,0 +1,71 @@
+{
+  "id": 1259911319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.07673,56.14815,24.07673,56.14815",
+    "geom:latitude":56.14815,
+    "geom:longitude":24.07673,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Paplone",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310115,
+    "gn:latitude":56.14815,
+    "gn:longitude":24.07673,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paplon\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paplon\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310115
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"58066bca24d9522db51de87a1a20d6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1259911319,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1259911319,
+    "wof:lastmodified":1537662938,
+    "wof:name":"Paplone",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.07673,
+    56.14815,
+    24.07673,
+    56.14815
+],
+  "geometry": {"coordinates":[24.07673,56.14815],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1125786259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2,54.71667,25.2,54.71667",
+    "geom:latitude":54.71667,
+    "geom:longitude":25.2,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":54.71667,
+    "lbl:longitude":25.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Buivydi\u0161k\u0117s"
+    ],
+    "name:eng_x_preferred":[
+        "Buivydi\u0161k\u0117s"
+    ],
+    "name:ger_x_preferred":[
+        "Buivydi\u0161k\u0117s"
+    ],
+    "name:lit_x_preferred":[
+        "Buivydi\u0161k\u0117s"
+    ],
+    "name:sgs_x_preferred":[
+        "Boiv\u012bd\u0117\u0161k\u0117s"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":600295,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Buivydi\u0161k\u0117s",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Vilniaus Apskritis",
+    "qs_pg:photos":95,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":95,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475579,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":473845,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Vilniaus Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600295,
+        "gp:id":473845,
+        "qs_pg:id":475579,
+        "wd:id":"Q957536"
+    },
+    "wof:country":"LT",
+    "wof:created":1497290691,
+    "wof:geomhash":"a2b26addb82cfbcc0b9ffc21ff56c495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1125786259,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1125786259,
+    "wof:lastmodified":1514470298,
+    "wof:name":"Buivydi\u0161k\u0117s",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2,
+    54.71667,
+    25.2,
+    54.71667
+],
+  "geometry": {"coordinates":[25.2,54.71667],"type":"Point"}
+}

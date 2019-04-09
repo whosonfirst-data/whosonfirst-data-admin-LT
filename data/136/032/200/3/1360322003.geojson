@@ -1,0 +1,71 @@
+{
+  "id": 1360322003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.34247,55.90528,25.34247,55.90528",
+    "geom:latitude":55.90528,
+    "geom:longitude":25.34247,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Miesteliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295829,
+    "gn:latitude":55.90528,
+    "gn:longitude":25.34247,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Miesteli\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Miesteli\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295829
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7c8266b33ea1a153249336d2d4f53420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1360322003,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360322003,
+    "wof:lastmodified":1537662603,
+    "wof:name":"Miesteliskiai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.34247,
+    55.90528000000001,
+    25.34247,
+    55.90528000000001
+],
+  "geometry": {"coordinates":[25.34247,55.90528000000001],"type":"Point"}
+}

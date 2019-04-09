@@ -1,0 +1,73 @@
+{
+  "id": 1293037051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64902,55.43248,22.64902,55.43248",
+    "geom:latitude":55.43248,
+    "geom:longitude":22.64902,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Buteniai",
+    "gn:country_code":"LT",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600238,
+    "gn:latitude":55.43248,
+    "gn:longitude":22.64902,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"B\u016bteniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butyanyay",
+        "Buteynyay",
+        "B\u016bteniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600238
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3e7c809767f8fc583e3623540e39cf22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1293037051,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1293037051,
+    "wof:lastmodified":1537662375,
+    "wof:name":"Buteniai",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64902,
+    55.43248000000001,
+    22.64902,
+    55.43248000000001
+],
+  "geometry": {"coordinates":[22.64902,55.43248000000001],"type":"Point"}
+}

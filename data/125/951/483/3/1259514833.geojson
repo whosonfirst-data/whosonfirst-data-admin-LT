@@ -1,0 +1,72 @@
+{
+  "id": 1259514833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38684,55.32592,21.38684,55.32592",
+    "geom:latitude":55.32592,
+    "geom:longitude":21.38684,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Shis",
+    "gn:country_code":"LT",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594011,
+    "gn:latitude":55.32592,
+    "gn:longitude":21.38684,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shisha",
+        "\u0160y\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594011
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3bee472a056c5be8862a1549b4b8aee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1259514833,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1259514833,
+    "wof:lastmodified":1537661943,
+    "wof:name":"Shis",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38684,
+    55.32592,
+    21.38684,
+    55.32592
+],
+  "geometry": {"coordinates":[21.38684,55.32592],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226261121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79685,55.47911,23.79685,55.47911",
+    "geom:latitude":55.47911,
+    "geom:longitude":23.79685,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pilioniai",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595757,
+    "gn:latitude":55.47911,
+    "gn:longitude":23.79685,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Pilioniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pilioniai"
+    ],
+    "name:und_x_variant":[
+        "Pilioni\u0173",
+        "Pilyany",
+        "Pilionai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595757
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"33aaf236f91574f367d844a7245b2332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1226261121,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226261121,
+    "wof:lastmodified":1537662063,
+    "wof:name":"Pilioniai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79685,
+    55.47911,
+    23.79685,
+    55.47911
+],
+  "geometry": {"coordinates":[23.79685,55.47911],"type":"Point"}
+}

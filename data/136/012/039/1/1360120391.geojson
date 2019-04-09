@@ -1,0 +1,72 @@
+{
+  "id": 1360120391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06349,55.79219,22.06349,55.79219",
+    "geom:latitude":55.79219,
+    "geom:longitude":22.06349,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Laurynaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597608,
+    "gn:latitude":55.79219,
+    "gn:longitude":22.06349,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Laurynai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laurinaychyay",
+        "Laurynai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597608
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1ef86a630695cf3ec772d923c2f11dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1360120391,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1360120391,
+    "wof:lastmodified":1537662196,
+    "wof:name":"Laurynaiciai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06349,
+    55.79219000000001,
+    22.06349,
+    55.79219000000001
+],
+  "geometry": {"coordinates":[22.06349,55.79219000000001],"type":"Point"}
+}

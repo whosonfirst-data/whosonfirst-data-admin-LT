@@ -1,0 +1,71 @@
+{
+  "id": 1225978177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.40599,54.64182,24.40599,54.64182",
+    "geom:latitude":54.64182,
+    "geom:longitude":24.40599,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"69.0",
+    "gn:asciiname":"Aukstoja",
+    "gn:country_code":"LT",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310947,
+    "gn:latitude":54.64182,
+    "gn:longitude":24.40599,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Auk\u0161toja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Auk\u0161toja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310947
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e72324faff81dace1c544a9d5f14270a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073603,
+            "locality_id":1225978177,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1225978177,
+    "wof:lastmodified":1537662953,
+    "wof:name":"Aukstoja",
+    "wof:parent_id":102073603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.40599,
+    54.64182,
+    24.40599,
+    54.64182
+],
+  "geometry": {"coordinates":[24.40599,54.64182],"type":"Point"}
+}

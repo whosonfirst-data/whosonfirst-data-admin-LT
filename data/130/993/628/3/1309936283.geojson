@@ -1,0 +1,72 @@
+{
+  "id": 1309936283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62881,55.88144,24.62881,55.88144",
+    "geom:latitude":55.88144,
+    "geom:longitude":24.62881,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Jujenai",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598759,
+    "gn:latitude":55.88144,
+    "gn:longitude":24.62881,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Juj\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuyany",
+        "Juj\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598759
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d3a0845054ff4a1e314afafd482bfef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1309936283,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1309936283,
+    "wof:lastmodified":1537662274,
+    "wof:name":"Jujenai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62881,
+    55.88144000000001,
+    24.62881,
+    55.88144000000001
+],
+  "geometry": {"coordinates":[24.62881,55.88144000000001],"type":"Point"}
+}

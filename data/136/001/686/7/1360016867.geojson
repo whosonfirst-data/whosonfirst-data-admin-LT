@@ -1,0 +1,76 @@
+{
+  "id": 1360016867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.23689,55.56004,26.23689,55.56004",
+    "geom:latitude":55.56004,
+    "geom:longitude":26.23689,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Plavejai",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595715,
+    "gn:latitude":55.56004,
+    "gn:longitude":26.23689,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Plav\u0117jai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Plav\u0117jai"
+    ],
+    "name:und_x_variant":[
+        "Ploveyay",
+        "Plav\u0117j\u0173",
+        "Plav\u0117ja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595715
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c85577a6272e8db89d5452035e998098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1360016867,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1360016867,
+    "wof:lastmodified":1537662060,
+    "wof:name":"Plavejai",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.23689,
+    55.56004,
+    26.23689,
+    55.56004
+],
+  "geometry": {"coordinates":[26.23689,55.56004],"type":"Point"}
+}

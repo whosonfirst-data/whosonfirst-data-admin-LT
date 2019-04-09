@@ -1,0 +1,71 @@
+{
+  "id": 1360118797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.00153,54.21733,25.00153,54.21733",
+    "geom:latitude":54.21733,
+    "geom:longitude":25.00153,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Panezdiliai",
+    "gn:country_code":"LT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296951,
+    "gn:latitude":54.21733,
+    "gn:longitude":25.00153,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Panezdiliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Panezdiliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296951
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5c616e597dcc7f47153fed08c119221e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1360118797,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1360118797,
+    "wof:lastmodified":1537662633,
+    "wof:name":"Panezdiliai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00153,
+    54.21733,
+    25.00153,
+    54.21733
+],
+  "geometry": {"coordinates":[25.00153,54.21733],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209648971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.84903,55.33747,25.84903,55.33747",
+    "geom:latitude":55.33747,
+    "geom:longitude":25.84903,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Vidiskis",
+    "gn:country_code":"LT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294353,
+    "gn:latitude":55.33747,
+    "gn:longitude":25.84903,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vidi\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vidi\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294353
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ba9265889c8bb07ef00b3c3c566b92a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209648971
+        }
+    ],
+    "wof:id":1209648971,
+    "wof:lastmodified":1537662564,
+    "wof:name":"Vidiskis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84903,
+    55.33747,
+    25.84903,
+    55.33747
+],
+  "geometry": {"coordinates":[25.84903,55.33747],"type":"Point"}
+}

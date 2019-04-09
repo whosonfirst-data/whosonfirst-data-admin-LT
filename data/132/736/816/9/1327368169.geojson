@@ -1,0 +1,71 @@
+{
+  "id": 1327368169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.24025,54.33359,25.24025,54.33359",
+    "geom:latitude":54.33359,
+    "geom:longitude":25.24025,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Baumiliskes",
+    "gn:country_code":"LT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298429,
+    "gn:latitude":54.33359,
+    "gn:longitude":25.24025,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Baumili\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Baumili\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298429
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d54ef7e816bcb8d75dcea282c5f602d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1327368169,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1327368169,
+    "wof:lastmodified":1537662676,
+    "wof:name":"Baumiliskes",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.24025,
+    54.33359,
+    25.24025,
+    54.33359
+],
+  "geometry": {"coordinates":[25.24025,54.33359],"type":"Point"}
+}

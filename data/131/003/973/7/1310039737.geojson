@@ -1,0 +1,71 @@
+{
+  "id": 1310039737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.49074,55.80076,24.49074,55.80076",
+    "geom:latitude":55.80076,
+    "geom:longitude":24.49074,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Linke",
+    "gn:country_code":"LT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312121,
+    "gn:latitude":55.80076,
+    "gn:longitude":24.49074,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Link\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Link\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312121
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f5c63e424bbd1b7a69e920304484508f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1310039737,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310039737,
+    "wof:lastmodified":1537662985,
+    "wof:name":"Linke",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.49074,
+    55.80076,
+    24.49074,
+    55.80076
+],
+  "geometry": {"coordinates":[24.49074,55.80076],"type":"Point"}
+}

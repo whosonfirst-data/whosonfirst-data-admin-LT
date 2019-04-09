@@ -1,0 +1,71 @@
+{
+  "id": 1293329869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80057,55.10574,24.80057,55.10574",
+    "geom:latitude":55.10574,
+    "geom:longitude":24.80057,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Jaskaudziai",
+    "gn:country_code":"LT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300078,
+    "gn:latitude":55.10574,
+    "gn:longitude":24.80057,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jaskaud\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jaskaud\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300078
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dfe4e125045b2a7fe94a984dc5c3bb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1293329869,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293329869,
+    "wof:lastmodified":1537662724,
+    "wof:name":"Jaskaudziai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80057,
+    55.10574,
+    24.80057,
+    55.10574
+],
+  "geometry": {"coordinates":[24.80057,55.10574],"type":"Point"}
+}

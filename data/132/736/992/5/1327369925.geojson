@@ -1,0 +1,71 @@
+{
+  "id": 1327369925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98055,55.63986,25.98055,55.63986",
+    "geom:latitude":55.63986,
+    "geom:longitude":25.98055,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Bruzai",
+    "gn:country_code":"LT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293863,
+    "gn:latitude":55.63986,
+    "gn:longitude":25.98055,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bru\u017eai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bru\u017eai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293863
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ad34dacc35c872eff08187c8f1300db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1327369925,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327369925,
+    "wof:lastmodified":1537662555,
+    "wof:name":"Bruzai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98055,
+    55.63986,
+    25.98055,
+    55.63986
+],
+  "geometry": {"coordinates":[25.98055,55.63986],"type":"Point"}
+}

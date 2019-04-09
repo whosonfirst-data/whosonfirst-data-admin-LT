@@ -1,0 +1,71 @@
+{
+  "id": 1276373237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.99954,54.7471,24.99954,54.7471",
+    "geom:latitude":54.7471,
+    "geom:longitude":24.99954,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Sidaronys",
+    "gn:country_code":"LT",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300588,
+    "gn:latitude":54.7471,
+    "gn:longitude":24.99954,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sidaronys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sidaronys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300588
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1a3534479f77905cb0f638ab52562eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1276373237,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276373237,
+    "wof:lastmodified":1537662737,
+    "wof:name":"Sidaronys",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99954,
+    54.7471,
+    24.99954,
+    54.7471
+],
+  "geometry": {"coordinates":[24.99954,54.7471],"type":"Point"}
+}

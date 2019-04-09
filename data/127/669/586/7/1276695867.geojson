@@ -1,0 +1,71 @@
+{
+  "id": 1276695867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.74151,55.44583,23.74151,55.44583",
+    "geom:latitude":55.44583,
+    "geom:longitude":23.74151,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Jaugiliai",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307634,
+    "gn:latitude":55.44583,
+    "gn:longitude":23.74151,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jaugiliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jaugiliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307634
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c3ac23497034c920c73134234396ab97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1276695867,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276695867,
+    "wof:lastmodified":1537662892,
+    "wof:name":"Jaugiliai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.74151,
+    55.44583000000001,
+    23.74151,
+    55.44583000000001
+],
+  "geometry": {"coordinates":[23.74151,55.44583000000001],"type":"Point"}
+}

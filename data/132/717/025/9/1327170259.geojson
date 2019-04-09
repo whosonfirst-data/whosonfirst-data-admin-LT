@@ -1,0 +1,72 @@
+{
+  "id": 1327170259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91264,55.89388,23.91264,55.89388",
+    "geom:latitude":55.89388,
+    "geom:longitude":23.91264,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Rokoniai",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595210,
+    "gn:latitude":55.89388,
+    "gn:longitude":23.91264,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rokoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rokenay",
+        "Rokoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595210
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a29089650f43fc58b8d944a49b11d6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1327170259,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1327170259,
+    "wof:lastmodified":1537662026,
+    "wof:name":"Rokoniai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91264,
+    55.89388,
+    23.91264,
+    55.89388
+],
+  "geometry": {"coordinates":[23.91264,55.89388],"type":"Point"}
+}

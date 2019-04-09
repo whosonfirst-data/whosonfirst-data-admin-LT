@@ -1,0 +1,73 @@
+{
+  "id": 1309942691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16566,55.44014,24.16566,55.44014",
+    "geom:latitude":55.44014,
+    "geom:longitude":24.16566,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Volungiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595588,
+    "gn:latitude":55.44014,
+    "gn:longitude":24.16566,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Volungi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Volungi\u0161kiai",
+        "Prachuny",
+        "Pro\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595588
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3940d9f0fe5a784697f9a57284a73f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1309942691,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309942691,
+    "wof:lastmodified":1537662051,
+    "wof:name":"Volungiskiai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16566,
+    55.44014,
+    24.16566,
+    55.44014
+],
+  "geometry": {"coordinates":[24.16566,55.44014],"type":"Point"}
+}

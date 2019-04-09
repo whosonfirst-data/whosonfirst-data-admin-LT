@@ -1,0 +1,75 @@
+{
+  "id": 1210051427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89845,54.28107,24.89845,54.28107",
+    "geom:latitude":54.28107,
+    "geom:longitude":24.89845,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Mistunai",
+    "gn:country_code":"LT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596899,
+    "gn:latitude":54.28107,
+    "gn:longitude":24.89845,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mi\u0161t\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mi\u0161t\u016bnai"
+    ],
+    "name:und_x_variant":[
+        "Mi\u0161i\u016bnai",
+        "Mishtuny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596899
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d4e8dfc09cc63073f6d6fa12347cfea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1210051427,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1210051427,
+    "wof:lastmodified":1537662147,
+    "wof:name":"Mistunai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89845,
+    54.28106999999999,
+    24.89845,
+    54.28106999999999
+],
+  "geometry": {"coordinates":[24.89845,54.28106999999999],"type":"Point"}
+}

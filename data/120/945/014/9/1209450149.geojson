@@ -1,0 +1,66 @@
+{
+  "id": 1209450149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17597,55.4226,22.17597,55.4226",
+    "geom:latitude":55.4226,
+    "geom:longitude":22.17597,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Ryskas",
+    "gn:country_code":"LT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595072,
+    "gn:latitude":55.4226,
+    "gn:longitude":22.17597,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ry\u0161kas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rushkyay",
+        "Ry\u0161kas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595072
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a099e64dea4106581a3bfdff0395b374",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209450149
+        }
+    ],
+    "wof:id":1209450149,
+    "wof:lastmodified":1537662015,
+    "wof:name":"Ryskas",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17597,
+    55.4226,
+    22.17597,
+    55.4226
+],
+  "geometry": {"coordinates":[22.17597,55.4226],"type":"Point"}
+}

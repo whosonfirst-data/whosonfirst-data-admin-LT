@@ -1,0 +1,72 @@
+{
+  "id": 1310142007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65796,55.16317,23.65796,55.16317",
+    "geom:latitude":55.16317,
+    "geom:longitude":23.65796,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Laucyne",
+    "gn:country_code":"LT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597644,
+    "gn:latitude":55.16317,
+    "gn:longitude":23.65796,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lau\u010dyn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lauchine",
+        "Lau\u010dyn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597644
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1cbcb3652c8a80854c038d1441e5260d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1310142007,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310142007,
+    "wof:lastmodified":1537662199,
+    "wof:name":"Laucyne",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65796,
+    55.16317,
+    23.65796,
+    55.16317
+],
+  "geometry": {"coordinates":[23.65796,55.16317],"type":"Point"}
+}

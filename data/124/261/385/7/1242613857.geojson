@@ -1,0 +1,75 @@
+{
+  "id": 1242613857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94145,55.0224,24.94145,55.0224",
+    "geom:latitude":55.0224,
+    "geom:longitude":24.94145,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Berze",
+    "gn:country_code":"LT",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600510,
+    "gn:latitude":55.0224,
+    "gn:longitude":24.94145,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ber\u017e\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ber\u017e\u0117"
+    ],
+    "name:und_x_variant":[
+        "Berzha",
+        "Ber\u017ea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600510
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ea9ca9741999e46030dda8ee731935e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1242613857,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1242613857,
+    "wof:lastmodified":1537662394,
+    "wof:name":"Berze",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94145,
+    55.0224,
+    24.94145,
+    55.0224
+],
+  "geometry": {"coordinates":[24.94145,55.0224],"type":"Point"}
+}

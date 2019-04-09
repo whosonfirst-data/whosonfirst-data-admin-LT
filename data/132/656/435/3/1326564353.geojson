@@ -1,0 +1,71 @@
+{
+  "id": 1326564353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36435,55.59393,24.36435,55.59393",
+    "geom:latitude":55.59393,
+    "geom:longitude":24.36435,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Zumbrickiai",
+    "gn:country_code":"LT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309907,
+    "gn:latitude":55.59393,
+    "gn:longitude":24.36435,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u017dumbrickiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017dumbrickiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309907
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7bf0440ac9b9f4034bd8b2752a2de7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1326564353,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1326564353,
+    "wof:lastmodified":1537662933,
+    "wof:name":"Zumbrickiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36435,
+    55.59393000000001,
+    24.36435,
+    55.59393000000001
+],
+  "geometry": {"coordinates":[24.36435,55.59393000000001],"type":"Point"}
+}

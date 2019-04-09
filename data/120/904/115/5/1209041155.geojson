@@ -1,0 +1,72 @@
+{
+  "id": 1209041155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36287,54.48139,23.36287,54.48139",
+    "geom:latitude":54.48139,
+    "geom:longitude":23.36287,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Liudvinavas",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597419,
+    "gn:latitude":54.48139,
+    "gn:longitude":23.36287,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Liudvinavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ludwin\u00f3w",
+        "Lyudvinov",
+        "Lyudvinavas",
+        "Lyudvinav",
+        "Ludvinavas",
+        "Liudvinavo",
+        "Liudvinavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597419,
+        "wk:page":"Liudvinavas"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e5f400eec88b9d212b94c406c4f3b33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209041155
+        }
+    ],
+    "wof:id":1209041155,
+    "wof:lastmodified":1537662182,
+    "wof:name":"Liudvinavas",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36287,
+    54.48139000000001,
+    23.36287,
+    54.48139000000001
+],
+  "geometry": {"coordinates":[23.36287,54.48139000000001],"type":"Point"}
+}

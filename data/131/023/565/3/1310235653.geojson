@@ -1,0 +1,71 @@
+{
+  "id": 1310235653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84123,54.23085,24.84123,54.23085",
+    "geom:latitude":54.23085,
+    "geom:longitude":24.84123,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Jundiskes",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296898,
+    "gn:latitude":54.23085,
+    "gn:longitude":24.84123,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jundi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jundi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296898
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"55a2177493328fdf2385855bae2c2891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1310235653,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1310235653,
+    "wof:lastmodified":1537662631,
+    "wof:name":"Jundiskes",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84123,
+    54.23085,
+    24.84123,
+    54.23085
+],
+  "geometry": {"coordinates":[24.84123,54.23085],"type":"Point"}
+}

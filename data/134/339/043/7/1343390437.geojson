@@ -1,0 +1,71 @@
+{
+  "id": 1343390437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65345,56.02734,25.65345,56.02734",
+    "geom:latitude":56.02734,
+    "geom:longitude":25.65345,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Gyliai",
+    "gn:country_code":"LT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599017,
+    "gn:latitude":56.02734,
+    "gn:longitude":25.65345,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gyliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gyliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599017
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0ef1ab1391c6d56b9e94ffea60c7e731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1343390437,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343390437,
+    "wof:lastmodified":1537662290,
+    "wof:name":"Gyliai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65345,
+    56.02734,
+    25.65345,
+    56.02734
+],
+  "geometry": {"coordinates":[25.65345,56.02734],"type":"Point"}
+}

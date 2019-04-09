@@ -1,0 +1,72 @@
+{
+  "id": 1243490375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26442,55.1463,22.26442,55.1463",
+    "geom:latitude":55.1463,
+    "geom:longitude":22.26442,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Adomiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601229,
+    "gn:latitude":55.1463,
+    "gn:longitude":22.26442,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Adomi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adomishken",
+        "Adomi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601229
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b1172a4dd1c4563389f3467b7eba2a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073623,
+            "locality_id":1243490375,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1243490375,
+    "wof:lastmodified":1537662440,
+    "wof:name":"Adomiskiai",
+    "wof:parent_id":102073623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26442,
+    55.1463,
+    22.26442,
+    55.1463
+],
+  "geometry": {"coordinates":[22.26442,55.1463],"type":"Point"}
+}

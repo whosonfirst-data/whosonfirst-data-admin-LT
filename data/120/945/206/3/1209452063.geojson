@@ -1,0 +1,65 @@
+{
+  "id": 1209452063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01605,55.92351,23.01605,55.92351",
+    "geom:latitude":55.92351,
+    "geom:longitude":23.01605,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Grabijolai",
+    "gn:country_code":"LT",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304095,
+    "gn:latitude":55.92351,
+    "gn:longitude":23.01605,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Grabijolai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Grabijolai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304095
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"652253525fbf35336c8ecf01430e987c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209452063
+        }
+    ],
+    "wof:id":1209452063,
+    "wof:lastmodified":1537662814,
+    "wof:name":"Grabijolai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01605,
+    55.92351,
+    23.01605,
+    55.92351
+],
+  "geometry": {"coordinates":[23.01605,55.92351],"type":"Point"}
+}

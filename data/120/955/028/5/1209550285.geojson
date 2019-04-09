@@ -1,0 +1,67 @@
+{
+  "id": 1209550285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76667,55.64694,23.76667,55.64694",
+    "geom:latitude":55.64694,
+    "geom:longitude":23.76667,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Pakirsinys",
+    "gn:country_code":"LT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596274,
+    "gn:latitude":55.64694,
+    "gn:longitude":23.76667,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pakir\u0161inys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pokarshine",
+        "Pakir\u0161inys Pirmasis",
+        "Pakir\u0161inys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596274
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f2a773a51ce768e202ab94d93f0a5f96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209550285
+        }
+    ],
+    "wof:id":1209550285,
+    "wof:lastmodified":1537662101,
+    "wof:name":"Pakirsinys",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76667,
+    55.64694,
+    23.76667,
+    55.64694
+],
+  "geometry": {"coordinates":[23.76667,55.64694],"type":"Point"}
+}

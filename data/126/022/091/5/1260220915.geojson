@@ -1,0 +1,81 @@
+{
+  "id": 1260220915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9203,55.25464,22.9203,55.25464",
+    "geom:latitude":55.25464,
+    "geom:longitude":22.9203,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Vadzgirys",
+    "gn:country_code":"LT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593554,
+    "gn:latitude":55.25464,
+    "gn:longitude":22.9203,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vad\u017egirys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vad\u017egirys"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0434\u0436\u0433\u0438\u0440\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Vodzhgiry",
+        "Vad\u017egirio",
+        "Vadzhgiris",
+        "Vad\u017egiris",
+        "Vad\u017egirys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593554
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f7d32b9f69f41f247cca6affd0cfc164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1260220915,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1260220915,
+    "wof:lastmodified":1537661913,
+    "wof:name":"Vadzgirys",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9203,
+    55.25464,
+    22.9203,
+    55.25464
+],
+  "geometry": {"coordinates":[22.9203,55.25464],"type":"Point"}
+}

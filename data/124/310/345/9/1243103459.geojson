@@ -1,0 +1,71 @@
+{
+  "id": 1243103459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52472,54.41845,25.52472,54.41845",
+    "geom:latitude":54.41845,
+    "geom:longitude":25.52472,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Miksiuliai",
+    "gn:country_code":"LT",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298389,
+    "gn:latitude":54.41845,
+    "gn:longitude":25.52472,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mik\u0161iuliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mik\u0161iuliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298389
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0f106a2978df2fa9115fc52b94d0b305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1243103459,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243103459,
+    "wof:lastmodified":1537662675,
+    "wof:name":"Miksiuliai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52472,
+    54.41845,
+    25.52472,
+    54.41845
+],
+  "geometry": {"coordinates":[25.52472,54.41845],"type":"Point"}
+}

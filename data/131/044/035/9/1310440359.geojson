@@ -1,0 +1,71 @@
+{
+  "id": 1310440359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64748,55.2771,23.64748,55.2771",
+    "geom:latitude":55.2771,
+    "geom:longitude":23.64748,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Jankunai",
+    "gn:country_code":"LT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307692,
+    "gn:latitude":55.2771,
+    "gn:longitude":23.64748,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jank\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jank\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307692
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ccd87f49889baf8939a2fa6213d9e68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1310440359,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310440359,
+    "wof:lastmodified":1537662893,
+    "wof:name":"Jankunai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64748,
+    55.2771,
+    23.64748,
+    55.2771
+],
+  "geometry": {"coordinates":[23.64748,55.2771],"type":"Point"}
+}

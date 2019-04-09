@@ -1,0 +1,71 @@
+{
+  "id": 1292935517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7536,56.0977,21.7536,56.0977",
+    "geom:latitude":56.0977,
+    "geom:longitude":21.7536,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Zobielai",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290316,
+    "gn:latitude":56.0977,
+    "gn:longitude":21.7536,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zobielai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zobielai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290316
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5a147c2baa6d5ba039cfe6fc1982343c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1292935517,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1292935517,
+    "wof:lastmodified":1537662469,
+    "wof:name":"Zobielai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7536,
+    56.0977,
+    21.7536,
+    56.0977
+],
+  "geometry": {"coordinates":[21.7536,56.0977],"type":"Point"}
+}

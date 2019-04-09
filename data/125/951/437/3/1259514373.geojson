@@ -1,0 +1,71 @@
+{
+  "id": 1259514373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53438,54.11635,23.53438,54.11635",
+    "geom:latitude":54.11635,
+    "geom:longitude":23.53438,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Kazeniai",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304672,
+    "gn:latitude":54.11635,
+    "gn:longitude":23.53438,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ka\u017eeniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ka\u017eeniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304672
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5d920b6d9c1bfc39a2dec33c4666ad0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1259514373,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1259514373,
+    "wof:lastmodified":1537662828,
+    "wof:name":"Kazeniai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53438,
+    54.11635,
+    23.53438,
+    54.11635
+],
+  "geometry": {"coordinates":[23.53438,54.11635],"type":"Point"}
+}

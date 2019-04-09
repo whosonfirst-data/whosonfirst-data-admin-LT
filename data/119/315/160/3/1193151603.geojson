@@ -1,0 +1,72 @@
+{
+  "id": 1193151603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1393,54.61669,25.1393,54.61669",
+    "geom:latitude":54.61669,
+    "geom:longitude":25.1393,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kazbieju Naujakiemis",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598296,
+    "gn:latitude":54.61669,
+    "gn:longitude":25.1393,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kazbiej\u0173 Naujakiemis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novoselki",
+        "Kazbiej\u0173 Najakiemis",
+        "Kazbiej\u0173 Naujakiemis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598296
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1b33d4f98fc3cbdfc132b229913aa90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":1193151603,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1193151603,
+    "wof:lastmodified":1537662242,
+    "wof:name":"Kazbieju Naujakiemis",
+    "wof:parent_id":102073615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1393,
+    54.61669000000001,
+    25.1393,
+    54.61669000000001
+],
+  "geometry": {"coordinates":[25.1393,54.61669000000001],"type":"Point"}
+}

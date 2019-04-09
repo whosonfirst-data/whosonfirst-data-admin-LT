@@ -1,0 +1,71 @@
+{
+  "id": 1226373011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.89796,55.38102,22.89796,55.38102",
+    "geom:latitude":55.38102,
+    "geom:longitude":22.89796,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Kempaliai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303636,
+    "gn:latitude":55.38102,
+    "gn:longitude":22.89796,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kempaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kempaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303636
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"921c7c3bf15c4c609c9e999abb980612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1226373011,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226373011,
+    "wof:lastmodified":1537662805,
+    "wof:name":"Kempaliai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.89796,
+    55.38101999999999,
+    22.89796,
+    55.38101999999999
+],
+  "geometry": {"coordinates":[22.89796,55.38101999999999],"type":"Point"}
+}

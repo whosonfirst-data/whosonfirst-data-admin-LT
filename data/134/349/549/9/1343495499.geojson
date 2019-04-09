@@ -1,0 +1,71 @@
+{
+  "id": 1343495499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18191,56.29603,23.18191,56.29603",
+    "geom:latitude":56.29603,
+    "geom:longitude":23.18191,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Basiuliskes",
+    "gn:country_code":"LT",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304533,
+    "gn:latitude":56.29603,
+    "gn:longitude":23.18191,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Basiuli\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Basiuli\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304533
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4fb7970a4661b93d36a14ca9848b306d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1343495499,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343495499,
+    "wof:lastmodified":1537662826,
+    "wof:name":"Basiuliskes",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18191,
+    56.29603,
+    23.18191,
+    56.29603
+],
+  "geometry": {"coordinates":[23.18191,56.29603],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193173697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.43567,54.25203,23.43567,54.25203",
+    "geom:latitude":54.25203,
+    "geom:longitude":23.43567,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Sadziunai",
+    "gn:country_code":"LT",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304764,
+    "gn:latitude":54.25203,
+    "gn:longitude":23.43567,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160ad\u017ei\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160ad\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304764
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7223a8c34e6a66426d132fb7f8411e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1193173697,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1193173697,
+    "wof:lastmodified":1537662831,
+    "wof:name":"Sadziunai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.43567,
+    54.25203000000001,
+    23.43567,
+    54.25203000000001
+],
+  "geometry": {"coordinates":[23.43567,54.25203000000001],"type":"Point"}
+}

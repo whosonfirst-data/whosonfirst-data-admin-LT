@@ -1,0 +1,72 @@
+{
+  "id": 1210047707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29802,55.84961,22.29802,55.84961",
+    "geom:latitude":55.84961,
+    "geom:longitude":22.29802,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Pluotine",
+    "gn:country_code":"LT",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595684,
+    "gn:latitude":55.84961,
+    "gn:longitude":22.29802,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pluotin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plutine",
+        "Pluotin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595684
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cb20c8766bc7dd2d480d24d4b68f56dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1210047707,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1210047707,
+    "wof:lastmodified":1537662058,
+    "wof:name":"Pluotine",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29802,
+    55.84961,
+    22.29802,
+    55.84961
+],
+  "geometry": {"coordinates":[22.29802,55.84961],"type":"Point"}
+}

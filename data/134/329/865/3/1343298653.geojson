@@ -1,0 +1,71 @@
+{
+  "id": 1343298653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06599,55.28982,24.06599,55.28982",
+    "geom:latitude":55.28982,
+    "geom:longitude":24.06599,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Aristavele",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309661,
+    "gn:latitude":55.28982,
+    "gn:longitude":24.06599,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Aristav\u0117l\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Aristav\u0117l\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309661
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"41b454cbbdf78f432bc30fff6fa4f4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1343298653,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343298653,
+    "wof:lastmodified":1537662928,
+    "wof:name":"Aristavele",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06599,
+    55.28982,
+    24.06599,
+    55.28982
+],
+  "geometry": {"coordinates":[24.06599,55.28982],"type":"Point"}
+}

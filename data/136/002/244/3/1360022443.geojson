@@ -1,0 +1,71 @@
+{
+  "id": 1360022443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78312,55.41394,22.78312,55.41394",
+    "geom:latitude":55.41394,
+    "geom:longitude":22.78312,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Arglaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600966,
+    "gn:latitude":55.41394,
+    "gn:longitude":22.78312,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Arglai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Arglai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600966
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"194dc07a85191936f6a75b37acbb7e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1360022443,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1360022443,
+    "wof:lastmodified":1537662425,
+    "wof:name":"Arglaiciai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78312,
+    55.41394,
+    22.78312,
+    55.41394
+],
+  "geometry": {"coordinates":[22.78312,55.41394],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226784111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29298,54.51499,24.29298,54.51499",
+    "geom:latitude":54.51499,
+    "geom:longitude":24.29298,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Azuolenai",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308887,
+    "gn:latitude":54.51499,
+    "gn:longitude":24.29298,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"A\u017euol\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "A\u017euol\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308887
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1924007a17257f204ad05e6fd5725b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1226784111,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1226784111,
+    "wof:lastmodified":1537662911,
+    "wof:name":"Azuolenai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29298,
+    54.51499,
+    24.29298,
+    54.51499
+],
+  "geometry": {"coordinates":[24.29298,54.51499],"type":"Point"}
+}

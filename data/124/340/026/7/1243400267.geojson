@@ -1,0 +1,75 @@
+{
+  "id": 1243400267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.54697,54.60945,24.54697,54.60945",
+    "geom:latitude":54.60945,
+    "geom:longitude":24.54697,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Akmeniai",
+    "gn:country_code":"LT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601037,
+    "gn:latitude":54.60945,
+    "gn:longitude":24.54697,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Akmeniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Akmeniai"
+    ],
+    "name:und_x_variant":[
+        "Okmyany",
+        "Antakmenys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601037
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d7705ff7ff33be6b6f230d42204836a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1243400267,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243400267,
+    "wof:lastmodified":1537662429,
+    "wof:name":"Akmeniai",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54697,
+    54.60945,
+    24.54697,
+    54.60945
+],
+  "geometry": {"coordinates":[24.54697,54.60945],"type":"Point"}
+}

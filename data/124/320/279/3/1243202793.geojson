@@ -1,0 +1,71 @@
+{
+  "id": 1243202793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.11482,55.57954,25.11482,55.57954",
+    "geom:latitude":55.57954,
+    "geom:longitude":25.11482,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Stakes",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299296,
+    "gn:latitude":55.57954,
+    "gn:longitude":25.11482,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Stak\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Stak\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299296
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ae8bdc2878d1e3021523af9e4ccd2150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1243202793,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243202793,
+    "wof:lastmodified":1537662698,
+    "wof:name":"Stakes",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.11482,
+    55.57954,
+    25.11482,
+    55.57954
+],
+  "geometry": {"coordinates":[25.11482,55.57954],"type":"Point"}
+}

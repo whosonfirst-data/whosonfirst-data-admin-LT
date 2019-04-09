@@ -1,0 +1,74 @@
+{
+  "id": 1225975477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20517,55.74263,26.20517,55.74263",
+    "geom:latitude":55.74263,
+    "geom:longitude":26.20517,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Bacioniskis",
+    "gn:country_code":"LT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600791,
+    "gn:latitude":55.74263,
+    "gn:longitude":26.20517,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bacioni\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bacioni\u0161kis"
+    ],
+    "name:lit_x_variant":[
+        "Ba\u010doni\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600791
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5dbf3a6900ca7d1bba3fe06c2c9dbcfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1225975477,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1225975477,
+    "wof:lastmodified":1537662415,
+    "wof:name":"Bacioniskis",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20517000000001,
+    55.74263000000001,
+    26.20517000000001,
+    55.74263000000001
+],
+  "geometry": {"coordinates":[26.20517000000001,55.74263000000001],"type":"Point"}
+}

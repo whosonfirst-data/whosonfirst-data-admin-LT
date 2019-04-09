@@ -1,0 +1,74 @@
+{
+  "id": 1243009713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12949,56.18895,24.12949,56.18895",
+    "geom:latitude":56.18895,
+    "geom:longitude":24.12949,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Butniunai",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600223,
+    "gn:latitude":56.18895,
+    "gn:longitude":24.12949,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Butni\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butni\u0117nai",
+        "Butnyunay",
+        "Butni\u016bn\u0173",
+        "Butni\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600223
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5e5a2cabb14b873511bd63d4f5fb573c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1243009713,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1243009713,
+    "wof:lastmodified":1537662373,
+    "wof:name":"Butniunai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12949,
+    56.18895,
+    24.12949,
+    56.18895
+],
+  "geometry": {"coordinates":[24.12949,56.18895],"type":"Point"}
+}

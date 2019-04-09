@@ -1,0 +1,64 @@
+{
+  "id": 1108949873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0842860674,54.6085793426,25.0842860674,54.6085793426",
+    "geom:latitude":54.608579,
+    "geom:longitude":25.084286,
+    "iso:country":"LT",
+    "lbl:latitude":54.608579,
+    "lbl:longitude":25.084286,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lit_x_preferred":[
+        "Dobrovol\u0117"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85685759,
+        85633269,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367969,
+    "wof:geomhash":"9ee35e6a742cded0ecdabf371e1c178f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "neighbourhood_id":1108949873,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949873,
+    "wof:lastmodified":1497292361,
+    "wof:name":"Dobrovole",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08428606740121,
+    54.60857934264626,
+    25.08428606740121,
+    54.60857934264626
+],
+  "geometry": {"coordinates":[25.08428606740121,54.60857934264626],"type":"Point"}
+}

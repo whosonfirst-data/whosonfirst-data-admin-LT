@@ -1,0 +1,71 @@
+{
+  "id": 1293625387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.37774,55.79091,23.37774,55.79091",
+    "geom:latitude":55.79091,
+    "geom:longitude":23.37774,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Dvarninkai",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11306123,
+    "gn:latitude":55.79091,
+    "gn:longitude":23.37774,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dvarninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dvarninkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11306123
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"32eee6d82fc8d1e15b6ddbde57364153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1293625387,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1293625387,
+    "wof:lastmodified":1537662862,
+    "wof:name":"Dvarninkai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.37774,
+    55.79091,
+    23.37774,
+    55.79091
+],
+  "geometry": {"coordinates":[23.37774,55.79091],"type":"Point"}
+}

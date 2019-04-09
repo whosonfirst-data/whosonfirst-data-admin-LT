@@ -1,0 +1,66 @@
+{
+  "id": 1209116143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91667,55.7,22.91667,55.7",
+    "geom:latitude":55.7,
+    "geom:longitude":22.91667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kuslaikiai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597757,
+    "gn:latitude":55.7,
+    "gn:longitude":22.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ku\u0161laikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kushleykyay",
+        "Ku\u0161laikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597757
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0392b8961ba9b8fe48db1a78acc45579",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209116143
+        }
+    ],
+    "wof:id":1209116143,
+    "wof:lastmodified":1537662206,
+    "wof:name":"Kuslaikiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91667,
+    55.7,
+    22.91667,
+    55.7
+],
+  "geometry": {"coordinates":[22.91667,55.7],"type":"Point"}
+}

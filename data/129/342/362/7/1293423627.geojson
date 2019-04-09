@@ -1,0 +1,71 @@
+{
+  "id": 1293423627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92367,55.14255,21.92367,55.14255",
+    "geom:latitude":55.14255,
+    "geom:longitude":21.92367,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Benininkai",
+    "gn:country_code":"LT",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289724,
+    "gn:latitude":55.14255,
+    "gn:longitude":21.92367,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Benininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Benininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289724
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a38949330f41f3f5cc835f2b6803a33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073623,
+            "locality_id":1293423627,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1293423627,
+    "wof:lastmodified":1537662460,
+    "wof:name":"Benininkai",
+    "wof:parent_id":102073623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92367,
+    55.14255,
+    21.92367,
+    55.14255
+],
+  "geometry": {"coordinates":[21.92367,55.14255],"type":"Point"}
+}

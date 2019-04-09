@@ -1,0 +1,74 @@
+{
+  "id": 1343798189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95456,55.56823,25.95456,55.56823",
+    "geom:latitude":55.56823,
+    "geom:longitude":25.95456,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Vajasiskis",
+    "gn:country_code":"LT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593471,
+    "gn:latitude":55.56823,
+    "gn:longitude":25.95456,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vajasi\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vajesi\u0161kis",
+        "Vajesi\u0161kio",
+        "Valesishkis",
+        "Vajasi\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593471
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9fbd7f075ae37933eebe3977cef2a95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1343798189,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343798189,
+    "wof:lastmodified":1537661907,
+    "wof:name":"Vajasiskis",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95456,
+    55.56823000000001,
+    25.95456,
+    55.56823000000001
+],
+  "geometry": {"coordinates":[25.95456,55.56823000000001],"type":"Point"}
+}

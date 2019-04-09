@@ -1,0 +1,67 @@
+{
+  "id": 1293802059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06667,54.11667,24.06667,54.11667",
+    "geom:latitude":54.11667,
+    "geom:longitude":24.06667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Radiscius",
+    "gn:country_code":"LT",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595459,
+    "gn:latitude":54.11667,
+    "gn:longitude":24.06667,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Radi\u0161cius",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595459
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"90a1bcde14baa7eacb3e153a41a16b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1293802059,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1293802059,
+    "wof:lastmodified":1536829696,
+    "wof:name":"Radiscius",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06667,
+    54.11666999999999,
+    24.06667,
+    54.11666999999999
+],
+  "geometry": {"coordinates":[24.06667,54.11666999999999],"type":"Point"}
+}

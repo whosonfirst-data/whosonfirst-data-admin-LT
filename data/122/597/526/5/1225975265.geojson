@@ -1,0 +1,72 @@
+{
+  "id": 1225975265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19368,55.91915,22.19368,55.91915",
+    "geom:latitude":55.91915,
+    "geom:longitude":22.19368,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Vilkos",
+    "gn:country_code":"LT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593132,
+    "gn:latitude":55.91915,
+    "gn:longitude":22.19368,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vilkos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vilkyay",
+        "Vilkos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593132
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ed1693c6f1d1bbb9d4f91047681ab22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1225975265,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1225975265,
+    "wof:lastmodified":1537661886,
+    "wof:name":"Vilkos",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19368,
+    55.91915,
+    22.19368,
+    55.91915
+],
+  "geometry": {"coordinates":[22.19368,55.91915],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243007849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43504,55.92492,21.43504,55.92492",
+    "geom:latitude":55.92492,
+    "geom:longitude":21.43504,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Zadeikiai",
+    "gn:country_code":"LT",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592954,
+    "gn:latitude":55.92492,
+    "gn:longitude":21.43504,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017dadeikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017dadeikiai"
+    ],
+    "name:und_x_variant":[
+        "Zhidenkay",
+        "\u017dadeikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592954
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f658b7bcaed4e34259815296ef18e61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":1243007849,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1243007849,
+    "wof:lastmodified":1537661875,
+    "wof:name":"Zadeikiai",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43504,
+    55.92491999999999,
+    21.43504,
+    55.92491999999999
+],
+  "geometry": {"coordinates":[21.43504,55.92491999999999],"type":"Point"}
+}

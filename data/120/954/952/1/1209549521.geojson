@@ -1,0 +1,69 @@
+{
+  "id": 1209549521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24089,55.03213,24.24089,55.03213",
+    "geom:latitude":55.03213,
+    "geom:longitude":24.24089,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Gulbiniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599051,
+    "gn:latitude":55.03213,
+    "gn:longitude":24.24089,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gulbini\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gulbini\u0161kiai"
+    ],
+    "name:und_x_variant":[
+        "Gul\u2019binishkyay",
+        "Gul\u2019bini\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599051
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"47251d173fca324c1abd1795663c9b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209549521
+        }
+    ],
+    "wof:id":1209549521,
+    "wof:lastmodified":1537662292,
+    "wof:name":"Gulbiniskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24089,
+    55.03213,
+    24.24089,
+    55.03213
+],
+  "geometry": {"coordinates":[24.24089,55.03213],"type":"Point"}
+}

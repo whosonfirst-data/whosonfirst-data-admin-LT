@@ -1,0 +1,74 @@
+{
+  "id": 1193047041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8624,55.50925,25.8624,55.50925",
+    "geom:latitude":55.50925,
+    "geom:longitude":25.8624,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Sirvydziai",
+    "gn:country_code":"LT",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594604,
+    "gn:latitude":55.50925,
+    "gn:longitude":25.8624,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sirvyd\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sirvyd\u017ei\u0173",
+        "Sirvid\u017eiai",
+        "Sirvidzhyay",
+        "Sirvyd\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594604
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a6738d6bcd811327a700abd0cb0830c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1193047041,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1193047041,
+    "wof:lastmodified":1537661983,
+    "wof:name":"Sirvydziai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8624,
+    55.50925,
+    25.8624,
+    55.50925
+],
+  "geometry": {"coordinates":[25.8624,55.50925],"type":"Point"}
+}

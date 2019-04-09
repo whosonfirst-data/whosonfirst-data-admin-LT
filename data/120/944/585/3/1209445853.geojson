@@ -1,0 +1,66 @@
+{
+  "id": 1209445853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.67634,55.21177,24.67634,55.21177",
+    "geom:latitude":55.21177,
+    "geom:longitude":24.67634,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Navikai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596688,
+    "gn:latitude":55.21177,
+    "gn:longitude":24.67634,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Navikai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Navikay",
+        "Navikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596688
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"152d8be10a936700981d9c268798c33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209445853
+        }
+    ],
+    "wof:id":1209445853,
+    "wof:lastmodified":1537662133,
+    "wof:name":"Navikai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.67634,
+    55.21177,
+    24.67634,
+    55.21177
+],
+  "geometry": {"coordinates":[24.67634,55.21177],"type":"Point"}
+}

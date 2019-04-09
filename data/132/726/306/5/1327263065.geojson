@@ -1,0 +1,71 @@
+{
+  "id": 1327263065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28491,55.48257,23.28491,55.48257",
+    "geom:latitude":55.48257,
+    "geom:longitude":23.28491,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Zborcizna",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305730,
+    "gn:latitude":55.48257,
+    "gn:longitude":23.28491,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zbor\u010dizna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zbor\u010dizna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305730
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"12e481dcd75484c41240c94d384515f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1327263065,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327263065,
+    "wof:lastmodified":1537662854,
+    "wof:name":"Zborcizna",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28491,
+    55.48257,
+    23.28491,
+    55.48257
+],
+  "geometry": {"coordinates":[23.28491,55.48257],"type":"Point"}
+}

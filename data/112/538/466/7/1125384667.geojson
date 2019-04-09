@@ -1,0 +1,82 @@
+{
+  "id": 1125384667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31925,54.906555,25.31925,54.906555",
+    "geom:latitude":54.906555,
+    "geom:longitude":25.31925,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":54.906555,
+    "lbl:longitude":25.31925,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Nemencines Seniunija",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Vilniaus Apskritis",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":13,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1015193,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56043980,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Vilniaus Apskritis",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043980,
+        "qs_pg:id":1015193
+    },
+    "wof:country":"LT",
+    "wof:created":1497048287,
+    "wof:geomhash":"fc09f48dca38102c367218c06fe42721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "localadmin_id":1125384667,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1125384667,
+    "wof:lastmodified":1509389682,
+    "wof:name":"Nemencines Seniunija",
+    "wof:parent_id":102073629,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31925,
+    54.906555,
+    25.31925,
+    54.906555
+],
+  "geometry": {"coordinates":[25.31925,54.906555],"type":"Point"}
+}

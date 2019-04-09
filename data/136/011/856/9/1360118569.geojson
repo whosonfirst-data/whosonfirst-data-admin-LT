@@ -1,0 +1,73 @@
+{
+  "id": 1360118569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96862,55.86789,23.96862,55.86789",
+    "geom:latitude":55.86789,
+    "geom:longitude":23.96862,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Tarvydai",
+    "gn:country_code":"LT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593978,
+    "gn:latitude":55.86789,
+    "gn:longitude":23.96862,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tarvydai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarviday",
+        "Tarvyd\u0173",
+        "Tarvydai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593978
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5e6fe4bdc32bef116e5ddaa73f5e93ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1360118569,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1360118569,
+    "wof:lastmodified":1537661940,
+    "wof:name":"Tarvydai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96862,
+    55.86789,
+    23.96862,
+    55.86789
+],
+  "geometry": {"coordinates":[23.96862,55.86789],"type":"Point"}
+}

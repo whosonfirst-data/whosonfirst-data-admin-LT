@@ -1,0 +1,82 @@
+{
+  "id": 1260010063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.67621,55.7751,25.67621,55.7751",
+    "geom:latitude":55.7751,
+    "geom:longitude":25.67621,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Juzintai",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598610,
+    "gn:latitude":55.7751,
+    "gn:longitude":25.67621,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"J\u016b\u017eintai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "J\u016b\u017eintai"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0436\u0438\u043d\u0442\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Yuzhinty",
+        "J\u016b\u017eint\u0173",
+        "Yuzhintai",
+        "Yuzhintay",
+        "J\u016b\u017eintai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598610,
+        "wk:page":"J%C5%AB%C5%BEintai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9ba575f1efef409f73147154dfa9986b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1260010063,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1260010063,
+    "wof:lastmodified":1537662264,
+    "wof:name":"Juzintai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.67621,
+    55.7751,
+    25.67621,
+    55.7751
+],
+  "geometry": {"coordinates":[25.67621,55.7751],"type":"Point"}
+}

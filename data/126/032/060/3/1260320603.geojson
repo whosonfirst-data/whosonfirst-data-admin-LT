@@ -1,0 +1,74 @@
+{
+  "id": 1260320603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75764,54.67622,24.75764,54.67622",
+    "geom:latitude":54.67622,
+    "geom:longitude":24.75764,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Laiciai",
+    "gn:country_code":"LT",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597698,
+    "gn:latitude":54.67622,
+    "gn:longitude":24.75764,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loytsy",
+        "Laychyay",
+        "Lai\u010di\u0173",
+        "Lai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597698
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f51ef84617769e7e1021602ef1ad0a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1260320603,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260320603,
+    "wof:lastmodified":1537662203,
+    "wof:name":"Laiciai",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75764,
+    54.67622,
+    24.75764,
+    54.67622
+],
+  "geometry": {"coordinates":[24.75764,54.67622],"type":"Point"}
+}

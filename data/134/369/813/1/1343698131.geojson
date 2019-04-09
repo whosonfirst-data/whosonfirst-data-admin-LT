@@ -1,0 +1,71 @@
+{
+  "id": 1343698131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14862,54.36126,23.14862,54.36126",
+    "geom:latitude":54.36126,
+    "geom:longitude":23.14862,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Barkai",
+    "gn:country_code":"LT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303031,
+    "gn:latitude":54.36126,
+    "gn:longitude":23.14862,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Barkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Barkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303031
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5168e410d45790bca788bbcfe52befd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073585,
+            "locality_id":1343698131,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1343698131,
+    "wof:lastmodified":1537662791,
+    "wof:name":"Barkai",
+    "wof:parent_id":102073585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14862,
+    54.36126,
+    23.14862,
+    54.36126
+],
+  "geometry": {"coordinates":[23.14862,54.36126],"type":"Point"}
+}

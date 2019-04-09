@@ -1,0 +1,72 @@
+{
+  "id": 1242713957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.077,55.625,24.077,55.625",
+    "geom:latitude":55.625,
+    "geom:longitude":24.077,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Baibokai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600770,
+    "gn:latitude":55.625,
+    "gn:longitude":24.077,
+    "gn:modification_date":"2016-09-29",
+    "gn:name":"Baibokai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baybaki",
+        "Baibokai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600770
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"92936dffdb9b4eac462a65610716aa94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1242713957,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1242713957,
+    "wof:lastmodified":1537662413,
+    "wof:name":"Baibokai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.077,
+    55.625,
+    24.077,
+    55.625
+],
+  "geometry": {"coordinates":[24.077,55.625],"type":"Point"}
+}

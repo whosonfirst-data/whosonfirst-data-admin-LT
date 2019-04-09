@@ -1,0 +1,71 @@
+{
+  "id": 1243292801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45053,56.10553,25.45053,56.10553",
+    "geom:latitude":56.10553,
+    "geom:longitude":25.45053,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Kirmeliskis",
+    "gn:country_code":"LT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295564,
+    "gn:latitude":56.10553,
+    "gn:longitude":25.45053,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kirm\u0117li\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kirm\u0117li\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295564
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f5f43f3669e0b66a4f7f0e4865072a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1243292801,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243292801,
+    "wof:lastmodified":1537662597,
+    "wof:name":"Kirmeliskis",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45053,
+    56.10553,
+    25.45053,
+    56.10553
+],
+  "geometry": {"coordinates":[25.45053,56.10553],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327061027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37455,54.18892,24.37455,54.18892",
+    "geom:latitude":54.18892,
+    "geom:longitude":24.37455,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Milioniskes",
+    "gn:country_code":"LT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596953,
+    "gn:latitude":54.18892,
+    "gn:longitude":24.37455,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Milioni\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Milioni\u0161k\u0117s"
+    ],
+    "name:lit_x_variant":[
+        "Milioni\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596953
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"791a6e771d8a8819530f1fd162804578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1327061027,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1327061027,
+    "wof:lastmodified":1537662151,
+    "wof:name":"Milioniskes",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37455,
+    54.18892,
+    24.37455,
+    54.18892
+],
+  "geometry": {"coordinates":[24.37455,54.18892],"type":"Point"}
+}

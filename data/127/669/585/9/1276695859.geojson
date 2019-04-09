@@ -1,0 +1,71 @@
+{
+  "id": 1276695859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22393,55.75349,26.22393,55.75349",
+    "geom:latitude":55.75349,
+    "geom:longitude":26.22393,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Bartasiskes",
+    "gn:country_code":"LT",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291540,
+    "gn:latitude":55.75349,
+    "gn:longitude":26.22393,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Barta\u0161i\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Barta\u0161i\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291540
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9d09b0e16216ab57517cb3f13f53271e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276695859,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276695859,
+    "wof:lastmodified":1537662498,
+    "wof:name":"Bartasiskes",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22393,
+    55.75349,
+    26.22393,
+    55.75349
+],
+  "geometry": {"coordinates":[26.22393,55.75349],"type":"Point"}
+}

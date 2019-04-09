@@ -1,0 +1,71 @@
+{
+  "id": 1327467437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51055,55.89793,22.51055,55.89793",
+    "geom:latitude":55.89793,
+    "geom:longitude":22.51055,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Pabungine",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302681,
+    "gn:latitude":55.89793,
+    "gn:longitude":22.51055,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pabungin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pabungin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302681
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9fdc0b7ebe60469ed235d2e14fa0862f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1327467437,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1327467437,
+    "wof:lastmodified":1537662784,
+    "wof:name":"Pabungine",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51055,
+    55.89793,
+    22.51055,
+    55.89793
+],
+  "geometry": {"coordinates":[22.51055,55.89793],"type":"Point"}
+}

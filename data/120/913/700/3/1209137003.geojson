@@ -1,0 +1,65 @@
+{
+  "id": 1209137003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06927,55.48201,24.06927,55.48201",
+    "geom:latitude":55.48201,
+    "geom:longitude":24.06927,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Daniliskis",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309600,
+    "gn:latitude":55.48201,
+    "gn:longitude":24.06927,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Danili\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Danili\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309600
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"73a20671f0daea29c7f0e9f6fa2b45f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209137003
+        }
+    ],
+    "wof:id":1209137003,
+    "wof:lastmodified":1537662926,
+    "wof:name":"Daniliskis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06927,
+    55.48201,
+    24.06927,
+    55.48201
+],
+  "geometry": {"coordinates":[24.06927,55.48201],"type":"Point"}
+}

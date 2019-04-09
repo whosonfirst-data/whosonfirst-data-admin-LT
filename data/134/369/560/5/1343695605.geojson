@@ -1,0 +1,71 @@
+{
+  "id": 1343695605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0291,55.5872,25.0291,55.5872",
+    "geom:latitude":55.5872,
+    "geom:longitude":25.0291,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Svileliai",
+    "gn:country_code":"LT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299302,
+    "gn:latitude":55.5872,
+    "gn:longitude":25.0291,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Svileliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Svileliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299302
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1769492140705938fdc0c6412795e91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1343695605,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343695605,
+    "wof:lastmodified":1537662698,
+    "wof:name":"Svileliai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0291,
+    55.5872,
+    25.0291,
+    55.5872
+],
+  "geometry": {"coordinates":[25.0291,55.5872],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209446225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28531,56.06227,25.28531,56.06227",
+    "geom:latitude":56.06227,
+    "geom:longitude":25.28531,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Panemunis",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596136,
+    "gn:latitude":56.06227,
+    "gn:longitude":25.28531,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Panemunis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Panemunis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u044f\u043c\u0443\u043d\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Ponemuna",
+        "Panemunio",
+        "Ponemuni",
+        "Pameni\u0161kis",
+        "Panemun\u2019",
+        "Panemunis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596136,
+        "wk:page":"Panemunis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"00b7ffb82270baa14c2ab366830351d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209446225
+        }
+    ],
+    "wof:id":1209446225,
+    "wof:lastmodified":1537662092,
+    "wof:name":"Panemunis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28531,
+    56.06227,
+    25.28531,
+    56.06227
+],
+  "geometry": {"coordinates":[25.28531,56.06227],"type":"Point"}
+}

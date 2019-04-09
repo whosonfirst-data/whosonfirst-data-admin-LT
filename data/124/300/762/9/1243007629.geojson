@@ -1,0 +1,71 @@
+{
+  "id": 1243007629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87997,55.90935,21.87997,55.90935",
+    "geom:latitude":55.90935,
+    "geom:longitude":21.87997,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Jovaisiske",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290086,
+    "gn:latitude":55.90935,
+    "gn:longitude":21.87997,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jovai\u0161i\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jovai\u0161i\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290086
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"78fb63668b799252dc03493afad34552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1243007629,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1243007629,
+    "wof:lastmodified":1537662466,
+    "wof:name":"Jovaisiske",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87997,
+    55.90935,
+    21.87997,
+    55.90935
+],
+  "geometry": {"coordinates":[21.87997,55.90935],"type":"Point"}
+}

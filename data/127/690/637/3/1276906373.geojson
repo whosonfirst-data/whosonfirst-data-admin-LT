@@ -1,0 +1,71 @@
+{
+  "id": 1276906373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44362,54.21142,23.44362,54.21142",
+    "geom:latitude":54.21142,
+    "geom:longitude":23.44362,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Aukstakalniai",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304866,
+    "gn:latitude":54.21142,
+    "gn:longitude":23.44362,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Auk\u0161takalniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Auk\u0161takalniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304866
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cddf1b578ac30e4364abc5007bc220d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1276906373,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1276906373,
+    "wof:lastmodified":1537662833,
+    "wof:name":"Aukstakalniai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44362000000001,
+    54.21142,
+    23.44362000000001,
+    54.21142
+],
+  "geometry": {"coordinates":[23.44362000000001,54.21142],"type":"Point"}
+}

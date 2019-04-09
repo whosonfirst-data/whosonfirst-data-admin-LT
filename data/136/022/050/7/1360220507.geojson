@@ -1,0 +1,71 @@
+{
+  "id": 1360220507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00299,55.4806,22.00299,55.4806",
+    "geom:latitude":55.4806,
+    "geom:longitude":22.00299,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Stigraliai",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290004,
+    "gn:latitude":55.4806,
+    "gn:longitude":22.00299,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Stigraliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Stigraliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290004
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fbf6106e1e9b43047780dc3b1f09dd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1360220507,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1360220507,
+    "wof:lastmodified":1537662466,
+    "wof:name":"Stigraliai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00299,
+    55.4806,
+    22.00299,
+    55.4806
+],
+  "geometry": {"coordinates":[22.00299,55.4806],"type":"Point"}
+}

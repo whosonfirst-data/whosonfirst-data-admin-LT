@@ -1,0 +1,72 @@
+{
+  "id": 1276804643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21091,55.46764,23.21091,55.46764",
+    "geom:latitude":55.46764,
+    "geom:longitude":23.21091,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Skaraitiske",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594568,
+    "gn:latitude":55.46764,
+    "gn:longitude":23.21091,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Skaraiti\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skorotyshki",
+        "Skaraiti\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594568
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a86354269c12868682bc9b936d85b306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1276804643,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276804643,
+    "wof:lastmodified":1537661981,
+    "wof:name":"Skaraitiske",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21091,
+    55.46764,
+    23.21091,
+    55.46764
+],
+  "geometry": {"coordinates":[23.21091,55.46764],"type":"Point"}
+}

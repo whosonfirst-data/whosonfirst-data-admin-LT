@@ -1,0 +1,71 @@
+{
+  "id": 1225981153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55348,54.09103,23.55348,54.09103",
+    "geom:latitude":54.09103,
+    "geom:longitude":23.55348,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Briniai",
+    "gn:country_code":"LT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600376,
+    "gn:latitude":54.09103,
+    "gn:longitude":23.55348,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Briniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Briniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600376
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fe3a052d1a085b47e919e9f23118d87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1225981153,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1225981153,
+    "wof:lastmodified":1537662385,
+    "wof:name":"Briniai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55348,
+    54.09103,
+    23.55348,
+    54.09103
+],
+  "geometry": {"coordinates":[23.55348,54.09103],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309942785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48865,54.39122,24.48865,54.39122",
+    "geom:latitude":54.39122,
+    "geom:longitude":24.48865,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Grumiskes",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310706,
+    "gn:latitude":54.39122,
+    "gn:longitude":24.48865,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Grumi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Grumi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310706
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"03c397647332ad672bd0d747f98cc5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1309942785,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1309942785,
+    "wof:lastmodified":1537662949,
+    "wof:name":"Grumiskes",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48865,
+    54.39122,
+    24.48865,
+    54.39122
+],
+  "geometry": {"coordinates":[24.48865,54.39122],"type":"Point"}
+}

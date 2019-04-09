@@ -1,0 +1,77 @@
+{
+  "id": 1260009987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83822,55.59172,23.83822,55.59172",
+    "geom:latitude":55.59172,
+    "geom:longitude":23.83822,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Pasakiai",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596056,
+    "gn:latitude":55.59172,
+    "gn:longitude":23.83822,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u0161akiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u0161akiai"
+    ],
+    "name:und_x_variant":[
+        "Poshoki",
+        "Pa\u0161akiai Pirmieji",
+        "Pashokay",
+        "Pa\u0161akiai I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596056
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"eb10026258ea0f4c12b760f39bcc9fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1260009987,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1260009987,
+    "wof:lastmodified":1537662086,
+    "wof:name":"Pasakiai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83822,
+    55.59172,
+    23.83822,
+    55.59172
+],
+  "geometry": {"coordinates":[23.83822,55.59172],"type":"Point"}
+}

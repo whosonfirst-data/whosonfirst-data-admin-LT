@@ -1,0 +1,65 @@
+{
+  "id": 1209449053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.38724,54.303,23.38724,54.303",
+    "geom:latitude":54.303,
+    "geom:longitude":23.38724,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Astrioji Kirsna",
+    "gn:country_code":"LT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600924,
+    "gn:latitude":54.303,
+    "gn:longitude":23.38724,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"A\u0161trioji Kirsna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "A\u0161trioji Kirsna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600924
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"64e79e191112cbd95e6111dbbc54c331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209449053
+        }
+    ],
+    "wof:id":1209449053,
+    "wof:lastmodified":1537662423,
+    "wof:name":"Astrioji Kirsna",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.38724,
+    54.303,
+    23.38724,
+    54.303
+],
+  "geometry": {"coordinates":[23.38724,54.303],"type":"Point"}
+}

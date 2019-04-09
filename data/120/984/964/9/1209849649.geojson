@@ -1,0 +1,73 @@
+{
+  "id": 1209849649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85582,55.98014,24.85582,55.98014",
+    "geom:latitude":55.98014,
+    "geom:longitude":24.85582,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Cypenai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600140,
+    "gn:latitude":55.98014,
+    "gn:longitude":24.85582,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u010cyp\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chipenay",
+        "\u010cyp\u0117n\u0173",
+        "\u010cyp\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600140
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bb894c8c354701135c2a91be2362e605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1209849649,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1209849649,
+    "wof:lastmodified":1537662367,
+    "wof:name":"Cypenai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85582,
+    55.98014000000001,
+    24.85582,
+    55.98014000000001
+],
+  "geometry": {"coordinates":[24.85582,55.98014000000001],"type":"Point"}
+}

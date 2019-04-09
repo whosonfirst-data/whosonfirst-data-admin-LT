@@ -1,0 +1,71 @@
+{
+  "id": 1243584269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22396,56.04056,25.22396,56.04056",
+    "geom:latitude":56.04056,
+    "geom:longitude":25.22396,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Buivydiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295445,
+    "gn:latitude":56.04056,
+    "gn:longitude":25.22396,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Buivydi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Buivydi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295445
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"efa9aeaa59d645c87081c24f5ac9871d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1243584269,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243584269,
+    "wof:lastmodified":1537662594,
+    "wof:name":"Buivydiskiai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22396,
+    56.04056,
+    25.22396,
+    56.04056
+],
+  "geometry": {"coordinates":[25.22396,56.04056],"type":"Point"}
+}

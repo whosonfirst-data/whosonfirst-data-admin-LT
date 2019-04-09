@@ -1,0 +1,71 @@
+{
+  "id": 1310629367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39868,55.06253,25.39868,55.06253",
+    "geom:latitude":55.06253,
+    "geom:longitude":25.39868,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Labotiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297557,
+    "gn:latitude":55.06253,
+    "gn:longitude":25.39868,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Laboti\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Laboti\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297557
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fe1cff1a2947ccacb4ba4daeaa7ae707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1310629367,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310629367,
+    "wof:lastmodified":1537662651,
+    "wof:name":"Labotiskiai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39868,
+    55.06253,
+    25.39868,
+    55.06253
+],
+  "geometry": {"coordinates":[25.39868,55.06253],"type":"Point"}
+}

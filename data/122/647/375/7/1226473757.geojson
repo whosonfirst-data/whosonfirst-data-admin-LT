@@ -1,0 +1,72 @@
+{
+  "id": 1226473757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86372,54.97305,22.86372,54.97305",
+    "geom:latitude":54.97305,
+    "geom:longitude":22.86372,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Kriaucenai",
+    "gn:country_code":"LT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597980,
+    "gn:latitude":54.97305,
+    "gn:longitude":22.86372,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kriau\u010d\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kryauchenay",
+        "Kriau\u010d\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597980
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"49801ca5d7c48bfdb4573134c5b62645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1226473757,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1226473757,
+    "wof:lastmodified":1537662222,
+    "wof:name":"Kriaucenai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86372,
+    54.97305,
+    22.86372,
+    54.97305
+],
+  "geometry": {"coordinates":[22.86372,54.97305],"type":"Point"}
+}

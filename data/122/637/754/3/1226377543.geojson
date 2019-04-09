@@ -1,0 +1,74 @@
+{
+  "id": 1226377543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30685,55.38199,26.30685,55.38199",
+    "geom:latitude":55.38199,
+    "geom:longitude":26.30685,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Degutiske I",
+    "gn:country_code":"LT",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292417,
+    "gn:latitude":55.38199,
+    "gn:longitude":26.30685,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Deguti\u0161k\u0117 I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Deguti\u0161k\u0117 I"
+    ],
+    "name:und_x_variant":[
+        "Deguti\u0161k\u0117 II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292417
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f49115562ffe7a7717911143b2680671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1226377543,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226377543,
+    "wof:lastmodified":1537662522,
+    "wof:name":"Degutiske I",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30685,
+    55.38199,
+    26.30685,
+    55.38199
+],
+  "geometry": {"coordinates":[26.30685,55.38199],"type":"Point"}
+}

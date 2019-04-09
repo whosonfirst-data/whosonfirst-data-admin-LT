@@ -1,0 +1,78 @@
+{
+  "id": 1310236151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.18511,55.23627,26.18511,55.23627",
+    "geom:latitude":55.23627,
+    "geom:longitude":26.18511,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Didziasalis",
+    "gn:country_code":"LT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599889,
+    "gn:latitude":55.23627,
+    "gn:longitude":26.18511,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Did\u017eiasalis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Did\u017eiasalis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0434\u0436\u044f-\u0421\u0430\u043b\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Vel\u2019ka Ves\u2019",
+        "Did\u017eiasalis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599889
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0142a0226d2633310a5de702f8754927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1310236151,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310236151,
+    "wof:lastmodified":1537662348,
+    "wof:name":"Didziasalis",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.18511,
+    55.23627,
+    26.18511,
+    55.23627
+],
+  "geometry": {"coordinates":[26.18511,55.23627],"type":"Point"}
+}

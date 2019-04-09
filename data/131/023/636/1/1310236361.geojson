@@ -1,0 +1,77 @@
+{
+  "id": 1310236361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81156,55.20875,22.81156,55.20875",
+    "geom:latitude":55.20875,
+    "geom:longitude":22.81156,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Pavidaujys",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595929,
+    "gn:latitude":55.20875,
+    "gn:longitude":22.81156,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pavidaujys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pavidaujis",
+        "Pavidaujo",
+        "Kolkhoz Pavidauis",
+        "Pavidaujai",
+        "Pavidauyis",
+        "Povidave",
+        "Pavidaujys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595929
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3618f8d1116b65924909863ff179bcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1310236361,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1310236361,
+    "wof:lastmodified":1537662076,
+    "wof:name":"Pavidaujys",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81156,
+    55.20875,
+    22.81156,
+    55.20875
+],
+  "geometry": {"coordinates":[22.81156,55.20875],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193051995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53201,55.28868,25.53201,55.28868",
+    "geom:latitude":55.28868,
+    "geom:longitude":25.53201,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Raudonele",
+    "gn:country_code":"LT",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296729,
+    "gn:latitude":55.28868,
+    "gn:longitude":25.53201,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Raudon\u0117l\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Raudon\u0117l\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296729
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5a97091f24c3d43cee9fc6e55db6fc24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1193051995,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1193051995,
+    "wof:lastmodified":1537662627,
+    "wof:name":"Raudonele",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53201,
+    55.28868000000001,
+    25.53201,
+    55.28868000000001
+],
+  "geometry": {"coordinates":[25.53201,55.28868000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343397671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80697,55.0339,23.80697,55.0339",
+    "geom:latitude":55.0339,
+    "geom:longitude":23.80697,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Juodoniai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598702,
+    "gn:latitude":55.0339,
+    "gn:longitude":23.80697,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Juodoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iodanchyay",
+        "Iodantsy",
+        "Juodoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598702
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f7cdfc2c1b499fcdcc4c159a17fe4583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1343397671,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343397671,
+    "wof:lastmodified":1537662270,
+    "wof:name":"Juodoniai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80697,
+    55.0339,
+    23.80697,
+    55.0339
+],
+  "geometry": {"coordinates":[23.80697,55.0339],"type":"Point"}
+}

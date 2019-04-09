@@ -1,0 +1,71 @@
+{
+  "id": 1226279479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59423,55.1841,25.59423,55.1841",
+    "geom:latitude":55.1841,
+    "geom:longitude":25.59423,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Vyziniai",
+    "gn:country_code":"LT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294498,
+    "gn:latitude":55.1841,
+    "gn:longitude":25.59423,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vy\u017einiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vy\u017einiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294498
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d6930f809dfd122a4600fb47b6d03bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1226279479,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226279479,
+    "wof:lastmodified":1537662569,
+    "wof:name":"Vyziniai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59423,
+    55.1841,
+    25.59423,
+    55.1841
+],
+  "geometry": {"coordinates":[25.59423,55.1841],"type":"Point"}
+}

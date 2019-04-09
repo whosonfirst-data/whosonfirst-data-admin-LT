@@ -1,0 +1,71 @@
+{
+  "id": 1259914373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.20593,54.82958,25.20593,54.82958",
+    "geom:latitude":54.82958,
+    "geom:longitude":25.20593,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Pagailasiai",
+    "gn:country_code":"LT",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297686,
+    "gn:latitude":54.82958,
+    "gn:longitude":25.20593,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pagaila\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pagaila\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297686
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e5fd27925853d65bdf4d36f157da9f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1259914373,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259914373,
+    "wof:lastmodified":1537662655,
+    "wof:name":"Pagailasiai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.20593,
+    54.82958000000001,
+    25.20593,
+    54.82958000000001
+],
+  "geometry": {"coordinates":[25.20593,54.82958000000001],"type":"Point"}
+}

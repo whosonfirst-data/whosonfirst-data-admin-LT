@@ -1,0 +1,79 @@
+{
+  "id": 1259518279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.217,55.78569,21.217,55.78569",
+    "geom:latitude":55.78569,
+    "geom:longitude":21.217,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Radailiai",
+    "gn:country_code":"LT",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597486,
+    "gn:latitude":55.78569,
+    "gn:longitude":21.217,
+    "gn:modification_date":"2015-07-12",
+    "gn:name":"Radailiai",
+    "gn:population":53,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Radailiai"
+    ],
+    "name:lit_x_preferred":[
+        "Radailiai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0430\u0439\u043b\u044f\u0439"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597486
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fb27929ffcc2e0529cf33c46ca48d714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1259518279,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1259518279,
+    "wof:lastmodified":1537662188,
+    "wof:name":"Radailiai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:population":53,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.217,
+    55.78569,
+    21.217,
+    55.78569
+],
+  "geometry": {"coordinates":[21.217,55.78569],"type":"Point"}
+}

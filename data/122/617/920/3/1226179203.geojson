@@ -1,0 +1,81 @@
+{
+  "id": 1226179203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37486,54.4607,24.37486,54.4607",
+    "geom:latitude":54.4607,
+    "geom:longitude":24.37486,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Pivasiunai",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595737,
+    "gn:latitude":54.4607,
+    "gn:longitude":24.37486,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Piva\u0161i\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Piva\u0161i\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0432\u0430\u0448\u044e\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Piva\u0161i\u016bn\u0173",
+        "Pivashyunay",
+        "Pivoshuny",
+        "Piva\u0161i\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595737
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"84e8ce7636f793f571028a56807a5b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1226179203,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1226179203,
+    "wof:lastmodified":1537662061,
+    "wof:name":"Pivasiunai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37486,
+    54.4607,
+    24.37486,
+    54.4607
+],
+  "geometry": {"coordinates":[24.37486,54.4607],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243103673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70241,54.86061,24.70241,54.86061",
+    "geom:latitude":54.86061,
+    "geom:longitude":24.70241,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Dainavele",
+    "gn:country_code":"LT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311443,
+    "gn:latitude":54.86061,
+    "gn:longitude":24.70241,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dainav\u0117l\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dainav\u0117l\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311443
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f182a21d836b1e257f69974800fa28dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1243103673,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1243103673,
+    "wof:lastmodified":1537662966,
+    "wof:name":"Dainavele",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70241,
+    54.86061,
+    24.70241,
+    54.86061
+],
+  "geometry": {"coordinates":[24.70241,54.86061],"type":"Point"}
+}

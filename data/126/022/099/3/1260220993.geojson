@@ -1,0 +1,82 @@
+{
+  "id": 1260220993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22219,55.93095,24.22219,55.93095",
+    "geom:latitude":55.93095,
+    "geom:longitude":24.22219,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Sedeikoniai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597149,
+    "gn:latitude":55.93095,
+    "gn:longitude":24.22219,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160edeikoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Medikoniai"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160edeikoniai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0438\u043a\u043e\u043d\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Medykenay",
+        "Medikonyay",
+        "Medikoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597149
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"23ea45d47791097b3cce48d684fb13d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1260220993,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1260220993,
+    "wof:lastmodified":1537662165,
+    "wof:name":"Sedeikoniai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22219,
+    55.93095,
+    24.22219,
+    55.93095
+],
+  "geometry": {"coordinates":[24.22219,55.93095],"type":"Point"}
+}

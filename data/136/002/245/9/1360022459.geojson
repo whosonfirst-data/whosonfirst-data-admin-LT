@@ -1,0 +1,71 @@
+{
+  "id": 1360022459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44157,54.68509,24.44157,54.68509",
+    "geom:latitude":54.68509,
+    "geom:longitude":24.44157,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Malinauka",
+    "gn:country_code":"LT",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310931,
+    "gn:latitude":54.68509,
+    "gn:longitude":24.44157,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Malinauka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Malinauka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310931
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f102f027aff892925353e614776e5b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1360022459,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1360022459,
+    "wof:lastmodified":1537662953,
+    "wof:name":"Malinauka",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44157,
+    54.68509,
+    24.44157,
+    54.68509
+],
+  "geometry": {"coordinates":[24.44157,54.68509],"type":"Point"}
+}

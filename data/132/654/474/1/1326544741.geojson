@@ -1,0 +1,67 @@
+{
+  "id": 1326544741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.23333,55.18333,24.23333,55.18333",
+    "geom:latitude":55.18333,
+    "geom:longitude":24.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ruta",
+    "gn:country_code":"LT",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595083,
+    "gn:latitude":55.18333,
+    "gn:longitude":24.23333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"R\u016bta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595083
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f9dfeed53744354cddfd7404a49e928c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1326544741,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1326544741,
+    "wof:lastmodified":1536965655,
+    "wof:name":"Ruta",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.23333,
+    55.18333000000001,
+    24.23333,
+    55.18333000000001
+],
+  "geometry": {"coordinates":[24.23333,55.18333000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343397043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.67311,54.27845,23.67311,54.27845",
+    "geom:latitude":54.27845,
+    "geom:longitude":23.67311,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Zebrenai",
+    "gn:country_code":"LT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592856,
+    "gn:latitude":54.27845,
+    "gn:longitude":23.67311,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zebr\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zebr\u0117nai"
+    ],
+    "name:lit_x_variant":[
+        "\u017debr\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592856
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8fec2cfacf22ed3ea35c5385193736f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1343397043,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1343397043,
+    "wof:lastmodified":1537661869,
+    "wof:name":"Zebrenai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.67311,
+    54.27845,
+    23.67311,
+    54.27845
+],
+  "geometry": {"coordinates":[23.67311,54.27845],"type":"Point"}
+}

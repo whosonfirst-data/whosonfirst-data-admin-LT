@@ -1,0 +1,71 @@
+{
+  "id": 1293130133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56668,55.07797,25.56668,55.07797",
+    "geom:latitude":55.07797,
+    "geom:longitude":25.56668,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Kupeliskis",
+    "gn:country_code":"LT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294576,
+    "gn:latitude":55.07797,
+    "gn:longitude":25.56668,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kupeli\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kupeli\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294576
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8e2dffff2d4326e106a674a9e042024f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1293130133,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1293130133,
+    "wof:lastmodified":1537662572,
+    "wof:name":"Kupeliskis",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56668,
+    55.07796999999999,
+    25.56668,
+    55.07796999999999
+],
+  "geometry": {"coordinates":[25.56668,55.07796999999999],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209348699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31389,55.55359,25.31389,55.55359",
+    "geom:latitude":55.55359,
+    "geom:longitude":25.31389,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Bebarzdziai",
+    "gn:country_code":"LT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296083,
+    "gn:latitude":55.55359,
+    "gn:longitude":25.31389,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bebarzd\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bebarzd\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296083
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8cea0cab9fe162c0cd3b12399690a55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209348699
+        }
+    ],
+    "wof:id":1209348699,
+    "wof:lastmodified":1537662610,
+    "wof:name":"Bebarzdziai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31389,
+    55.55359,
+    25.31389,
+    55.55359
+],
+  "geometry": {"coordinates":[25.31389,55.55359],"type":"Point"}
+}

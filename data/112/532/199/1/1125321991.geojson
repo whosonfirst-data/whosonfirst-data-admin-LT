@@ -1,0 +1,82 @@
+{
+  "id": 1125321991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.936666,55.639,22.936666,55.639",
+    "geom:latitude":55.639,
+    "geom:longitude":22.936666,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":55.639,
+    "lbl:longitude":22.936666,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kelmes Seniunija",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Siauli\u00f9 Apskritis",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1112112,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56044038,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Siauli\u00f9 Apskritis",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56044038,
+        "qs_pg:id":1112112
+    },
+    "wof:country":"LT",
+    "wof:created":1497044586,
+    "wof:geomhash":"635953e072c7c18f58664ab0018b0ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "localadmin_id":1125321991,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1125321991,
+    "wof:lastmodified":1509388137,
+    "wof:name":"Kelmes Seniunija",
+    "wof:parent_id":102073673,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.936666,
+    55.639,
+    22.936666,
+    55.639
+],
+  "geometry": {"coordinates":[22.936666,55.639],"type":"Point"}
+}

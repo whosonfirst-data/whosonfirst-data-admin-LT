@@ -1,0 +1,71 @@
+{
+  "id": 1276260155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70408,55.68878,24.70408,55.68878",
+    "geom:latitude":55.68878,
+    "geom:longitude":24.70408,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Purkonys",
+    "gn:country_code":"LT",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312059,
+    "gn:latitude":55.68878,
+    "gn:longitude":24.70408,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Purkonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Purkonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312059
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ff5e2b4b327fec1a9600e61e41863b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1276260155,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276260155,
+    "wof:lastmodified":1537662983,
+    "wof:name":"Purkonys",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70408,
+    55.68878,
+    24.70408,
+    55.68878
+],
+  "geometry": {"coordinates":[24.70408,55.68878],"type":"Point"}
+}

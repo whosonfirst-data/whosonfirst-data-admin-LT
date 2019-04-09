@@ -1,0 +1,75 @@
+{
+  "id": 1293723103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.54442,55.51936,24.54442,55.51936",
+    "geom:latitude":55.51936,
+    "geom:longitude":24.54442,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Alantes",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601095,
+    "gn:latitude":55.51936,
+    "gn:longitude":24.54442,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Alant\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golonety",
+        "Alant\u0117s",
+        "Alun\u010dio",
+        "Alun\u010diai",
+        "Alaut\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601095
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"65e36a82c64205491dd37f26a28921ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1293723103,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293723103,
+    "wof:lastmodified":1537662433,
+    "wof:name":"Alantes",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.54442,
+    55.51936,
+    24.54442,
+    55.51936
+],
+  "geometry": {"coordinates":[24.54442,55.51936],"type":"Point"}
+}

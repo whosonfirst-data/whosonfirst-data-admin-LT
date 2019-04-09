@@ -1,0 +1,80 @@
+{
+  "id": 1276796605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90061,55.76084,24.90061,55.76084",
+    "geom:latitude":55.76084,
+    "geom:longitude":24.90061,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Rudiliai",
+    "gn:country_code":"LT",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595161,
+    "gn:latitude":55.76084,
+    "gn:longitude":24.90061,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rudiliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rudiliai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u0438\u043b\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Rudelyay",
+        "Rudili\u0173",
+        "Rudilyay",
+        "Rudiliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595161
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e4cf9d06bca01e49b9ba5bbe074e6621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1276796605,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276796605,
+    "wof:lastmodified":1537662022,
+    "wof:name":"Rudiliai",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90061,
+    55.76084,
+    24.90061,
+    55.76084
+],
+  "geometry": {"coordinates":[24.90061,55.76084],"type":"Point"}
+}

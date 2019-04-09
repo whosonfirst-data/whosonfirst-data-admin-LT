@@ -1,0 +1,75 @@
+{
+  "id": 1326566261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07244,55.38261,22.07244,55.38261",
+    "geom:latitude":55.38261,
+    "geom:longitude":22.07244,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Vilku Laukas",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593137,
+    "gn:latitude":55.38261,
+    "gn:longitude":22.07244,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vilk\u0173 Laukas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vilk\u0173 Laukas"
+    ],
+    "name:und_x_variant":[
+        "Vilkulavki",
+        "Vilklaukis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593137
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c5d12aab715bdc94bf0e84190ce1a0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1326566261,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1326566261,
+    "wof:lastmodified":1537661886,
+    "wof:name":"Vilku Laukas",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07244,
+    55.38261,
+    22.07244,
+    55.38261
+],
+  "geometry": {"coordinates":[22.07244,55.38261],"type":"Point"}
+}

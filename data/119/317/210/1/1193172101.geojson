@@ -1,0 +1,72 @@
+{
+  "id": 1193172101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.52827,55.28969,26.52827,55.28969",
+    "geom:latitude":55.28969,
+    "geom:longitude":26.52827,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Erzvetas",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599586,
+    "gn:latitude":55.28969,
+    "gn:longitude":26.52827,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Erzv\u0117tas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orshveta",
+        "Erzv\u0117tas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599586
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4a74722bd686db3ca00943a5bf90f7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1193172101,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1193172101,
+    "wof:lastmodified":1537662329,
+    "wof:name":"Erzvetas",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.52827000000001,
+    55.28969,
+    26.52827000000001,
+    55.28969
+],
+  "geometry": {"coordinates":[26.52827000000001,55.28969],"type":"Point"}
+}

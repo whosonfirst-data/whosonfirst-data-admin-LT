@@ -1,0 +1,71 @@
+{
+  "id": 1310435987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46314,55.44609,25.46314,55.44609",
+    "geom:latitude":55.44609,
+    "geom:longitude":25.46314,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Davainiu Giria",
+    "gn:country_code":"LT",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296658,
+    "gn:latitude":55.44609,
+    "gn:longitude":25.46314,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Davaini\u0173 Giria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Davaini\u0173 Giria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296658
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b8565abef58e05936cf3a38cd2dbcc65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1310435987,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310435987,
+    "wof:lastmodified":1537662625,
+    "wof:name":"Davainiu Giria",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46314,
+    55.44609000000001,
+    25.46314,
+    55.44609000000001
+],
+  "geometry": {"coordinates":[25.46314,55.44609000000001],"type":"Point"}
+}

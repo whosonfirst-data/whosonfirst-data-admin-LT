@@ -1,0 +1,65 @@
+{
+  "id": 1209450073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.18686,55.56127,26.18686,55.56127",
+    "geom:latitude":55.56127,
+    "geom:longitude":26.18686,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Jakiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291866,
+    "gn:latitude":55.56127,
+    "gn:longitude":26.18686,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jaki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jaki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291866
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9a31925e86638f29077ab17c90714f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209450073
+        }
+    ],
+    "wof:id":1209450073,
+    "wof:lastmodified":1537662507,
+    "wof:name":"Jakiskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.18686,
+    55.56126999999999,
+    26.18686,
+    55.56126999999999
+],
+  "geometry": {"coordinates":[26.18686,55.56126999999999],"type":"Point"}
+}

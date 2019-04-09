@@ -1,0 +1,67 @@
+{
+  "id": 1327449769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08333,54.15,24.08333,54.15",
+    "geom:latitude":54.15,
+    "geom:longitude":24.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Paulenka",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595968,
+    "gn:latitude":54.15,
+    "gn:longitude":24.08333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Paulenka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595968
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"eba36c02fa46c4a74c424f0df28030a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1327449769,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1327449769,
+    "wof:lastmodified":1536655710,
+    "wof:name":"Paulenka",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08333,
+    54.15,
+    24.08333,
+    54.15
+],
+  "geometry": {"coordinates":[24.08333,54.15],"type":"Point"}
+}

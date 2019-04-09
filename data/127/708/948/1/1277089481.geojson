@@ -1,0 +1,82 @@
+{
+  "id": 1277089481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26014,55.07719,25.26014,55.07719",
+    "geom:latitude":55.07719,
+    "geom:longitude":25.26014,
+    "gn:asciiname":"Giedraiciai",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599354,
+    "gn:latitude":55.07719,
+    "gn:longitude":25.26014,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Giedrai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Giedrai\u010diai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0434\u0440\u0430\u0439\u0447\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Giedrai\u010di\u0173",
+        "Giedrojcie",
+        "G\u2019yedraychay",
+        "Gedraychay",
+        "Gedroytse",
+        "Giyedraychyay",
+        "Giedrai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599354,
+        "wk:page":"Giedrai%C4%8Diai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"10b37d59f896c4e4e9f4eec39459cceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1277089481,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1277089481,
+    "wof:lastmodified":1537662313,
+    "wof:name":"Giedraiciai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26014,
+    55.07719,
+    25.26014,
+    55.07719
+],
+  "geometry": {"coordinates":[25.26014,55.07719],"type":"Point"}
+}

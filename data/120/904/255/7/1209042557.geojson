@@ -1,0 +1,65 @@
+{
+  "id": 1209042557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01404,55.34082,25.01404,55.34082",
+    "geom:latitude":55.34082,
+    "geom:longitude":25.01404,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Pagruse",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299501,
+    "gn:latitude":55.34082,
+    "gn:longitude":25.01404,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pagr\u016b\u0161\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pagr\u016b\u0161\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299501
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9c248a4ca333dcd78afd7a8ace5b8dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209042557
+        }
+    ],
+    "wof:id":1209042557,
+    "wof:lastmodified":1537662704,
+    "wof:name":"Pagruse",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01404,
+    55.34082,
+    25.01404,
+    55.34082
+],
+  "geometry": {"coordinates":[25.01404,55.34082],"type":"Point"}
+}

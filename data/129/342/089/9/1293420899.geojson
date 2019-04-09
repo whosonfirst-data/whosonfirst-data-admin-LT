@@ -1,0 +1,71 @@
+{
+  "id": 1293420899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9869,55.99742,24.9869,55.99742",
+    "geom:latitude":55.99742,
+    "geom:longitude":24.9869,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Uogbale",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298804,
+    "gn:latitude":55.99742,
+    "gn:longitude":24.9869,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Uogbal\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Uogbal\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298804
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f78342e4bf509324773b7be50ef2b032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1293420899,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293420899,
+    "wof:lastmodified":1537662686,
+    "wof:name":"Uogbale",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9869,
+    55.99742,
+    24.9869,
+    55.99742
+],
+  "geometry": {"coordinates":[24.9869,55.99742],"type":"Point"}
+}

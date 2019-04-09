@@ -1,0 +1,71 @@
+{
+  "id": 1310537195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22731,56.04058,23.22731,56.04058",
+    "geom:latitude":56.04058,
+    "geom:longitude":23.22731,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Maniusiai",
+    "gn:country_code":"LT",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11306188,
+    "gn:latitude":56.04058,
+    "gn:longitude":23.22731,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mani\u016b\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mani\u016b\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11306188
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"737a79e22103508f74c069fe86307adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1310537195,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310537195,
+    "wof:lastmodified":1537662864,
+    "wof:name":"Maniusiai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22731,
+    56.04058000000001,
+    23.22731,
+    56.04058000000001
+],
+  "geometry": {"coordinates":[23.22731,56.04058000000001],"type":"Point"}
+}

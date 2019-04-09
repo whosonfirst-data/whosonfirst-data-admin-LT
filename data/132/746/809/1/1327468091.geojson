@@ -1,0 +1,72 @@
+{
+  "id": 1327468091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.50753,55.10626,23.50753,55.10626",
+    "geom:latitude":55.10626,
+    "geom:longitude":23.50753,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Paprudziai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596086,
+    "gn:latitude":55.10626,
+    "gn:longitude":23.50753,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Papr\u016bd\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poprudy",
+        "Papr\u016bd\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596086
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c730e10a1a8bf117872f39e797733cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1327468091,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327468091,
+    "wof:lastmodified":1537662088,
+    "wof:name":"Paprudziai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.50753,
+    55.10626,
+    23.50753,
+    55.10626
+],
+  "geometry": {"coordinates":[23.50753,55.10626],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293129877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81899,55.70179,21.81899,55.70179",
+    "geom:latitude":55.70179,
+    "geom:longitude":21.81899,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Vedegenai",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290133,
+    "gn:latitude":55.70179,
+    "gn:longitude":21.81899,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vedeg\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vedeg\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290133
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"afcdc9a3fb95e690061623b096589eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1293129877,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293129877,
+    "wof:lastmodified":1537662467,
+    "wof:name":"Vedegenai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81899,
+    55.70179,
+    21.81899,
+    55.70179
+],
+  "geometry": {"coordinates":[21.81899,55.70179],"type":"Point"}
+}

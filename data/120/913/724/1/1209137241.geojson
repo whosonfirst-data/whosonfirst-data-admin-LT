@@ -1,0 +1,66 @@
+{
+  "id": 1209137241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65624,55.05806,24.65624,55.05806",
+    "geom:latitude":55.05806,
+    "geom:longitude":24.65624,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Tilvikai",
+    "gn:country_code":"LT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593904,
+    "gn:latitude":55.05806,
+    "gn:longitude":24.65624,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tilvikai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Til\u2019vikay",
+        "Tilvikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593904
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"98943f1e8e6f936f3ace44d2cbfc84f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209137241
+        }
+    ],
+    "wof:id":1209137241,
+    "wof:lastmodified":1537661936,
+    "wof:name":"Tilvikai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65624,
+    55.05806,
+    24.65624,
+    55.05806
+],
+  "geometry": {"coordinates":[24.65624,55.05806],"type":"Point"}
+}

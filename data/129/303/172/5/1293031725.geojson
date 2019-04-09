@@ -1,0 +1,71 @@
+{
+  "id": 1293031725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88363,55.88064,25.88363,55.88064",
+    "geom:latitude":55.88064,
+    "geom:longitude":25.88363,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Kelezeriai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293258,
+    "gn:latitude":55.88064,
+    "gn:longitude":25.88363,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kele\u017eeriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kele\u017eeriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293258
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"18deebcf83e1c2e106e278632cf4d7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1293031725,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293031725,
+    "wof:lastmodified":1537662542,
+    "wof:name":"Kelezeriai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88363,
+    55.88064,
+    25.88363,
+    55.88064
+],
+  "geometry": {"coordinates":[25.88363,55.88064],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276373829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64324,55.9104,22.64324,55.9104",
+    "geom:latitude":55.9104,
+    "geom:longitude":22.64324,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Besciai",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302602,
+    "gn:latitude":55.9104,
+    "gn:longitude":22.64324,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bes\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bes\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302602
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d5f15ebeabb34139ddf852210b49188a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1276373829,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1276373829,
+    "wof:lastmodified":1537662782,
+    "wof:name":"Besciai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64324,
+    55.9104,
+    22.64324,
+    55.9104
+],
+  "geometry": {"coordinates":[22.64324,55.9104],"type":"Point"}
+}

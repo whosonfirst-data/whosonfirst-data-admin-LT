@@ -1,0 +1,72 @@
+{
+  "id": 1327471019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3021,55.53972,21.3021,55.53972",
+    "geom:latitude":55.53972,
+    "geom:longitude":21.3021,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Pleskuciai",
+    "gn:country_code":"LT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595708,
+    "gn:latitude":55.53972,
+    "gn:longitude":21.3021,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ple\u0161ku\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pleshkutten",
+        "Ple\u0161ku\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595708
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"858f9f2dc838dfc25cc1caec6bfb7dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1327471019,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1327471019,
+    "wof:lastmodified":1537662059,
+    "wof:name":"Pleskuciai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3021,
+    55.53972,
+    21.3021,
+    55.53972
+],
+  "geometry": {"coordinates":[21.3021,55.53972],"type":"Point"}
+}

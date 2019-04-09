@@ -1,0 +1,95 @@
+{
+  "id": 1125842819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3080045,55.3441195,21.3080045,55.3441195",
+    "geom:latitude":55.344119,
+    "geom:longitude":21.308004,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":55.344119,
+    "lbl:longitude":21.308004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cze_x_preferred":[
+        "Uostadvaris"
+    ],
+    "name:eng_x_preferred":[
+        "Uostadvaris"
+    ],
+    "name:lit_x_preferred":[
+        "Uostadvaris"
+    ],
+    "name:sgs_x_preferred":[
+        "Oustadvaris"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Uostadvaris",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Klaip\u00ecdos Apskritis",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":413759,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56066288,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Klaip\u00ecdos Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56066288,
+        "qs_pg:id":413759,
+        "wd:id":"Q3501129"
+    },
+    "wof:country":"LT",
+    "wof:created":1497293009,
+    "wof:geomhash":"175bba19b7c132237ab334b12b963dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1125842819,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1125842819,
+    "wof:lastmodified":1514483814,
+    "wof:name":"Uostadvaris",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3080045,
+    55.3441195,
+    21.3080045,
+    55.3441195
+],
+  "geometry": {"coordinates":[21.3080045,55.3441195],"type":"Point"}
+}

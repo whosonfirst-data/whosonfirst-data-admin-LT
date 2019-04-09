@@ -1,0 +1,81 @@
+{
+  "id": 1226479523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.39552,55.51623,21.39552,55.51623",
+    "geom:latitude":55.51623,
+    "geom:longitude":21.39552,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Vilkyciai",
+    "gn:country_code":"LT",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593127,
+    "gn:latitude":55.51623,
+    "gn:longitude":21.39552,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vilky\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wilkieten"
+    ],
+    "name:eng_x_preferred":[
+        "Vilky\u010diai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u043a\u0438\u0447\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Vilkichey",
+        "Vilky\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593127
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8cca5c28125b33e142f499c7b88409a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1226479523,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1226479523,
+    "wof:lastmodified":1537661885,
+    "wof:name":"Vilkyciai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.39552,
+    55.51623000000001,
+    21.39552,
+    55.51623000000001
+],
+  "geometry": {"coordinates":[21.39552,55.51623000000001],"type":"Point"}
+}

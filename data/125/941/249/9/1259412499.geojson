@@ -1,0 +1,71 @@
+{
+  "id": 1259412499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.08494,54.68602,25.08494,54.68602",
+    "geom:latitude":54.68602,
+    "geom:longitude":25.08494,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Vaiciuniskes",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300701,
+    "gn:latitude":54.68602,
+    "gn:longitude":25.08494,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vai\u010di\u016bni\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vai\u010di\u016bni\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300701
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6f79045f4afe038b5af935d368be8047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1259412499,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259412499,
+    "wof:lastmodified":1537662742,
+    "wof:name":"Vaiciuniskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08494,
+    54.68601999999999,
+    25.08494,
+    54.68601999999999
+],
+  "geometry": {"coordinates":[25.08494,54.68601999999999],"type":"Point"}
+}

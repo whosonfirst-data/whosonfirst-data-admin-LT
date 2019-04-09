@@ -1,0 +1,61 @@
+{
+  "id": 1108949807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3556256204,54.6842332958,25.3556256204,54.6842332958",
+    "geom:latitude":54.684233,
+    "geom:longitude":25.355626,
+    "iso:country":"LT",
+    "lbl:latitude":54.684233,
+    "lbl:longitude":25.355626,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367911,
+    "wof:geomhash":"ce117d52aacc3583b40ee53e19e3dc01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "neighbourhood_id":1108949807,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949807,
+    "wof:lastmodified":1492123950,
+    "wof:name":"Belmontas",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35562562043023,
+    54.68423329576558,
+    25.35562562043023,
+    54.68423329576558
+],
+  "geometry": {"coordinates":[25.35562562043023,54.68423329576558],"type":"Point"}
+}

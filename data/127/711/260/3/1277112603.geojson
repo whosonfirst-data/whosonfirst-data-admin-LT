@@ -1,0 +1,71 @@
+{
+  "id": 1277112603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30116,55.8822,24.30116,55.8822",
+    "geom:latitude":55.8822,
+    "geom:longitude":24.30116,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Pragarele",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595634,
+    "gn:latitude":55.8822,
+    "gn:longitude":24.30116,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pragar\u0117l\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pragar\u0117l\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595634
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"02a51e83aa2bfdc9bc4022fc99446fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1277112603,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1277112603,
+    "wof:lastmodified":1537662054,
+    "wof:name":"Pragarele",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30116,
+    55.8822,
+    24.30116,
+    55.8822
+],
+  "geometry": {"coordinates":[24.30116,55.8822],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310235911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56953,54.52428,24.56953,54.52428",
+    "geom:latitude":54.52428,
+    "geom:longitude":24.56953,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Nupronys",
+    "gn:country_code":"LT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596551,
+    "gn:latitude":54.52428,
+    "gn:longitude":24.56953,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nupronys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuprany",
+        "Nuproni\u0173",
+        "Nupronys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596551
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"11f89481366f27c623165ce21637f6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1310235911,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1310235911,
+    "wof:lastmodified":1537662123,
+    "wof:name":"Nupronys",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56953,
+    54.52428000000001,
+    24.56953,
+    54.52428000000001
+],
+  "geometry": {"coordinates":[24.56953,54.52428000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1309939843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03395,55.44889,24.03395,55.44889",
+    "geom:latitude":55.44889,
+    "geom:longitude":24.03395,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Surviliskis",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594103,
+    "gn:latitude":55.44889,
+    "gn:longitude":24.03395,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Survili\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Survili\u0161kis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0440\u0432\u0438\u043b\u0438\u0448\u043a\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Survili\u0161kio",
+        "Surwiliszki",
+        "Survilishkis",
+        "Survili\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594103,
+        "wk:page":"Survili%C5%A1kis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f7d82ef148355e5db929ae7da5b30ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1309939843,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309939843,
+    "wof:lastmodified":1537661948,
+    "wof:name":"Surviliskis",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03395,
+    55.44889000000001,
+    24.03395,
+    55.44889000000001
+],
+  "geometry": {"coordinates":[24.03395,55.44889000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276589037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03182,54.56543,23.03182,54.56543",
+    "geom:latitude":54.56543,
+    "geom:longitude":23.03182,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Bajorai",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302997,
+    "gn:latitude":54.56543,
+    "gn:longitude":23.03182,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bajorai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bajorai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302997
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3d86907b245ee2882e1ae5f1df63de7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1276589037,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1276589037,
+    "wof:lastmodified":1537662790,
+    "wof:name":"Bajorai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03182,
+    54.56543000000001,
+    23.03182,
+    54.56543000000001
+],
+  "geometry": {"coordinates":[23.03182,54.56543000000001],"type":"Point"}
+}

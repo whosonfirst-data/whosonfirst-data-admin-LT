@@ -1,0 +1,73 @@
+{
+  "id": 1293518427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71643,55.19871,23.71643,55.19871",
+    "geom:latitude":55.19871,
+    "geom:longitude":23.71643,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Skaistgiriai",
+    "gn:country_code":"LT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594579,
+    "gn:latitude":55.19871,
+    "gn:longitude":23.71643,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Skaistgiriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skaysgiryay",
+        "Skaisgiriai",
+        "Skaistgiriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594579
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"16105b49dcef19e1e716b5e872cea043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1293518427,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293518427,
+    "wof:lastmodified":1537661981,
+    "wof:name":"Skaistgiriai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71643,
+    55.19871,
+    23.71643,
+    55.19871
+],
+  "geometry": {"coordinates":[23.71643,55.19871],"type":"Point"}
+}

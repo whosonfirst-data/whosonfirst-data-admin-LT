@@ -1,0 +1,73 @@
+{
+  "id": 1243488041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29809,55.71107,24.29809,55.71107",
+    "geom:latitude":55.71107,
+    "geom:longitude":24.29809,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Molainiai",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596869,
+    "gn:latitude":55.71107,
+    "gn:longitude":24.29809,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Molainiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molaynyay",
+        "Molaini\u0173",
+        "Molainiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596869
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4f053a17a96b1a3217b389f4205051b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1243488041,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243488041,
+    "wof:lastmodified":1537662145,
+    "wof:name":"Molainiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29809,
+    55.71106999999999,
+    24.29809,
+    55.71106999999999
+],
+  "geometry": {"coordinates":[24.29809,55.71106999999999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209351561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66327,55.72896,22.66327,55.72896",
+    "geom:latitude":55.72896,
+    "geom:longitude":22.66327,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Slumpiai",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594438,
+    "gn:latitude":55.72896,
+    "gn:longitude":22.66327,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160lumpiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yunkilay",
+        "\u0160lumpi\u0173",
+        "Shlompe",
+        "\u0160lumpiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594438
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3f42d2fd031cdff9d19aabb7fe9f6234",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209351561
+        }
+    ],
+    "wof:id":1209351561,
+    "wof:lastmodified":1537661972,
+    "wof:name":"Slumpiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66327,
+    55.72896,
+    22.66327,
+    55.72896
+],
+  "geometry": {"coordinates":[22.66327,55.72896],"type":"Point"}
+}

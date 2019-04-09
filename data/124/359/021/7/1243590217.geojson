@@ -1,0 +1,71 @@
+{
+  "id": 1243590217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7186,54.24813,24.7186,54.24813",
+    "geom:latitude":54.24813,
+    "geom:longitude":24.7186,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Pabarone",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310582,
+    "gn:latitude":54.24813,
+    "gn:longitude":24.7186,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pabaron\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pabaron\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310582
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f46eb8f3dc0eb406155ba85b69907746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1243590217,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1243590217,
+    "wof:lastmodified":1537662946,
+    "wof:name":"Pabarone",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7186,
+    54.24813,
+    24.7186,
+    54.24813
+],
+  "geometry": {"coordinates":[24.7186,54.24813],"type":"Point"}
+}

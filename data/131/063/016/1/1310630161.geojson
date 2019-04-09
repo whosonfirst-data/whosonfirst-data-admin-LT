@@ -1,0 +1,73 @@
+{
+  "id": 1310630161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75239,55.69806,23.75239,55.69806",
+    "geom:latitude":55.69806,
+    "geom:longitude":23.75239,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Vaiduloniai",
+    "gn:country_code":"LT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593539,
+    "gn:latitude":55.69806,
+    "gn:longitude":23.75239,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vaiduloniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaydzhelyunay",
+        "Baydzhelyunay",
+        "Vaiduloniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593539
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ef12bb46d10601d4fcdb1230a0e6cf5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1310630161,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310630161,
+    "wof:lastmodified":1537661912,
+    "wof:name":"Vaiduloniai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75239,
+    55.69806,
+    23.75239,
+    55.69806
+],
+  "geometry": {"coordinates":[23.75239,55.69806],"type":"Point"}
+}

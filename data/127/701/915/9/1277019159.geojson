@@ -1,0 +1,71 @@
+{
+  "id": 1277019159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71148,56.29226,24.71148,56.29226",
+    "geom:latitude":56.29226,
+    "geom:longitude":24.71148,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Lukiskis",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301019,
+    "gn:latitude":56.29226,
+    "gn:longitude":24.71148,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Luki\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Luki\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301019
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"da8a80562efa5e01065ee14b5221b006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1277019159,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1277019159,
+    "wof:lastmodified":1537662750,
+    "wof:name":"Lukiskis",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71148,
+    56.29226,
+    24.71148,
+    56.29226
+],
+  "geometry": {"coordinates":[24.71148,56.29226],"type":"Point"}
+}

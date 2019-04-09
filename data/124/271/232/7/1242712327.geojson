@@ -1,0 +1,73 @@
+{
+  "id": 1242712327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76072,55.76015,24.76072,55.76015",
+    "geom:latitude":55.76015,
+    "geom:longitude":24.76072,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Girenai",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598210,
+    "gn:latitude":55.76015,
+    "gn:longitude":24.76072,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gir\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gir\u0117nai",
+        "Keshenovo",
+        "Ke\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598210
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bd68f320362b615f14268daadf264704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1242712327,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1242712327,
+    "wof:lastmodified":1537662237,
+    "wof:name":"Girenai",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76072000000001,
+    55.76015,
+    24.76072000000001,
+    55.76015
+],
+  "geometry": {"coordinates":[24.76072000000001,55.76015],"type":"Point"}
+}

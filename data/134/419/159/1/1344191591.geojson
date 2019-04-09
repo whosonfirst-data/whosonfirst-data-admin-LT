@@ -1,0 +1,73 @@
+{
+  "id": 1344191591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20455,55.50814,23.20455,55.50814",
+    "geom:latitude":55.50814,
+    "geom:longitude":23.20455,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Siauleliai",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594746,
+    "gn:latitude":55.50814,
+    "gn:longitude":23.20455,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160iauleliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaulelyay",
+        "Shavleli",
+        "\u0160iauleliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594746
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"03698363a7be3ff85fa6649645c586fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1344191591,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1344191591,
+    "wof:lastmodified":1537661993,
+    "wof:name":"Siauleliai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20455,
+    55.50814,
+    23.20455,
+    55.50814
+],
+  "geometry": {"coordinates":[23.20455,55.50814],"type":"Point"}
+}

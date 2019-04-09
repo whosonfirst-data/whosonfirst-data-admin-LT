@@ -1,0 +1,71 @@
+{
+  "id": 1209751843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.09602,54.76681,25.09602,54.76681",
+    "geom:latitude":54.76681,
+    "geom:longitude":25.09602,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Vydautiskes",
+    "gn:country_code":"LT",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300766,
+    "gn:latitude":54.76681,
+    "gn:longitude":25.09602,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vydauti\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vydauti\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300766
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f17e0ddea3a99e298e651bb33d7d2283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1209751843,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1209751843,
+    "wof:lastmodified":1537662744,
+    "wof:name":"Vydautiskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.09602000000001,
+    54.76681,
+    25.09602000000001,
+    54.76681
+],
+  "geometry": {"coordinates":[25.09602000000001,54.76681],"type":"Point"}
+}

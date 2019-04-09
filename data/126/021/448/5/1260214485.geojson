@@ -1,0 +1,71 @@
+{
+  "id": 1260214485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37538,55.77631,24.37538,55.77631",
+    "geom:latitude":55.77631,
+    "geom:longitude":24.37538,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Tickunai",
+    "gn:country_code":"LT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310040,
+    "gn:latitude":55.77631,
+    "gn:longitude":24.37538,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tick\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tick\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310040
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d8331451f240a2c13adee981508a7aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1260214485,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1260214485,
+    "wof:lastmodified":1537662936,
+    "wof:name":"Tickunai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37538,
+    55.77631,
+    24.37538,
+    55.77631
+],
+  "geometry": {"coordinates":[24.37538,55.77631],"type":"Point"}
+}

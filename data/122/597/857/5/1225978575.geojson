@@ -1,0 +1,71 @@
+{
+  "id": 1225978575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0927,55.55603,24.0927,55.55603",
+    "geom:latitude":55.55603,
+    "geom:longitude":24.0927,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Valmoniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309838,
+    "gn:latitude":55.55603,
+    "gn:longitude":24.0927,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Valmoni\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Valmoni\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309838
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"760c2660768de4c2e150f6de3efab05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1225978575,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1225978575,
+    "wof:lastmodified":1537662931,
+    "wof:name":"Valmoniskiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0927,
+    55.55603000000001,
+    24.0927,
+    55.55603000000001
+],
+  "geometry": {"coordinates":[24.0927,55.55603000000001],"type":"Point"}
+}

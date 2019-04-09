@@ -1,0 +1,74 @@
+{
+  "id": 1344090493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79472,56.17845,24.79472,56.17845",
+    "geom:latitude":56.17845,
+    "geom:longitude":24.79472,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Kiluciai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598152,
+    "gn:latitude":56.17845,
+    "gn:longitude":24.79472,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kilu\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilukyay",
+        "Kiluchyay",
+        "Kiluci\u0173",
+        "Kilu\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598152
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a1e1a259311fc839c01dd5b807212b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1344090493,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1344090493,
+    "wof:lastmodified":1537662233,
+    "wof:name":"Kiluciai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79472,
+    56.17845,
+    24.79472,
+    56.17845
+],
+  "geometry": {"coordinates":[24.79472,56.17845],"type":"Point"}
+}

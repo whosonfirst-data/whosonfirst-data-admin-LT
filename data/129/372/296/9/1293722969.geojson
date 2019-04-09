@@ -1,0 +1,76 @@
+{
+  "id": 1293722969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79153,55.15947,22.79153,55.15947",
+    "geom:latitude":55.15947,
+    "geom:longitude":22.79153,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Butrimai",
+    "gn:country_code":"LT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600220,
+    "gn:latitude":55.15947,
+    "gn:longitude":22.79153,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"B\u016btrimai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "B\u016btrimai"
+    ],
+    "name:und_x_variant":[
+        "Butrymy",
+        "Butrimy",
+        "Butrimai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600220
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"103714f05d343df979bbd4ad315363b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1293722969,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1293722969,
+    "wof:lastmodified":1537662373,
+    "wof:name":"Butrimai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79153,
+    55.15947,
+    22.79153,
+    55.15947
+],
+  "geometry": {"coordinates":[22.79153,55.15947],"type":"Point"}
+}

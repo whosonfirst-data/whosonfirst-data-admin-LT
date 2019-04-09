@@ -1,0 +1,71 @@
+{
+  "id": 1259617767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66281,54.80156,24.66281,54.80156",
+    "geom:latitude":54.80156,
+    "geom:longitude":24.66281,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Naujieji Migucionys",
+    "gn:country_code":"LT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596731,
+    "gn:latitude":54.80156,
+    "gn:longitude":24.66281,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Naujieji Mig\u016b\u010dionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Naujieji Mig\u016b\u010dionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596731
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6e1b69028b8afcb5e2e313d66de0cfc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1259617767,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259617767,
+    "wof:lastmodified":1537662136,
+    "wof:name":"Naujieji Migucionys",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66281,
+    54.80156,
+    24.66281,
+    54.80156
+],
+  "geometry": {"coordinates":[24.66281,54.80156],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343495811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68902,55.66513,22.68902,55.66513",
+    "geom:latitude":55.66513,
+    "geom:longitude":22.68902,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Maldagine",
+    "gn:country_code":"LT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597291,
+    "gn:latitude":55.66513,
+    "gn:longitude":22.68902,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Maldagin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Maldagin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597291
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"66e367af7285c74d410d900147695bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1343495811,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343495811,
+    "wof:lastmodified":1537662175,
+    "wof:name":"Maldagine",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68902000000001,
+    55.66513000000001,
+    22.68902000000001,
+    55.66513000000001
+],
+  "geometry": {"coordinates":[22.68902000000001,55.66513000000001],"type":"Point"}
+}

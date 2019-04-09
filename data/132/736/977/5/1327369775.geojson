@@ -1,0 +1,71 @@
+{
+  "id": 1327369775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12866,55.87176,21.12866,55.87176",
+    "geom:latitude":55.87176,
+    "geom:longitude":21.12866,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Melasiai",
+    "gn:country_code":"LT",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11288986,
+    "gn:latitude":55.87176,
+    "gn:longitude":21.12866,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mela\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mela\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11288986
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"28247eb37fae0a1bb6d0bd4c3d3aa6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1327369775,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1327369775,
+    "wof:lastmodified":1537662450,
+    "wof:name":"Melasiai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12866,
+    55.87176,
+    21.12866,
+    55.87176
+],
+  "geometry": {"coordinates":[21.12866,55.87176],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242814643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.19994,55.67104,25.19994,55.67104",
+    "geom:latitude":55.67104,
+    "geom:longitude":25.19994,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Silagaliai",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594760,
+    "gn:latitude":55.67104,
+    "gn:longitude":25.19994,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160ilagaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ilagaliai",
+        "Shilagolyay",
+        "Shilagalyay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594760
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"35b725f4bdbf7ae8cb08fdc3f8c2b2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1242814643,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1242814643,
+    "wof:lastmodified":1537661994,
+    "wof:name":"Silagaliai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.19994,
+    55.67104000000001,
+    25.19994,
+    55.67104000000001
+],
+  "geometry": {"coordinates":[25.19994,55.67104000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293820089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.27824,54.84918,25.27824,54.84918",
+    "geom:latitude":54.84918,
+    "geom:longitude":25.27824,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Gegliskes",
+    "gn:country_code":"LT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297700,
+    "gn:latitude":54.84918,
+    "gn:longitude":25.27824,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gegli\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gegli\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297700
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5174c10c494f5c517d4f98bd27524a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1293820089,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293820089,
+    "wof:lastmodified":1537662655,
+    "wof:name":"Gegliskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27824,
+    54.84918,
+    25.27824,
+    54.84918
+],
+  "geometry": {"coordinates":[25.27824,54.84918],"type":"Point"}
+}

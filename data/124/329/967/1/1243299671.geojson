@@ -1,0 +1,73 @@
+{
+  "id": 1243299671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.64725,54.70275,24.64725,54.70275",
+    "geom:latitude":54.70275,
+    "geom:longitude":24.64725,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Stancikai",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594290,
+    "gn:latitude":54.70275,
+    "gn:longitude":24.64725,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Stan\u010dikai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stanchiki",
+        "Stan\u010dik\u0173",
+        "Stan\u010dikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594290
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c93531317d1db51e4ae0646fdd967b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1243299671,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243299671,
+    "wof:lastmodified":1537661961,
+    "wof:name":"Stancikai",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.64725,
+    54.70275,
+    24.64725,
+    54.70275
+],
+  "geometry": {"coordinates":[24.64725,54.70275],"type":"Point"}
+}

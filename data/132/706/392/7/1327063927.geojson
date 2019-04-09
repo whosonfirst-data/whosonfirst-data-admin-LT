@@ -1,0 +1,72 @@
+{
+  "id": 1327063927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73698,55.33885,24.73698,55.33885",
+    "geom:latitude":55.33885,
+    "geom:longitude":24.73698,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Baravykai",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600659,
+    "gn:latitude":55.33885,
+    "gn:longitude":24.73698,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baravykai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boroviki",
+        "Baravykai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600659
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a4a3943aa2fe7c71f160b6f210c44974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1327063927,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1327063927,
+    "wof:lastmodified":1537662405,
+    "wof:name":"Baravykai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73698,
+    55.33885,
+    24.73698,
+    55.33885
+],
+  "geometry": {"coordinates":[24.73698,55.33885],"type":"Point"}
+}

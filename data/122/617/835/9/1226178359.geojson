@@ -1,0 +1,71 @@
+{
+  "id": 1226178359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98598,55.95558,25.98598,55.95558",
+    "geom:latitude":55.95558,
+    "geom:longitude":25.98598,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Razalinava",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293061,
+    "gn:latitude":55.95558,
+    "gn:longitude":25.98598,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Razalinava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Razalinava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293061
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f4ced282f94afa6cdaf9aad155bca7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1226178359,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226178359,
+    "wof:lastmodified":1537662538,
+    "wof:name":"Razalinava",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98598,
+    55.95558000000001,
+    25.98598,
+    55.95558000000001
+],
+  "geometry": {"coordinates":[25.98598,55.95558000000001],"type":"Point"}
+}

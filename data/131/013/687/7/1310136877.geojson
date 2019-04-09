@@ -1,0 +1,74 @@
+{
+  "id": 1310136877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.17481,55.28811,24.17481,55.28811",
+    "geom:latitude":55.28811,
+    "geom:longitude":24.17481,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Zemieji Kapliai",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598441,
+    "gn:latitude":55.28811,
+    "gn:longitude":24.17481,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017demieji Kapliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhemiyei Koplyay",
+        "\u017demieji Kapliai",
+        "Kapli\u0173 \u017demi\u0173j\u0173",
+        "Kapliai \u017demieji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598441
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9983e91984addd1141eac2fe93b58836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1310136877,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310136877,
+    "wof:lastmodified":1537662251,
+    "wof:name":"Zemieji Kapliai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17481,
+    55.28811,
+    24.17481,
+    55.28811
+],
+  "geometry": {"coordinates":[24.17481,55.28811],"type":"Point"}
+}

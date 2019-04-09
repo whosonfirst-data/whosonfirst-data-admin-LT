@@ -1,0 +1,76 @@
+{
+  "id": 1327267843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44105,55.58926,23.44105,55.58926",
+    "geom:latitude":55.58926,
+    "geom:longitude":23.44105,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Zemieji Levikainiai",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597511,
+    "gn:latitude":55.58926,
+    "gn:longitude":23.44105,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017demieji Levikainiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017demieji Levikainiai"
+    ],
+    "name:und_x_variant":[
+        "Levikoyni",
+        "Levukayna",
+        "Levikainiai \u017demieji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597511
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d719f95242c20d3927605e6239d8107f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1327267843,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1327267843,
+    "wof:lastmodified":1537662189,
+    "wof:name":"Zemieji Levikainiai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44105,
+    55.58926,
+    23.44105,
+    55.58926
+],
+  "geometry": {"coordinates":[23.44105,55.58926],"type":"Point"}
+}

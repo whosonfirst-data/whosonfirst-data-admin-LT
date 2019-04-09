@@ -1,0 +1,67 @@
+{
+  "id": 1226757575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0,55.43333,26.0,55.43333",
+    "geom:latitude":55.43333,
+    "geom:longitude":26.0,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Antaiksne",
+    "gn:country_code":"LT",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601043,
+    "gn:latitude":55.43333,
+    "gn:longitude":26.0,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Antaiksn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601043
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f78d631f0b5fbddce3ad93c789802218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1226757575,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226757575,
+    "wof:lastmodified":1536698693,
+    "wof:name":"Antaiksne",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0,
+    55.43333000000001,
+    26.0,
+    55.43333000000001
+],
+  "geometry": {"coordinates":[26.0,55.43333000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277016311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30214,54.46644,24.30214,54.46644",
+    "geom:latitude":54.46644,
+    "geom:longitude":24.30214,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Eigelonys",
+    "gn:country_code":"LT",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599632,
+    "gn:latitude":54.46644,
+    "gn:longitude":24.30214,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Eigelonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Eigelonys"
+    ],
+    "name:und_x_variant":[
+        "Eygelantsy",
+        "Eigelionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599632
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b82f570716b90f92c694eb20b7866b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1277016311,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1277016311,
+    "wof:lastmodified":1537662332,
+    "wof:name":"Eigelonys",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30214,
+    54.46644000000001,
+    24.30214,
+    54.46644000000001
+],
+  "geometry": {"coordinates":[24.30214,54.46644000000001],"type":"Point"}
+}

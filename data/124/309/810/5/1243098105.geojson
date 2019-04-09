@@ -1,0 +1,72 @@
+{
+  "id": 1243098105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.26123,55.7569,21.26123,55.7569",
+    "geom:latitude":55.7569,
+    "geom:longitude":21.26123,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Baukstininkai",
+    "gn:country_code":"LT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600570,
+    "gn:latitude":55.7569,
+    "gn:longitude":21.26123,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bauk\u0161tininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baugskorallen",
+        "Bauk\u0161tininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600570
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f0021029fe7e08926933a19ca86392d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1243098105,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1243098105,
+    "wof:lastmodified":1537662398,
+    "wof:name":"Baukstininkai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.26123,
+    55.7569,
+    21.26123,
+    55.7569
+],
+  "geometry": {"coordinates":[21.26123,55.7569],"type":"Point"}
+}

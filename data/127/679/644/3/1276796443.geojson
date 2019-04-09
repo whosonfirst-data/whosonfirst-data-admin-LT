@@ -1,0 +1,73 @@
+{
+  "id": 1276796443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9946,55.46187,23.9946,55.46187",
+    "geom:latitude":55.46187,
+    "geom:longitude":23.9946,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Pakruoste",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596257,
+    "gn:latitude":55.46187,
+    "gn:longitude":23.9946,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pakruost\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pokrostsi",
+        "Pakraschyay",
+        "Pakruost\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596257
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"69e3d71332bd60e09035eb91db471538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1276796443,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276796443,
+    "wof:lastmodified":1537662100,
+    "wof:name":"Pakruoste",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9946,
+    55.46187,
+    23.9946,
+    55.46187
+],
+  "geometry": {"coordinates":[23.9946,55.46187],"type":"Point"}
+}

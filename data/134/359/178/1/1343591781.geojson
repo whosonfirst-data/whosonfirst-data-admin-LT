@@ -1,0 +1,73 @@
+{
+  "id": 1343591781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3692,55.89007,25.3692,55.89007",
+    "geom:latitude":55.89007,
+    "geom:longitude":25.3692,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Seteksniai",
+    "gn:country_code":"LT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594764,
+    "gn:latitude":55.89007,
+    "gn:longitude":25.3692,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160etek\u0161niai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shatekshnyay",
+        "Shetekshnyay",
+        "\u0160etek\u0161niai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594764
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"021c01bedf1ee7bd2ea4b9abff513daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1343591781,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343591781,
+    "wof:lastmodified":1537661994,
+    "wof:name":"Seteksniai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3692,
+    55.89007,
+    25.3692,
+    55.89007
+],
+  "geometry": {"coordinates":[25.3692,55.89007],"type":"Point"}
+}

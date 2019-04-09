@@ -1,0 +1,74 @@
+{
+  "id": 1310537353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13747,55.37974,25.13747,55.37974",
+    "geom:latitude":55.37974,
+    "geom:longitude":25.13747,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Trakiniai",
+    "gn:country_code":"LT",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593861,
+    "gn:latitude":55.37974,
+    "gn:longitude":25.13747,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Trakiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trakin\u0173",
+        "Trakini\u0173",
+        "Trakinyay",
+        "Trakiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593861
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b4e5b617d73e66fca9f2b3194c949c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1310537353,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310537353,
+    "wof:lastmodified":1537661933,
+    "wof:name":"Trakiniai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13747,
+    55.37974000000001,
+    25.13747,
+    55.37974000000001
+],
+  "geometry": {"coordinates":[25.13747,55.37974000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260317127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04981,55.29552,24.04981,55.29552",
+    "geom:latitude":55.29552,
+    "geom:longitude":24.04981,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Dvarcininkai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309649,
+    "gn:latitude":55.29552,
+    "gn:longitude":24.04981,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dvar\u010dininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dvar\u010dininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309649
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c44acebccc62b503c81b560f0852f120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1260317127,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260317127,
+    "wof:lastmodified":1537662927,
+    "wof:name":"Dvarcininkai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04981,
+    55.29552,
+    24.04981,
+    55.29552
+],
+  "geometry": {"coordinates":[24.04981,55.29552],"type":"Point"}
+}

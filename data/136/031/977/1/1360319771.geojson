@@ -1,0 +1,71 @@
+{
+  "id": 1360319771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64347,54.14923,25.64347,54.14923",
+    "geom:latitude":54.14923,
+    "geom:longitude":25.64347,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Vilkiskes",
+    "gn:country_code":"LT",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295379,
+    "gn:latitude":54.14923,
+    "gn:longitude":25.64347,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vilki\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vilki\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295379
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"97b020bf54e50ddd48143c56aaa99250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1360319771,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1360319771,
+    "wof:lastmodified":1537662592,
+    "wof:name":"Vilkiskes",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64347,
+    54.14923,
+    25.64347,
+    54.14923
+],
+  "geometry": {"coordinates":[25.64347,54.14923],"type":"Point"}
+}

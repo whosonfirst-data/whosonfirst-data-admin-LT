@@ -1,0 +1,74 @@
+{
+  "id": 1292940161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78895,54.8243,23.78895,54.8243",
+    "geom:latitude":54.8243,
+    "geom:longitude":23.78895,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Padainupys",
+    "gn:country_code":"LT",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596461,
+    "gn:latitude":54.8243,
+    "gn:longitude":23.78895,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Padainupys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padainupis",
+        "Padainupio",
+        "Podeynupe",
+        "Padainupys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596461
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"23beac70061fd62a68be87a39e669bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1292940161,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1292940161,
+    "wof:lastmodified":1537662116,
+    "wof:name":"Padainupys",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78895,
+    54.8243,
+    23.78895,
+    54.8243
+],
+  "geometry": {"coordinates":[23.78895,54.8243],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343892081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7282,55.8997,23.7282,55.8997",
+    "geom:latitude":55.8997,
+    "geom:longitude":23.7282,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Draumenai",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599786,
+    "gn:latitude":55.8997,
+    "gn:longitude":23.7282,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Draum\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Draumenay",
+        "Draum\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599786
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"624fa9c32b2991981abc55230e19f35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1343892081,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343892081,
+    "wof:lastmodified":1537662341,
+    "wof:name":"Draumenai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7282,
+    55.8997,
+    23.7282,
+    55.8997
+],
+  "geometry": {"coordinates":[23.7282,55.8997],"type":"Point"}
+}

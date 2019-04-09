@@ -1,0 +1,76 @@
+{
+  "id": 1193171047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34461,56.28421,24.34461,56.28421",
+    "geom:latitude":56.28421,
+    "geom:longitude":24.34461,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Baltpamusis",
+    "gn:country_code":"LT",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600686,
+    "gn:latitude":56.28421,
+    "gn:longitude":24.34461,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baltpam\u016b\u0161is",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Baltpam\u016b\u0161is"
+    ],
+    "name:und_x_variant":[
+        "Baltpamu\u0161is",
+        "Baltpamushis",
+        "Baltpamus\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600686
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"447d4b07afdb45b29962d5e559a60341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1193171047,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1193171047,
+    "wof:lastmodified":1537662406,
+    "wof:name":"Baltpamusis",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34461,
+    56.28421,
+    24.34461,
+    56.28421
+],
+  "geometry": {"coordinates":[24.34461,56.28421],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343497685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21569,55.75407,26.21569,55.75407",
+    "geom:latitude":55.75407,
+    "geom:longitude":26.21569,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Vosyliskis",
+    "gn:country_code":"LT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291539,
+    "gn:latitude":55.75407,
+    "gn:longitude":26.21569,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vosyli\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vosyli\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291539
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b8fb54fb976a027346fbd2224f1e2e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1343497685,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343497685,
+    "wof:lastmodified":1537662498,
+    "wof:name":"Vosyliskis",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21569,
+    55.75407,
+    26.21569,
+    55.75407
+],
+  "geometry": {"coordinates":[26.21569,55.75407],"type":"Point"}
+}

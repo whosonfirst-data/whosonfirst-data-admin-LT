@@ -1,0 +1,81 @@
+{
+  "id": 1310441693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25515,55.89341,22.25515,55.89341",
+    "geom:latitude":55.89341,
+    "geom:longitude":22.25515,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Lauko Soda",
+    "gn:country_code":"LT",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597624,
+    "gn:latitude":55.89341,
+    "gn:longitude":22.25515,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lauko Soda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lauko Soda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0443\u043a\u043e-\u0421\u043e\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lauksodis",
+        "Laukosodos",
+        "Lauksoda",
+        "Lauko Soda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597624,
+        "wk:page":"Lauko_Soda"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"619f9a4820beca6ef1ac655426229433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1310441693,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1310441693,
+    "wof:lastmodified":1537662197,
+    "wof:name":"Lauko Soda",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25515,
+    55.89341,
+    22.25515,
+    55.89341
+],
+  "geometry": {"coordinates":[22.25515,55.89341],"type":"Point"}
+}

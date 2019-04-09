@@ -1,0 +1,71 @@
+{
+  "id": 1293424345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.61924,54.21087,25.61924,54.21087",
+    "geom:latitude":54.21087,
+    "geom:longitude":25.61924,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Kaziuliai",
+    "gn:country_code":"LT",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598290,
+    "gn:latitude":54.21087,
+    "gn:longitude":25.61924,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kaziuliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kaziuliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598290
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cfc8b3df57723049074187d3428dfcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1293424345,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293424345,
+    "wof:lastmodified":1537662241,
+    "wof:name":"Kaziuliai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.61924,
+    54.21086999999999,
+    25.61924,
+    54.21086999999999
+],
+  "geometry": {"coordinates":[25.61924,54.21086999999999],"type":"Point"}
+}

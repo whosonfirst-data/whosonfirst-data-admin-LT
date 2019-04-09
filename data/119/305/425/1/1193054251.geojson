@@ -1,0 +1,75 @@
+{
+  "id": 1193054251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.12032,55.93219,23.12032,55.93219",
+    "geom:latitude":55.93219,
+    "geom:longitude":23.12032,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Tyrelkai",
+    "gn:country_code":"LT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593757,
+    "gn:latitude":55.93219,
+    "gn:longitude":23.12032,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tyrelkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tyrelkai"
+    ],
+    "name:und_x_variant":[
+        "Tirelkyay",
+        "Tyreliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593757
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d201271f21c5ec6ce7eff9970d1ff8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1193054251,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1193054251,
+    "wof:lastmodified":1537661926,
+    "wof:name":"Tyrelkai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.12032,
+    55.93219000000001,
+    23.12032,
+    55.93219000000001
+],
+  "geometry": {"coordinates":[23.12032,55.93219000000001],"type":"Point"}
+}

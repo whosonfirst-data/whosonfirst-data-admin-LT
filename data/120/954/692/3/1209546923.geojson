@@ -1,0 +1,66 @@
+{
+  "id": 1209546923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08134,55.12998,23.08134,55.12998",
+    "geom:latitude":55.12998,
+    "geom:longitude":23.08134,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Kybartai",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597728,
+    "gn:latitude":55.12998,
+    "gn:longitude":23.08134,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kybartai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiborty",
+        "Kybartai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597728
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f091e9b6cec11a78a10b6c03956d23e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209546923
+        }
+    ],
+    "wof:id":1209546923,
+    "wof:lastmodified":1537662204,
+    "wof:name":"Kybartai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08134,
+    55.12998,
+    23.08134,
+    55.12998
+],
+  "geometry": {"coordinates":[23.08134,55.12998],"type":"Point"}
+}

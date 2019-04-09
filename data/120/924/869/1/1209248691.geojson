@@ -1,0 +1,67 @@
+{
+  "id": 1209248691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98778,56.12307,23.98778,56.12307",
+    "geom:latitude":56.12307,
+    "geom:longitude":23.98778,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Ruponiai",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595102,
+    "gn:latitude":56.12307,
+    "gn:longitude":23.98778,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ruponiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ropanis",
+        "Ruponyay",
+        "Ruponiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595102
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4e696df1e16678752e8ece5ac787fb6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209248691
+        }
+    ],
+    "wof:id":1209248691,
+    "wof:lastmodified":1537662017,
+    "wof:name":"Ruponiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98778,
+    56.12307,
+    23.98778,
+    56.12307
+],
+  "geometry": {"coordinates":[23.98778,56.12307],"type":"Point"}
+}

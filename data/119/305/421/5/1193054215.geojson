@@ -1,0 +1,75 @@
+{
+  "id": 1193054215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41126,56.2217,21.41126,56.2217",
+    "geom:latitude":56.2217,
+    "geom:longitude":21.41126,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Didzioji Palukne",
+    "gn:country_code":"LT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599883,
+    "gn:latitude":56.2217,
+    "gn:longitude":21.41126,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Did\u017eioji Palukn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poluknie",
+        "Bol\u2019shoye Palukne",
+        "Palukn\u0117",
+        "Palukn\u0117s",
+        "Did\u017eioji Palukn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599883
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"84bed91a1080b8830ac62f59153a67d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1193054215,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1193054215,
+    "wof:lastmodified":1537662348,
+    "wof:name":"Didzioji Palukne",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41126,
+    56.2217,
+    21.41126,
+    56.2217
+],
+  "geometry": {"coordinates":[21.41126,56.2217],"type":"Point"}
+}

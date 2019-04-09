@@ -1,0 +1,71 @@
+{
+  "id": 1309939705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53767,55.45436,23.53767,55.45436",
+    "geom:latitude":55.45436,
+    "geom:longitude":23.53767,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Sokiskis",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305912,
+    "gn:latitude":55.45436,
+    "gn:longitude":23.53767,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Soki\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Soki\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305912
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b2cc137ba27ca76b64bc96ac4e40aabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1309939705,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309939705,
+    "wof:lastmodified":1537662858,
+    "wof:name":"Sokiskis",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53767,
+    55.45436,
+    23.53767,
+    55.45436
+],
+  "geometry": {"coordinates":[23.53767,55.45436],"type":"Point"}
+}

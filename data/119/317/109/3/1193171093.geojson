@@ -1,0 +1,73 @@
+{
+  "id": 1193171093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85553,55.16173,22.85553,55.16173",
+    "geom:latitude":55.16173,
+    "geom:longitude":22.85553,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Dargiai",
+    "gn:country_code":"LT",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600072,
+    "gn:latitude":55.16173,
+    "gn:longitude":22.85553,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dargiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dargi",
+        "Dargyay",
+        "Dargiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600072
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3bb9d62753ebc817714ec619c7273a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1193171093,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1193171093,
+    "wof:lastmodified":1537662362,
+    "wof:name":"Dargiai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85553,
+    55.16173000000001,
+    22.85553,
+    55.16173000000001
+],
+  "geometry": {"coordinates":[22.85553,55.16173000000001],"type":"Point"}
+}

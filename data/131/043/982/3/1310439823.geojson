@@ -1,0 +1,72 @@
+{
+  "id": 1310439823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9447,55.87079,21.9447,55.87079",
+    "geom:latitude":55.87079,
+    "geom:longitude":21.9447,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Sarkiai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594932,
+    "gn:latitude":55.87079,
+    "gn:longitude":21.9447,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160arkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharkey",
+        "\u0160arkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594932
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cabe42db5eed22290f8b590dd2d7ea96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1310439823,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1310439823,
+    "wof:lastmodified":1537662007,
+    "wof:name":"Sarkiai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9447,
+    55.87079,
+    21.9447,
+    55.87079
+],
+  "geometry": {"coordinates":[21.9447,55.87079],"type":"Point"}
+}

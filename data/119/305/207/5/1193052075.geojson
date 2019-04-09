@@ -1,0 +1,71 @@
+{
+  "id": 1193052075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80771,55.30814,25.80771,55.30814",
+    "geom:latitude":55.30814,
+    "geom:longitude":25.80771,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Pliausketes",
+    "gn:country_code":"LT",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294342,
+    "gn:latitude":55.30814,
+    "gn:longitude":25.80771,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pliau\u0161ket\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pliau\u0161ket\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294342
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"67f6f7ee01983c0cc3a62897c2914d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1193052075,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1193052075,
+    "wof:lastmodified":1537662564,
+    "wof:name":"Pliausketes",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80771,
+    55.30814,
+    25.80771,
+    55.30814
+],
+  "geometry": {"coordinates":[25.80771,55.30814],"type":"Point"}
+}

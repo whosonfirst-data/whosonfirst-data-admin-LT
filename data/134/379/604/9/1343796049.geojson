@@ -1,0 +1,83 @@
+{
+  "id": 1343796049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58659,55.42929,24.58659,55.42929",
+    "geom:latitude":55.42929,
+    "geom:longitude":24.58659,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Lenas",
+    "gn:country_code":"LT",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597550,
+    "gn:latitude":55.42929,
+    "gn:longitude":24.58659,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"L\u0117nas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "L\u0117nas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "L\u0117no",
+        "\u0141any",
+        "Leny",
+        "L\u0117na",
+        "Lenai",
+        "L\u0117n\u0173",
+        "L\u0117nas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597550
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9ba52a4af62cead04eb7c6c1ee4d058f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1343796049,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343796049,
+    "wof:lastmodified":1537662191,
+    "wof:name":"Lenas",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58659,
+    55.42929,
+    24.58659,
+    55.42929
+],
+  "geometry": {"coordinates":[24.58659,55.42929],"type":"Point"}
+}

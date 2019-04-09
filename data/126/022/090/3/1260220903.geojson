@@ -1,0 +1,73 @@
+{
+  "id": 1260220903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.32618,55.06147,23.32618,55.06147",
+    "geom:latitude":55.06147,
+    "geom:longitude":23.32618,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Ilguva",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598977,
+    "gn:latitude":55.06147,
+    "gn:longitude":23.32618,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ilguva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kul\u2019ne",
+        "Ilguvos",
+        "Ilguva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598977
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a6e90b7afae943998c7165e90430abad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1260220903,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1260220903,
+    "wof:lastmodified":1537662289,
+    "wof:name":"Ilguva",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.32618,
+    55.06146999999999,
+    23.32618,
+    55.06146999999999
+],
+  "geometry": {"coordinates":[23.32618,55.06146999999999],"type":"Point"}
+}

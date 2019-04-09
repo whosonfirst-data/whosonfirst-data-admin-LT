@@ -1,0 +1,75 @@
+{
+  "id": 1310532503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35747,55.27654,26.35747,55.27654",
+    "geom:latitude":55.27654,
+    "geom:longitude":26.35747,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Rubelninkai",
+    "gn:country_code":"LT",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595192,
+    "gn:latitude":55.27654,
+    "gn:longitude":26.35747,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rubelninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u016bbelnykai",
+        "R\u016bbelnikai",
+        "Rubel\u2019niki",
+        "Rubel\u2019ninkay",
+        "Rubelninkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595192
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7fb22b534a7c367f8e7595696064cc12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1310532503,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310532503,
+    "wof:lastmodified":1537662025,
+    "wof:name":"Rubelninkai",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35747000000001,
+    55.27654,
+    26.35747000000001,
+    55.27654
+],
+  "geometry": {"coordinates":[26.35747000000001,55.27654],"type":"Point"}
+}

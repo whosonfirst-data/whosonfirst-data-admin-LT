@@ -1,0 +1,71 @@
+{
+  "id": 1276690243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22579,55.8028,26.22579,55.8028",
+    "geom:latitude":55.8028,
+    "geom:longitude":26.22579,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Garadauka",
+    "gn:country_code":"LT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291611,
+    "gn:latitude":55.8028,
+    "gn:longitude":26.22579,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Garadauka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Garadauka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291611
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"40ac7a8793f211b7d7a01fa67ed14152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276690243,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276690243,
+    "wof:lastmodified":1537662500,
+    "wof:name":"Garadauka",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22579,
+    55.8028,
+    26.22579,
+    55.8028
+],
+  "geometry": {"coordinates":[26.22579,55.8028],"type":"Point"}
+}

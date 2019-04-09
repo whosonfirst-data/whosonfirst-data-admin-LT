@@ -1,0 +1,74 @@
+{
+  "id": 1226572005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06071,54.60828,23.06071,54.60828",
+    "geom:latitude":54.60828,
+    "geom:longitude":23.06071,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Pustapedziai",
+    "gn:country_code":"LT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595499,
+    "gn:latitude":54.60828,
+    "gn:longitude":23.06071,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"P\u016bstap\u0117d\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pustopedze",
+        "Pustap\u0117d\u017ei\u0173",
+        "Pustapedzhyay",
+        "P\u016bstap\u0117d\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595499
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"23bb49ff45d136a2de3ca2747c38b1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1226572005,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1226572005,
+    "wof:lastmodified":1537662045,
+    "wof:name":"Pustapedziai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06071,
+    54.60828000000001,
+    23.06071,
+    54.60828000000001
+],
+  "geometry": {"coordinates":[23.06071,54.60828000000001],"type":"Point"}
+}

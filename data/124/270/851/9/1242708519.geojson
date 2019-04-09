@@ -1,0 +1,74 @@
+{
+  "id": 1242708519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.47656,55.60942,26.47656,55.60942",
+    "geom:latitude":55.60942,
+    "geom:longitude":26.47656,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Uzupiai",
+    "gn:country_code":"LT",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593587,
+    "gn:latitude":55.60942,
+    "gn:longitude":26.47656,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"U\u017eupiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "U\u017eupiai"
+    ],
+    "name:und_x_variant":[
+        "U\u017e\u016bpis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593587
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4255513cc2af0bc90592dee0b39c33c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1242708519,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1242708519,
+    "wof:lastmodified":1537661915,
+    "wof:name":"Uzupiai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.47656,
+    55.60941999999999,
+    26.47656,
+    55.60941999999999
+],
+  "geometry": {"coordinates":[26.47656,55.60941999999999],"type":"Point"}
+}

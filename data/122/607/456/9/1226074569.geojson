@@ -1,0 +1,71 @@
+{
+  "id": 1226074569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33165,54.80157,23.33165,54.80157",
+    "geom:latitude":54.80157,
+    "geom:longitude":23.33165,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"58.0",
+    "gn:asciiname":"Buda",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305052,
+    "gn:latitude":54.80157,
+    "gn:longitude":23.33165,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"B\u016bda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "B\u016bda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305052
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"935e1c7e6f6adb4c478f476249532b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073607,
+            "locality_id":1226074569,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1226074569,
+    "wof:lastmodified":1537662838,
+    "wof:name":"Buda",
+    "wof:parent_id":102073607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33165,
+    54.80157,
+    23.33165,
+    54.80157
+],
+  "geometry": {"coordinates":[23.33165,54.80157],"type":"Point"}
+}

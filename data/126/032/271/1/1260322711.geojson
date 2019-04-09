@@ -1,0 +1,71 @@
+{
+  "id": 1260322711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.40942,55.31519,24.40942,55.31519",
+    "geom:latitude":55.31519,
+    "geom:longitude":24.40942,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Sernupe",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311789,
+    "gn:latitude":55.31519,
+    "gn:longitude":24.40942,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160ernup\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160ernup\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311789
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"52cbf0128eebc31f44d90e23100e8b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1260322711,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260322711,
+    "wof:lastmodified":1537662976,
+    "wof:name":"Sernupe",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.40942,
+    55.31519,
+    24.40942,
+    55.31519
+],
+  "geometry": {"coordinates":[24.40942,55.31519],"type":"Point"}
+}

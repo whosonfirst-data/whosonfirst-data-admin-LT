@@ -1,0 +1,71 @@
+{
+  "id": 1193173885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98513,55.87026,25.98513,55.87026",
+    "geom:latitude":55.87026,
+    "geom:longitude":25.98513,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Kukariskis",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293474,
+    "gn:latitude":55.87026,
+    "gn:longitude":25.98513,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kukari\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kukari\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293474
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a5709fb3581ca2aabc166a5b75166b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1193173885,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1193173885,
+    "wof:lastmodified":1537662546,
+    "wof:name":"Kukariskis",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98513,
+    55.87026,
+    25.98513,
+    55.87026
+],
+  "geometry": {"coordinates":[25.98513,55.87026],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326764849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.47974,56.00274,23.47974,56.00274",
+    "geom:latitude":56.00274,
+    "geom:longitude":23.47974,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Daunorai",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599983,
+    "gn:latitude":56.00274,
+    "gn:longitude":23.47974,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Daunorai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Davnory",
+        "Daunorai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599983
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b9de580e0a668b209d96d1a71d768d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1326764849,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1326764849,
+    "wof:lastmodified":1537662355,
+    "wof:name":"Daunorai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.47974,
+    56.00274,
+    23.47974,
+    56.00274
+],
+  "geometry": {"coordinates":[23.47974,56.00274],"type":"Point"}
+}

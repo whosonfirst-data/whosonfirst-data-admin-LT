@@ -1,0 +1,71 @@
+{
+  "id": 1326466829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.46886,54.66894,23.46886,54.66894",
+    "geom:latitude":54.66894,
+    "geom:longitude":23.46886,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Klevinkalnis",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598069,
+    "gn:latitude":54.66894,
+    "gn:longitude":23.46886,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Klevinkalnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Klevinkalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598069
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0991cb5b75ffe8d34d9008ff92e8e7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073595,
+            "locality_id":1326466829,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1326466829,
+    "wof:lastmodified":1537662227,
+    "wof:name":"Klevinkalnis",
+    "wof:parent_id":102073595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.46886,
+    54.66894,
+    23.46886,
+    54.66894
+],
+  "geometry": {"coordinates":[23.46886,54.66894],"type":"Point"}
+}

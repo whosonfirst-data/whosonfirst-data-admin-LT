@@ -1,0 +1,75 @@
+{
+  "id": 1310535523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06268,54.93175,24.06268,54.93175",
+    "geom:latitude":54.93175,
+    "geom:longitude":24.06268,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Martinava",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597221,
+    "gn:latitude":54.93175,
+    "gn:longitude":24.06268,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Martinava",
+    "gn:population":65,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Martynov",
+        "Martinava"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597221
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b20c6c7a04a5871d067a39520d2842e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1310535523,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310535523,
+    "wof:lastmodified":1537662171,
+    "wof:name":"Martinava",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:population":65,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06268,
+    54.93175,
+    24.06268,
+    54.93175
+],
+  "geometry": {"coordinates":[24.06268,54.93175],"type":"Point"}
+}

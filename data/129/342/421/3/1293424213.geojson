@@ -1,0 +1,71 @@
+{
+  "id": 1293424213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43784,55.24564,25.43784,55.24564",
+    "geom:latitude":55.24564,
+    "geom:longitude":25.43784,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Azusiliai",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297340,
+    "gn:latitude":55.24564,
+    "gn:longitude":25.43784,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"A\u017eu\u0161iliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "A\u017eu\u0161iliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297340
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"96703c68266bf0a07052f498a8d2b6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1293424213,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1293424213,
+    "wof:lastmodified":1537662644,
+    "wof:name":"Azusiliai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43784,
+    55.24564,
+    25.43784,
+    55.24564
+],
+  "geometry": {"coordinates":[25.43784,55.24564],"type":"Point"}
+}

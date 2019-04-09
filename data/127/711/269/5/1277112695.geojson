@@ -1,0 +1,74 @@
+{
+  "id": 1277112695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65442,55.59768,24.65442,55.59768",
+    "geom:latitude":55.59768,
+    "geom:longitude":24.65442,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Putiliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595494,
+    "gn:latitude":55.59768,
+    "gn:longitude":24.65442,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Putili\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Putilishkyay",
+        "Putselovo",
+        "Puteli\u0161ki\u0173",
+        "Putili\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595494
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9ad83556ff232a24ca9fd18743b9fd85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1277112695,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1277112695,
+    "wof:lastmodified":1537662044,
+    "wof:name":"Putiliskiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65442,
+    55.59768,
+    24.65442,
+    55.59768
+],
+  "geometry": {"coordinates":[24.65442,55.59768],"type":"Point"}
+}

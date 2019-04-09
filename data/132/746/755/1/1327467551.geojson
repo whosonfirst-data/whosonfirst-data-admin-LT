@@ -1,0 +1,71 @@
+{
+  "id": 1327467551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28681,55.6523,26.28681,55.6523",
+    "geom:latitude":55.6523,
+    "geom:longitude":26.28681,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Degesiskes",
+    "gn:country_code":"LT",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291945,
+    "gn:latitude":55.6523,
+    "gn:longitude":26.28681,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Degesi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Degesi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291945
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"10d32c284fac43fd00cbfac4e98041f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1327467551,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327467551,
+    "wof:lastmodified":1537662509,
+    "wof:name":"Degesiskes",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28681,
+    55.6523,
+    26.28681,
+    55.6523
+],
+  "geometry": {"coordinates":[26.28681,55.6523],"type":"Point"}
+}

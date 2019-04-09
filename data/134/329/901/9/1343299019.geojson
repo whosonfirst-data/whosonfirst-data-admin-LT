@@ -1,0 +1,71 @@
+{
+  "id": 1343299019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78535,55.18808,21.78535,55.18808",
+    "geom:latitude":55.18808,
+    "geom:longitude":21.78535,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Kovgiriai",
+    "gn:country_code":"LT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289700,
+    "gn:latitude":55.18808,
+    "gn:longitude":21.78535,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kovgiriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kovgiriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289700
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5d61d04278db52c4bc892622a58df3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073623,
+            "locality_id":1343299019,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1343299019,
+    "wof:lastmodified":1537662460,
+    "wof:name":"Kovgiriai",
+    "wof:parent_id":102073623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78535,
+    55.18808000000001,
+    21.78535,
+    55.18808000000001
+],
+  "geometry": {"coordinates":[21.78535,55.18808000000001],"type":"Point"}
+}

@@ -1,0 +1,186 @@
+{
+  "id": 101817977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000251,
+    "geom:area_square_m":1792089.330413,
+    "geom:bbox":"22.8536751309,54.7595138463,22.8773708659,54.7857312046",
+    "geom:latitude":54.772351,
+    "geom:longitude":22.864748,
+    "gn:population":1961,
+    "iso:country":"LT",
+    "lbl:latitude":54.774458,
+    "lbl:longitude":22.863581,
+    "mps:latitude":54.774458,
+    "mps:longitude":22.863581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062f\u064a\u0631\u0643\u0648\u0633 \u0646\u0648\u0645\u064a\u0633\u062a\u064a\u0633"
+    ],
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0582\u0564\u056b\u0580\u056f\u0578\u057d \u0546\u0561\u0578\u0582\u0574\u0565\u057d\u057f\u056b\u057d"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041a\u0443\u0434\u0437\u0456\u0440\u043a\u0430\u0441 \u041d\u0430\u045e\u043c\u0456\u0435\u0441\u0446\u0456\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0423\u043b\u0430\u0434\u044b\u0441\u043b\u0430\u0432\u0430\u045e",
+        "\u041a\u0443\u0434\u0437\u0456\u0440\u043a\u0430\u0441 \u041d\u0430\u045e\u043c\u0435\u0441\u0446\u0456\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:chi_x_preferred":[
+        "\u5eab\u8fea\u723e\u79d1\u65af-\u7459\u6885\u65af\u8482\u65af"
+    ],
+    "name:cze_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:deu_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:dut_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bd\u03c4\u03af\u03c1\u03ba\u03bf\u03c2 \u039d\u03b1\u03bf\u03c5\u03bc\u03b9\u03ad\u03c3\u03c4\u03b9\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:est_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062f\u06cc\u0631\u06a9\u0648\u0633 \u0646\u0648\u0645\u06cc\u0633\u062a\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:fra_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:fre_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:ger_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bd\u03c4\u03af\u03c1\u03ba\u03bf\u03c2 \u039d\u03b1\u03bf\u03c5\u03bc\u03b9\u03ad\u03c3\u03c4\u03b9\u03c2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d3\u05d9\u05e8\u05e7\u05d5\u05e1 \u05e0\u05d0\u05d5\u05de\u05d9\u05d9\u05e1\u05d8\u05d9\u05e1"
+    ],
+    "name:hsb_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30c7\u30a3\u30eb\u30b3\u30b9\u30fb\u30ca\u30a6\u30df\u30a8\u30b9\u30c6\u30a3\u30b9"
+    ],
+    "name:lav_x_preferred":[
+        "Kudirkas Naumieste"
+    ],
+    "name:lit_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u062f\u06cc\u0631\u06a9\u0648\u0633 \u0646\u0648\u0645\u06cc\u0633\u062a\u06cc\u0633"
+    ],
+    "name:pms_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:pol_x_preferred":[
+        "W\u0142adys\u0142aw\u00f3w"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0434\u0438\u0440\u043a\u043e\u0441-\u041d\u0430\u0443\u043c\u0435\u0441\u0442\u0438\u0441"
+    ],
+    "name:sgs_x_preferred":[
+        "Kodirkas Naumiestis"
+    ],
+    "name:swe_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0434\u0438\u0440\u043a\u043e\u0441-\u041d\u0430\u0443\u043c\u0435\u0441\u0442\u0438\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Naumiestis"
+    ],
+    "name:vol_x_preferred":[
+        "Kudirkos Naumiestis"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u8fea\u723e\u79d1\u65af-\u7459\u6885\u65af\u8482\u65af"
+    ],
+    "qs:a0":"Lietuva",
+    "qs:a1":"*\u0160akiai",
+    "qs:a1r":"0Marijampole",
+    "qs:adm0":"Lietuva",
+    "qs:la":"Kudirkos Naumies\u010dio",
+    "qs:la_lc":"*LT048409",
+    "qs:level":"locality",
+    "qs:loc":"Kudirkos Naumiestis",
+    "qs:loc_alt":"Kudirkos Naumiestis",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":54.775,
+    "wd:longitude":22.866667,
+    "wd:wordcount":281,
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597904,
+        "gp:id":475784,
+        "qs:id":1010357,
+        "qs_pg:id":1010357,
+        "wd:id":"Q277936",
+        "wk:page":"Kudirkos Naumiestis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ca72444657f3912f33bdf8e7ebd9407f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":101817977,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":101817977,
+    "wof:lastmodified":1527642454,
+    "wof:name":"Kudirkos Naumiestis",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:population":1961,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85367513094582,
+    54.75951384634612,
+    22.87737086590948,
+    54.78573120462653
+],
+  "geometry": {"coordinates":[[[22.86861824922477,54.78525269399722],[22.8680552113222,54.78348861771377],[22.8665231523355,54.78364813214546],[22.86567880036512,54.78100199988921],[22.87027465875587,54.78052343573842],[22.86999314225562,54.77964140185105],[22.87305692908399,54.77932227317308],[22.87277536382078,54.77844024635368],[22.87737086590948,54.77796142448068],[22.87708922019829,54.77707940866691],[22.87555742893898,54.77723903077566],[22.87527582956011,54.77635701022024],[22.87374405891808,54.77651660963818],[22.87318096745236,54.77475255824078],[22.8701175197188,54.77507168507208],[22.86927318239873,54.77242557833284],[22.86774153699679,54.77258510181508],[22.86633475907541,54.76817488816869],[22.86786624605907,54.7680153843541],[22.86758490266033,54.76713334314655],[22.86911634690324,54.76697382451482],[22.86855364061404,54.76520974755385],[22.87008501044392,54.76505021803968],[22.86980364755658,54.76416818228608],[22.87133497465231,54.76400863795669],[22.86992822116065,54.75959846678938],[22.86227226680876,54.76039590265037],[22.86199111828688,54.75951384634612],[22.85892872250582,54.75983268160388],[22.860896625571,54.76600711388932],[22.86242805069514,54.76584767812108],[22.86355301490084,54.76937589174793],[22.85589514508541,54.77017296170112],[22.85673854640595,54.77281917245705],[22.85367513094582,54.773137892752],[22.85423734478042,54.77490204496581],[22.85576912142869,54.774742686335],[22.85605028196267,54.77562475730844],[22.85911386547861,54.77530597592011],[22.86023890738034,54.77883422033921],[22.85870699435333,54.77899363613835],[22.8589882596803,54.779875699169],[22.86052020441048,54.77971627943737],[22.86164553878302,54.78324450780389],[22.86317759927391,54.78308505358194],[22.86402184878335,54.78573120462653],[22.86861824922477,54.78525269399722]]],"type":"Polygon"}
+}

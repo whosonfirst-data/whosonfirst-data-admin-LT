@@ -1,0 +1,65 @@
+{
+  "id": 1209140545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76445,55.64157,23.76445,55.64157",
+    "geom:latitude":55.64157,
+    "geom:longitude":23.76445,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Kabliai",
+    "gn:country_code":"LT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307902,
+    "gn:latitude":55.64157,
+    "gn:longitude":23.76445,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kabliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kabliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307902
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5be91378718926ca8269989e0b75c43a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209140545
+        }
+    ],
+    "wof:id":1209140545,
+    "wof:lastmodified":1537662895,
+    "wof:name":"Kabliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76445,
+    55.64157,
+    23.76445,
+    55.64157
+],
+  "geometry": {"coordinates":[23.76445,55.64157],"type":"Point"}
+}

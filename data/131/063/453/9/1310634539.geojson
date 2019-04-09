@@ -1,0 +1,73 @@
+{
+  "id": 1310634539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12561,55.74747,22.12561,55.74747",
+    "geom:latitude":55.74747,
+    "geom:longitude":22.12561,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Zorubai",
+    "gn:country_code":"LT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592725,
+    "gn:latitude":55.74747,
+    "gn:longitude":22.12561,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zor\u016bbai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zor\u016bb\u0173",
+        "Zarubay",
+        "Zor\u016bbai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592725
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"779cba3e7849b3222142c369d231f64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1310634539,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1310634539,
+    "wof:lastmodified":1537661860,
+    "wof:name":"Zorubai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12561,
+    55.74746999999999,
+    22.12561,
+    55.74746999999999
+],
+  "geometry": {"coordinates":[22.12561,55.74746999999999],"type":"Point"}
+}

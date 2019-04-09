@@ -1,0 +1,71 @@
+{
+  "id": 1225978697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71028,55.69482,21.71028,55.69482",
+    "geom:latitude":55.69482,
+    "geom:longitude":21.71028,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Pyktiske",
+    "gn:country_code":"LT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290051,
+    "gn:latitude":55.69482,
+    "gn:longitude":21.71028,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pykti\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pykti\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290051
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3e54bfc913be28843e3c7bdb259e713b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1225978697,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1225978697,
+    "wof:lastmodified":1537662466,
+    "wof:name":"Pyktiske",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71028,
+    55.69481999999999,
+    21.71028,
+    55.69481999999999
+],
+  "geometry": {"coordinates":[21.71028,55.69481999999999],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209139719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25681,55.84893,25.25681,55.84893",
+    "geom:latitude":55.84893,
+    "geom:longitude":25.25681,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Kandreneliai",
+    "gn:country_code":"LT",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295778,
+    "gn:latitude":55.84893,
+    "gn:longitude":25.25681,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kandr\u0117n\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kandr\u0117n\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295778
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c05e76c5a4cb553087c909a11ed2393f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209139719
+        }
+    ],
+    "wof:id":1209139719,
+    "wof:lastmodified":1537662601,
+    "wof:name":"Kandreneliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25681,
+    55.84893,
+    25.25681,
+    55.84893
+],
+  "geometry": {"coordinates":[25.25681,55.84893],"type":"Point"}
+}

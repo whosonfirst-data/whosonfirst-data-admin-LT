@@ -1,0 +1,65 @@
+{
+  "id": 1209136515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08463,55.53054,24.08463,55.53054",
+    "geom:latitude":55.53054,
+    "geom:longitude":24.08463,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Slabadele",
+    "gn:country_code":"LT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309935,
+    "gn:latitude":55.53054,
+    "gn:longitude":24.08463,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Slabad\u0117l\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Slabad\u0117l\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309935
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cc4a79b8c8d78e610eb64e181879505a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209136515
+        }
+    ],
+    "wof:id":1209136515,
+    "wof:lastmodified":1537662933,
+    "wof:name":"Slabadele",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08463,
+    55.53054,
+    24.08463,
+    55.53054
+],
+  "geometry": {"coordinates":[24.08463,55.53054],"type":"Point"}
+}

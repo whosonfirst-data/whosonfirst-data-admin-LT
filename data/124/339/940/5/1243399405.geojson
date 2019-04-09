@@ -1,0 +1,74 @@
+{
+  "id": 1243399405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57003,55.96962,22.57003,55.96962",
+    "geom:latitude":55.96962,
+    "geom:longitude":22.57003,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Kaunatava",
+    "gn:country_code":"LT",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598315,
+    "gn:latitude":55.96962,
+    "gn:longitude":22.57003,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kaunatava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaunatavas",
+        "Kaunotavo",
+        "Kaunetavo",
+        "Kaunatava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598315
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"01adc878b57afec4693220d67216c48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1243399405,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1243399405,
+    "wof:lastmodified":1537662243,
+    "wof:name":"Kaunatava",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57003,
+    55.96961999999999,
+    22.57003,
+    55.96961999999999
+],
+  "geometry": {"coordinates":[22.57003,55.96961999999999],"type":"Point"}
+}

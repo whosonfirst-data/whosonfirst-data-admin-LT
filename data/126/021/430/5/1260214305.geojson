@@ -1,0 +1,71 @@
+{
+  "id": 1260214305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.25948,55.2829,26.25948,55.2829",
+    "geom:latitude":55.2829,
+    "geom:longitude":26.25948,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Kurniske",
+    "gn:country_code":"LT",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292346,
+    "gn:latitude":55.2829,
+    "gn:longitude":26.25948,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kurni\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kurni\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292346
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0256c0ec091a3863a730a93102e1a501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1260214305,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1260214305,
+    "wof:lastmodified":1537662519,
+    "wof:name":"Kurniske",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.25948,
+    55.2829,
+    26.25948,
+    55.2829
+],
+  "geometry": {"coordinates":[26.25948,55.2829],"type":"Point"}
+}

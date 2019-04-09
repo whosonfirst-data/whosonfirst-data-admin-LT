@@ -1,0 +1,71 @@
+{
+  "id": 1326666377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80315,56.30213,23.80315,56.30213",
+    "geom:latitude":56.30213,
+    "geom:longitude":23.80315,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Raspieve",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308334,
+    "gn:latitude":56.30213,
+    "gn:longitude":23.80315,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ra\u0161piev\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ra\u0161piev\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308334
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"978e1e75b0886e90f39ea71c9ef32690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1326666377,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1326666377,
+    "wof:lastmodified":1537662902,
+    "wof:name":"Raspieve",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80315,
+    56.30213000000001,
+    23.80315,
+    56.30213000000001
+],
+  "geometry": {"coordinates":[23.80315,56.30213000000001],"type":"Point"}
+}

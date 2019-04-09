@@ -1,0 +1,76 @@
+{
+  "id": 1226682337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.38256,55.81423,22.38256,55.81423",
+    "geom:latitude":55.81423,
+    "geom:longitude":22.38256,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Janapole",
+    "gn:country_code":"LT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598910,
+    "gn:latitude":55.81423,
+    "gn:longitude":22.38256,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Janapol\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vir\u017euv\u0117nai",
+        "Janapolio",
+        "Yanapole",
+        "Yanopol",
+        "Janapol\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598910,
+        "wk:page":"Janapol%C4%97"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c98b9c414e45ca394e4cf2c42d963072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1226682337,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1226682337,
+    "wof:lastmodified":1537662284,
+    "wof:name":"Janapole",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.38256,
+    55.81423,
+    22.38256,
+    55.81423
+],
+  "geometry": {"coordinates":[22.38256,55.81423],"type":"Point"}
+}

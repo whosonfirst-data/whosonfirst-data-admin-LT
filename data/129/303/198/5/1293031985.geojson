@@ -1,0 +1,83 @@
+{
+  "id": 1293031985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.97013,55.17895,24.97013,55.17895",
+    "geom:latitude":55.17895,
+    "geom:longitude":24.97013,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Sesuoliai",
+    "gn:country_code":"LT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594772,
+    "gn:latitude":55.17895,
+    "gn:longitude":24.97013,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160e\u0161uoliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u0160e\u0161uoliai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0448\u0443\u043e\u043b\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Sheshuolyay",
+        "Shesholi",
+        "\u0160e\u0161uoli\u0173",
+        "\u0160a\u0161uoliai",
+        "Su\u0161uoliai",
+        "Szeszole",
+        "\u0160e\u0161uoliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594772
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f00ac1592f7999a2793865a0d1c226e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1293031985,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293031985,
+    "wof:lastmodified":1537661995,
+    "wof:name":"Sesuoliai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.97013,
+    55.17895,
+    24.97013,
+    55.17895
+],
+  "geometry": {"coordinates":[24.97013,55.17895],"type":"Point"}
+}

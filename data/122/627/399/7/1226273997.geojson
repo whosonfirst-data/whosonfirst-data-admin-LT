@@ -1,0 +1,72 @@
+{
+  "id": 1226273997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.67207,55.95526,24.67207,55.95526",
+    "geom:latitude":55.95526,
+    "geom:longitude":24.67207,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Darzai",
+    "gn:country_code":"LT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600058,
+    "gn:latitude":55.95526,
+    "gn:longitude":24.67207,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dar\u017eai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Derzhishki",
+        "Dar\u017eai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600058
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c5a20821019dc06de27d4f00b963f70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1226273997,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226273997,
+    "wof:lastmodified":1537662361,
+    "wof:name":"Darzai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.67207,
+    55.95526,
+    24.67207,
+    55.95526
+],
+  "geometry": {"coordinates":[24.67207,55.95526],"type":"Point"}
+}

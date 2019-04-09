@@ -1,0 +1,66 @@
+{
+  "id": 1209243359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97214,54.56845,22.97214,54.56845",
+    "geom:latitude":54.56845,
+    "geom:longitude":22.97214,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Sapkinai",
+    "gn:country_code":"LT",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594957,
+    "gn:latitude":54.56845,
+    "gn:longitude":22.97214,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160apkinai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shapkinay",
+        "\u0160apkinai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594957
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bcbaf67ab17ad4d849685080625ed962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209243359
+        }
+    ],
+    "wof:id":1209243359,
+    "wof:lastmodified":1537662009,
+    "wof:name":"Sapkinai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97214,
+    54.56845,
+    22.97214,
+    54.56845
+],
+  "geometry": {"coordinates":[22.97214,54.56845],"type":"Point"}
+}

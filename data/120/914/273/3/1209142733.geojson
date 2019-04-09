@@ -1,0 +1,66 @@
+{
+  "id": 1209142733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5092,55.17711,24.5092,55.17711",
+    "geom:latitude":55.17711,
+    "geom:longitude":24.5092,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Rotautai",
+    "gn:country_code":"LT",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595201,
+    "gn:latitude":55.17711,
+    "gn:longitude":24.5092,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rotautai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rotautay",
+        "Rotautai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595201
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"237eedcba191dc2bc2f92c4edfebc055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209142733
+        }
+    ],
+    "wof:id":1209142733,
+    "wof:lastmodified":1537662025,
+    "wof:name":"Rotautai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5092,
+    55.17711,
+    24.5092,
+    55.17711
+],
+  "geometry": {"coordinates":[24.5092,55.17711],"type":"Point"}
+}

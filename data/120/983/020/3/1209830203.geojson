@@ -1,0 +1,72 @@
+{
+  "id": 1209830203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25,55.61667,24.25,55.61667",
+    "geom:latitude":55.61667,
+    "geom:longitude":24.25,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Dubuliai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599742,
+    "gn:latitude":55.61667,
+    "gn:longitude":24.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dubuliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobuli",
+        "Dubuliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599742
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ac89089f359c85a66f78402e191e7b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1209830203,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1209830203,
+    "wof:lastmodified":1537662339,
+    "wof:name":"Dubuliai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25,
+    55.61666999999999,
+    24.25,
+    55.61666999999999
+],
+  "geometry": {"coordinates":[24.25,55.61666999999999],"type":"Point"}
+}

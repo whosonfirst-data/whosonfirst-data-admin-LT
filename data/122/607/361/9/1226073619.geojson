@@ -1,0 +1,71 @@
+{
+  "id": 1226073619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81297,54.48338,24.81297,54.48338",
+    "geom:latitude":54.48338,
+    "geom:longitude":24.81297,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Maciulaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300834,
+    "gn:latitude":54.48338,
+    "gn:longitude":24.81297,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ma\u010diulai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ma\u010diulai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300834
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"862330299880972dfc0e6732361425fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1226073619,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226073619,
+    "wof:lastmodified":1537662746,
+    "wof:name":"Maciulaiciai",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81297,
+    54.48338,
+    24.81297,
+    54.48338
+],
+  "geometry": {"coordinates":[24.81297,54.48338],"type":"Point"}
+}

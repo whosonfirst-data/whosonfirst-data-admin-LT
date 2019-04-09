@@ -1,0 +1,71 @@
+{
+  "id": 1226273029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11435,55.30049,22.11435,55.30049",
+    "geom:latitude":55.30049,
+    "geom:longitude":22.11435,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Dabrupine",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290686,
+    "gn:latitude":55.30049,
+    "gn:longitude":22.11435,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dabrupin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dabrupin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290686
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"60a1de4376a15c7d9a919af76122e760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1226273029,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1226273029,
+    "wof:lastmodified":1537662475,
+    "wof:name":"Dabrupine",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11435,
+    55.30049,
+    22.11435,
+    55.30049
+],
+  "geometry": {"coordinates":[22.11435,55.30049],"type":"Point"}
+}

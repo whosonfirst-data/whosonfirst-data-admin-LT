@@ -1,0 +1,73 @@
+{
+  "id": 1276158293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21544,55.51511,23.21544,55.51511",
+    "geom:latitude":55.51511,
+    "geom:longitude":23.21544,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Grigaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599167,
+    "gn:latitude":55.51511,
+    "gn:longitude":23.21544,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Grigai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grigaychyay",
+        "Grisaytse",
+        "Grigai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599167
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4b93ac359668fefcab6ff4277fe8350d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1276158293,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276158293,
+    "wof:lastmodified":1537662301,
+    "wof:name":"Grigaiciai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21544,
+    55.51511,
+    23.21544,
+    55.51511
+],
+  "geometry": {"coordinates":[23.21544,55.51511],"type":"Point"}
+}

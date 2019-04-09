@@ -1,0 +1,75 @@
+{
+  "id": 1326660479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22905,54.99775,24.22905,54.99775",
+    "geom:latitude":54.99775,
+    "geom:longitude":24.22905,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Paskutiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596019,
+    "gn:latitude":54.99775,
+    "gn:longitude":24.22905,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Paskuti\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poskutishki",
+        "Paskuti\u0161ki\u0173",
+        "Paskuti\u0161k\u0117s",
+        "Paskutishkyay",
+        "Paskuti\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596019
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6e8c4a6b5fde463e2112722760c3c873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1326660479,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1326660479,
+    "wof:lastmodified":1537662083,
+    "wof:name":"Paskutiskiai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22905,
+    54.99775,
+    24.22905,
+    54.99775
+],
+  "geometry": {"coordinates":[24.22905,54.99775],"type":"Point"}
+}

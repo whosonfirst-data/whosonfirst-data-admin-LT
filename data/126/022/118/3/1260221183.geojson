@@ -1,0 +1,71 @@
+{
+  "id": 1260221183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.37057,55.32235,23.37057,55.32235",
+    "geom:latitude":55.32235,
+    "geom:longitude":23.37057,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Pazvirintys",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595894,
+    "gn:latitude":55.32235,
+    "gn:longitude":23.37057,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u017evirintys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u017evirintys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595894
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"62c8af4f63e38dc688c0ab4e3461f9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1260221183,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260221183,
+    "wof:lastmodified":1537662073,
+    "wof:name":"Pazvirintys",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.37057,
+    55.32235,
+    23.37057,
+    55.32235
+],
+  "geometry": {"coordinates":[23.37057,55.32235],"type":"Point"}
+}

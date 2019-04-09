@@ -1,0 +1,73 @@
+{
+  "id": 1193170739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11528,55.91823,22.11528,55.91823",
+    "geom:latitude":55.91823,
+    "geom:longitude":22.11528,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Vilkaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593159,
+    "gn:latitude":55.91823,
+    "gn:longitude":22.11528,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vilkai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vilkaychyay",
+        "Vilkai\u010di\u0173",
+        "Vilkai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593159
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e1e3b38c5187cb05d875ad9bddbbb546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1193170739,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1193170739,
+    "wof:lastmodified":1537661888,
+    "wof:name":"Vilkaiciai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11528,
+    55.91823,
+    22.11528,
+    55.91823
+],
+  "geometry": {"coordinates":[22.11528,55.91823],"type":"Point"}
+}

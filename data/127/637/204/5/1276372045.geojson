@@ -1,0 +1,71 @@
+{
+  "id": 1276372045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73682,55.03958,24.73682,55.03958",
+    "geom:latitude":55.03958,
+    "geom:longitude":24.73682,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Pramislava",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311718,
+    "gn:latitude":55.03958,
+    "gn:longitude":24.73682,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pramislava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pramislava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311718
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8b36bbded5086db0efc584c4af1e8981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1276372045,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276372045,
+    "wof:lastmodified":1537662973,
+    "wof:name":"Pramislava",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73682,
+    55.03958000000001,
+    24.73682,
+    55.03958000000001
+],
+  "geometry": {"coordinates":[24.73682,55.03958000000001],"type":"Point"}
+}

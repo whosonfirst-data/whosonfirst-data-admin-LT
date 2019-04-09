@@ -1,0 +1,74 @@
+{
+  "id": 1277113117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.013,55.803,24.013,55.803",
+    "geom:latitude":55.803,
+    "geom:longitude":24.013,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"66.0",
+    "gn:asciiname":"Smilgiai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594411,
+    "gn:latitude":55.803,
+    "gn:longitude":24.013,
+    "gn:modification_date":"2016-09-22",
+    "gn:name":"Smilgiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smilgi\u0173",
+        "Smil\u2019ge",
+        "Smilgiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594411
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b807f55b5c107578e9f5eeb5fc6ec1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1277113117,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1277113117,
+    "wof:lastmodified":1537661971,
+    "wof:name":"Smilgiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.013,
+    55.803,
+    24.013,
+    55.803
+],
+  "geometry": {"coordinates":[24.013,55.803],"type":"Point"}
+}

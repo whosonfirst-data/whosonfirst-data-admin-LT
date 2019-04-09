@@ -1,0 +1,77 @@
+{
+  "id": 1310435943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.09215,55.06286,25.09215,55.06286",
+    "geom:latitude":55.06286,
+    "geom:longitude":25.09215,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Sesuoleliai II",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594774,
+    "gn:latitude":55.06286,
+    "gn:longitude":25.09215,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160e\u0161uol\u0117liai II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160e\u0161uol\u0117liai II"
+    ],
+    "name:und_x_variant":[
+        "Sheshuolelyay",
+        "\u0160a\u0161uol\u0117liai",
+        "Szeszolki",
+        "\u0160e\u0161uol\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594774
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dc009b42439939340d189a1eabc23814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1310435943,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1310435943,
+    "wof:lastmodified":1537661995,
+    "wof:name":"Sesuoleliai II",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.09215,
+    55.06286,
+    25.09215,
+    55.06286
+],
+  "geometry": {"coordinates":[25.09215,55.06286],"type":"Point"}
+}

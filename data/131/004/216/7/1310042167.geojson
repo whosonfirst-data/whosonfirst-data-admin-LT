@@ -1,0 +1,72 @@
+{
+  "id": 1310042167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46083,55.06212,22.46083,55.06212",
+    "geom:latitude":55.06212,
+    "geom:longitude":22.46083,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Antupiai",
+    "gn:country_code":"LT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601003,
+    "gn:latitude":55.06212,
+    "gn:longitude":22.46083,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Antupiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kaliningrad",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antuppen",
+        "Antupiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601003
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2260973f088e0ec39e8deacb97e33b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1310042167,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1310042167,
+    "wof:lastmodified":1537662426,
+    "wof:name":"Antupiai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46083,
+    55.06211999999999,
+    22.46083,
+    55.06211999999999
+],
+  "geometry": {"coordinates":[22.46083,55.06211999999999],"type":"Point"}
+}

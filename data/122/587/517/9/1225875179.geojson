@@ -1,0 +1,71 @@
+{
+  "id": 1225875179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69913,55.63663,25.69913,55.63663",
+    "geom:latitude":55.63663,
+    "geom:longitude":25.69913,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Alausai",
+    "gn:country_code":"LT",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293594,
+    "gn:latitude":55.63663,
+    "gn:longitude":25.69913,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Alau\u0161ai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Alau\u0161ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293594
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"befa13c215d075ce8c82ce32aa5a5b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1225875179,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1225875179,
+    "wof:lastmodified":1537662549,
+    "wof:name":"Alausai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69913,
+    55.63663,
+    25.69913,
+    55.63663
+],
+  "geometry": {"coordinates":[25.69913,55.63663],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327469023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13333,55.78333,21.13333,55.78333",
+    "geom:latitude":55.78333,
+    "geom:longitude":21.13333,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"55.0",
+    "gn:asciiname":"Blusiai",
+    "gn:country_code":"LT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600407,
+    "gn:latitude":55.78333,
+    "gn:longitude":21.13333,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Blu\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600407
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"35bd68c69bc9b32a2491ccfd0f7e28e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073657,
+            "locality_id":1327469023,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1327469023,
+    "wof:lastmodified":1536625980,
+    "wof:name":"Blusiai",
+    "wof:parent_id":102073657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13333,
+    55.78333000000001,
+    21.13333,
+    55.78333000000001
+],
+  "geometry": {"coordinates":[21.13333,55.78333000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209546463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51983,55.55016,25.51983,55.55016",
+    "geom:latitude":55.55016,
+    "geom:longitude":25.51983,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Siaudiniai",
+    "gn:country_code":"LT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594752,
+    "gn:latitude":55.55016,
+    "gn:longitude":25.51983,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160iaudiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160iaudini\u0173",
+        "Shavdyni",
+        "\u0160iaudiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594752
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3a739388a1601ccfa070e9e42ed36120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209546463
+        }
+    ],
+    "wof:id":1209546463,
+    "wof:lastmodified":1537661993,
+    "wof:name":"Siaudiniai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51983,
+    55.55016,
+    25.51983,
+    55.55016
+],
+  "geometry": {"coordinates":[25.51983,55.55016],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310040461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8196,55.91165,25.8196,55.91165",
+    "geom:latitude":55.91165,
+    "geom:longitude":25.8196,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Rudzionys",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293238,
+    "gn:latitude":55.91165,
+    "gn:longitude":25.8196,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Rud\u017eionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rud\u017eionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293238
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"434e3f15bbe8e1d397ec991b1656e775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1310040461,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310040461,
+    "wof:lastmodified":1537662542,
+    "wof:name":"Rudzionys",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8196,
+    55.91165,
+    25.8196,
+    55.91165
+],
+  "geometry": {"coordinates":[25.8196,55.91165],"type":"Point"}
+}

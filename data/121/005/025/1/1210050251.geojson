@@ -1,0 +1,71 @@
+{
+  "id": 1210050251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.40822,55.44162,25.40822,55.44162",
+    "geom:latitude":55.44162,
+    "geom:longitude":25.40822,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Ledninkas",
+    "gn:country_code":"LT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296623,
+    "gn:latitude":55.44162,
+    "gn:longitude":25.40822,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ledninkas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ledninkas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296623
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"04102512edac21e9490895d375d84927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1210050251,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1210050251,
+    "wof:lastmodified":1537662624,
+    "wof:name":"Ledninkas",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.40822,
+    55.44161999999999,
+    25.40822,
+    55.44161999999999
+],
+  "geometry": {"coordinates":[25.40822,55.44161999999999],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209551693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.84984,56.18786,23.84984,56.18786",
+    "geom:latitude":56.18786,
+    "geom:longitude":23.84984,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Niurai",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308363,
+    "gn:latitude":56.18786,
+    "gn:longitude":23.84984,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ni\u016brai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ni\u016brai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308363
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c27336068ba1655c5b7d33ec0b2ae1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209551693
+        }
+    ],
+    "wof:id":1209551693,
+    "wof:lastmodified":1537662903,
+    "wof:name":"Niurai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84984,
+    56.18786,
+    23.84984,
+    56.18786
+],
+  "geometry": {"coordinates":[23.84984,56.18786],"type":"Point"}
+}

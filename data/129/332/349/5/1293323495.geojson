@@ -1,0 +1,71 @@
+{
+  "id": 1293323495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22362,55.21508,26.22362,55.21508",
+    "geom:latitude":55.21508,
+    "geom:longitude":26.22362,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Kryceles",
+    "gn:country_code":"LT",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292715,
+    "gn:latitude":55.21508,
+    "gn:longitude":26.22362,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kry\u010del\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kry\u010del\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292715
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6f790f7f29e40286bb8b54b9fc940c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1293323495,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293323495,
+    "wof:lastmodified":1537662530,
+    "wof:name":"Kryceles",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22362,
+    55.21508000000001,
+    26.22362,
+    55.21508000000001
+],
+  "geometry": {"coordinates":[26.22362,55.21508000000001],"type":"Point"}
+}

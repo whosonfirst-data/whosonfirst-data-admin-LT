@@ -1,0 +1,74 @@
+{
+  "id": 1225980397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.41939,55.66205,21.41939,55.66205",
+    "geom:latitude":55.66205,
+    "geom:longitude":21.41939,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Snaukstai",
+    "gn:country_code":"LT",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594390,
+    "gn:latitude":55.66205,
+    "gn:longitude":21.41939,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160nauk\u0161tai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160naug\u0161tai",
+        "Shnaukshtay",
+        "\u0160niuk\u0161t\u0173",
+        "\u0160nauk\u0161tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594390
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"aad8bddc67693b3fd42e78bf85193235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1225980397,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1225980397,
+    "wof:lastmodified":1537661969,
+    "wof:name":"Snaukstai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.41939,
+    55.66205,
+    21.41939,
+    55.66205
+],
+  "geometry": {"coordinates":[21.41939,55.66205],"type":"Point"}
+}

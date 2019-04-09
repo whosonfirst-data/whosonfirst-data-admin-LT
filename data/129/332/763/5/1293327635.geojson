@@ -1,0 +1,77 @@
+{
+  "id": 1293327635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5783,56.26411,24.5783,56.26411",
+    "geom:latitude":56.26411,
+    "geom:longitude":24.5783,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Paceriaukste II",
+    "gn:country_code":"LT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596468,
+    "gn:latitude":56.26411,
+    "gn:longitude":24.5783,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u010deriauk\u0161t\u0117 II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u010deriauk\u0161t\u0117 II"
+    ],
+    "name:und_x_variant":[
+        "Pa\u010deriauk\u0161t\u0117",
+        "Pa\u010derauk\u0161t\u0117 II",
+        "Pachyarukshtis Vtoroy",
+        "Pa\u010deriauk\u0161t\u0117 Antras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596468
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"77e75743af631823db75327f36e91d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1293327635,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293327635,
+    "wof:lastmodified":1537662117,
+    "wof:name":"Paceriaukste II",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5783,
+    56.26411,
+    24.5783,
+    56.26411
+],
+  "geometry": {"coordinates":[24.5783,56.26411],"type":"Point"}
+}

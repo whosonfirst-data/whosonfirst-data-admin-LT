@@ -1,0 +1,76 @@
+{
+  "id": 1226279645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71341,54.3137,24.71341,54.3137",
+    "geom:latitude":54.3137,
+    "geom:longitude":24.71341,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Pamerkiai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596158,
+    "gn:latitude":54.3137,
+    "gn:longitude":24.71341,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pamerkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pomerech\u2019",
+        "Pamerkis",
+        "Pamerk\u0117s",
+        "Pamerkai",
+        "Pamerkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596158,
+        "wk:page":"Pamerkiai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0bca0a936e9a33234f4e8abc689d3df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1226279645,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1226279645,
+    "wof:lastmodified":1537662093,
+    "wof:name":"Pamerkiai",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71341,
+    54.3137,
+    24.71341,
+    54.3137
+],
+  "geometry": {"coordinates":[24.71341,54.3137],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226081427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.35345,55.60538,24.35345,55.60538",
+    "geom:latitude":55.60538,
+    "geom:longitude":24.35345,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Satrenai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309941,
+    "gn:latitude":55.60538,
+    "gn:longitude":24.35345,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160atr\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160atr\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309941
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f0a7347f715c461b5c9c04eb76b022db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1226081427,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226081427,
+    "wof:lastmodified":1537662934,
+    "wof:name":"Satrenai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.35345,
+    55.60538,
+    24.35345,
+    55.60538
+],
+  "geometry": {"coordinates":[24.35345,55.60538],"type":"Point"}
+}

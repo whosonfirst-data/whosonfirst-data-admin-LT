@@ -1,0 +1,73 @@
+{
+  "id": 1293725581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30495,56.21361,24.30495,56.21361",
+    "geom:latitude":56.21361,
+    "geom:longitude":24.30495,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Namisiai",
+    "gn:country_code":"LT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596793,
+    "gn:latitude":56.21361,
+    "gn:longitude":24.30495,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nami\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nami\u0161i\u0173",
+        "Namishyay",
+        "Nami\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596793
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0a182d0f4a7127ff08f98468812171cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1293725581,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293725581,
+    "wof:lastmodified":1537662141,
+    "wof:name":"Namisiai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30495,
+    56.21361,
+    24.30495,
+    56.21361
+],
+  "geometry": {"coordinates":[24.30495,56.21361],"type":"Point"}
+}

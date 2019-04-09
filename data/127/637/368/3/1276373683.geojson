@@ -1,0 +1,79 @@
+{
+  "id": 1276373683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81208,55.66936,24.81208,55.66936",
+    "geom:latitude":55.66936,
+    "geom:longitude":24.81208,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Surdegis",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594109,
+    "gn:latitude":55.66936,
+    "gn:longitude":24.81208,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Surdegis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Surdegis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0440\u0434\u044f\u0433\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Surdegio",
+        "Surdegis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594109,
+        "wk:page":"Surdegis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"799db324ec39c453a0a264e306673e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1276373683,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276373683,
+    "wof:lastmodified":1537661948,
+    "wof:name":"Surdegis",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81208,
+    55.66936,
+    24.81208,
+    55.66936
+],
+  "geometry": {"coordinates":[24.81208,55.66936],"type":"Point"}
+}

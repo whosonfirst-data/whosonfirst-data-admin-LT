@@ -1,0 +1,72 @@
+{
+  "id": 1225981555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7287,56.24588,23.7287,56.24588",
+    "geom:latitude":56.24588,
+    "geom:longitude":23.7287,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Melniai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864445,
+    "gn:latitude":56.24588,
+    "gn:longitude":23.7287,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Melniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Myal\u2019nyay",
+        "Melniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864445
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3c604c1a06517c4faf0f04a8bc13ca1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1225981555,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1225981555,
+    "wof:lastmodified":1537662445,
+    "wof:name":"Melniai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7287,
+    56.24588000000001,
+    23.7287,
+    56.24588000000001
+],
+  "geometry": {"coordinates":[23.7287,56.24588000000001],"type":"Point"}
+}

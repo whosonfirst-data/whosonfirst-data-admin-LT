@@ -1,0 +1,72 @@
+{
+  "id": 1293819637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85478,55.39724,22.85478,55.39724",
+    "geom:latitude":55.39724,
+    "geom:longitude":22.85478,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Aleknai",
+    "gn:country_code":"LT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601150,
+    "gn:latitude":55.39724,
+    "gn:longitude":22.85478,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Aleknai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olekhnay",
+        "Aleknai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601150
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"847fd418ff68f0f1ab9cd1d837d70ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1293819637,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293819637,
+    "wof:lastmodified":1537662436,
+    "wof:name":"Aleknai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85478,
+    55.39724,
+    22.85478,
+    55.39724
+],
+  "geometry": {"coordinates":[22.85478,55.39724],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344093189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95767,56.1662,22.95767,56.1662",
+    "geom:latitude":56.1662,
+    "geom:longitude":22.95767,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Kinkiai I",
+    "gn:country_code":"LT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304600,
+    "gn:latitude":56.1662,
+    "gn:longitude":22.95767,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kinkiai I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kinkiai I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304600
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a43d4e77574ea11fe4edd44cf64b0092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1344093189,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1344093189,
+    "wof:lastmodified":1537662828,
+    "wof:name":"Kinkiai I",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95767,
+    56.1662,
+    22.95767,
+    56.1662
+],
+  "geometry": {"coordinates":[22.95767,56.1662],"type":"Point"}
+}

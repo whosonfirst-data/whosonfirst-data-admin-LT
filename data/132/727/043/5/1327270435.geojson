@@ -1,0 +1,71 @@
+{
+  "id": 1327270435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15226,54.50436,25.15226,54.50436",
+    "geom:latitude":54.50436,
+    "geom:longitude":25.15226,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Dvaras",
+    "gn:country_code":"LT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300869,
+    "gn:latitude":54.50436,
+    "gn:longitude":25.15226,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dvaras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dvaras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300869
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e6b51c8da100b4ca112d6327c7f2f194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1327270435,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1327270435,
+    "wof:lastmodified":1537662746,
+    "wof:name":"Dvaras",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15226,
+    54.50436,
+    25.15226,
+    54.50436
+],
+  "geometry": {"coordinates":[25.15226,54.50436],"type":"Point"}
+}

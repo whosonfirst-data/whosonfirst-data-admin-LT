@@ -1,0 +1,71 @@
+{
+  "id": 1327165307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31131,55.76304,25.31131,55.76304",
+    "geom:latitude":55.76304,
+    "geom:longitude":25.31131,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Naujikai",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295808,
+    "gn:latitude":55.76304,
+    "gn:longitude":25.31131,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Naujikai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Naujikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295808
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"61371fd0e2c03c3c85bb04324ef5fec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1327165307,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1327165307,
+    "wof:lastmodified":1537662602,
+    "wof:name":"Naujikai",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31131,
+    55.76304,
+    25.31131,
+    55.76304
+],
+  "geometry": {"coordinates":[25.31131,55.76304],"type":"Point"}
+}

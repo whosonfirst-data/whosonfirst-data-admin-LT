@@ -1,0 +1,71 @@
+{
+  "id": 1293523541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45672,54.73009,24.45672,54.73009",
+    "geom:latitude":54.73009,
+    "geom:longitude":24.45672,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Klenauka",
+    "gn:country_code":"LT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310918,
+    "gn:latitude":54.73009,
+    "gn:longitude":24.45672,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Klenauka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Klenauka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310918
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3805da5f91ecbafe5a7102b9495d9c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1293523541,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293523541,
+    "wof:lastmodified":1537662953,
+    "wof:name":"Klenauka",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45672,
+    54.73009,
+    24.45672,
+    54.73009
+],
+  "geometry": {"coordinates":[24.45672,54.73009],"type":"Point"}
+}

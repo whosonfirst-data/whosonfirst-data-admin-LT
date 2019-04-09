@@ -1,0 +1,71 @@
+{
+  "id": 1259720507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03257,54.95905,24.03257,54.95905",
+    "geom:latitude":54.95905,
+    "geom:longitude":24.03257,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Margava",
+    "gn:country_code":"LT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309285,
+    "gn:latitude":54.95905,
+    "gn:longitude":24.03257,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Margava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Margava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309285
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f1b8d023cd206ffec31683339d1b31e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1259720507,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1259720507,
+    "wof:lastmodified":1537662920,
+    "wof:name":"Margava",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03257,
+    54.95905,
+    24.03257,
+    54.95905
+],
+  "geometry": {"coordinates":[24.03257,54.95905],"type":"Point"}
+}

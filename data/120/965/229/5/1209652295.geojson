@@ -1,0 +1,66 @@
+{
+  "id": 1209652295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85129,54.36559,24.85129,54.36559",
+    "geom:latitude":54.36559,
+    "geom:longitude":24.85129,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Ciziunai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600146,
+    "gn:latitude":54.36559,
+    "gn:longitude":24.85129,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u010ci\u017ei\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chizhuny",
+        "\u010ci\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600146
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"db1ae0488d91dd6102a8880da751a623",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209652295
+        }
+    ],
+    "wof:id":1209652295,
+    "wof:lastmodified":1537662367,
+    "wof:name":"Ciziunai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85129,
+    54.36559000000001,
+    24.85129,
+    54.36559000000001
+],
+  "geometry": {"coordinates":[24.85129,54.36559000000001],"type":"Point"}
+}

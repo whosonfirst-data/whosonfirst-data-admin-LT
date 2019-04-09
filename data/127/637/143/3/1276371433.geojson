@@ -1,0 +1,74 @@
+{
+  "id": 1276371433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56687,56.10473,24.56687,56.10473",
+    "geom:latitude":56.10473,
+    "geom:longitude":24.56687,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Daukniunai",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600003,
+    "gn:latitude":56.10473,
+    "gn:longitude":24.56687,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Daukni\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauknyunay",
+        "Dauknyunai",
+        "Daukni\u016bn\u0173",
+        "Daukni\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600003
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b72e3171adca4b63ac892b06d694f8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1276371433,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276371433,
+    "wof:lastmodified":1537662356,
+    "wof:name":"Daukniunai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56687,
+    56.10473,
+    24.56687,
+    56.10473
+],
+  "geometry": {"coordinates":[24.56687,56.10473],"type":"Point"}
+}

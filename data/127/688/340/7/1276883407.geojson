@@ -1,0 +1,71 @@
+{
+  "id": 1276883407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76946,55.78493,25.76946,55.78493",
+    "geom:latitude":55.78493,
+    "geom:longitude":25.76946,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kalbutiskes",
+    "gn:country_code":"LT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598562,
+    "gn:latitude":55.78493,
+    "gn:longitude":25.76946,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Kalbuti\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalbutishkes",
+        "Kalbuti\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598562
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3a1bb96193e71a6325251e9eceb3c873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1276883407,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276883407,
+    "wof:lastmodified":1537662261,
+    "wof:name":"Kalbutiskes",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76946,
+    55.78493,
+    25.76946,
+    55.78493
+],
+  "geometry": {"coordinates":[25.76946,55.78493],"type":"Point"}
+}

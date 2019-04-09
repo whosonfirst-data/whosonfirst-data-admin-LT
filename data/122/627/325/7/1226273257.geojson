@@ -1,0 +1,85 @@
+{
+  "id": 1226273257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.28539,55.79166,21.28539,55.79166",
+    "geom:latitude":55.79166,
+    "geom:longitude":21.28539,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Plikiai",
+    "gn:country_code":"LT",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595705,
+    "gn:latitude":55.79166,
+    "gn:longitude":21.28539,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Plikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Plicken"
+    ],
+    "name:eng_x_preferred":[
+        "Plikiai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0438\u043a\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pliki\u0173",
+        "Plikyay",
+        "Plikai",
+        "Plikiai",
+        "Plicken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595705,
+        "wk:page":"Plikiai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c357c8ab128c532b65f4bfd747eaa845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1226273257,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1226273257,
+    "wof:lastmodified":1537662059,
+    "wof:name":"Plikiai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.28539,
+    55.79166,
+    21.28539,
+    55.79166
+],
+  "geometry": {"coordinates":[21.28539,55.79166],"type":"Point"}
+}

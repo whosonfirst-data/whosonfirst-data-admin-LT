@@ -1,0 +1,73 @@
+{
+  "id": 1193171385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15691,55.58428,22.15691,55.58428",
+    "geom:latitude":55.58428,
+    "geom:longitude":22.15691,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Palokystis",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596192,
+    "gn:latitude":55.58428,
+    "gn:longitude":22.15691,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Palokystis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paloki\u0161\u010dio",
+        "Palokistis",
+        "Palokystis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596192
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"13cd46dbee7552255363c760db2d8c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1193171385,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1193171385,
+    "wof:lastmodified":1537662096,
+    "wof:name":"Palokystis",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15691,
+    55.58428000000001,
+    22.15691,
+    55.58428000000001
+],
+  "geometry": {"coordinates":[22.15691,55.58428000000001],"type":"Point"}
+}

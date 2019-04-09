@@ -1,0 +1,76 @@
+{
+  "id": 1310634473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72153,55.10719,23.72153,55.10719",
+    "geom:latitude":55.10719,
+    "geom:longitude":23.72153,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Zacisius",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598434,
+    "gn:latitude":55.10719,
+    "gn:longitude":23.72153,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zaci\u0161ius",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zaci\u0161ius"
+    ],
+    "name:und_x_variant":[
+        "Zatishyu",
+        "Zatish\u2019",
+        "Karalgiris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598434
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d2f29247ec6874fe3e37c2df994c08f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1310634473,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310634473,
+    "wof:lastmodified":1537662251,
+    "wof:name":"Zacisius",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72153,
+    55.10719,
+    23.72153,
+    55.10719
+],
+  "geometry": {"coordinates":[23.72153,55.10719],"type":"Point"}
+}

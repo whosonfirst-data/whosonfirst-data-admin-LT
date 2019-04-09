@@ -1,0 +1,65 @@
+{
+  "id": 1209248481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.99445,56.09349,24.99445,56.09349",
+    "geom:latitude":56.09349,
+    "geom:longitude":24.99445,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Prudelis",
+    "gn:country_code":"LT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298712,
+    "gn:latitude":56.09349,
+    "gn:longitude":24.99445,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pr\u016bdelis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pr\u016bdelis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298712
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"04384c7e0e3daf12cd808dc996de3362",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209248481
+        }
+    ],
+    "wof:id":1209248481,
+    "wof:lastmodified":1537662683,
+    "wof:name":"Prudelis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99445,
+    56.09349,
+    24.99445,
+    56.09349
+],
+  "geometry": {"coordinates":[24.99445,56.09349],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226679969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.37016,55.68507,26.37016,55.68507",
+    "geom:latitude":55.68507,
+    "geom:longitude":26.37016,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292071,
+    "gn:latitude":55.68507,
+    "gn:longitude":26.37016,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Banda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292071
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3ffde04832749fb07b4215ca9a1faf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1226679969,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226679969,
+    "wof:lastmodified":1537662513,
+    "wof:name":"Banda",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.37016,
+    55.68507,
+    26.37016,
+    55.68507
+],
+  "geometry": {"coordinates":[26.37016,55.68507],"type":"Point"}
+}

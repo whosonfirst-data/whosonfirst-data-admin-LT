@@ -1,0 +1,74 @@
+{
+  "id": 1327268831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.17,54.38,23.17,54.38",
+    "geom:latitude":54.38,
+    "geom:longitude":23.17,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Brazavas",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600389,
+    "gn:latitude":54.38,
+    "gn:longitude":23.17,
+    "gn:modification_date":"2016-09-29",
+    "gn:name":"Brazavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brazavo",
+        "Brzhozovaya",
+        "Braziai",
+        "Brazavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600389
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"09f89cad1158da0cfecf2a09dc949b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073585,
+            "locality_id":1327268831,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1327268831,
+    "wof:lastmodified":1537662386,
+    "wof:name":"Brazavas",
+    "wof:parent_id":102073585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.17,
+    54.38,
+    23.17,
+    54.38
+],
+  "geometry": {"coordinates":[23.17,54.38],"type":"Point"}
+}

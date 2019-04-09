@@ -1,0 +1,75 @@
+{
+  "id": 1327044779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85,55.41667,23.85,55.41667",
+    "geom:latitude":55.41667,
+    "geom:longitude":23.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Grigoriskiai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599159,
+    "gn:latitude":55.41667,
+    "gn:longitude":23.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Grigori\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kem\u0117\u0161i\u0161kiai",
+        "Grigori\u0161kis",
+        "Grigorishki",
+        "Grigori\u0161ki\u0173",
+        "Grigori\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599159
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fc538555993062dbfc4b8a686b3b2255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1327044779,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327044779,
+    "wof:lastmodified":1537662300,
+    "wof:name":"Grigoriskiai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85,
+    55.41667,
+    23.85,
+    55.41667
+],
+  "geometry": {"coordinates":[23.85,55.41667],"type":"Point"}
+}

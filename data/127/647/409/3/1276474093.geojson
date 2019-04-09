@@ -1,0 +1,73 @@
+{
+  "id": 1276474093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26943,54.39583,24.26943,54.39583",
+    "geom:latitude":54.39583,
+    "geom:longitude":24.26943,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Griciunai",
+    "gn:country_code":"LT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599173,
+    "gn:latitude":54.39583,
+    "gn:longitude":24.26943,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Grici\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gritsyuny",
+        "Grici\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599173
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8fe69d3020793184d628f165b9b2c4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1276474093,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1276474093,
+    "wof:lastmodified":1537662301,
+    "wof:name":"Griciunai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26943,
+    54.39583,
+    24.26943,
+    54.39583
+],
+  "geometry": {"coordinates":[24.26943,54.39583],"type":"Point"}
+}

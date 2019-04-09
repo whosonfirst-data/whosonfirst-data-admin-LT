@@ -1,0 +1,65 @@
+{
+  "id": 1209448959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63014,55.92686,21.63014,55.92686",
+    "geom:latitude":55.92686,
+    "geom:longitude":21.63014,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Aleksandravas",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601144,
+    "gn:latitude":55.92686,
+    "gn:longitude":21.63014,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Aleksandravas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Aleksandravas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601144
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"169e2ec12926f087b111ac9296545bb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209448959
+        }
+    ],
+    "wof:id":1209448959,
+    "wof:lastmodified":1537662435,
+    "wof:name":"Aleksandravas",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63014,
+    55.92686,
+    21.63014,
+    55.92686
+],
+  "geometry": {"coordinates":[21.63014,55.92686],"type":"Point"}
+}

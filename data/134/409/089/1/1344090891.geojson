@@ -1,0 +1,72 @@
+{
+  "id": 1344090891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73496,54.28406,24.73496,54.28406",
+    "geom:latitude":54.28406,
+    "geom:longitude":24.73496,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Voriskes",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593023,
+    "gn:latitude":54.28406,
+    "gn:longitude":24.73496,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vori\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vori\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593023,
+        "wk:page":"Vori%C5%A1k%C4%97s"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"65159dde27fdf2717f372fe89caac56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1344090891,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1344090891,
+    "wof:lastmodified":1537661880,
+    "wof:name":"Voriskes",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73496,
+    54.28406,
+    24.73496,
+    54.28406
+],
+  "geometry": {"coordinates":[24.73496,54.28406],"type":"Point"}
+}

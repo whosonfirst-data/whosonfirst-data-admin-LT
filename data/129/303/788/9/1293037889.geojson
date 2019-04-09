@@ -1,0 +1,79 @@
+{
+  "id": 1293037889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09315,55.10622,23.09315,55.10622",
+    "geom:latitude":55.10622,
+    "geom:longitude":23.09315,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Raudonenai",
+    "gn:country_code":"LT",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595352,
+    "gn:latitude":55.10622,
+    "gn:longitude":23.09315,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Raudon\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Raudon\u0117nai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0443\u0434\u043e\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Raudoniai",
+        "Raudonyany",
+        "Raudon\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595352
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d49b198f69c86042a11c184cee79c039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1293037889,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1293037889,
+    "wof:lastmodified":1537662035,
+    "wof:name":"Raudonenai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09315,
+    55.10621999999999,
+    23.09315,
+    55.10621999999999
+],
+  "geometry": {"coordinates":[23.09315,55.10621999999999],"type":"Point"}
+}

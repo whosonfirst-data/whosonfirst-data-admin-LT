@@ -1,0 +1,73 @@
+{
+  "id": 1309749225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.43046,55.56356,23.43046,55.56356",
+    "geom:latitude":55.56356,
+    "geom:longitude":23.43046,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Valatkiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593454,
+    "gn:latitude":55.56356,
+    "gn:longitude":23.43046,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Valatki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Volodkishki",
+        "Valadkishkyay",
+        "Valatki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593454
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"acc7bed29389973691dfc65da97379aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1309749225,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1309749225,
+    "wof:lastmodified":1537661906,
+    "wof:name":"Valatkiskiai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.43046,
+    55.56356,
+    23.43046,
+    55.56356
+],
+  "geometry": {"coordinates":[23.43046,55.56356],"type":"Point"}
+}

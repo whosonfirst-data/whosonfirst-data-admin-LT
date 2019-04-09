@@ -1,0 +1,73 @@
+{
+  "id": 1360021697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.45167,55.46806,21.45167,55.46806",
+    "geom:latitude":55.46806,
+    "geom:longitude":21.45167,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Kukorai",
+    "gn:country_code":"LT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597889,
+    "gn:latitude":55.46806,
+    "gn:longitude":21.45167,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kukorai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kukoray",
+        "Kukoraychay",
+        "Kukorai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597889
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fb36ac4ac058607ca0df804bf928453c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1360021697,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1360021697,
+    "wof:lastmodified":1537662215,
+    "wof:name":"Kukorai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.45167,
+    55.46806,
+    21.45167,
+    55.46806
+],
+  "geometry": {"coordinates":[21.45167,55.46806],"type":"Point"}
+}

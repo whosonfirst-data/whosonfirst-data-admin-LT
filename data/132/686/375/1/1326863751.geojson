@@ -1,0 +1,71 @@
+{
+  "id": 1326863751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.68015,54.11034,24.68015,54.11034",
+    "geom:latitude":54.11034,
+    "geom:longitude":24.68015,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Stoniunai",
+    "gn:country_code":"LT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310424,
+    "gn:latitude":54.11034,
+    "gn:longitude":24.68015,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Stoni\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Stoni\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310424
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8b13b2c9f5269db63c7f70d69d190b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1326863751,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1326863751,
+    "wof:lastmodified":1537662944,
+    "wof:name":"Stoniunai",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68015,
+    54.11034,
+    24.68015,
+    54.11034
+],
+  "geometry": {"coordinates":[24.68015,54.11034],"type":"Point"}
+}

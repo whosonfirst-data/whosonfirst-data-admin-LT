@@ -1,0 +1,72 @@
+{
+  "id": 1343796911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54914,55.72984,21.54914,55.72984",
+    "geom:latitude":55.72984,
+    "geom:longitude":21.54914,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Pajuodupis",
+    "gn:country_code":"LT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596332,
+    "gn:latitude":55.72984,
+    "gn:longitude":21.54914,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pajuodupis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Payuodupey",
+        "Pajuodupis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596332
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"84b46f896075e963e6ed7090672e37be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1343796911,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1343796911,
+    "wof:lastmodified":1537662106,
+    "wof:name":"Pajuodupis",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54914,
+    55.72984,
+    21.54914,
+    55.72984
+],
+  "geometry": {"coordinates":[21.54914,55.72984],"type":"Point"}
+}

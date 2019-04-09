@@ -1,0 +1,71 @@
+{
+  "id": 1226082113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.19221,56.06737,24.19221,56.06737",
+    "geom:latitude":56.06737,
+    "geom:longitude":24.19221,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Nereikoniai",
+    "gn:country_code":"LT",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310280,
+    "gn:latitude":56.06737,
+    "gn:longitude":24.19221,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Nereikoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Nereikoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310280
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7316079d430a41f78acd87455b19a23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1226082113,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226082113,
+    "wof:lastmodified":1537662942,
+    "wof:name":"Nereikoniai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.19221,
+    56.06737,
+    24.19221,
+    56.06737
+],
+  "geometry": {"coordinates":[24.19221,56.06737],"type":"Point"}
+}

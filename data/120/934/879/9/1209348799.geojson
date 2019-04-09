@@ -1,0 +1,65 @@
+{
+  "id": 1209348799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71013,55.60071,22.71013,55.60071",
+    "geom:latitude":55.60071,
+    "geom:longitude":22.71013,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Kamariskiai",
+    "gn:country_code":"LT",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302487,
+    "gn:latitude":55.60071,
+    "gn:longitude":22.71013,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kamari\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kamari\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302487
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fa26fbc9cd2b8f3d51fb29e82edf8043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209348799
+        }
+    ],
+    "wof:id":1209348799,
+    "wof:lastmodified":1537662779,
+    "wof:name":"Kamariskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71013,
+    55.60071,
+    22.71013,
+    55.60071
+],
+  "geometry": {"coordinates":[22.71013,55.60071],"type":"Point"}
+}

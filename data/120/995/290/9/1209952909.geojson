@@ -1,0 +1,71 @@
+{
+  "id": 1209952909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29436,55.03213,24.29436,55.03213",
+    "geom:latitude":55.03213,
+    "geom:longitude":24.29436,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Kisieliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309368,
+    "gn:latitude":55.03213,
+    "gn:longitude":24.29436,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kisieli\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kisieli\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309368
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5bd61a3ed40b0f0589ece93c6f1a4bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1209952909,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1209952909,
+    "wof:lastmodified":1537662921,
+    "wof:name":"Kisieliskiai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29436,
+    55.03213,
+    24.29436,
+    55.03213
+],
+  "geometry": {"coordinates":[24.29436,55.03213],"type":"Point"}
+}

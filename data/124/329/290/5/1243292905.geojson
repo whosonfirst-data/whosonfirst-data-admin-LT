@@ -1,0 +1,71 @@
+{
+  "id": 1243292905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40704,54.74383,23.40704,54.74383",
+    "geom:latitude":54.74383,
+    "geom:longitude":23.40704,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"58.0",
+    "gn:asciiname":"Kruveliai",
+    "gn:country_code":"LT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305081,
+    "gn:latitude":54.74383,
+    "gn:longitude":23.40704,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kr\u016bveliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kr\u016bveliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305081
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"76ac66b2a259c04991254e6f122513c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073607,
+            "locality_id":1243292905,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1243292905,
+    "wof:lastmodified":1537662839,
+    "wof:name":"Kruveliai",
+    "wof:parent_id":102073607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40704,
+    54.74383,
+    23.40704,
+    54.74383
+],
+  "geometry": {"coordinates":[23.40704,54.74383],"type":"Point"}
+}

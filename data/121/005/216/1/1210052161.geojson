@@ -1,0 +1,71 @@
+{
+  "id": 1210052161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15462,55.08629,24.15462,55.08629",
+    "geom:latitude":55.08629,
+    "geom:longitude":24.15462,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Smickiai",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309459,
+    "gn:latitude":55.08629,
+    "gn:longitude":24.15462,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Smi\u010dkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Smi\u010dkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309459
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c9044ec2abaa8b09a95558f210e8a88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1210052161,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1210052161,
+    "wof:lastmodified":1537662923,
+    "wof:name":"Smickiai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15462,
+    55.08629000000001,
+    24.15462,
+    55.08629000000001
+],
+  "geometry": {"coordinates":[24.15462,55.08629000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293901817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18333,54.91667,23.18333,54.91667",
+    "geom:latitude":54.91667,
+    "geom:longitude":23.18333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Briediske",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600381,
+    "gn:latitude":54.91667,
+    "gn:longitude":23.18333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Briedi\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600381
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bd3c8d612757d3d93e67b541501c2734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1293901817,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1293901817,
+    "wof:lastmodified":1536686963,
+    "wof:name":"Briediske",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18333,
+    54.91667,
+    23.18333,
+    54.91667
+],
+  "geometry": {"coordinates":[23.18333,54.91667],"type":"Point"}
+}

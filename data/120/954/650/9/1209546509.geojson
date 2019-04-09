@@ -1,0 +1,66 @@
+{
+  "id": 1209546509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3391,55.02685,23.3391,55.02685",
+    "geom:latitude":55.02685,
+    "geom:longitude":23.3391,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Meskeliunai",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597062,
+    "gn:latitude":55.02685,
+    "gn:longitude":23.3391,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Me\u0161keli\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meshkelyuny",
+        "Me\u0161keli\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597062
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e4871be8dd1f67c8b37b2b3740c6f6f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209546509
+        }
+    ],
+    "wof:id":1209546509,
+    "wof:lastmodified":1537662159,
+    "wof:name":"Meskeliunai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3391,
+    55.02685,
+    23.3391,
+    55.02685
+],
+  "geometry": {"coordinates":[23.3391,55.02685],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209248333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.04357,54.28062,25.04357,54.28062",
+    "geom:latitude":54.28062,
+    "geom:longitude":25.04357,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Jacionys",
+    "gn:country_code":"LT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296894,
+    "gn:latitude":54.28062,
+    "gn:longitude":25.04357,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jacionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jacionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296894
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1474c5f3b3650221f47b67f2f30f1955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209248333
+        }
+    ],
+    "wof:id":1209248333,
+    "wof:lastmodified":1537662631,
+    "wof:name":"Jacionys",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.04357000000001,
+    54.28061999999999,
+    25.04357000000001,
+    54.28061999999999
+],
+  "geometry": {"coordinates":[25.04357000000001,54.28061999999999],"type":"Point"}
+}

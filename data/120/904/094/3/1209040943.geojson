@@ -1,0 +1,65 @@
+{
+  "id": 1209040943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1096,55.7627,25.1096,55.7627",
+    "geom:latitude":55.7627,
+    "geom:longitude":25.1096,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Butkunai",
+    "gn:country_code":"LT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299001,
+    "gn:latitude":55.7627,
+    "gn:longitude":25.1096,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Butk\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Butk\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299001
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"24979a75cd7ffb8272a53b767d5ea1e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209040943
+        }
+    ],
+    "wof:id":1209040943,
+    "wof:lastmodified":1537662690,
+    "wof:name":"Butkunai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1096,
+    55.7627,
+    25.1096,
+    55.7627
+],
+  "geometry": {"coordinates":[25.1096,55.7627],"type":"Point"}
+}

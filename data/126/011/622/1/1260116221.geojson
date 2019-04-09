@@ -1,0 +1,73 @@
+{
+  "id": 1260116221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18713,55.36253,23.18713,55.36253",
+    "geom:latitude":55.36253,
+    "geom:longitude":23.18713,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Andrusaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601061,
+    "gn:latitude":55.36253,
+    "gn:longitude":23.18713,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Andru\u0161ai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andrushaychyay",
+        "Andrushaytse",
+        "Andru\u0161ai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601061
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ecf14c1dfef71af9ac8dec9eadb6928e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1260116221,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260116221,
+    "wof:lastmodified":1537662431,
+    "wof:name":"Andrusaiciai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18713,
+    55.36253000000001,
+    23.18713,
+    55.36253000000001
+],
+  "geometry": {"coordinates":[23.18713,55.36253000000001],"type":"Point"}
+}

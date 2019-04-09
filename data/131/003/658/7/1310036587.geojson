@@ -1,0 +1,71 @@
+{
+  "id": 1310036587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84011,56.21882,24.84011,56.21882",
+    "geom:latitude":56.21882,
+    "geom:longitude":24.84011,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Jukniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298531,
+    "gn:latitude":56.21882,
+    "gn:longitude":24.84011,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jukni\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jukni\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298531
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a554c87518d9e2a03aaac85a8eb1082b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1310036587,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310036587,
+    "wof:lastmodified":1537662679,
+    "wof:name":"Jukniskiai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84011,
+    56.21882,
+    24.84011,
+    56.21882
+],
+  "geometry": {"coordinates":[24.84011,56.21882],"type":"Point"}
+}

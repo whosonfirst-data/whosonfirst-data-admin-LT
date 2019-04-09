@@ -1,0 +1,71 @@
+{
+  "id": 1343991635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41431,55.11508,24.41431,55.11508",
+    "geom:latitude":55.11508,
+    "geom:longitude":24.41431,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Jakimauka",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311514,
+    "gn:latitude":55.11508,
+    "gn:longitude":24.41431,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jakimauka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jakimauka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311514
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c73341582bc4cd54ce0cfd614e4996a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1343991635,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343991635,
+    "wof:lastmodified":1537662968,
+    "wof:name":"Jakimauka",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41431,
+    55.11508000000001,
+    24.41431,
+    55.11508000000001
+],
+  "geometry": {"coordinates":[24.41431,55.11508000000001],"type":"Point"}
+}

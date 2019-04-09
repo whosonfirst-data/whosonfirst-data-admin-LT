@@ -1,0 +1,71 @@
+{
+  "id": 1259419107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41268,55.9373,24.41268,55.9373",
+    "geom:latitude":55.9373,
+    "geom:longitude":24.41268,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Raciskiai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301163,
+    "gn:latitude":55.9373,
+    "gn:longitude":24.41268,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ra\u010di\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ra\u010di\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301163
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"044f7ea6b2ae59b5c6cb2c35d7b2a702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1259419107,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1259419107,
+    "wof:lastmodified":1537662754,
+    "wof:name":"Raciskiai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41268,
+    55.9373,
+    24.41268,
+    55.9373
+],
+  "geometry": {"coordinates":[24.41268,55.9373],"type":"Point"}
+}

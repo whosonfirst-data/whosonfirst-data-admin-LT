@@ -1,0 +1,72 @@
+{
+  "id": 1310439351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83625,55.63814,24.83625,55.63814",
+    "geom:latitude":55.63814,
+    "geom:longitude":24.83625,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Umenai",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593726,
+    "gn:latitude":55.63814,
+    "gn:longitude":24.83625,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Um\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uimyany",
+        "Um\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593726
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"317c3008786e8b57284c6791aed2ad0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1310439351,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310439351,
+    "wof:lastmodified":1537661924,
+    "wof:name":"Umenai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83625,
+    55.63814,
+    24.83625,
+    55.63814
+],
+  "geometry": {"coordinates":[24.83625,55.63814],"type":"Point"}
+}

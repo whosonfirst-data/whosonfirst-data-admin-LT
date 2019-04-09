@@ -1,0 +1,69 @@
+{
+  "id": 1209249039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52411,54.5797,25.52411,54.5797",
+    "geom:latitude":54.5797,
+    "geom:longitude":25.52411,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Zatisius",
+    "gn:country_code":"LT",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592926,
+    "gn:latitude":54.5797,
+    "gn:longitude":25.52411,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zati\u0161ius",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zati\u0161ius"
+    ],
+    "name:und_x_variant":[
+        "Zhaken\u2019tsy",
+        "\u017dakin\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592926
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"97c2def195a7438c5c735880c33b8265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249039
+        }
+    ],
+    "wof:id":1209249039,
+    "wof:lastmodified":1537661873,
+    "wof:name":"Zatisius",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52411,
+    54.5797,
+    25.52411,
+    54.5797
+],
+  "geometry": {"coordinates":[25.52411,54.5797],"type":"Point"}
+}

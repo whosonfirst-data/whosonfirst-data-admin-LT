@@ -1,0 +1,72 @@
+{
+  "id": 1326566525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8026,56.3357,24.8026,56.3357",
+    "geom:latitude":56.3357,
+    "geom:longitude":24.8026,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Skultiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594489,
+    "gn:latitude":56.3357,
+    "gn:longitude":24.8026,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Skulti\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skul\u2019tishkyay",
+        "Skulti\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594489
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c00ac352f8f39ee26143f914c83b7e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1326566525,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1326566525,
+    "wof:lastmodified":1537661975,
+    "wof:name":"Skultiskiai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8026,
+    56.3357,
+    24.8026,
+    56.3357
+],
+  "geometry": {"coordinates":[24.8026,56.3357],"type":"Point"}
+}

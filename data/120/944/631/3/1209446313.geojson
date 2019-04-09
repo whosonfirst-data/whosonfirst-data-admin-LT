@@ -1,0 +1,65 @@
+{
+  "id": 1209446313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50902,55.10489,25.50902,55.10489",
+    "geom:latitude":55.10489,
+    "geom:longitude":25.50902,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Burnenai",
+    "gn:country_code":"LT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297457,
+    "gn:latitude":55.10489,
+    "gn:longitude":25.50902,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Burn\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Burn\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297457
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5439ea543f32c824fb0fe60d5a8d3e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209446313
+        }
+    ],
+    "wof:id":1209446313,
+    "wof:lastmodified":1537662648,
+    "wof:name":"Burnenai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50902,
+    55.10489000000001,
+    25.50902,
+    55.10489000000001
+],
+  "geometry": {"coordinates":[25.50902,55.10489000000001],"type":"Point"}
+}

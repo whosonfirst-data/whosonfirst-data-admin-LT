@@ -1,0 +1,68 @@
+{
+  "id": 1209445599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09033,54.80101,23.09033,54.80101",
+    "geom:latitude":54.80101,
+    "geom:longitude":23.09033,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Vyzpiniai",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592976,
+    "gn:latitude":54.80101,
+    "gn:longitude":23.09033,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vy\u017epiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vishpin",
+        "Vy\u0161pini\u0173",
+        "Vy\u017epiniai",
+        "Vy\u0161piniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592976
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4950c8472aa062116886a1afe6820085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209445599
+        }
+    ],
+    "wof:id":1209445599,
+    "wof:lastmodified":1537661876,
+    "wof:name":"Vyzpiniai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09033,
+    54.80101,
+    23.09033,
+    54.80101
+],
+  "geometry": {"coordinates":[23.09033,54.80101],"type":"Point"}
+}

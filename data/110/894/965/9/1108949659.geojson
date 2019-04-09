@@ -1,0 +1,64 @@
+{
+  "id": 1108949659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3399185965,54.7063317479,25.3399185965,54.7063317479",
+    "geom:latitude":54.706332,
+    "geom:longitude":25.339919,
+    "iso:country":"LT",
+    "lbl:latitude":54.706332,
+    "lbl:longitude":25.339919,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lit_x_preferred":[
+        "Sapiegin\u0117"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85685759,
+        85633269,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367812,
+    "wof:geomhash":"3ffc918d9f6d29e1ee4f062e858fa183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "neighbourhood_id":1108949659,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949659,
+    "wof:lastmodified":1497292361,
+    "wof:name":"Sapiegine",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33991859653592,
+    54.70633174793507,
+    25.33991859653592,
+    54.70633174793507
+],
+  "geometry": {"coordinates":[25.33991859653592,54.70633174793507],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293136633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.84385,55.41579,22.84385,55.41579",
+    "geom:latitude":55.41579,
+    "geom:longitude":22.84385,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Aukstkeliai",
+    "gn:country_code":"LT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600901,
+    "gn:latitude":55.41579,
+    "gn:longitude":22.84385,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Auk\u0161tk\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auk\u0161keliai",
+        "Aushtkyalyay",
+        "Auk\u0161tk\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600901
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d4d3d5782bb80fe30f1c8567a69c03fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1293136633,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293136633,
+    "wof:lastmodified":1537662422,
+    "wof:name":"Aukstkeliai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84385,
+    55.41579,
+    22.84385,
+    55.41579
+],
+  "geometry": {"coordinates":[22.84385,55.41579],"type":"Point"}
+}

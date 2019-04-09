@@ -1,0 +1,73 @@
+{
+  "id": 1260110595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23543,55.42714,23.23543,55.42714",
+    "geom:latitude":55.42714,
+    "geom:longitude":23.23543,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Petkuniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595823,
+    "gn:latitude":55.42714,
+    "gn:longitude":23.23543,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Petk\u016bni\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pitkunishkyay",
+        "Pitkunishki",
+        "Petk\u016bni\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595823
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5b9a44676362165c6ac974cb008de278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1260110595,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260110595,
+    "wof:lastmodified":1537662068,
+    "wof:name":"Petkuniskiai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23543,
+    55.42714,
+    23.23543,
+    55.42714
+],
+  "geometry": {"coordinates":[23.23543,55.42714],"type":"Point"}
+}

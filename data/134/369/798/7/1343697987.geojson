@@ -1,0 +1,72 @@
+{
+  "id": 1343697987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68014,55.95394,22.68014,55.95394",
+    "geom:latitude":55.95394,
+    "geom:longitude":22.68014,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Uzpelkiai",
+    "gn:country_code":"LT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593617,
+    "gn:latitude":55.95394,
+    "gn:longitude":22.68014,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"U\u017epelkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ushpel\u2019kyay",
+        "U\u017epelkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593617
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ec65c12ae445951a195bd99bc5b74b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1343697987,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343697987,
+    "wof:lastmodified":1537661917,
+    "wof:name":"Uzpelkiai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68014,
+    55.95394,
+    22.68014,
+    55.95394
+],
+  "geometry": {"coordinates":[22.68014,55.95394],"type":"Point"}
+}

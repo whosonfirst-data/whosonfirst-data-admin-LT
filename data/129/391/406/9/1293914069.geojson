@@ -1,0 +1,77 @@
+{
+  "id": 1293914069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.09627,54.72049,25.09627,54.72049",
+    "geom:latitude":54.72049,
+    "geom:longitude":25.09627,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Vaivadiskes",
+    "gn:country_code":"LT",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300713,
+    "gn:latitude":54.72049,
+    "gn:longitude":25.09627,
+    "gn:modification_date":"2017-07-26",
+    "gn:name":"Vaivadi\u0161k\u0117s",
+    "gn:population":71,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vaivadi\u0161k\u0117s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u0432\u0430\u0434\u0438\u0448\u043a\u0435\u0441"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300713
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bef75cd42977a1ed321d079a9b43af94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1293914069,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293914069,
+    "wof:lastmodified":1537662742,
+    "wof:name":"Vaivadiskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.09627,
+    54.72049000000001,
+    25.09627,
+    54.72049000000001
+],
+  "geometry": {"coordinates":[25.09627,54.72049000000001],"type":"Point"}
+}

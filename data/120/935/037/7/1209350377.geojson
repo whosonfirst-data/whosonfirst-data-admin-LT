@@ -1,0 +1,67 @@
+{
+  "id": 1209350377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00641,54.43888,23.00641,54.43888",
+    "geom:latitude":54.43888,
+    "geom:longitude":23.00641,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Liepalotai",
+    "gn:country_code":"LT",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597489,
+    "gn:latitude":54.43888,
+    "gn:longitude":23.00641,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Liepalotai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liepalot\u0173",
+        "Lepolaty",
+        "Liepalotai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597489
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4000c546ef62cfcd3c564aaf371f9661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209350377
+        }
+    ],
+    "wof:id":1209350377,
+    "wof:lastmodified":1537662188,
+    "wof:name":"Liepalotai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00641,
+    54.43888000000001,
+    23.00641,
+    54.43888000000001
+],
+  "geometry": {"coordinates":[23.00641,54.43888000000001],"type":"Point"}
+}

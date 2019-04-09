@@ -1,0 +1,80 @@
+{
+  "id": 1343389567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36186,55.62139,24.36186,55.62139",
+    "geom:latitude":55.62139,
+    "geom:longitude":24.36186,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Uliunai",
+    "gn:country_code":"LT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593728,
+    "gn:latitude":55.62139,
+    "gn:longitude":24.36186,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Uli\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uli\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u044e\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Ulyunay",
+        "Uli\u016bn\u0173",
+        "Ulyuny",
+        "Uli\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593728
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3b588f2f3eae22c5293abc42ab8856bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1343389567,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343389567,
+    "wof:lastmodified":1537661925,
+    "wof:name":"Uliunai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36186,
+    55.62139000000001,
+    24.36186,
+    55.62139000000001
+],
+  "geometry": {"coordinates":[24.36186,55.62139000000001],"type":"Point"}
+}

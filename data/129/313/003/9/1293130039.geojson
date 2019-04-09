@@ -1,0 +1,72 @@
+{
+  "id": 1293130039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20954,55.73002,23.20954,55.73002",
+    "geom:latitude":55.73002,
+    "geom:longitude":23.20954,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Galminaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599521,
+    "gn:latitude":55.73002,
+    "gn:longitude":23.20954,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Galminai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gal\u2019minaychyay",
+        "Galminai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599521
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b999c032d14763acb5f217d83c8f99bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1293130039,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1293130039,
+    "wof:lastmodified":1537662325,
+    "wof:name":"Galminaiciai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20954,
+    55.73002,
+    23.20954,
+    55.73002
+],
+  "geometry": {"coordinates":[23.20954,55.73002],"type":"Point"}
+}

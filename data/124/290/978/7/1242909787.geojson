@@ -1,0 +1,71 @@
+{
+  "id": 1242909787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.17174,56.13032,25.17174,56.13032",
+    "geom:latitude":56.13032,
+    "geom:longitude":25.17174,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Medikiai",
+    "gn:country_code":"LT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298742,
+    "gn:latitude":56.13032,
+    "gn:longitude":25.17174,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Medikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Medikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298742
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"333f3ae79fb8403addf5f248685c20ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1242909787,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1242909787,
+    "wof:lastmodified":1537662684,
+    "wof:name":"Medikiai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.17174,
+    56.13032,
+    25.17174,
+    56.13032
+],
+  "geometry": {"coordinates":[25.17174,56.13032],"type":"Point"}
+}

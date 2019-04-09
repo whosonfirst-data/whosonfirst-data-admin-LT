@@ -1,0 +1,76 @@
+{
+  "id": 1292941789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.23008,56.23665,24.23008,56.23665",
+    "geom:latitude":56.23665,
+    "geom:longitude":24.23008,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Kyburiai",
+    "gn:country_code":"LT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597724,
+    "gn:latitude":56.23665,
+    "gn:longitude":24.23008,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kyburiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiburai",
+        "Kiburyay",
+        "Kiburiai",
+        "Kiburlai",
+        "Kiburi\u0173",
+        "Kyburiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597724
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f9f5549decc44090bbe887b2b443696c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1292941789,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1292941789,
+    "wof:lastmodified":1537662204,
+    "wof:name":"Kyburiai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.23008,
+    56.23665,
+    24.23008,
+    56.23665
+],
+  "geometry": {"coordinates":[24.23008,56.23665],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209746823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50549,55.42662,22.50549,55.42662",
+    "geom:latitude":55.42662,
+    "geom:longitude":22.50549,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Pabambiai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302291,
+    "gn:latitude":55.42662,
+    "gn:longitude":22.50549,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pabambiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pabambiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302291
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"110ee503207dc8b9184aa51ab6fa82d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1209746823,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1209746823,
+    "wof:lastmodified":1537662775,
+    "wof:name":"Pabambiai",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50549,
+    55.42661999999999,
+    22.50549,
+    55.42661999999999
+],
+  "geometry": {"coordinates":[22.50549,55.42661999999999],"type":"Point"}
+}

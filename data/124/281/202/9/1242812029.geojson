@@ -1,0 +1,71 @@
+{
+  "id": 1242812029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.62737,54.29321,23.62737,54.29321",
+    "geom:latitude":54.29321,
+    "geom:longitude":23.62737,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Teizininkai",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593931,
+    "gn:latitude":54.29321,
+    "gn:longitude":23.62737,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Teizininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Teizininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593931
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3c9db1c1d73981c17d90a25257c52c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1242812029,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1242812029,
+    "wof:lastmodified":1537661938,
+    "wof:name":"Teizininkai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.62737000000001,
+    54.29321,
+    23.62737000000001,
+    54.29321
+],
+  "geometry": {"coordinates":[23.62737000000001,54.29321],"type":"Point"}
+}

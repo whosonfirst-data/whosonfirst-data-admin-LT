@@ -1,0 +1,72 @@
+{
+  "id": 1209846157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33028,55.12444,25.33028,55.12444",
+    "geom:latitude":55.12444,
+    "geom:longitude":25.33028,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Uzugiriai",
+    "gn:country_code":"LT",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593600,
+    "gn:latitude":55.12444,
+    "gn:longitude":25.33028,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"U\u017eugiriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uzhgiryay",
+        "U\u017eugiriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593600
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"73d3ce6e69f8fe4bdafa12891eb2e88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1209846157,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1209846157,
+    "wof:lastmodified":1537661916,
+    "wof:name":"Uzugiriai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33028,
+    55.12444,
+    25.33028,
+    55.12444
+],
+  "geometry": {"coordinates":[25.33028,55.12444],"type":"Point"}
+}

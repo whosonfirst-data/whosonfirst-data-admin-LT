@@ -1,0 +1,104 @@
+{
+  "id": 1125982997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35,54.86667,25.35,54.86667",
+    "geom:latitude":54.86667,
+    "geom:longitude":25.35,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":54.86667,
+    "lbl:longitude":25.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "A\u017eulauke"
+    ],
+    "name:lit_x_preferred":[
+        "A\u017eulauk\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0436\u0443\u043b\u0430\u0443\u043a\u0435"
+    ],
+    "name:sgs_x_preferred":[
+        "Ou\u017eolauk\u0117"
+    ],
+    "name:unk_x_variant":[
+        "Ozheluvka"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":600833,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"A\u017eulauke",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Vilniaus Apskritis",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":994142,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":473387,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Vilniaus Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600833,
+        "gp:id":473387,
+        "qs_pg:id":994142,
+        "wd:id":"Q13193083"
+    },
+    "wof:country":"LT",
+    "wof:created":1497298650,
+    "wof:geomhash":"80d054029fd82dc83c684068812df144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1125982997,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1125982997,
+    "wof:lastmodified":1514470296,
+    "wof:name":"A\u017eulauke",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35,
+    54.86667,
+    25.35,
+    54.86667
+],
+  "geometry": {"coordinates":[25.35,54.86667],"type":"Point"}
+}

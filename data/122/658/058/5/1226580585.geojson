@@ -1,0 +1,84 @@
+{
+  "id": 1226580585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96667,55.11667,23.96667,55.11667",
+    "geom:latitude":55.11667,
+    "geom:longitude":23.96667,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Vandziogala",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593423,
+    "gn:latitude":55.11667,
+    "gn:longitude":23.96667,
+    "gn:modification_date":"2016-09-22",
+    "gn:name":"Vand\u017eiogala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vand\u017eiogala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u0434\u0436\u0435\u0433\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "se Veand\u017eiogala",
+        "Vend\u017eiogalos",
+        "Vandzh\u00ebgala",
+        "Vendzyagola",
+        "Wendziago\u0142a",
+        "Vand\u017eiogala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593423,
+        "wk:page":"Vand%C5%BEiogala"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"021161a4c46e747afa7c966bfa7d3aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1226580585,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226580585,
+    "wof:lastmodified":1537661903,
+    "wof:name":"Vandziogala",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96667,
+    55.11666999999999,
+    23.96667,
+    55.11666999999999
+],
+  "geometry": {"coordinates":[23.96667,55.11666999999999],"type":"Point"}
+}

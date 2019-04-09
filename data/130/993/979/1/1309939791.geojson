@@ -1,0 +1,79 @@
+{
+  "id": 1309939791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93925,55.88509,25.93925,55.88509",
+    "geom:latitude":55.88509,
+    "geom:longitude":25.93925,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Aleksandravele",
+    "gn:country_code":"LT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601143,
+    "gn:latitude":55.88509,
+    "gn:longitude":25.93925,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Aleksandrav\u0117l\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aleksandrav\u0117l\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430\u0432\u0435\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Aleksandr\u00f3w",
+        "Aleksandrav\u0117l\u0117s",
+        "Aleksandrav\u0117l\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601143
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"87212cc5195335399711231ab513e066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1309939791,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1309939791,
+    "wof:lastmodified":1537662435,
+    "wof:name":"Aleksandravele",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93925,
+    55.88509000000001,
+    25.93925,
+    55.88509000000001
+],
+  "geometry": {"coordinates":[25.93925,55.88509000000001],"type":"Point"}
+}

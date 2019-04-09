@@ -1,0 +1,79 @@
+{
+  "id": 1360316253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0083,55.39916,24.0083,55.39916",
+    "geom:latitude":55.39916,
+    "geom:longitude":24.0083,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Kalnaberze",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598552,
+    "gn:latitude":55.39916,
+    "gn:longitude":24.0083,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalnaber\u017e\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalnaber\u017e\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u043d\u0430\u0431\u044f\u0440\u0436\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kalnaberzhe",
+        "Kalnaberz\u0117s",
+        "Kalnaber\u017e\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598552
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a337a0e009498c4061aea042f4df2e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1360316253,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1360316253,
+    "wof:lastmodified":1537662260,
+    "wof:name":"Kalnaberze",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0083,
+    55.39916,
+    24.0083,
+    55.39916
+],
+  "geometry": {"coordinates":[24.0083,55.39916],"type":"Point"}
+}

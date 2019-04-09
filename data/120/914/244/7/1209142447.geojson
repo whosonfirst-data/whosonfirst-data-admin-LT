@@ -1,0 +1,67 @@
+{
+  "id": 1209142447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60274,55.3286,22.60274,55.3286",
+    "geom:latitude":55.3286,
+    "geom:longitude":22.60274,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Oznugariai",
+    "gn:country_code":"LT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596505,
+    "gn:latitude":55.3286,
+    "gn:longitude":22.60274,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"O\u017enugariai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uzhnogory",
+        "Uzhnagaryay",
+        "O\u017enugariai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596505
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a104dfc055d475118bda6d7c57630c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209142447
+        }
+    ],
+    "wof:id":1209142447,
+    "wof:lastmodified":1537662120,
+    "wof:name":"Oznugariai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60274,
+    55.3286,
+    22.60274,
+    55.3286
+],
+  "geometry": {"coordinates":[22.60274,55.3286],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260014443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.43848,55.41216,23.43848,55.41216",
+    "geom:latitude":55.41216,
+    "geom:longitude":23.43848,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Prysmantai",
+    "gn:country_code":"LT",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595573,
+    "gn:latitude":55.41216,
+    "gn:longitude":23.43848,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pry\u0161mantai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prishmontay",
+        "Prishmonty",
+        "Pry\u0161mantai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595573
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0a2bca84f7573ad9af87f61b96938f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1260014443,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260014443,
+    "wof:lastmodified":1537662050,
+    "wof:name":"Prysmantai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.43848,
+    55.41216,
+    23.43848,
+    55.41216
+],
+  "geometry": {"coordinates":[23.43848,55.41216],"type":"Point"}
+}

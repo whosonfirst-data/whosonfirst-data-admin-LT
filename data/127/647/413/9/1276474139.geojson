@@ -1,0 +1,71 @@
+{
+  "id": 1276474139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98696,55.63416,25.98696,55.63416",
+    "geom:latitude":55.63416,
+    "geom:longitude":25.98696,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Galminiai",
+    "gn:country_code":"LT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292077,
+    "gn:latitude":55.63416,
+    "gn:longitude":25.98696,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Galminiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Galminiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292077
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"12a56d2cd7f49e1c63e3e48deee309e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276474139,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276474139,
+    "wof:lastmodified":1537662513,
+    "wof:name":"Galminiai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98696,
+    55.63416,
+    25.98696,
+    55.63416
+],
+  "geometry": {"coordinates":[25.98696,55.63416],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293231089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03175,55.13355,25.03175,55.13355",
+    "geom:latitude":55.13355,
+    "geom:longitude":25.03175,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Beivydziai",
+    "gn:country_code":"LT",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600292,
+    "gn:latitude":55.13355,
+    "gn:longitude":25.03175,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Beivyd\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Beivyd\u017eiai"
+    ],
+    "name:und_x_variant":[
+        "Buivyd\u017ei\u0173",
+        "Buivyd\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600292
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f2d53af7c0f4d780027c55fa9c5d5a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1293231089,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293231089,
+    "wof:lastmodified":1537662379,
+    "wof:name":"Beivydziai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03175,
+    55.13355,
+    25.03175,
+    55.13355
+],
+  "geometry": {"coordinates":[25.03175,55.13355],"type":"Point"}
+}

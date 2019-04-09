@@ -1,0 +1,71 @@
+{
+  "id": 1343395587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.67465,55.23022,23.67465,55.23022",
+    "geom:latitude":55.23022,
+    "geom:longitude":23.67465,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Vainikoniai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593513,
+    "gn:latitude":55.23022,
+    "gn:longitude":23.67465,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vainikoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vainikoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593513
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"06e849ea0fbcf57e2991f7c90b688951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1343395587,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343395587,
+    "wof:lastmodified":1537661910,
+    "wof:name":"Vainikoniai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.67465,
+    55.23022,
+    23.67465,
+    55.23022
+],
+  "geometry": {"coordinates":[23.67465,55.23022],"type":"Point"}
+}

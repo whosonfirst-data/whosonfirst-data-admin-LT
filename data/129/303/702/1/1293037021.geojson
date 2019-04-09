@@ -1,0 +1,72 @@
+{
+  "id": 1293037021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.28962,55.27662,22.28962,55.27662",
+    "geom:latitude":55.27662,
+    "geom:longitude":22.28962,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Papusyne",
+    "gn:country_code":"LT",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596079,
+    "gn:latitude":55.27662,
+    "gn:longitude":22.28962,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Papu\u0161yn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popushini",
+        "Papu\u0161yn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596079
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a7ef6f98bb5e2be9095d6a45568d44c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1293037021,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1293037021,
+    "wof:lastmodified":1537662087,
+    "wof:name":"Papusyne",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.28962000000001,
+    55.27662,
+    22.28962000000001,
+    55.27662
+],
+  "geometry": {"coordinates":[22.28962000000001,55.27662],"type":"Point"}
+}

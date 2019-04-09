@@ -1,0 +1,73 @@
+{
+  "id": 1360321433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48432,55.48153,23.48432,55.48153",
+    "geom:latitude":55.48153,
+    "geom:longitude":23.48432,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Liaubarai",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597508,
+    "gn:latitude":55.48153,
+    "gn:longitude":23.48432,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Liaubarai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Levbory",
+        "Levboray",
+        "Liaubarai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597508
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"790c621306e3adcacfbe3130d46883f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1360321433,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1360321433,
+    "wof:lastmodified":1537662189,
+    "wof:name":"Liaubarai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48432,
+    55.48153000000001,
+    23.48432,
+    55.48153000000001
+],
+  "geometry": {"coordinates":[23.48432,55.48153000000001],"type":"Point"}
+}

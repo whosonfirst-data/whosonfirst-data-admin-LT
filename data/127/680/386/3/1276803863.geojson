@@ -1,0 +1,71 @@
+{
+  "id": 1276803863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78688,55.85707,23.78688,55.85707",
+    "geom:latitude":55.85707,
+    "geom:longitude":23.78688,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Krupiskis",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308071,
+    "gn:latitude":55.85707,
+    "gn:longitude":23.78688,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Krupi\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Krupi\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308071
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3262b3af75269faab6d3646e50d4d967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1276803863,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1276803863,
+    "wof:lastmodified":1537662896,
+    "wof:name":"Krupiskis",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78688,
+    55.85706999999999,
+    23.78688,
+    55.85706999999999
+],
+  "geometry": {"coordinates":[23.78688,55.85706999999999],"type":"Point"}
+}

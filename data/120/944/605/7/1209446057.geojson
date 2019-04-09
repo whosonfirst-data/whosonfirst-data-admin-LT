@@ -1,0 +1,65 @@
+{
+  "id": 1209446057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16949,55.41392,25.16949,55.41392",
+    "geom:latitude":55.41392,
+    "geom:longitude":25.16949,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Paraisciai",
+    "gn:country_code":"LT",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299656,
+    "gn:latitude":55.41392,
+    "gn:longitude":25.16949,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Parais\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Parais\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299656
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5afb56413b7416fad9fcb7ff00ca0ee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209446057
+        }
+    ],
+    "wof:id":1209446057,
+    "wof:lastmodified":1537662709,
+    "wof:name":"Paraisciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16949,
+    55.41392,
+    25.16949,
+    55.41392
+],
+  "geometry": {"coordinates":[25.16949,55.41392],"type":"Point"}
+}

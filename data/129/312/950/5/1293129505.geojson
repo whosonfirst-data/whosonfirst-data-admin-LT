@@ -1,0 +1,71 @@
+{
+  "id": 1293129505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60676,55.07081,25.60676,55.07081",
+    "geom:latitude":55.07081,
+    "geom:longitude":25.60676,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Vilkaraisciai",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294578,
+    "gn:latitude":55.07081,
+    "gn:longitude":25.60676,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vilkarais\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vilkarais\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294578
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"deaa3d5863bc8511322dcf847ebfb5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1293129505,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1293129505,
+    "wof:lastmodified":1537662572,
+    "wof:name":"Vilkaraisciai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60676,
+    55.07081,
+    25.60676,
+    55.07081
+],
+  "geometry": {"coordinates":[25.60676,55.07081],"type":"Point"}
+}

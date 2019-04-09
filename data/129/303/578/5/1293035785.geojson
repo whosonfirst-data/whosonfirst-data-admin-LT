@@ -1,0 +1,71 @@
+{
+  "id": 1293035785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89627,55.43123,24.89627,55.43123",
+    "geom:latitude":55.43123,
+    "geom:longitude":24.89627,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Majokai",
+    "gn:country_code":"LT",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299414,
+    "gn:latitude":55.43123,
+    "gn:longitude":24.89627,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Majokai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Majokai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299414
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"104c5a25f7b5edf7063ba43d96929913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1293035785,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1293035785,
+    "wof:lastmodified":1537662701,
+    "wof:name":"Majokai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89627,
+    55.43123000000001,
+    24.89627,
+    55.43123000000001
+],
+  "geometry": {"coordinates":[24.89627,55.43123000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209645733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70998,55.40338,21.70998,55.40338",
+    "geom:latitude":55.40338,
+    "geom:longitude":21.70998,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Brokoriai",
+    "gn:country_code":"LT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289835,
+    "gn:latitude":55.40338,
+    "gn:longitude":21.70998,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Brokoriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Brokoriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289835
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"31757903adac2370479dafcfc46c55c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209645733
+        }
+    ],
+    "wof:id":1209645733,
+    "wof:lastmodified":1537662462,
+    "wof:name":"Brokoriai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70998,
+    55.40338000000001,
+    21.70998,
+    55.40338000000001
+],
+  "geometry": {"coordinates":[21.70998,55.40338000000001],"type":"Point"}
+}

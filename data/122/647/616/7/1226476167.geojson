@@ -1,0 +1,73 @@
+{
+  "id": 1226476167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.25206,55.4868,21.25206,55.4868",
+    "geom:latitude":55.4868,
+    "geom:longitude":21.25206,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Svencele",
+    "gn:country_code":"LT",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594070,
+    "gn:latitude":55.4868,
+    "gn:longitude":21.25206,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Svencel\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Svyantsyale",
+        "Svenele",
+        "Svencel\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594070
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"afaa1b342456ec270c0b5a508dbf4a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1226476167,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1226476167,
+    "wof:lastmodified":1537661946,
+    "wof:name":"Svencele",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.25206,
+    55.4868,
+    21.25206,
+    55.4868
+],
+  "geometry": {"coordinates":[21.25206,55.4868],"type":"Point"}
+}

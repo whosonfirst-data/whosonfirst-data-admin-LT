@@ -1,0 +1,72 @@
+{
+  "id": 1310235587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20199,55.6444,21.20199,55.6444",
+    "geom:latitude":55.6444,
+    "geom:longitude":21.20199,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"55.0",
+    "gn:asciiname":"Gibisai",
+    "gn:country_code":"LT",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599357,
+    "gn:latitude":55.6444,
+    "gn:longitude":21.20199,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gibi\u0161ai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gibbishen-Martin",
+        "Gibi\u0161ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599357
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e9db95f3b916bfa36f68a80688e3457f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073657,
+            "locality_id":1310235587,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1310235587,
+    "wof:lastmodified":1537662314,
+    "wof:name":"Gibisai",
+    "wof:parent_id":102073657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20199,
+    55.6444,
+    21.20199,
+    55.6444
+],
+  "geometry": {"coordinates":[21.20199,55.6444],"type":"Point"}
+}

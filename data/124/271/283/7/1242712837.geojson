@@ -1,0 +1,71 @@
+{
+  "id": 1242712837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87575,55.03312,25.87575,55.03312",
+    "geom:latitude":55.03312,
+    "geom:longitude":25.87575,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Pazeimene",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294806,
+    "gn:latitude":55.03312,
+    "gn:longitude":25.87575,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pa\u017eeimen\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u017eeimen\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294806
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f1ec6d753b923ac26e25842dd2c0fbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1242712837,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1242712837,
+    "wof:lastmodified":1537662576,
+    "wof:name":"Pazeimene",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87575,
+    55.03312,
+    25.87575,
+    55.03312
+],
+  "geometry": {"coordinates":[25.87575,55.03312],"type":"Point"}
+}

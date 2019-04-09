@@ -1,0 +1,66 @@
+{
+  "id": 1108949923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2273945073,54.680329887,25.2273945073,54.680329887",
+    "geom:latitude":54.68033,
+    "geom:longitude":25.227395,
+    "iso:country":"LT",
+    "lbl:latitude":54.68033,
+    "lbl:longitude":25.227395,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lit_x_preferred":[
+        "\u0160alt\u016bnai"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85685759,
+        102191581,
+        85633269,
+        101753031,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367996,
+    "wof:geomhash":"2609a2c67000eb38f84c26f2e7cae440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":1108949923,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949923,
+    "wof:lastmodified":1497292361,
+    "wof:name":"Saltunai",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22739450732649,
+    54.68032988701498,
+    25.22739450732649,
+    54.68032988701498
+],
+  "geometry": {"coordinates":[25.22739450732649,54.68032988701498],"type":"Point"}
+}

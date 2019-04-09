@@ -1,0 +1,72 @@
+{
+  "id": 1276905473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04183,55.52345,24.04183,55.52345",
+    "geom:latitude":55.52345,
+    "geom:longitude":24.04183,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Papalciai",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596113,
+    "gn:latitude":55.52345,
+    "gn:longitude":24.04183,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Papal\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popol\u2019tsy",
+        "Papal\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596113
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e7e41e488127414e98d44bbcbaaaef37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1276905473,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276905473,
+    "wof:lastmodified":1537662090,
+    "wof:name":"Papalciai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04183,
+    55.52345,
+    24.04183,
+    55.52345
+],
+  "geometry": {"coordinates":[24.04183,55.52345],"type":"Point"}
+}

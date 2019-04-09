@@ -1,0 +1,82 @@
+{
+  "id": 1293917925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83943,54.94758,24.83943,54.94758",
+    "geom:latitude":54.94758,
+    "geom:longitude":24.83943,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Musninkai",
+    "gn:country_code":"LT",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596821,
+    "gn:latitude":54.94758,
+    "gn:longitude":24.83943,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Musninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Musninkai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u043d\u0438\u043d\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Mu\u015bniki",
+        "Musnink\u0173",
+        "Musnik\u0173",
+        "Musninkay",
+        "Musninkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596821,
+        "wk:page":"Musninkai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"49dabac3dae2c7fc6ac9e6eb3158903e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1293917925,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293917925,
+    "wof:lastmodified":1537662143,
+    "wof:name":"Musninkai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83943,
+    54.94758,
+    24.83943,
+    54.94758
+],
+  "geometry": {"coordinates":[24.83943,54.94758],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226373961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.46751,54.24577,23.46751,54.24577",
+    "geom:latitude":54.24577,
+    "geom:longitude":23.46751,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Zemaitkiemis",
+    "gn:country_code":"LT",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592823,
+    "gn:latitude":54.24577,
+    "gn:longitude":23.46751,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017demaitkiemis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhmudska",
+        "Zhemaytkemis",
+        "\u017demaitkiemio",
+        "\u017demaitkiemis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592823
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4f058c3f4ab97e98c20024010f32ff69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1226373961,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1226373961,
+    "wof:lastmodified":1537661867,
+    "wof:name":"Zemaitkiemis",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.46751,
+    54.24576999999999,
+    23.46751,
+    54.24576999999999
+],
+  "geometry": {"coordinates":[23.46751,54.24576999999999],"type":"Point"}
+}

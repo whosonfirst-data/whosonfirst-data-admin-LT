@@ -1,0 +1,71 @@
+{
+  "id": 1276693345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21559,55.58909,22.21559,55.58909",
+    "geom:latitude":55.58909,
+    "geom:longitude":22.21559,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Sukolai",
+    "gn:country_code":"LT",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290799,
+    "gn:latitude":55.58909,
+    "gn:longitude":22.21559,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160ukolai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160ukolai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290799
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5c1a121b11dea6f426e968fb20ac847c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1276693345,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1276693345,
+    "wof:lastmodified":1537662477,
+    "wof:name":"Sukolai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21559,
+    55.58909,
+    22.21559,
+    55.58909
+],
+  "geometry": {"coordinates":[22.21559,55.58909],"type":"Point"}
+}

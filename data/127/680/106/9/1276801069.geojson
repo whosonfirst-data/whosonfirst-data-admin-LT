@@ -1,0 +1,71 @@
+{
+  "id": 1276801069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48994,54.44075,25.48994,54.44075",
+    "geom:latitude":54.44075,
+    "geom:longitude":25.48994,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Valakininkai",
+    "gn:country_code":"LT",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593461,
+    "gn:latitude":54.44075,
+    "gn:longitude":25.48994,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Valakininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Valakininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593461
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bc6f5d8d521b05394a518f5cff28c00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1276801069,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276801069,
+    "wof:lastmodified":1537661906,
+    "wof:name":"Valakininkai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48994,
+    54.44075,
+    25.48994,
+    54.44075
+],
+  "geometry": {"coordinates":[25.48994,54.44075],"type":"Point"}
+}

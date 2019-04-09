@@ -1,0 +1,67 @@
+{
+  "id": 1209140589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66395,55.17244,23.66395,55.17244",
+    "geom:latitude":55.17244,
+    "geom:longitude":23.66395,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Mantigailiai",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597262,
+    "gn:latitude":55.17244,
+    "gn:longitude":23.66395,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mantigailiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u2019fredovo",
+        "Al\u2019fredavas",
+        "Mantigailiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597262
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ea6ece1bfa51facfc9930b97b05dc2fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209140589
+        }
+    ],
+    "wof:id":1209140589,
+    "wof:lastmodified":1537662173,
+    "wof:name":"Mantigailiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66395,
+    55.17244,
+    23.66395,
+    55.17244
+],
+  "geometry": {"coordinates":[23.66395,55.17244],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259714113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.49247,54.66087,24.49247,54.66087",
+    "geom:latitude":54.66087,
+    "geom:longitude":24.49247,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Naujalaukis I",
+    "gn:country_code":"LT",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310943,
+    "gn:latitude":54.66087,
+    "gn:longitude":24.49247,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Naujalaukis I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Naujalaukis I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310943
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c94e97c8c12306b17bc78af262f53d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1259714113,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259714113,
+    "wof:lastmodified":1537662953,
+    "wof:name":"Naujalaukis I",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.49247,
+    54.66087,
+    24.49247,
+    54.66087
+],
+  "geometry": {"coordinates":[24.49247,54.66087],"type":"Point"}
+}

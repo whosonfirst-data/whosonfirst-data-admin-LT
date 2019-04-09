@@ -1,0 +1,75 @@
+{
+  "id": 1293129839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16651,55.05052,24.16651,55.05052",
+    "geom:latitude":55.05052,
+    "geom:longitude":24.16651,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Bartoniai",
+    "gn:country_code":"LT",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600601,
+    "gn:latitude":55.05052,
+    "gn:longitude":24.16651,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bartoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bartonys",
+        "Bartoni\u0173",
+        "Bartonyay",
+        "Bartoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600601,
+        "wk:page":"Bartoniai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0e8ca8a67f8c425bfbf3955a8f068158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1293129839,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293129839,
+    "wof:lastmodified":1537662400,
+    "wof:name":"Bartoniai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16651,
+    55.05052,
+    24.16651,
+    55.05052
+],
+  "geometry": {"coordinates":[24.16651,55.05052],"type":"Point"}
+}

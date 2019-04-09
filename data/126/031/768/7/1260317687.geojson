@@ -1,0 +1,71 @@
+{
+  "id": 1260317687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5149,55.23208,23.5149,55.23208",
+    "geom:latitude":55.23208,
+    "geom:longitude":23.5149,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Baukiai",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305721,
+    "gn:latitude":55.23208,
+    "gn:longitude":23.5149,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Baukiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Baukiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305721
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"62a9658e6f4d770eee4133d2cf55c5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1260317687,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260317687,
+    "wof:lastmodified":1537662854,
+    "wof:name":"Baukiai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5149,
+    55.23208,
+    23.5149,
+    55.23208
+],
+  "geometry": {"coordinates":[23.5149,55.23208],"type":"Point"}
+}

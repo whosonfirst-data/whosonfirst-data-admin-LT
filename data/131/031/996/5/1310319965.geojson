@@ -1,0 +1,73 @@
+{
+  "id": 1310319965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95,56.35,21.95,56.35",
+    "geom:latitude":56.35,
+    "geom:longitude":21.95,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Skliausciai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594521,
+    "gn:latitude":56.35,
+    "gn:longitude":21.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Skliaus\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sklyauschay",
+        "Skliaus\u010di\u0173",
+        "Skliaus\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594521
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c5d466f89dbb2c6e9b5c66b66e0cc317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1310319965,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1310319965,
+    "wof:lastmodified":1537661978,
+    "wof:name":"Skliausciai",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95,
+    56.35,
+    21.95,
+    56.35
+],
+  "geometry": {"coordinates":[21.95,56.35],"type":"Point"}
+}

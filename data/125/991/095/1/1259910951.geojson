@@ -1,0 +1,77 @@
+{
+  "id": 1259910951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.84144,55.10745,23.84144,55.10745",
+    "geom:latitude":55.10745,
+    "geom:longitude":23.84144,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Antagyne",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601047,
+    "gn:latitude":55.10745,
+    "gn:longitude":23.84144,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Antagyn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Antagyn\u0117"
+    ],
+    "name:und_x_variant":[
+        "Antagynes",
+        "Antogini",
+        "Antagin\u0117s",
+        "Antagin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601047
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"17685a79078d98607464db6e6b028af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1259910951,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1259910951,
+    "wof:lastmodified":1537662430,
+    "wof:name":"Antagyne",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84144,
+    55.10745,
+    23.84144,
+    55.10745
+],
+  "geometry": {"coordinates":[23.84144,55.10745],"type":"Point"}
+}

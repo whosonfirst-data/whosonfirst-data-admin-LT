@@ -1,0 +1,71 @@
+{
+  "id": 1310629129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.97236,56.17881,24.97236,56.17881",
+    "geom:latitude":56.17881,
+    "geom:longitude":24.97236,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Lauzadiskis",
+    "gn:country_code":"LT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298610,
+    "gn:latitude":56.17881,
+    "gn:longitude":24.97236,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lau\u017eadi\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lau\u017eadi\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298610
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8fa5099320670d4b4649d34a5afdf2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1310629129,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310629129,
+    "wof:lastmodified":1537662681,
+    "wof:name":"Lauzadiskis",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.97236,
+    56.17881,
+    24.97236,
+    56.17881
+],
+  "geometry": {"coordinates":[24.97236,56.17881],"type":"Point"}
+}

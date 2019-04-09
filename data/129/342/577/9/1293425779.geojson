@@ -1,0 +1,72 @@
+{
+  "id": 1293425779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3071,54.92504,25.3071,54.92504",
+    "geom:latitude":54.92504,
+    "geom:longitude":25.3071,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Juodezeriai",
+    "gn:country_code":"LT",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598719,
+    "gn:latitude":54.92504,
+    "gn:longitude":25.3071,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Juode\u017eeriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iodozer\u2019ye",
+        "Juode\u017eeriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598719
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d1eda64269f6ee61060cb5744d91cabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1293425779,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293425779,
+    "wof:lastmodified":1537662271,
+    "wof:name":"Juodezeriai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3071,
+    54.92504,
+    25.3071,
+    54.92504
+],
+  "geometry": {"coordinates":[25.3071,54.92504],"type":"Point"}
+}

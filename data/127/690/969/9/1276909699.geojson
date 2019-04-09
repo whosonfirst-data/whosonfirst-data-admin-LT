@@ -1,0 +1,73 @@
+{
+  "id": 1276909699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36349,55.28392,22.36349,55.28392",
+    "geom:latitude":55.28392,
+    "geom:longitude":22.36349,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Joniske",
+    "gn:country_code":"LT",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598804,
+    "gn:latitude":55.28392,
+    "gn:longitude":22.36349,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Joni\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanishki",
+        "Joni\u0161k\u0117 Antroji",
+        "Joni\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598804
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"aa82cd83dc0e431e59fcaa398cc5328b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1276909699,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1276909699,
+    "wof:lastmodified":1537662277,
+    "wof:name":"Joniske",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36349,
+    55.28392,
+    22.36349,
+    55.28392
+],
+  "geometry": {"coordinates":[22.36349,55.28392],"type":"Point"}
+}

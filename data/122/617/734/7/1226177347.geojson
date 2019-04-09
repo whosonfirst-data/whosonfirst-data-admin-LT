@@ -1,0 +1,76 @@
+{
+  "id": 1226177347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82392,56.29625,23.82392,56.29625",
+    "geom:latitude":56.29625,
+    "geom:longitude":23.82392,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Kriukai",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597958,
+    "gn:latitude":56.29625,
+    "gn:longitude":23.82392,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kriukai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kryukyay",
+        "Kruki",
+        "Kryukay",
+        "Kriuk\u0173",
+        "Kriukai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597958,
+        "wk:page":"Kriukai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5a156909ba2e65338f606abfad60bbd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1226177347,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226177347,
+    "wof:lastmodified":1537662219,
+    "wof:name":"Kriukai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82392,
+    56.29625,
+    23.82392,
+    56.29625
+],
+  "geometry": {"coordinates":[23.82392,56.29625],"type":"Point"}
+}

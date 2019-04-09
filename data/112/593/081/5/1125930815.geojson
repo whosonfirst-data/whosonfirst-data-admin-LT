@@ -1,0 +1,93 @@
+{
+  "id": 1125930815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92848,54.75792,23.92848,54.75792",
+    "geom:latitude":54.75792,
+    "geom:longitude":23.92848,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":817,
+    "gn:population":817,
+    "iso:country":"LT",
+    "lbl:latitude":54.75792,
+    "lbl:longitude":23.92848,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u043a\u0441\u043c\u0430\u043a\u0430\u043b\u043d\u0438\u0441"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7117229,
+    "qs_pg:gn_pop":817,
+    "qs_pg:name":"Linksmakalnis",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":985036,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56039311,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7117229,
+        "gp:id":56039311,
+        "qs_pg:id":985036
+    },
+    "wof:country":"LT",
+    "wof:created":1497296799,
+    "wof:geomhash":"2911d3f52a2f0493f8b8ef37aaa909a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1125930815,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1125930815,
+    "wof:lastmodified":1509401392,
+    "wof:name":"Linksmakalnis",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:population":817,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92848,
+    54.75792,
+    23.92848,
+    54.75792
+],
+  "geometry": {"coordinates":[23.92848,54.75792],"type":"Point"}
+}

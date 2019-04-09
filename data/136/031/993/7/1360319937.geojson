@@ -1,0 +1,74 @@
+{
+  "id": 1360319937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.35511,56.1565,24.35511,56.1565",
+    "geom:latitude":56.1565,
+    "geom:longitude":24.35511,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Telziai",
+    "gn:country_code":"LT",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593923,
+    "gn:latitude":56.1565,
+    "gn:longitude":24.35511,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tel\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tyal\u2019zhyay",
+        "Tel\u017ei\u0173",
+        "Telzhyay",
+        "Tel\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593923
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b990557b978dcee512fbbe57928ff55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1360319937,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360319937,
+    "wof:lastmodified":1537661937,
+    "wof:name":"Telziai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.35511,
+    56.1565,
+    24.35511,
+    56.1565
+],
+  "geometry": {"coordinates":[24.35511,56.1565],"type":"Point"}
+}

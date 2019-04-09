@@ -1,0 +1,71 @@
+{
+  "id": 1293423755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01145,54.97593,23.01145,54.97593",
+    "geom:latitude":54.97593,
+    "geom:longitude":23.01145,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Kumpupiai",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303357,
+    "gn:latitude":54.97593,
+    "gn:longitude":23.01145,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kumpupiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kumpupiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303357
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5995d17e34c7f9efc7e17e02e731e804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1293423755,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1293423755,
+    "wof:lastmodified":1537662800,
+    "wof:name":"Kumpupiai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01145,
+    54.97593000000001,
+    23.01145,
+    54.97593000000001
+],
+  "geometry": {"coordinates":[23.01145,54.97593000000001],"type":"Point"}
+}

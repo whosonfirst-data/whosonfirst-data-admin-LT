@@ -1,0 +1,72 @@
+{
+  "id": 1193047493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04974,55.58641,24.04974,55.58641",
+    "geom:latitude":55.58641,
+    "geom:longitude":24.04974,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Virzonai",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593065,
+    "gn:latitude":55.58641,
+    "gn:longitude":24.04974,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vir\u017eonai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Virzhany",
+        "Vir\u017eonai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593065
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d453ffc9e652dc1a78bbdb59ea5c7047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1193047493,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1193047493,
+    "wof:lastmodified":1537661882,
+    "wof:name":"Virzonai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04974,
+    55.58641,
+    24.04974,
+    55.58641
+],
+  "geometry": {"coordinates":[24.04974,55.58641],"type":"Point"}
+}

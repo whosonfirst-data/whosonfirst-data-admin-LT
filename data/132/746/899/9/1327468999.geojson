@@ -1,0 +1,71 @@
+{
+  "id": 1327468999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73267,54.82965,23.73267,54.82965",
+    "geom:latitude":54.82965,
+    "geom:longitude":23.73267,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Tumpai",
+    "gn:country_code":"LT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307265,
+    "gn:latitude":54.82965,
+    "gn:longitude":23.73267,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tumpai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tumpai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307265
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2670a1806a3fa9dae129e3ed6d839ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1327468999,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327468999,
+    "wof:lastmodified":1537662887,
+    "wof:name":"Tumpai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73267,
+    54.82965,
+    23.73267,
+    54.82965
+],
+  "geometry": {"coordinates":[23.73267,54.82965],"type":"Point"}
+}

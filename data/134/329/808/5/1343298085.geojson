@@ -1,0 +1,71 @@
+{
+  "id": 1343298085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99948,55.72593,22.99948,55.72593",
+    "geom:latitude":55.72593,
+    "geom:longitude":22.99948,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Jakspelkis",
+    "gn:country_code":"LT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304071,
+    "gn:latitude":55.72593,
+    "gn:longitude":22.99948,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jak\u0161pelkis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jak\u0161pelkis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304071
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"62bd8859f358a67b3d04e3778ebef8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1343298085,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343298085,
+    "wof:lastmodified":1537662814,
+    "wof:name":"Jakspelkis",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99948,
+    55.72593000000001,
+    22.99948,
+    55.72593000000001
+],
+  "geometry": {"coordinates":[22.99948,55.72593000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225981177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60621,55.94729,23.60621,55.94729",
+    "geom:latitude":55.94729,
+    "geom:longitude":23.60621,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Nadaukiai",
+    "gn:country_code":"LT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596810,
+    "gn:latitude":55.94729,
+    "gn:longitude":23.60621,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nadaukiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nedaukis",
+        "Nadaukiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596810
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e3b0b93ace0d95fae606dc8617856314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1225981177,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1225981177,
+    "wof:lastmodified":1537662142,
+    "wof:name":"Nadaukiai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60621,
+    55.94729,
+    23.60621,
+    55.94729
+],
+  "geometry": {"coordinates":[23.60621,55.94729],"type":"Point"}
+}

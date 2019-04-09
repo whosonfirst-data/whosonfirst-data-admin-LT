@@ -1,0 +1,128 @@
+{
+  "id": 1125805775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8,54.93333,23.8,54.93333",
+    "geom:latitude":54.93333,
+    "geom:longitude":23.8,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":54.93333,
+    "lbl:longitude":23.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u045e\u0434\u043e\u043d\u0434\u0432\u0430\u0440\u044b\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Raudondvaris"
+    ],
+    "name:eng_x_preferred":[
+        "Raudondvaris"
+    ],
+    "name:est_x_preferred":[
+        "Raudondvaris"
+    ],
+    "name:fin_x_preferred":[
+        "Raudondvaris"
+    ],
+    "name:fre_x_preferred":[
+        "Raudondvaris"
+    ],
+    "name:ger_x_preferred":[
+        "Raudondvaris"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d3\u05d5\u05e0\u05d3\u05d5\u05d5\u05d0\u05e8\u05d9\u05e1"
+    ],
+    "name:lit_x_preferred":[
+        "Raudondvaris"
+    ],
+    "name:pol_x_preferred":[
+        "Czerwony Dw\u00f3r"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0443\u0434\u043e\u043d\u0434\u0432\u0430\u0440\u0438\u0441"
+    ],
+    "name:sgs_x_preferred":[
+        "Rauduondvaris"
+    ],
+    "name:unk_x_variant":[
+        "Czerwony Dw\u00f3r"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":595356,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Raudondvaris",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165559,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":477875,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595356,
+        "gp:id":477875,
+        "qs_pg:id":1165559,
+        "wd:id":"Q1023872"
+    },
+    "wof:country":"LT",
+    "wof:created":1497291456,
+    "wof:geomhash":"fcdb1410d7b51d11a687f47e0420ed33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073611,
+            "locality_id":1125805775,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1125805775,
+    "wof:lastmodified":1514483792,
+    "wof:name":"Raudondvaris",
+    "wof:parent_id":102073611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8,
+    54.93333,
+    23.8,
+    54.93333
+],
+  "geometry": {"coordinates":[23.8,54.93333],"type":"Point"}
+}

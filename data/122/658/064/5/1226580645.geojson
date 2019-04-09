@@ -1,0 +1,71 @@
+{
+  "id": 1226580645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02135,55.40584,25.02135,55.40584",
+    "geom:latitude":55.40584,
+    "geom:longitude":25.02135,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Plotai",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299646,
+    "gn:latitude":55.40584,
+    "gn:longitude":25.02135,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Plotai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Plotai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299646
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e53a262cd2f978601abf0de70c660dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1226580645,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226580645,
+    "wof:lastmodified":1537662709,
+    "wof:name":"Plotai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02135,
+    55.40584000000001,
+    25.02135,
+    55.40584000000001
+],
+  "geometry": {"coordinates":[25.02135,55.40584000000001],"type":"Point"}
+}

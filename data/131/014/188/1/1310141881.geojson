@@ -1,0 +1,75 @@
+{
+  "id": 1310141881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66783,55.85952,24.66783,55.85952",
+    "geom:latitude":55.85952,
+    "geom:longitude":24.66783,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Vareikiai Ii",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593409,
+    "gn:latitude":55.85952,
+    "gn:longitude":24.66783,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vareikiai Ii",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vareikiai Ii"
+    ],
+    "name:und_x_variant":[
+        "Vareyki",
+        "Vareikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593409
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0b4ef5833b1a1b992f7813b65b2ae5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1310141881,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310141881,
+    "wof:lastmodified":1537661902,
+    "wof:name":"Vareikiai Ii",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66783,
+    55.85952,
+    24.66783,
+    55.85952
+],
+  "geometry": {"coordinates":[24.66783,55.85952],"type":"Point"}
+}

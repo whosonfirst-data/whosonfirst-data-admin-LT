@@ -1,0 +1,73 @@
+{
+  "id": 1343579417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28333,55.43333,23.28333,55.43333",
+    "geom:latitude":55.43333,
+    "geom:longitude":23.28333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Paluknys I",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596176,
+    "gn:latitude":55.43333,
+    "gn:longitude":23.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Paluknys I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paluknys Pirmasis",
+        "Paluknis",
+        "Paluknys I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596176
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7d076c3d945fdb718fc5037f1b770766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1343579417,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343579417,
+    "wof:lastmodified":1537662095,
+    "wof:name":"Paluknys I",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28333,
+    55.43333000000001,
+    23.28333,
+    55.43333000000001
+],
+  "geometry": {"coordinates":[23.28333,55.43333000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209251627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66778,55.47216,23.66778,55.47216",
+    "geom:latitude":55.47216,
+    "geom:longitude":23.66778,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Cystapolis",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307538,
+    "gn:latitude":55.47216,
+    "gn:longitude":23.66778,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u010cystapolis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u010cystapolis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307538
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"46aadd07242f8763d9a7ad20308ce81b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209251627
+        }
+    ],
+    "wof:id":1209251627,
+    "wof:lastmodified":1537662891,
+    "wof:name":"Cystapolis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66778,
+    55.47216,
+    23.66778,
+    55.47216
+],
+  "geometry": {"coordinates":[23.66778,55.47216],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260192741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6,55.81667,21.6,55.81667",
+    "geom:latitude":55.81667,
+    "geom:longitude":21.6,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Unkuriai",
+    "gn:country_code":"LT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593722,
+    "gn:latitude":55.81667,
+    "gn:longitude":21.6,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Unkuriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Unkuriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593722
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"100f2be03b365d49f15dcec985f9f483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1260192741,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1260192741,
+    "wof:lastmodified":1537661924,
+    "wof:name":"Unkuriai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6,
+    55.81667,
+    21.6,
+    55.81667
+],
+  "geometry": {"coordinates":[21.6,55.81667],"type":"Point"}
+}

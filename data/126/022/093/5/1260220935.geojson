@@ -1,0 +1,71 @@
+{
+  "id": 1260220935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48845,55.3962,26.48845,55.3962",
+    "geom:latitude":55.3962,
+    "geom:longitude":26.48845,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Leliupis",
+    "gn:country_code":"LT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291142,
+    "gn:latitude":55.3962,
+    "gn:longitude":26.48845,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"L\u0117liupis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "L\u0117liupis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291142
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c68c1261a37e803334b42d7e45a0074a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1260220935,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1260220935,
+    "wof:lastmodified":1537662487,
+    "wof:name":"Leliupis",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48845,
+    55.3962,
+    26.48845,
+    55.3962
+],
+  "geometry": {"coordinates":[26.48845,55.3962],"type":"Point"}
+}

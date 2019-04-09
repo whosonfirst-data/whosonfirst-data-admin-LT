@@ -1,0 +1,64 @@
+{
+  "id": 1108949767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2706818063,54.7727034411,25.2706818063,54.7727034411",
+    "geom:latitude":54.772703,
+    "geom:longitude":25.270682,
+    "iso:country":"LT",
+    "lbl:latitude":54.772703,
+    "lbl:longitude":25.270682,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lit_x_preferred":[
+        "Pra\u0161i\u0161k\u0117s"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85685759,
+        85633269,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367889,
+    "wof:geomhash":"6275ed12d97cb39457ec2026015137d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "neighbourhood_id":1108949767,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949767,
+    "wof:lastmodified":1497292361,
+    "wof:name":"Prasiskes",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27068180632822,
+    54.77270344106003,
+    25.27068180632822,
+    54.77270344106003
+],
+  "geometry": {"coordinates":[25.27068180632822,54.77270344106003],"type":"Point"}
+}

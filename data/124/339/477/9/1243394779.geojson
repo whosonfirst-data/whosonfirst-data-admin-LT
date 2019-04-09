@@ -1,0 +1,71 @@
+{
+  "id": 1243394779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.32621,55.53125,26.32621,55.53125",
+    "geom:latitude":55.53125,
+    "geom:longitude":26.32621,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Azukarkline",
+    "gn:country_code":"LT",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292020,
+    "gn:latitude":55.53125,
+    "gn:longitude":26.32621,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"A\u017eukarklin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "A\u017eukarklin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292020
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"25fcfdde8f9a8727fa5703540c5a5cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1243394779,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243394779,
+    "wof:lastmodified":1537662511,
+    "wof:name":"Azukarkline",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.32621,
+    55.53125,
+    26.32621,
+    55.53125
+],
+  "geometry": {"coordinates":[26.32621,55.53125],"type":"Point"}
+}

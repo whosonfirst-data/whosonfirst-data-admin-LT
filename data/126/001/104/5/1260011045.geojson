@@ -1,0 +1,71 @@
+{
+  "id": 1260011045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11071,55.14549,26.11071,55.14549",
+    "geom:latitude":55.14549,
+    "geom:longitude":26.11071,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Ragaucina",
+    "gn:country_code":"LT",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595440,
+    "gn:latitude":55.14549,
+    "gn:longitude":26.11071,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ragau\u010dina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ragau\u010dina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595440
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3eeb723b0d6766e6733ead0bf8fc43a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1260011045,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260011045,
+    "wof:lastmodified":1537662040,
+    "wof:name":"Ragaucina",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11071,
+    55.14549,
+    26.11071,
+    55.14549
+],
+  "geometry": {"coordinates":[26.11071,55.14549],"type":"Point"}
+}

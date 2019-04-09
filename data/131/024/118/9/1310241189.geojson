@@ -1,0 +1,75 @@
+{
+  "id": 1310241189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01713,54.21572,24.01713,54.21572",
+    "geom:latitude":54.21572,
+    "geom:longitude":24.01713,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Ryliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595074,
+    "gn:latitude":54.21572,
+    "gn:longitude":24.01713,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ryli\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruli\u0161ke",
+        "Rylishki",
+        "Ryli\u0161ki\u0173",
+        "Ryli\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595074
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"81f8fd6178ad81a3a123716f98031784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1310241189,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1310241189,
+    "wof:lastmodified":1537662015,
+    "wof:name":"Ryliskiai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01713,
+    54.21572,
+    24.01713,
+    54.21572
+],
+  "geometry": {"coordinates":[24.01713,54.21572],"type":"Point"}
+}

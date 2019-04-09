@@ -1,0 +1,76 @@
+{
+  "id": 1326866025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.81635,55.04042,23.81635,55.04042",
+    "geom:latitude":55.04042,
+    "geom:longitude":23.81635,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Sitkunai",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594602,
+    "gn:latitude":55.04042,
+    "gn:longitude":23.81635,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sitk\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitkuny",
+        "Sitkunay",
+        "Sitk\u016bnai Pirmieji",
+        "Sitk\u016bnai",
+        "Sitk\u016bnai II",
+        "Sitk\u016bnai Antrieji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594602
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"45e85da6ac076df5e8e6bec9dea88e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1326866025,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1326866025,
+    "wof:lastmodified":1537661983,
+    "wof:name":"Sitkunai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81635,
+    55.04042,
+    23.81635,
+    55.04042
+],
+  "geometry": {"coordinates":[23.81635,55.04042],"type":"Point"}
+}

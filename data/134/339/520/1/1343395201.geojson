@@ -1,0 +1,71 @@
+{
+  "id": 1343395201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.99432,56.14854,24.99432,56.14854",
+    "geom:latitude":56.14854,
+    "geom:longitude":24.99432,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Ilgabrados",
+    "gn:country_code":"LT",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298736,
+    "gn:latitude":56.14854,
+    "gn:longitude":24.99432,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ilgabrados",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ilgabrados"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298736
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fe1e7355fec9345c1573ac544fd03771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1343395201,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343395201,
+    "wof:lastmodified":1537662684,
+    "wof:name":"Ilgabrados",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99432,
+    56.14854,
+    24.99432,
+    56.14854
+],
+  "geometry": {"coordinates":[24.99432,56.14854],"type":"Point"}
+}

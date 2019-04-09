@@ -1,0 +1,74 @@
+{
+  "id": 1293035497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.72481,54.51763,24.72481,54.51763",
+    "geom:latitude":54.51763,
+    "geom:longitude":24.72481,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Panosiskes",
+    "gn:country_code":"LT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596124,
+    "gn:latitude":54.51763,
+    "gn:longitude":24.72481,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pano\u0161i\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dydkaimis",
+        "Panashishki",
+        "Pano\u0161ki\u0173 \u017dydkaimis",
+        "Pano\u0161i\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596124
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dd6f98d2df09b77d10b634536dac02a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1293035497,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293035497,
+    "wof:lastmodified":1537662091,
+    "wof:name":"Panosiskes",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.72481,
+    54.51763,
+    24.72481,
+    54.51763
+],
+  "geometry": {"coordinates":[24.72481,54.51763],"type":"Point"}
+}

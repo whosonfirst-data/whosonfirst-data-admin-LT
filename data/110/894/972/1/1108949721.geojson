@@ -1,0 +1,64 @@
+{
+  "id": 1108949721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4115872575,54.7429375798,25.4115872575,54.7429375798",
+    "geom:latitude":54.742938,
+    "geom:longitude":25.411587,
+    "iso:country":"LT",
+    "lbl:latitude":54.742938,
+    "lbl:longitude":25.411587,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lit_x_preferred":[
+        "\u0160il\u0117nai"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85685759,
+        85633269,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367849,
+    "wof:geomhash":"55b05269d1606d6c51ee71d9a02bf8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "neighbourhood_id":1108949721,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949721,
+    "wof:lastmodified":1497292362,
+    "wof:name":"Silenai",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41158725747413,
+    54.74293757976979,
+    25.41158725747413,
+    54.74293757976979
+],
+  "geometry": {"coordinates":[25.41158725747413,54.74293757976979],"type":"Point"}
+}

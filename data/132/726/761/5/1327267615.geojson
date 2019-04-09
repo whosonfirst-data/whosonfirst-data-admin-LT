@@ -1,0 +1,71 @@
+{
+  "id": 1327267615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39307,55.18198,25.39307,55.18198",
+    "geom:latitude":55.18198,
+    "geom:longitude":25.39307,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Raupiskis",
+    "gn:country_code":"LT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297290,
+    "gn:latitude":55.18198,
+    "gn:longitude":25.39307,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Raupi\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Raupi\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297290
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"86c77f3315b021618de12cc3b1a4a188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1327267615,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327267615,
+    "wof:lastmodified":1537662643,
+    "wof:name":"Raupiskis",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39307,
+    55.18198,
+    25.39307,
+    55.18198
+],
+  "geometry": {"coordinates":[25.39307,55.18198],"type":"Point"}
+}

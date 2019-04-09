@@ -1,0 +1,73 @@
+{
+  "id": 1226578315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92147,55.47212,21.92147,55.47212",
+    "geom:latitude":55.47212,
+    "geom:longitude":21.92147,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Kalniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598535,
+    "gn:latitude":55.47212,
+    "gn:longitude":21.92147,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalni\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kal\u2019nishkyay",
+        "Kalni\u0161kiai",
+        "Kalni\u0161kiai II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598535
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2256163d8ed03ccc13ace19cc4e885d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1226578315,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1226578315,
+    "wof:lastmodified":1537662258,
+    "wof:name":"Kalniskiai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92147000000001,
+    55.47212,
+    21.92147000000001,
+    55.47212
+],
+  "geometry": {"coordinates":[21.92147000000001,55.47212],"type":"Point"}
+}

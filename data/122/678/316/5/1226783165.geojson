@@ -1,0 +1,71 @@
+{
+  "id": 1226783165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75405,54.02492,24.75405,54.02492",
+    "geom:latitude":54.02492,
+    "geom:longitude":24.75405,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Mantotai",
+    "gn:country_code":"LT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310455,
+    "gn:latitude":54.02492,
+    "gn:longitude":24.75405,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mantotai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mantotai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310455
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8efb59ca520a89cb3252cda0be24675f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1226783165,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1226783165,
+    "wof:lastmodified":1537662944,
+    "wof:name":"Mantotai",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75405,
+    54.02492,
+    24.75405,
+    54.02492
+],
+  "geometry": {"coordinates":[24.75405,54.02492],"type":"Point"}
+}

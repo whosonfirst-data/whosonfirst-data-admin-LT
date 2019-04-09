@@ -1,0 +1,71 @@
+{
+  "id": 1326464197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73052,55.26515,24.73052,55.26515",
+    "geom:latitude":55.26515,
+    "geom:longitude":24.73052,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Slapiu Priemiestis",
+    "gn:country_code":"LT",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311814,
+    "gn:latitude":55.26515,
+    "gn:longitude":24.73052,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160lapi\u0173 Priemiestis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160lapi\u0173 Priemiestis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311814
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"489e5a7b5e2ceb6076a3b101214bf868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1326464197,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1326464197,
+    "wof:lastmodified":1537662976,
+    "wof:name":"Slapiu Priemiestis",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73052,
+    55.26515,
+    24.73052,
+    55.26515
+],
+  "geometry": {"coordinates":[24.73052,55.26515],"type":"Point"}
+}

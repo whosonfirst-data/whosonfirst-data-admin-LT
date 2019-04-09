@@ -1,0 +1,72 @@
+{
+  "id": 1226682787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.64718,56.08252,24.64718,56.08252",
+    "geom:latitude":56.08252,
+    "geom:longitude":24.64718,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Gulbinenai",
+    "gn:country_code":"LT",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599053,
+    "gn:latitude":56.08252,
+    "gn:longitude":24.64718,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gulbin\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gul\u2019binenay",
+        "Gulbin\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599053
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8f4def085eee6edbef6abb4275abbf80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1226682787,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226682787,
+    "wof:lastmodified":1537662292,
+    "wof:name":"Gulbinenai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.64718,
+    56.08252,
+    24.64718,
+    56.08252
+],
+  "geometry": {"coordinates":[24.64718,56.08252],"type":"Point"}
+}

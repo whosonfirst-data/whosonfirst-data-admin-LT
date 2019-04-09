@@ -1,0 +1,65 @@
+{
+  "id": 1209043147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16228,55.22906,23.16228,55.22906",
+    "geom:latitude":55.22906,
+    "geom:longitude":23.16228,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Zagriauzis",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303528,
+    "gn:latitude":55.22906,
+    "gn:longitude":23.16228,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zagriau\u017eis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zagriau\u017eis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303528
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d5c31461a2867f51d5807ab4a33c1b7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209043147
+        }
+    ],
+    "wof:id":1209043147,
+    "wof:lastmodified":1537662804,
+    "wof:name":"Zagriauzis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16228,
+    55.22906,
+    23.16228,
+    55.22906
+],
+  "geometry": {"coordinates":[23.16228,55.22906],"type":"Point"}
+}

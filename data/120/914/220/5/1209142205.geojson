@@ -1,0 +1,65 @@
+{
+  "id": 1209142205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.17198,55.46626,24.17198,55.46626",
+    "geom:latitude":55.46626,
+    "geom:longitude":24.17198,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Telviskiai",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309607,
+    "gn:latitude":55.46626,
+    "gn:longitude":24.17198,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Telvi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Telvi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309607
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"62925f599289da28b65e514653c8ecf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209142205
+        }
+    ],
+    "wof:id":1209142205,
+    "wof:lastmodified":1537662926,
+    "wof:name":"Telviskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17198,
+    55.46626,
+    24.17198,
+    55.46626
+],
+  "geometry": {"coordinates":[24.17198,55.46626],"type":"Point"}
+}

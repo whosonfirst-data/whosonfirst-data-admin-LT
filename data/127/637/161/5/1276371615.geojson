@@ -1,0 +1,74 @@
+{
+  "id": 1276371615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13741,55.69442,26.13741,55.69442",
+    "geom:latitude":55.69442,
+    "geom:longitude":26.13741,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Pagire",
+    "gn:country_code":"LT",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596387,
+    "gn:latitude":55.69442,
+    "gn:longitude":26.13741,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pagir\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pagir\u0117"
+    ],
+    "name:lit_x_variant":[
+        "Pagire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596387
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5f5f1df397bfed2881f66a892c8a5b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276371615,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276371615,
+    "wof:lastmodified":1537662111,
+    "wof:name":"Pagire",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13741,
+    55.69442,
+    26.13741,
+    55.69442
+],
+  "geometry": {"coordinates":[26.13741,55.69442],"type":"Point"}
+}

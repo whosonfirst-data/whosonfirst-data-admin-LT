@@ -1,0 +1,72 @@
+{
+  "id": 1242611711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83767,55.28893,22.83767,55.28893",
+    "geom:latitude":55.28893,
+    "geom:longitude":22.83767,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Plekiai",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595712,
+    "gn:latitude":55.28893,
+    "gn:longitude":22.83767,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Plekiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pleki",
+        "Plekiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595712
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1a10dd8354be04acbc019bde72498df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1242611711,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1242611711,
+    "wof:lastmodified":1537662059,
+    "wof:name":"Plekiai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83767000000001,
+    55.28893000000001,
+    22.83767000000001,
+    55.28893000000001
+],
+  "geometry": {"coordinates":[22.83767000000001,55.28893000000001],"type":"Point"}
+}

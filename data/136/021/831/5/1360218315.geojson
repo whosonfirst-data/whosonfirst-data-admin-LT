@@ -1,0 +1,73 @@
+{
+  "id": 1360218315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78901,54.18603,24.78901,54.18603",
+    "geom:latitude":54.18603,
+    "geom:longitude":24.78901,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Kijuciai",
+    "gn:country_code":"LT",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598161,
+    "gn:latitude":54.18603,
+    "gn:longitude":24.78901,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kiju\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaledonys",
+        "Kiju\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598161,
+        "wk:page":"Kiju%C4%8Diai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8bb5b44129e038be66924b84f42e7d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1360218315,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1360218315,
+    "wof:lastmodified":1537662234,
+    "wof:name":"Kijuciai",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78901,
+    54.18603,
+    24.78901,
+    54.18603
+],
+  "geometry": {"coordinates":[24.78901,54.18603],"type":"Point"}
+}

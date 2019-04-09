@@ -1,0 +1,72 @@
+{
+  "id": 1276695955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.77707,56.15407,24.77707,56.15407",
+    "geom:latitude":56.15407,
+    "geom:longitude":24.77707,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Dirvonakiai",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599837,
+    "gn:latitude":56.15407,
+    "gn:longitude":24.77707,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dirvonakiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dirvonakyay",
+        "Dirvonakiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599837
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6ccd8189bf19d439daf9ae23a0297432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1276695955,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276695955,
+    "wof:lastmodified":1537662345,
+    "wof:name":"Dirvonakiai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.77707,
+    56.15407,
+    24.77707,
+    56.15407
+],
+  "geometry": {"coordinates":[24.77707,56.15407],"type":"Point"}
+}

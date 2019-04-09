@@ -1,0 +1,70 @@
+{
+  "id": 1209652251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22147,55.07656,23.22147,55.07656",
+    "geom:latitude":55.07656,
+    "geom:longitude":23.22147,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Jotyskiai Ii",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598781,
+    "gn:latitude":55.07656,
+    "gn:longitude":23.22147,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Joty\u0161kiai Ii",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Joty\u0161kiai Ii"
+    ],
+    "name:und_x_variant":[
+        "Iotyshkyay",
+        "Iotyshki-male",
+        "Joty\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598781
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5c758123123e13dcd336ab8001b9cbcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209652251
+        }
+    ],
+    "wof:id":1209652251,
+    "wof:lastmodified":1537662276,
+    "wof:name":"Jotyskiai Ii",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22147,
+    55.07656,
+    23.22147,
+    55.07656
+],
+  "geometry": {"coordinates":[23.22147,55.07656],"type":"Point"}
+}

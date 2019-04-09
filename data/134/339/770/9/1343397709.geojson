@@ -1,0 +1,81 @@
+{
+  "id": 1343397709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.17253,54.35014,24.17253,54.35014",
+    "geom:latitude":54.35014,
+    "geom:longitude":24.17253,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Alove",
+    "gn:country_code":"LT",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601110,
+    "gn:latitude":54.35014,
+    "gn:longitude":24.17253,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Alov\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alov\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043e\u0432\u0435"
+    ],
+    "name:und_x_variant":[
+        "O\u0142awa",
+        "Alov\u0117s",
+        "Olava",
+        "Alov\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601110
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"77297514f1d3e09ef17f34bd95114776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1343397709,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1343397709,
+    "wof:lastmodified":1537662433,
+    "wof:name":"Alove",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17253,
+    54.35014,
+    24.17253,
+    54.35014
+],
+  "geometry": {"coordinates":[24.17253,54.35014],"type":"Point"}
+}

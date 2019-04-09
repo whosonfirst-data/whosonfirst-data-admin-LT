@@ -1,0 +1,71 @@
+{
+  "id": 1259916625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56305,54.90467,24.56305,54.90467",
+    "geom:latitude":54.90467,
+    "geom:longitude":24.56305,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Leitiskes",
+    "gn:country_code":"LT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311343,
+    "gn:latitude":54.90467,
+    "gn:longitude":24.56305,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Leiti\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Leiti\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311343
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d2cf6fd7cd1061a92625703c0299c977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1259916625,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1259916625,
+    "wof:lastmodified":1537662963,
+    "wof:name":"Leitiskes",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56305,
+    54.90467,
+    24.56305,
+    54.90467
+],
+  "geometry": {"coordinates":[24.56305,54.90467],"type":"Point"}
+}

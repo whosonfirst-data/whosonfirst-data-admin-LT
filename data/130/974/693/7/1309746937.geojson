@@ -1,0 +1,76 @@
+{
+  "id": 1309746937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.69217,56.28823,21.69217,56.28823",
+    "geom:latitude":56.28823,
+    "geom:longitude":21.69217,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Aleksandrija",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601141,
+    "gn:latitude":56.28823,
+    "gn:longitude":21.69217,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Aleksandrija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Truikinay Vtoroy",
+        "Aleksandria",
+        "Truikin\u0173",
+        "Aleksandriya",
+        "Truikinai",
+        "Aleksandrija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601141
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0a5ae5941f9315318df1027afc50315b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1309746937,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1309746937,
+    "wof:lastmodified":1537662435,
+    "wof:name":"Aleksandrija",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.69217,
+    56.28823000000001,
+    21.69217,
+    56.28823000000001
+],
+  "geometry": {"coordinates":[21.69217,56.28823000000001],"type":"Point"}
+}

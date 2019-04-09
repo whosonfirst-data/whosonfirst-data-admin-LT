@@ -1,0 +1,71 @@
+{
+  "id": 1343994727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.94118,55.53,25.94118,55.53",
+    "geom:latitude":55.53,
+    "geom:longitude":25.94118,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Narutiskis",
+    "gn:country_code":"LT",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293989,
+    "gn:latitude":55.53,
+    "gn:longitude":25.94118,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Naruti\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Naruti\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293989
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c26def0cc37096957d7dac8e3a7147d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1343994727,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343994727,
+    "wof:lastmodified":1537662557,
+    "wof:name":"Narutiskis",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.94118,
+    55.53,
+    25.94118,
+    55.53
+],
+  "geometry": {"coordinates":[25.94118,55.53],"type":"Point"}
+}

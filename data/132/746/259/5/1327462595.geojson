@@ -1,0 +1,72 @@
+{
+  "id": 1327462595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.40426,55.95663,24.40426,55.95663",
+    "geom:latitude":55.95663,
+    "geom:longitude":24.40426,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Stebeikiai",
+    "gn:country_code":"LT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594263,
+    "gn:latitude":55.95663,
+    "gn:longitude":24.40426,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Stebeikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stebeyki",
+        "Stebeikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594263
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"af0ceed1983858aafa2fe3064d0ee660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1327462595,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1327462595,
+    "wof:lastmodified":1537661960,
+    "wof:name":"Stebeikiai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.40426,
+    55.95663,
+    24.40426,
+    55.95663
+],
+  "geometry": {"coordinates":[24.40426,55.95663],"type":"Point"}
+}

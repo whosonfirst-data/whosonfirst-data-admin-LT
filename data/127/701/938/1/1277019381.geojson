@@ -1,0 +1,71 @@
+{
+  "id": 1277019381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53715,56.02229,22.53715,56.02229",
+    "geom:latitude":56.02229,
+    "geom:longitude":22.53715,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Nabazai",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302804,
+    "gn:latitude":56.02229,
+    "gn:longitude":22.53715,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Naba\u017eai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Naba\u017eai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302804
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"20d78d273e4975945f2c12160acead37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1277019381,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1277019381,
+    "wof:lastmodified":1537662786,
+    "wof:name":"Nabazai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53715,
+    56.02229000000001,
+    22.53715,
+    56.02229000000001
+],
+  "geometry": {"coordinates":[22.53715,56.02229000000001],"type":"Point"}
+}

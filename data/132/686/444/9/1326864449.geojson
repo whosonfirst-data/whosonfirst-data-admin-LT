@@ -1,0 +1,71 @@
+{
+  "id": 1326864449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53099,54.50326,25.53099,54.50326",
+    "geom:latitude":54.50326,
+    "geom:longitude":25.53099,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Pakalne",
+    "gn:country_code":"LT",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298359,
+    "gn:latitude":54.50326,
+    "gn:longitude":25.53099,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pakaln\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pakaln\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298359
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a074382fe9e50b6fffa5484de9fd79f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1326864449,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1326864449,
+    "wof:lastmodified":1537662674,
+    "wof:name":"Pakalne",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53099,
+    54.50326,
+    25.53099,
+    54.50326
+],
+  "geometry": {"coordinates":[25.53099,54.50326],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310040777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04723,55.41595,24.04723,55.41595",
+    "geom:latitude":55.41595,
+    "geom:longitude":24.04723,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Sventybrastis",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594037,
+    "gn:latitude":55.41595,
+    "gn:longitude":24.04723,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160ventybrastis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sventobrosts\u2019",
+        "\u0160ventybras\u010dio",
+        "Swi\u0119tobro\u015b\u0107",
+        "\u0160ventibrastis",
+        "\u0160ventybrastis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594037,
+        "wk:page":"%C5%A0ventybrastis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"553ea79774945805ca3f94ab86c30c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1310040777,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310040777,
+    "wof:lastmodified":1537661945,
+    "wof:name":"Sventybrastis",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04723,
+    55.41595,
+    24.04723,
+    55.41595
+],
+  "geometry": {"coordinates":[24.04723,55.41595],"type":"Point"}
+}

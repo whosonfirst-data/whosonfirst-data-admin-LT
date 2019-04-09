@@ -1,0 +1,75 @@
+{
+  "id": 1226074481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46177,54.38661,25.46177,54.38661",
+    "geom:latitude":54.38661,
+    "geom:longitude":25.46177,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Zlaugtai",
+    "gn:country_code":"LT",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592731,
+    "gn:latitude":54.38661,
+    "gn:longitude":25.46177,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017dlaugtai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017dlaugtai"
+    ],
+    "name:und_x_variant":[
+        "Zhloukty",
+        "Zlaugtai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592731
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"27e5cf05f2ca1f3f60a00a829a3361f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1226074481,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226074481,
+    "wof:lastmodified":1537661860,
+    "wof:name":"Zlaugtai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46177,
+    54.38661,
+    25.46177,
+    54.38661
+],
+  "geometry": {"coordinates":[25.46177,54.38661],"type":"Point"}
+}

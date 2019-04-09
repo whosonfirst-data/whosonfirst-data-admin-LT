@@ -1,0 +1,71 @@
+{
+  "id": 1310136739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25869,55.6593,24.25869,55.6593",
+    "geom:latitude":55.6593,
+    "geom:longitude":24.25869,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Marimpolis",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309917,
+    "gn:latitude":55.6593,
+    "gn:longitude":24.25869,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Marimpolis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Marimpolis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309917
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"31a8ffa250fe779519d8655d006de4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1310136739,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310136739,
+    "wof:lastmodified":1537662933,
+    "wof:name":"Marimpolis",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25869,
+    55.6593,
+    24.25869,
+    55.6593
+],
+  "geometry": {"coordinates":[24.25869,55.6593],"type":"Point"}
+}

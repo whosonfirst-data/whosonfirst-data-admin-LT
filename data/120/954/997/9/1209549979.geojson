@@ -1,0 +1,65 @@
+{
+  "id": 1209549979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6652,55.7332,22.6652,55.7332",
+    "geom:latitude":55.7332,
+    "geom:longitude":22.6652,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Junkilai",
+    "gn:country_code":"LT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598740,
+    "gn:latitude":55.7332,
+    "gn:longitude":22.6652,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Junkilai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Junkilai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598740
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"29afc289a33379a8dbc74ad1b5582128",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209549979
+        }
+    ],
+    "wof:id":1209549979,
+    "wof:lastmodified":1537662273,
+    "wof:name":"Junkilai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6652,
+    55.7332,
+    22.6652,
+    55.7332
+],
+  "geometry": {"coordinates":[22.6652,55.7332],"type":"Point"}
+}

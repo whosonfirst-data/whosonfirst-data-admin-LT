@@ -1,0 +1,71 @@
+{
+  "id": 1293135351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73944,54.97073,25.73944,54.97073",
+    "geom:latitude":54.97073,
+    "geom:longitude":25.73944,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Silniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294931,
+    "gn:latitude":54.97073,
+    "gn:longitude":25.73944,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Silni\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Silni\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294931
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"edcae2c9872e5df52bfba250b24b9a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1293135351,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293135351,
+    "wof:lastmodified":1537662578,
+    "wof:name":"Silniskiai",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73944,
+    54.97073,
+    25.73944,
+    54.97073
+],
+  "geometry": {"coordinates":[25.73944,54.97073],"type":"Point"}
+}

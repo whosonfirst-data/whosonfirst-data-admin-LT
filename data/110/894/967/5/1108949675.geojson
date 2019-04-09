@@ -1,0 +1,64 @@
+{
+  "id": 1108949675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4228883038,54.7545047864,25.4228883038,54.7545047864",
+    "geom:latitude":54.754505,
+    "geom:longitude":25.422888,
+    "iso:country":"LT",
+    "lbl:latitude":54.754505,
+    "lbl:longitude":25.422888,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:lit_x_preferred":[
+        "Vismaliuk\u0173"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85685759,
+        85633269,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367820,
+    "wof:geomhash":"beffe459817ef23fe6ec2e0e28172eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "neighbourhood_id":1108949675,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949675,
+    "wof:lastmodified":1497292361,
+    "wof:name":"Vismaliuku",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42288830380963,
+    54.7545047863504,
+    25.42288830380963,
+    54.7545047863504
+],
+  "geometry": {"coordinates":[25.42288830380963,54.7545047863504],"type":"Point"}
+}

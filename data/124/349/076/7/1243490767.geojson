@@ -1,0 +1,71 @@
+{
+  "id": 1243490767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.64324,54.01086,24.64324,54.01086",
+    "geom:latitude":54.01086,
+    "geom:longitude":24.64324,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Paramelis",
+    "gn:country_code":"LT",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310450,
+    "gn:latitude":54.01086,
+    "gn:longitude":24.64324,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Param\u0117lis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Param\u0117lis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310450
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"236e1e67411104487e052e81a2ce028c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1243490767,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1243490767,
+    "wof:lastmodified":1537662944,
+    "wof:name":"Paramelis",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.64324,
+    54.01086,
+    24.64324,
+    54.01086
+],
+  "geometry": {"coordinates":[24.64324,54.01086],"type":"Point"}
+}

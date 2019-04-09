@@ -1,0 +1,65 @@
+{
+  "id": 1209450813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70134,55.67761,23.70134,55.67761",
+    "geom:latitude":55.67761,
+    "geom:longitude":23.70134,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Gankiai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307898,
+    "gn:latitude":55.67761,
+    "gn:longitude":23.70134,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gankiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gankiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307898
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"716e31ca47e9ab632d57b2932791acd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209450813
+        }
+    ],
+    "wof:id":1209450813,
+    "wof:lastmodified":1537662895,
+    "wof:name":"Gankiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70134,
+    55.67761,
+    23.70134,
+    55.67761
+],
+  "geometry": {"coordinates":[23.70134,55.67761],"type":"Point"}
+}

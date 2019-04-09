@@ -1,0 +1,71 @@
+{
+  "id": 1243485427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8753,55.77158,25.8753,55.77158",
+    "geom:latitude":55.77158,
+    "geom:longitude":25.8753,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Jasai",
+    "gn:country_code":"LT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293322,
+    "gn:latitude":55.77158,
+    "gn:longitude":25.8753,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jasai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jasai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293322
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"089059e47afde0961ea6a5c544e148aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1243485427,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243485427,
+    "wof:lastmodified":1537662543,
+    "wof:name":"Jasai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8753,
+    55.77158000000001,
+    25.8753,
+    55.77158000000001
+],
+  "geometry": {"coordinates":[25.8753,55.77158000000001],"type":"Point"}
+}

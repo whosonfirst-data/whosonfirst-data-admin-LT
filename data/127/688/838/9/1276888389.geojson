@@ -1,0 +1,74 @@
+{
+  "id": 1276888389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.06219,55.5206,26.06219,55.5206",
+    "geom:latitude":55.5206,
+    "geom:longitude":26.06219,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tolimenai",
+    "gn:country_code":"LT",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593997,
+    "gn:latitude":55.5206,
+    "gn:longitude":26.06219,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Tolim\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tolim\u0117nai"
+    ],
+    "name:und_x_variant":[
+        "Talimenay",
+        "Talim\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593997
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"360280a8ba760b8d3d3eb3f5786583a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276888389,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276888389,
+    "wof:lastmodified":1537661941,
+    "wof:name":"Tolimenai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.06219,
+    55.5206,
+    26.06219,
+    55.5206
+],
+  "geometry": {"coordinates":[26.06219,55.5206],"type":"Point"}
+}

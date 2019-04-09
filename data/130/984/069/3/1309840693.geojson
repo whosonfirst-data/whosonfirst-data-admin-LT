@@ -1,0 +1,71 @@
+{
+  "id": 1309840693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40101,55.00416,23.40101,55.00416",
+    "geom:latitude":55.00416,
+    "geom:longitude":23.40101,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Versniai",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305413,
+    "gn:latitude":55.00416,
+    "gn:longitude":23.40101,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ver\u0161niai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ver\u0161niai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305413
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e72f931b7d1e346c1a2cd4f1e9a95cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1309840693,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1309840693,
+    "wof:lastmodified":1537662849,
+    "wof:name":"Versniai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40101,
+    55.00416,
+    23.40101,
+    55.00416
+],
+  "geometry": {"coordinates":[23.40101,55.00416],"type":"Point"}
+}

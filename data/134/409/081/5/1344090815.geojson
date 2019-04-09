@@ -1,0 +1,73 @@
+{
+  "id": 1344090815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49412,55.58741,21.49412,55.58741",
+    "geom:latitude":55.58741,
+    "geom:longitude":21.49412,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Aisenai",
+    "gn:country_code":"LT",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601203,
+    "gn:latitude":55.58741,
+    "gn:longitude":21.49412,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ais\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aysenay",
+        "Ais\u0117n\u0173",
+        "Ais\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601203
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bc6dd0b7a9cd608118520171768fab78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1344090815,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1344090815,
+    "wof:lastmodified":1537662438,
+    "wof:name":"Aisenai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49412,
+    55.58741,
+    21.49412,
+    55.58741
+],
+  "geometry": {"coordinates":[21.49412,55.58741],"type":"Point"}
+}

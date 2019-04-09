@@ -1,0 +1,70 @@
+{
+  "id": 1209244359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.12677,54.91779,25.12677,54.91779",
+    "geom:latitude":54.91779,
+    "geom:longitude":25.12677,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Barskunai",
+    "gn:country_code":"LT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600626,
+    "gn:latitude":54.91779,
+    "gn:longitude":25.12677,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Barsk\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Barsk\u016bnai"
+    ],
+    "name:und_x_variant":[
+        "Barskuny",
+        "Barskunay",
+        "Bar\u0161k\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600626
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b9a9bcb3bd49e0c0350763fb7539fe1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209244359
+        }
+    ],
+    "wof:id":1209244359,
+    "wof:lastmodified":1537662402,
+    "wof:name":"Barskunai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.12677,
+    54.91779,
+    25.12677,
+    54.91779
+],
+  "geometry": {"coordinates":[25.12677,54.91779],"type":"Point"}
+}

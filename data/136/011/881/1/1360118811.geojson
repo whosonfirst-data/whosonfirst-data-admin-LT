@@ -1,0 +1,72 @@
+{
+  "id": 1360118811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15517,55.40501,23.15517,55.40501",
+    "geom:latitude":55.40501,
+    "geom:longitude":23.15517,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Gruzdiske",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599123,
+    "gn:latitude":55.40501,
+    "gn:longitude":23.15517,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gruzdi\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grudzishki",
+        "Gruzdi\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599123
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b35021beeaa5d50c484752a3fad54ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1360118811,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1360118811,
+    "wof:lastmodified":1537662297,
+    "wof:name":"Gruzdiske",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15517,
+    55.40501,
+    23.15517,
+    55.40501
+],
+  "geometry": {"coordinates":[23.15517,55.40501],"type":"Point"}
+}

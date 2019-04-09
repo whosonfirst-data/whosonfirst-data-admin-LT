@@ -1,0 +1,67 @@
+{
+  "id": 1209446297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30894,55.74326,26.30894,55.74326",
+    "geom:latitude":55.74326,
+    "geom:longitude":26.30894,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Smelyne",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594416,
+    "gn:latitude":55.74326,
+    "gn:longitude":26.30894,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sm\u0117lyn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sm\u0117lyn\u0117s",
+        "Smeline",
+        "Sm\u0117lyn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594416
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b7d168b1a72998045e261cc8e2ecbf0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209446297
+        }
+    ],
+    "wof:id":1209446297,
+    "wof:lastmodified":1537661971,
+    "wof:name":"Smelyne",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30894,
+    55.74326,
+    26.30894,
+    55.74326
+],
+  "geometry": {"coordinates":[26.30894,55.74326],"type":"Point"}
+}

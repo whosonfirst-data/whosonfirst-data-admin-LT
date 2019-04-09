@@ -1,0 +1,71 @@
+{
+  "id": 1309941773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46755,55.84159,22.46755,55.84159",
+    "geom:latitude":55.84159,
+    "geom:longitude":22.46755,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Ziliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302748,
+    "gn:latitude":55.84159,
+    "gn:longitude":22.46755,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u017dili\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017dili\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302748
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d729c0a299f9b66fc2346eaad6899f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1309941773,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1309941773,
+    "wof:lastmodified":1537662785,
+    "wof:name":"Ziliskiai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46755,
+    55.84159,
+    22.46755,
+    55.84159
+],
+  "geometry": {"coordinates":[22.46755,55.84159],"type":"Point"}
+}

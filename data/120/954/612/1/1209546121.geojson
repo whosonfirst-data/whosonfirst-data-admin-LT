@@ -1,0 +1,65 @@
+{
+  "id": 1209546121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49473,55.18574,25.49473,55.18574",
+    "geom:latitude":55.18574,
+    "geom:longitude":25.49473,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Vitiskes",
+    "gn:country_code":"LT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297381,
+    "gn:latitude":55.18574,
+    "gn:longitude":25.49473,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Viti\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Viti\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297381
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"715abbd345bdd27cc0c85185a2b1f48d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209546121
+        }
+    ],
+    "wof:id":1209546121,
+    "wof:lastmodified":1537662645,
+    "wof:name":"Vitiskes",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49473,
+    55.18574,
+    25.49473,
+    55.18574
+],
+  "geometry": {"coordinates":[25.49473,55.18574],"type":"Point"}
+}

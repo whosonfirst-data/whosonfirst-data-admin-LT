@@ -1,0 +1,75 @@
+{
+  "id": 1343490277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.21315,56.06741,22.21315,56.06741",
+    "geom:latitude":56.06741,
+    "geom:longitude":22.21315,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Gadunavas",
+    "gn:country_code":"LT",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599564,
+    "gn:latitude":56.06741,
+    "gn:longitude":22.21315,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gad\u016bnavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Degin\u0117nai",
+        "Gadonow",
+        "Gadunavo",
+        "Gad\u016bnavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599564,
+        "wk:page":"Gad%C5%ABnavas"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b5c4445301d25b8d8159440213f7f641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1343490277,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1343490277,
+    "wof:lastmodified":1537662328,
+    "wof:name":"Gadunavas",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.21315,
+    56.06741,
+    22.21315,
+    56.06741
+],
+  "geometry": {"coordinates":[22.21315,56.06741],"type":"Point"}
+}

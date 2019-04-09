@@ -1,0 +1,76 @@
+{
+  "id": 1327367623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63244,55.35749,21.63244,55.35749",
+    "geom:latitude":55.35749,
+    "geom:longitude":21.63244,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Metirkvieciai",
+    "gn:country_code":"LT",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597045,
+    "gn:latitude":55.35749,
+    "gn:longitude":21.63244,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Metirkvie\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Metirkvie\u010diai"
+    ],
+    "name:und_x_variant":[
+        "Myatrikvechyay",
+        "Metrikvechay",
+        "Metrikvie\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597045
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7fffdea9cc8ff1982047b94702c21114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1327367623,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1327367623,
+    "wof:lastmodified":1537662159,
+    "wof:name":"Metirkvieciai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63244,
+    55.35749000000001,
+    21.63244,
+    55.35749000000001
+],
+  "geometry": {"coordinates":[21.63244,55.35749000000001],"type":"Point"}
+}

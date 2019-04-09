@@ -1,0 +1,71 @@
+{
+  "id": 1360215683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23928,55.57067,22.23928,55.57067",
+    "geom:latitude":55.57067,
+    "geom:longitude":22.23928,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Siauduva",
+    "gn:country_code":"LT",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594749,
+    "gn:latitude":55.57067,
+    "gn:longitude":22.23928,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160iauduva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160iauduva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594749
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ba72815abbbda55a5069099fd6881317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1360215683,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1360215683,
+    "wof:lastmodified":1537661993,
+    "wof:name":"Siauduva",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23928,
+    55.57066999999999,
+    22.23928,
+    55.57066999999999
+],
+  "geometry": {"coordinates":[22.23928,55.57066999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259914045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58195,55.09545,25.58195,55.09545",
+    "geom:latitude":55.09545,
+    "geom:longitude":25.58195,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Ozkiniai",
+    "gn:country_code":"LT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294553,
+    "gn:latitude":55.09545,
+    "gn:longitude":25.58195,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"O\u017ekiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "O\u017ekiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294553
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a0472f6a0c850d8835f227b62da756ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1259914045,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259914045,
+    "wof:lastmodified":1537662571,
+    "wof:name":"Ozkiniai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58195,
+    55.09545,
+    25.58195,
+    55.09545
+],
+  "geometry": {"coordinates":[25.58195,55.09545],"type":"Point"}
+}

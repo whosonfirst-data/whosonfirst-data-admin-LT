@@ -1,0 +1,73 @@
+{
+  "id": 1293037233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18273,55.07358,24.18273,55.07358",
+    "geom:latitude":55.07358,
+    "geom:longitude":24.18273,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Cicinai",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600171,
+    "gn:latitude":55.07358,
+    "gn:longitude":24.18273,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u010ci\u010dinai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chichinay",
+        "\u010ci\u010dinai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600171,
+        "wk:page":"%C4%8Ci%C4%8Dinai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b4971f75ad3c8668ccc09bf2f2eaff6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1293037233,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293037233,
+    "wof:lastmodified":1537662369,
+    "wof:name":"Cicinai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18273,
+    55.07358000000001,
+    24.18273,
+    55.07358000000001
+],
+  "geometry": {"coordinates":[24.18273,55.07358000000001],"type":"Point"}
+}

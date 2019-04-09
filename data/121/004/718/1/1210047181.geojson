@@ -1,0 +1,71 @@
+{
+  "id": 1210047181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.54703,54.17614,23.54703,54.17614",
+    "geom:latitude":54.17614,
+    "geom:longitude":23.54703,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Sulneliai",
+    "gn:country_code":"LT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304871,
+    "gn:latitude":54.17614,
+    "gn:longitude":23.54703,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160ulneliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160ulneliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304871
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"741b197aebb6f75ba7b4106d6eac79e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1210047181,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1210047181,
+    "wof:lastmodified":1537662833,
+    "wof:name":"Sulneliai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.54703,
+    54.17614,
+    23.54703,
+    54.17614
+],
+  "geometry": {"coordinates":[23.54703,54.17614],"type":"Point"}
+}

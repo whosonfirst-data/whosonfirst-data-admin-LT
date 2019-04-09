@@ -1,0 +1,71 @@
+{
+  "id": 1225881233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46999,55.66061,26.46999,55.66061",
+    "geom:latitude":55.66061,
+    "geom:longitude":26.46999,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Cizeliske",
+    "gn:country_code":"LT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291094,
+    "gn:latitude":55.66061,
+    "gn:longitude":26.46999,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u010ci\u017eeli\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u010ci\u017eeli\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291094
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"129948e528868ca769201453c5d20a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1225881233,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1225881233,
+    "wof:lastmodified":1537662485,
+    "wof:name":"Cizeliske",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46999000000001,
+    55.66061,
+    26.46999000000001,
+    55.66061
+],
+  "geometry": {"coordinates":[26.46999000000001,55.66061],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1344091047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11519,55.26262,22.11519,55.26262",
+    "geom:latitude":55.26262,
+    "geom:longitude":22.11519,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Budvieciai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600311,
+    "gn:latitude":55.26262,
+    "gn:longitude":22.11519,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"B\u016bdvieciai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u016bdvie\u010diai"
+    ],
+    "name:lit_x_preferred":[
+        "B\u016bdvieciai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0432\u0435\u0447\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "B\u016bdvie\u010di\u0173",
+        "Budvitse",
+        "B\u016bdvie\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600311
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2760855a0b0095f2b371183dbe9ed007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1344091047,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1344091047,
+    "wof:lastmodified":1537662380,
+    "wof:name":"Budvieciai",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11519,
+    55.26262,
+    22.11519,
+    55.26262
+],
+  "geometry": {"coordinates":[22.11519,55.26262],"type":"Point"}
+}

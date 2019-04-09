@@ -1,0 +1,72 @@
+{
+  "id": 1326459151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99747,55.51756,22.99747,55.51756",
+    "geom:latitude":55.51756,
+    "geom:longitude":22.99747,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Paberziai",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596483,
+    "gn:latitude":55.51756,
+    "gn:longitude":22.99747,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Paber\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poberzhishki",
+        "Paber\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596483
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"521e7931e889373d89a23c1a9378d6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1326459151,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1326459151,
+    "wof:lastmodified":1537662118,
+    "wof:name":"Paberziai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99747,
+    55.51756,
+    22.99747,
+    55.51756
+],
+  "geometry": {"coordinates":[22.99747,55.51756],"type":"Point"}
+}

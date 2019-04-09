@@ -1,0 +1,84 @@
+{
+  "id": 1243394603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.02218,55.75809,26.02218,55.75809",
+    "geom:latitude":55.75809,
+    "geom:longitude":26.02218,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Aviliai II",
+    "gn:country_code":"LT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600846,
+    "gn:latitude":55.75809,
+    "gn:longitude":26.02218,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Aviliai II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aviliai"
+    ],
+    "name:lit_x_preferred":[
+        "Aviliai II"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u0438\u043b\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Owile",
+        "Avilyai",
+        "Avili\u0173",
+        "Avilyay",
+        "Aviliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600846
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"22d3b9f63409e0cfbb08214d02ddbadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1243394603,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243394603,
+    "wof:lastmodified":1537662418,
+    "wof:name":"Aviliai II",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.02218,
+    55.75809,
+    26.02218,
+    55.75809
+],
+  "geometry": {"coordinates":[26.02218,55.75809],"type":"Point"}
+}

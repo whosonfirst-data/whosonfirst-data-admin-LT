@@ -1,0 +1,76 @@
+{
+  "id": 1243002479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13473,55.81542,25.13473,55.81542",
+    "geom:latitude":55.81542,
+    "geom:longitude":25.13473,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Keginiai",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598267,
+    "gn:latitude":55.81542,
+    "gn:longitude":25.13473,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Keginiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Keginiai"
+    ],
+    "name:und_x_variant":[
+        "K\u0117gini\u0173",
+        "Keginyay",
+        "K\u0117giniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598267
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fa8281576d5d39e20e211da0d1db399a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1243002479,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243002479,
+    "wof:lastmodified":1537662240,
+    "wof:name":"Keginiai",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13473,
+    55.81542,
+    25.13473,
+    55.81542
+],
+  "geometry": {"coordinates":[25.13473,55.81542],"type":"Point"}
+}

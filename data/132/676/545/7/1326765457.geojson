@@ -1,0 +1,71 @@
+{
+  "id": 1326765457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.06832,55.47024,25.06832,55.47024",
+    "geom:latitude":55.47024,
+    "geom:longitude":25.06832,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Navina",
+    "gn:country_code":"LT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299714,
+    "gn:latitude":55.47024,
+    "gn:longitude":25.06832,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Navina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Navina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299714
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"057374e43df57355814aecb128668c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1326765457,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1326765457,
+    "wof:lastmodified":1537662712,
+    "wof:name":"Navina",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.06832,
+    55.47024,
+    25.06832,
+    55.47024
+],
+  "geometry": {"coordinates":[25.06832,55.47024],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310436655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95867,55.54602,25.95867,55.54602",
+    "geom:latitude":55.54602,
+    "geom:longitude":25.95867,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Gateliai",
+    "gn:country_code":"LT",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599492,
+    "gn:latitude":55.54602,
+    "gn:longitude":25.95867,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gateliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gateli\u0173",
+        "Gatelyai",
+        "Gatelyay",
+        "Gateliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599492
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"37da9c9d06d78e344545fc275f3e305f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1310436655,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310436655,
+    "wof:lastmodified":1537662323,
+    "wof:name":"Gateliai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95867,
+    55.54602,
+    25.95867,
+    55.54602
+],
+  "geometry": {"coordinates":[25.95867,55.54602],"type":"Point"}
+}

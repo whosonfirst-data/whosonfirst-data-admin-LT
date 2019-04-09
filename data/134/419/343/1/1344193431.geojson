@@ -1,0 +1,75 @@
+{
+  "id": 1344193431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48697,55.22106,24.48697,55.22106",
+    "geom:latitude":55.22106,
+    "geom:longitude":24.48697,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Jasudai",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598789,
+    "gn:latitude":55.22106,
+    "gn:longitude":24.48697,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jasudai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jasudai"
+    ],
+    "name:und_x_variant":[
+        "Yosuday",
+        "Jos\u016bdai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598789
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f4eae36d0cc3e39ff4ca1d75082d94a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1344193431,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1344193431,
+    "wof:lastmodified":1537662276,
+    "wof:name":"Jasudai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48697,
+    55.22106,
+    24.48697,
+    55.22106
+],
+  "geometry": {"coordinates":[24.48697,55.22106],"type":"Point"}
+}

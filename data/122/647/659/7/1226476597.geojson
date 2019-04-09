@@ -1,0 +1,80 @@
+{
+  "id": 1226476597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63235,55.93864,23.63235,55.93864",
+    "geom:latitude":55.93864,
+    "geom:longitude":23.63235,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Staciunai",
+    "gn:country_code":"LT",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594313,
+    "gn:latitude":55.93864,
+    "gn:longitude":23.63235,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sta\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sta\u010di\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0447\u044e\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Stachyunay",
+        "Sta\u010di\u016bn\u0173",
+        "Stachiunay",
+        "Sta\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594313
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f9f6d549579893640f080bae6316092f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1226476597,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226476597,
+    "wof:lastmodified":1537661964,
+    "wof:name":"Staciunai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63235,
+    55.93864,
+    23.63235,
+    55.93864
+],
+  "geometry": {"coordinates":[23.63235,55.93864],"type":"Point"}
+}

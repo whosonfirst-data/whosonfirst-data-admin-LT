@@ -1,0 +1,76 @@
+{
+  "id": 1309835557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.74069,55.73118,25.74069,55.73118",
+    "geom:latitude":55.73118,
+    "geom:longitude":25.74069,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Vosgeliai",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592998,
+    "gn:latitude":55.73118,
+    "gn:longitude":25.74069,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vo\u0161g\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vo\u0161g\u0117liai"
+    ],
+    "name:und_x_variant":[
+        "Vazgelyay",
+        "Vozg\u0117li\u0173",
+        "Vozg\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592998
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3b6668f5050a9214005ad00503a557c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1309835557,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1309835557,
+    "wof:lastmodified":1537661878,
+    "wof:name":"Vosgeliai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.74069,
+    55.73118,
+    25.74069,
+    55.73118
+],
+  "geometry": {"coordinates":[25.74069,55.73118],"type":"Point"}
+}

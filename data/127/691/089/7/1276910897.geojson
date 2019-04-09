@@ -1,0 +1,83 @@
+{
+  "id": 1276910897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84082,54.36091,24.84082,54.36091",
+    "geom:latitude":54.36091,
+    "geom:longitude":24.84082,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Valkininkai",
+    "gn:country_code":"LT",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593439,
+    "gn:latitude":54.36091,
+    "gn:longitude":24.84082,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Valkininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Valkininkai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u043a\u0438\u043d\u0438\u043d\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Olkieniki",
+        "Valkiniras",
+        "Ol\u2019keniki",
+        "Valkininkas",
+        "Val\u2019kininkay",
+        "Valkininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593439,
+        "wk:page":"Valkininkai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"df9a64464fdc4756fcfc9f22ca1f9171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1276910897,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1276910897,
+    "wof:lastmodified":1537661905,
+    "wof:name":"Valkininkai",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84082,
+    54.36091,
+    24.84082,
+    54.36091
+],
+  "geometry": {"coordinates":[24.84082,54.36091],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293404801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98333,54.71667,24.98333,54.71667",
+    "geom:latitude":54.71667,
+    "geom:longitude":24.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rakantai",
+    "gn:country_code":"LT",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595420,
+    "gn:latitude":54.71667,
+    "gn:longitude":24.98333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Rakantai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595420
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4c2e57126a763daa1b5f075d87d2075f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1293404801,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293404801,
+    "wof:lastmodified":1536906372,
+    "wof:name":"Rakantai",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98333,
+    54.71666999999999,
+    24.98333,
+    54.71666999999999
+],
+  "geometry": {"coordinates":[24.98333,54.71666999999999],"type":"Point"}
+}

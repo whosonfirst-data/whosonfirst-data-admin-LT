@@ -1,0 +1,80 @@
+{
+  "id": 1226472983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36085,56.00062,25.36085,56.00062",
+    "geom:latitude":56.00062,
+    "geom:longitude":25.36085,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Kazliskis",
+    "gn:country_code":"LT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598288,
+    "gn:latitude":56.00062,
+    "gn:longitude":25.36085,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kazli\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kazli\u0161kis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u043b\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Kozlishki",
+        "Kazlishkis",
+        "Kazli\u0161kio",
+        "Kazli\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598288
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2aa2da505fdde28eff6f35e11646406c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1226472983,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226472983,
+    "wof:lastmodified":1537662241,
+    "wof:name":"Kazliskis",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36085,
+    56.00062,
+    25.36085,
+    56.00062
+],
+  "geometry": {"coordinates":[25.36085,56.00062],"type":"Point"}
+}

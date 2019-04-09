@@ -1,0 +1,72 @@
+{
+  "id": 1210047973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59464,55.11684,24.59464,55.11684",
+    "geom:latitude":55.11684,
+    "geom:longitude":24.59464,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Kultuvenai",
+    "gn:country_code":"LT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597858,
+    "gn:latitude":55.11684,
+    "gn:longitude":24.59464,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kultuv\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kultuvenay",
+        "Kultuv\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597858
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"809b378412c28dbf46d9cf7fba7fba31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1210047973,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1210047973,
+    "wof:lastmodified":1537662213,
+    "wof:name":"Kultuvenai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59464,
+    55.11684,
+    24.59464,
+    55.11684
+],
+  "geometry": {"coordinates":[24.59464,55.11684],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293619493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.08262,55.29333,26.08262,55.29333",
+    "geom:latitude":55.29333,
+    "geom:longitude":26.08262,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Pelekas",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292187,
+    "gn:latitude":55.29333,
+    "gn:longitude":26.08262,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pelekas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pelekas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292187
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dfe0b46cc216567bd0c7a64fde0ae456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1293619493,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1293619493,
+    "wof:lastmodified":1537662516,
+    "wof:name":"Pelekas",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.08262,
+    55.29333000000001,
+    26.08262,
+    55.29333000000001
+],
+  "geometry": {"coordinates":[26.08262,55.29333000000001],"type":"Point"}
+}

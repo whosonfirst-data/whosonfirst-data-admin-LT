@@ -1,0 +1,73 @@
+{
+  "id": 1225878177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16813,54.27185,25.16813,54.27185",
+    "geom:latitude":54.27185,
+    "geom:longitude":25.16813,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Sauliai",
+    "gn:country_code":"LT",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594209,
+    "gn:latitude":54.27185,
+    "gn:longitude":25.16813,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160auliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160auliai",
+        "Strel\u2019tsy",
+        "Striel\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594209
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8a51ccc6c1b7cf069c559f9a7868668b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1225878177,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1225878177,
+    "wof:lastmodified":1537661956,
+    "wof:name":"Sauliai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16813,
+    54.27185,
+    25.16813,
+    54.27185
+],
+  "geometry": {"coordinates":[25.16813,54.27185],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242907787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85073,55.99195,24.85073,55.99195",
+    "geom:latitude":55.99195,
+    "geom:longitude":24.85073,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Kupriai",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597799,
+    "gn:latitude":55.99195,
+    "gn:longitude":24.85073,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kupriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kupryay",
+        "Kupriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597799
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"14354d7dd4bc066949218399e4597c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1242907787,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1242907787,
+    "wof:lastmodified":1537662209,
+    "wof:name":"Kupriai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85073,
+    55.99195,
+    24.85073,
+    55.99195
+],
+  "geometry": {"coordinates":[24.85073,55.99195],"type":"Point"}
+}

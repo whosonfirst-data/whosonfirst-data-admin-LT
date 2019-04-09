@@ -1,0 +1,71 @@
+{
+  "id": 1276266511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51228,56.25432,22.51228,56.25432",
+    "geom:latitude":56.25432,
+    "geom:longitude":22.51228,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Pluogai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301889,
+    "gn:latitude":56.25432,
+    "gn:longitude":22.51228,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pluogai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pluogai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301889
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8dd997d04e10ed89b6f788181367f474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1276266511,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1276266511,
+    "wof:lastmodified":1537662767,
+    "wof:name":"Pluogai",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51228,
+    56.25431999999999,
+    22.51228,
+    56.25431999999999
+],
+  "geometry": {"coordinates":[22.51228,56.25431999999999],"type":"Point"}
+}

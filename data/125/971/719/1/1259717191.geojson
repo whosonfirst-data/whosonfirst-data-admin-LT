@@ -1,0 +1,72 @@
+{
+  "id": 1259717191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.4411,55.9022,23.4411,55.9022",
+    "geom:latitude":55.9022,
+    "geom:longitude":23.4411,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Vegeliai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593343,
+    "gn:latitude":55.9022,
+    "gn:longitude":23.4411,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"V\u0117g\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vigelyay",
+        "V\u0117g\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593343
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3e35ad345245e5d09b987089e269c969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1259717191,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1259717191,
+    "wof:lastmodified":1537661898,
+    "wof:name":"Vegeliai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.4411,
+    55.9022,
+    23.4411,
+    55.9022
+],
+  "geometry": {"coordinates":[23.4411,55.9022],"type":"Point"}
+}

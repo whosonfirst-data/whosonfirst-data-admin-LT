@@ -1,0 +1,65 @@
+{
+  "id": 1209345775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.67243,54.76758,25.67243,54.76758",
+    "geom:latitude":54.76758,
+    "geom:longitude":25.67243,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Karoliskes",
+    "gn:country_code":"LT",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295128,
+    "gn:latitude":54.76758,
+    "gn:longitude":25.67243,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Karoli\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Karoli\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295128
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7bfd76119c3888f90ab433ae6a3decf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209345775
+        }
+    ],
+    "wof:id":1209345775,
+    "wof:lastmodified":1537662584,
+    "wof:name":"Karoliskes",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.67243,
+    54.76758,
+    25.67243,
+    54.76758
+],
+  "geometry": {"coordinates":[25.67243,54.76758],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226081047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52538,55.55559,24.52538,55.55559",
+    "geom:latitude":55.55559,
+    "geom:longitude":24.52538,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Genetiniai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599396,
+    "gn:latitude":55.55559,
+    "gn:longitude":24.52538,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gen\u0117tiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Genetyne",
+        "Gen\u0117tiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599396
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3b829b4ba98e9d7b333cdd3bc8f8e7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1226081047,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226081047,
+    "wof:lastmodified":1537662316,
+    "wof:name":"Genetiniai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52538,
+    55.55559,
+    24.52538,
+    55.55559
+],
+  "geometry": {"coordinates":[24.52538,55.55559],"type":"Point"}
+}

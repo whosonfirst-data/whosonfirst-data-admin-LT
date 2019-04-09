@@ -1,0 +1,72 @@
+{
+  "id": 1293818555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.31042,56.09376,23.31042,56.09376",
+    "geom:latitude":56.09376,
+    "geom:longitude":23.31042,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Dimsiai",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599850,
+    "gn:latitude":56.09376,
+    "gn:longitude":23.31042,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dim\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dimshyay",
+        "Dim\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599850
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"acd5ae9cf5f99eba324060e7467a4def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1293818555,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1293818555,
+    "wof:lastmodified":1537662346,
+    "wof:name":"Dimsiai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.31042,
+    56.09376,
+    23.31042,
+    56.09376
+],
+  "geometry": {"coordinates":[23.31042,56.09376],"type":"Point"}
+}

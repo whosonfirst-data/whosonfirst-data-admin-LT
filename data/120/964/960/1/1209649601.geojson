@@ -1,0 +1,64 @@
+{
+  "id": 1209649601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89944,56.43,24.89944,56.43",
+    "geom:latitude":56.43,
+    "geom:longitude":24.89944,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Totorkalnis",
+    "gn:country_code":"LT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864622,
+    "gn:latitude":56.43,
+    "gn:longitude":24.89944,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Totorkalnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Totorkalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864622
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9d6f8112158a42f12ea594fef5e41cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209649601
+        }
+    ],
+    "wof:id":1209649601,
+    "wof:lastmodified":1537662447,
+    "wof:name":"Totorkalnis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89944,
+    56.43,
+    24.89944,
+    56.43
+],
+  "geometry": {"coordinates":[24.89944,56.43],"type":"Point"}
+}

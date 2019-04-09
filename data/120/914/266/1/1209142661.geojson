@@ -1,0 +1,65 @@
+{
+  "id": 1209142661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6196,56.17628,21.6196,56.17628",
+    "geom:latitude":56.17628,
+    "geom:longitude":21.6196,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Gandlauke",
+    "gn:country_code":"LT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290361,
+    "gn:latitude":56.17628,
+    "gn:longitude":21.6196,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gandlauk\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gandlauk\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290361
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"85ebbb69582d8bf8e2b51db10531e692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209142661
+        }
+    ],
+    "wof:id":1209142661,
+    "wof:lastmodified":1537662470,
+    "wof:name":"Gandlauke",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6196,
+    56.17628000000001,
+    21.6196,
+    56.17628000000001
+],
+  "geometry": {"coordinates":[21.6196,56.17628000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309936627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.84077,55.14127,23.84077,55.14127",
+    "geom:latitude":55.14127,
+    "geom:longitude":23.84077,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Urneziai",
+    "gn:country_code":"LT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593689,
+    "gn:latitude":55.14127,
+    "gn:longitude":23.84077,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Urn\u0117\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urnyazhyay",
+        "Urnyazhe",
+        "Urn\u0117\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593689
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e4b04cc0b26fcf30c5142b2061668e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1309936627,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309936627,
+    "wof:lastmodified":1537661923,
+    "wof:name":"Urneziai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84077000000001,
+    55.14127,
+    23.84077000000001,
+    55.14127
+],
+  "geometry": {"coordinates":[23.84077000000001,55.14127],"type":"Point"}
+}

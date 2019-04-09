@@ -1,0 +1,91 @@
+{
+  "id": 1125942977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75,54.3,23.75,54.3",
+    "geom:latitude":54.3,
+    "geom:longitude":23.75,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":54.3,
+    "lbl:longitude":23.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Metele"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":597048,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Meteliai",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Alytaus Apskritis",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":495771,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":476453,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Alytaus Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597048,
+        "gp:id":476453,
+        "qs_pg:id":495771
+    },
+    "wof:country":"LT",
+    "wof:created":1497297180,
+    "wof:geomhash":"7578a036c2ca4b69e80df853ada367fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1125942977,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1125942977,
+    "wof:lastmodified":1509402183,
+    "wof:name":"Meteliai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75,
+    54.3,
+    23.75,
+    54.3
+],
+  "geometry": {"coordinates":[23.75,54.3],"type":"Point"}
+}

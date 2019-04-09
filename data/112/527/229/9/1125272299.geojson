@@ -1,0 +1,82 @@
+{
+  "id": 1125272299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.376787,54.296942,25.376787,54.296942",
+    "geom:latitude":54.296942,
+    "geom:longitude":25.376787,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":54.296942,
+    "lbl:longitude":25.376787,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Salcininku Seniunija",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Vilniaus Apskritis",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":18,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":908519,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56043945,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Vilniaus Apskritis",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043945,
+        "qs_pg:id":908519
+    },
+    "wof:country":"LT",
+    "wof:created":1497042174,
+    "wof:geomhash":"6ac40cc7a2377de166d42417d9fa3c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "localadmin_id":1125272299,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1125272299,
+    "wof:lastmodified":1509387063,
+    "wof:name":"Salcininku Seniunija",
+    "wof:parent_id":102073597,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.376787,
+    54.296942,
+    25.376787,
+    54.296942
+],
+  "geometry": {"coordinates":[25.376787,54.296942],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293323369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87292,54.65489,22.87292,54.65489",
+    "geom:latitude":54.65489,
+    "geom:longitude":22.87292,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Jonaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598822,
+    "gn:latitude":54.65489,
+    "gn:longitude":22.87292,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jonai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jonai\u010diai"
+    ],
+    "name:und_x_variant":[
+        "Jonai\u010diai Mald\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598822
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b614e838531aa28d34ce82788ece1162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1293323369,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1293323369,
+    "wof:lastmodified":1537662278,
+    "wof:name":"Jonaiciai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87292,
+    54.65489,
+    22.87292,
+    54.65489
+],
+  "geometry": {"coordinates":[22.87292,54.65489],"type":"Point"}
+}

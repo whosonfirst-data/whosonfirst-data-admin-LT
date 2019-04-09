@@ -1,0 +1,75 @@
+{
+  "id": 1310440247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43926,55.88415,22.43926,55.88415",
+    "geom:latitude":55.88415,
+    "geom:longitude":22.43926,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Petraciai",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595820,
+    "gn:latitude":55.88415,
+    "gn:longitude":22.43926,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Petra\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Petra\u010diai"
+    ],
+    "name:und_x_variant":[
+        "Petraychay",
+        "Petrai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595820
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c52a1b8a3ccb05fad16b7ff4c48e3684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1310440247,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1310440247,
+    "wof:lastmodified":1537662068,
+    "wof:name":"Petraciai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43926,
+    55.88415,
+    22.43926,
+    55.88415
+],
+  "geometry": {"coordinates":[22.43926,55.88415],"type":"Point"}
+}

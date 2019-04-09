@@ -1,0 +1,72 @@
+{
+  "id": 1226571919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33283,56.13664,24.33283,56.13664",
+    "geom:latitude":56.13664,
+    "geom:longitude":24.33283,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Baravykyne",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600657,
+    "gn:latitude":56.13664,
+    "gn:longitude":24.33283,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baravykyn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baravikine",
+        "Baravykyn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600657
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f54341b7f90e40fa0842ac4ac664a646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1226571919,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226571919,
+    "wof:lastmodified":1537662405,
+    "wof:name":"Baravykyne",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33283,
+    56.13664,
+    24.33283,
+    56.13664
+],
+  "geometry": {"coordinates":[24.33283,56.13664],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209250851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83229,54.47934,23.83229,54.47934",
+    "geom:latitude":54.47934,
+    "geom:longitude":23.83229,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"69.0",
+    "gn:asciiname":"Pramezys",
+    "gn:country_code":"LT",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11306946,
+    "gn:latitude":54.47934,
+    "gn:longitude":23.83229,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pramezys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pramezys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11306946
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"754a394cf19f2cd970a7d162fcd533eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209250851
+        }
+    ],
+    "wof:id":1209250851,
+    "wof:lastmodified":1537662878,
+    "wof:name":"Pramezys",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83229,
+    54.47934,
+    23.83229,
+    54.47934
+],
+  "geometry": {"coordinates":[23.83229,54.47934],"type":"Point"}
+}

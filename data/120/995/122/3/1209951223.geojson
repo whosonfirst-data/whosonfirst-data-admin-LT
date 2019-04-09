@@ -1,0 +1,71 @@
+{
+  "id": 1209951223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83475,55.00742,24.83475,55.00742",
+    "geom:latitude":55.00742,
+    "geom:longitude":24.83475,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Sileliai",
+    "gn:country_code":"LT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300169,
+    "gn:latitude":55.00742,
+    "gn:longitude":24.83475,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160ileliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160ileliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300169
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"53f7cfc44e10e1e821e1feca5dd69d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1209951223,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1209951223,
+    "wof:lastmodified":1537662726,
+    "wof:name":"Sileliai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83475,
+    55.00742,
+    24.83475,
+    55.00742
+],
+  "geometry": {"coordinates":[24.83475,55.00742],"type":"Point"}
+}

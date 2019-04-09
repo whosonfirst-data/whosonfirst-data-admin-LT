@@ -1,0 +1,76 @@
+{
+  "id": 1209751513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.46358,55.49681,24.46358,55.49681",
+    "geom:latitude":55.49681,
+    "geom:longitude":24.46358,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Vadokliai",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593556,
+    "gn:latitude":55.49681,
+    "gn:longitude":24.46358,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vadokliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wodakle",
+        "Vadoklyay",
+        "Vadoklia",
+        "Vadokli\u0173",
+        "Vadokliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593556,
+        "wk:page":"Vadokliai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c430494b70b8fa36ec0f340aad964c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1209751513,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1209751513,
+    "wof:lastmodified":1537661913,
+    "wof:name":"Vadokliai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.46358,
+    55.49681,
+    24.46358,
+    55.49681
+],
+  "geometry": {"coordinates":[24.46358,55.49681],"type":"Point"}
+}

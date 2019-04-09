@@ -1,0 +1,72 @@
+{
+  "id": 1360320181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43023,54.59625,25.43023,54.59625",
+    "geom:latitude":54.59625,
+    "geom:longitude":25.43023,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Dukeliai",
+    "gn:country_code":"LT",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599731,
+    "gn:latitude":54.59625,
+    "gn:longitude":25.43023,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dukeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dukele",
+        "Dukeliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599731
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dbef846e1994e7fe3bb5cd1ba705caed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1360320181,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1360320181,
+    "wof:lastmodified":1537662338,
+    "wof:name":"Dukeliai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43023,
+    54.59625,
+    25.43023,
+    54.59625
+],
+  "geometry": {"coordinates":[25.43023,54.59625],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242711831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.84535,55.13584,23.84535,55.13584",
+    "geom:latitude":55.13584,
+    "geom:longitude":23.84535,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Kikoniai",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598160,
+    "gn:latitude":55.13584,
+    "gn:longitude":23.84535,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kikoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikavichay",
+        "Kikovichi",
+        "Kikoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598160
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0720b51b5be31558897734cf3fcf352a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1242711831,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1242711831,
+    "wof:lastmodified":1537662234,
+    "wof:name":"Kikoniai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84535,
+    55.13584,
+    23.84535,
+    55.13584
+],
+  "geometry": {"coordinates":[23.84535,55.13584],"type":"Point"}
+}

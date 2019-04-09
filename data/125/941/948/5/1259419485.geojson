@@ -1,0 +1,71 @@
+{
+  "id": 1259419485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50011,54.65989,25.50011,54.65989",
+    "geom:latitude":54.65989,
+    "geom:longitude":25.50011,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Kyviskes",
+    "gn:country_code":"LT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597720,
+    "gn:latitude":54.65989,
+    "gn:longitude":25.50011,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kyvi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kyvi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597720
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"706a056706da886cce8c7c6a4c810084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1259419485,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259419485,
+    "wof:lastmodified":1537662204,
+    "wof:name":"Kyviskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50011,
+    54.65989,
+    25.50011,
+    54.65989
+],
+  "geometry": {"coordinates":[25.50011,54.65989],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242608533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.89931,55.08883,23.89931,55.08883",
+    "geom:latitude":55.08883,
+    "geom:longitude":23.89931,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Vigiai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307520,
+    "gn:latitude":55.08883,
+    "gn:longitude":23.89931,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vigiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vigiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307520
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3527f3e0d879f5516e833c15957196b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1242608533,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1242608533,
+    "wof:lastmodified":1537662890,
+    "wof:name":"Vigiai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89931,
+    55.08883,
+    23.89931,
+    55.08883
+],
+  "geometry": {"coordinates":[23.89931,55.08883],"type":"Point"}
+}

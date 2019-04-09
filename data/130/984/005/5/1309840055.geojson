@@ -1,0 +1,73 @@
+{
+  "id": 1309840055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75435,55.47698,22.75435,55.47698",
+    "geom:latitude":55.47698,
+    "geom:longitude":22.75435,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Milzavenai",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596940,
+    "gn:latitude":55.47698,
+    "gn:longitude":22.75435,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mil\u017eav\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milzhavenay",
+        "Milzhovenay",
+        "Mil\u017eav\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596940
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9e68e398bd7b1bc327b32c32d6da6c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1309840055,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309840055,
+    "wof:lastmodified":1537662150,
+    "wof:name":"Milzavenai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75435,
+    55.47698000000001,
+    22.75435,
+    55.47698000000001
+],
+  "geometry": {"coordinates":[22.75435,55.47698000000001],"type":"Point"}
+}

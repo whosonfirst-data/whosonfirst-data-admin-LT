@@ -1,0 +1,71 @@
+{
+  "id": 1260016289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85443,56.01106,22.85443,56.01106",
+    "geom:latitude":56.01106,
+    "geom:longitude":22.85443,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Skaciai",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304367,
+    "gn:latitude":56.01106,
+    "gn:longitude":22.85443,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ska\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ska\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304367
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d5e9792f57ac854120a08ab60d91d544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1260016289,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1260016289,
+    "wof:lastmodified":1537662823,
+    "wof:name":"Skaciai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85443,
+    56.01106,
+    22.85443,
+    56.01106
+],
+  "geometry": {"coordinates":[22.85443,56.01106],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327470389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26397,56.33348,22.26397,56.33348",
+    "geom:latitude":56.33348,
+    "geom:longitude":22.26397,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Kurmaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301693,
+    "gn:latitude":56.33348,
+    "gn:longitude":22.26397,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kurmai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kurmai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301693
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"06735ebfea041dc7962c7dcc52427d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1327470389,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1327470389,
+    "wof:lastmodified":1537662765,
+    "wof:name":"Kurmaiciai",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26397,
+    56.33348,
+    22.26397,
+    56.33348
+],
+  "geometry": {"coordinates":[22.26397,56.33348],"type":"Point"}
+}

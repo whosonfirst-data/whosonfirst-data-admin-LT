@@ -1,0 +1,67 @@
+{
+  "id": 1209649069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64687,55.04449,22.64687,55.04449",
+    "geom:latitude":55.04449,
+    "geom:longitude":22.64687,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Grinaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599148,
+    "gn:latitude":55.04449,
+    "gn:longitude":22.64687,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Grinai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grinaychyay",
+        "Grinaytse",
+        "Grinai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599148
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"985f040d3f286fb8de793b33f5fc20bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209649069
+        }
+    ],
+    "wof:id":1209649069,
+    "wof:lastmodified":1537662299,
+    "wof:name":"Grinaiciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64687,
+    55.04449,
+    22.64687,
+    55.04449
+],
+  "geometry": {"coordinates":[22.64687,55.04449],"type":"Point"}
+}

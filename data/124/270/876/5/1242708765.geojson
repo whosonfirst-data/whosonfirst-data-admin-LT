@@ -1,0 +1,78 @@
+{
+  "id": 1242708765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.46362,55.7994,24.46362,55.7994",
+    "geom:latitude":55.7994,
+    "geom:longitude":24.46362,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Vilkapjuviai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593156,
+    "gn:latitude":55.7994,
+    "gn:longitude":24.46362,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vilkapj\u016bviai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vilkapj\u016bviai"
+    ],
+    "name:und_x_variant":[
+        "Vilkakivyay",
+        "Vilkapievi\u0173",
+        "Vilkapioviai",
+        "Vilkapieviai",
+        "Vilkapiuviai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593156
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c4a86ba032d7a273609be39f8ca0d691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1242708765,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1242708765,
+    "wof:lastmodified":1537661887,
+    "wof:name":"Vilkapjuviai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.46362,
+    55.7994,
+    24.46362,
+    55.7994
+],
+  "geometry": {"coordinates":[24.46362,55.7994],"type":"Point"}
+}

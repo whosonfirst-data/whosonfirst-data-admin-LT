@@ -1,0 +1,71 @@
+{
+  "id": 1260114311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29905,55.48007,24.29905,55.48007",
+    "geom:latitude":55.48007,
+    "geom:longitude":24.29905,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Aukstadvaris",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600895,
+    "gn:latitude":55.48007,
+    "gn:longitude":24.29905,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Auk\u0161tadvaris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Auk\u0161tadvaris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600895
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f3176e62e3774d49a4e7e72324b28ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1260114311,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1260114311,
+    "wof:lastmodified":1537662421,
+    "wof:name":"Aukstadvaris",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29905,
+    55.48007,
+    24.29905,
+    55.48007
+],
+  "geometry": {"coordinates":[24.29905,55.48007],"type":"Point"}
+}

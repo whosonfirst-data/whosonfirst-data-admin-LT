@@ -1,0 +1,71 @@
+{
+  "id": 1259513791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.32252,55.56032,26.32252,55.56032",
+    "geom:latitude":55.56032,
+    "geom:longitude":26.32252,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Ritkuniske",
+    "gn:country_code":"LT",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291968,
+    "gn:latitude":55.56032,
+    "gn:longitude":26.32252,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ritk\u016bni\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ritk\u016bni\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291968
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"586ffd70329710905c0c0f1cdc8df74b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1259513791,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259513791,
+    "wof:lastmodified":1537662509,
+    "wof:name":"Ritkuniske",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.32252,
+    55.56032,
+    26.32252,
+    55.56032
+],
+  "geometry": {"coordinates":[26.32252,55.56032],"type":"Point"}
+}

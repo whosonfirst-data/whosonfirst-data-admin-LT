@@ -1,0 +1,72 @@
+{
+  "id": 1225878481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12698,55.2086,22.12698,55.2086",
+    "geom:latitude":55.2086,
+    "geom:longitude":22.12698,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Aukstvilkiai",
+    "gn:country_code":"LT",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600863,
+    "gn:latitude":55.2086,
+    "gn:longitude":22.12698,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Auk\u0161tvilkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Augstvil\u2019ken",
+        "Auk\u0161tvilkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600863
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f3325564f3458c71746d1ff1ec34a4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1225878481,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1225878481,
+    "wof:lastmodified":1537662419,
+    "wof:name":"Aukstvilkiai",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12698,
+    55.2086,
+    22.12698,
+    55.2086
+],
+  "geometry": {"coordinates":[22.12698,55.2086],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276589181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.12207,55.73947,22.12207,55.73947",
+    "geom:latitude":55.73947,
+    "geom:longitude":22.12207,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Zilaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592776,
+    "gn:latitude":55.73947,
+    "gn:longitude":22.12207,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017dilai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhilaychyay",
+        "\u017dilai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592776
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6300be46c37acffc65838e40fcb17f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1276589181,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1276589181,
+    "wof:lastmodified":1537661863,
+    "wof:name":"Zilaiciai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.12207,
+    55.73947,
+    22.12207,
+    55.73947
+],
+  "geometry": {"coordinates":[22.12207,55.73947],"type":"Point"}
+}

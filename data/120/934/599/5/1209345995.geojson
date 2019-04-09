@@ -1,0 +1,65 @@
+{
+  "id": 1209345995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.39151,56.04192,24.39151,56.04192",
+    "geom:latitude":56.04192,
+    "geom:longitude":24.39151,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Ciziskiai",
+    "gn:country_code":"LT",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310236,
+    "gn:latitude":56.04192,
+    "gn:longitude":24.39151,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u010ci\u017ei\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u010ci\u017ei\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310236
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2af9d7776199e889b582ba3a967b0857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209345995
+        }
+    ],
+    "wof:id":1209345995,
+    "wof:lastmodified":1537662941,
+    "wof:name":"Ciziskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.39151,
+    56.04192,
+    24.39151,
+    56.04192
+],
+  "geometry": {"coordinates":[24.39151,56.04192],"type":"Point"}
+}

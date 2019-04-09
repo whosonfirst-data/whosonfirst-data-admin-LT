@@ -1,0 +1,74 @@
+{
+  "id": 1360321411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34147,55.9623,24.34147,55.9623",
+    "geom:latitude":55.9623,
+    "geom:longitude":24.34147,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Talkoniai",
+    "gn:country_code":"LT",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593996,
+    "gn:latitude":55.9623,
+    "gn:longitude":24.34147,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Talkoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talkonyay",
+        "Talkoni\u0173",
+        "Talk\u016bn\u0173",
+        "Talkoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593996
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"76a5be5136dadbadfcd809fde594c339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1360321411,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360321411,
+    "wof:lastmodified":1537661941,
+    "wof:name":"Talkoniai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34147,
+    55.9623,
+    24.34147,
+    55.9623
+],
+  "geometry": {"coordinates":[24.34147,55.9623],"type":"Point"}
+}

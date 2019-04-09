@@ -1,0 +1,71 @@
+{
+  "id": 1309940957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98973,55.17878,25.98973,55.17878",
+    "geom:latitude":55.17878,
+    "geom:longitude":25.98973,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Pempelka",
+    "gn:country_code":"LT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292537,
+    "gn:latitude":55.17878,
+    "gn:longitude":25.98973,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pempelka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pempelka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292537
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9d388d08d2ecfbfe20cfffa1e79a1d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1309940957,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309940957,
+    "wof:lastmodified":1537662525,
+    "wof:name":"Pempelka",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98973,
+    55.17878,
+    25.98973,
+    55.17878
+],
+  "geometry": {"coordinates":[25.98973,55.17878],"type":"Point"}
+}

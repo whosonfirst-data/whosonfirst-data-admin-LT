@@ -1,0 +1,71 @@
+{
+  "id": 1243488839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69876,56.34082,22.69876,56.34082",
+    "geom:latitude":56.34082,
+    "geom:longitude":22.69876,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Kesiai",
+    "gn:country_code":"LT",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301842,
+    "gn:latitude":56.34082,
+    "gn:longitude":22.69876,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kesiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kesiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301842
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e8da6e4a28906c55c0f4d849467ab9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1243488839,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1243488839,
+    "wof:lastmodified":1537662766,
+    "wof:name":"Kesiai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69876,
+    56.34082,
+    22.69876,
+    56.34082
+],
+  "geometry": {"coordinates":[22.69876,56.34082],"type":"Point"}
+}

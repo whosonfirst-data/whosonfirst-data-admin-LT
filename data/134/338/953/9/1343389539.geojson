@@ -1,0 +1,71 @@
+{
+  "id": 1343389539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60179,55.83434,21.60179,55.83434",
+    "geom:latitude":55.83434,
+    "geom:longitude":21.60179,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Paalantis",
+    "gn:country_code":"LT",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289374,
+    "gn:latitude":55.83434,
+    "gn:longitude":21.60179,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Paalantis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paalantis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289374
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c5de4fdf4553b114ca3ec131e7e009d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1343389539,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1343389539,
+    "wof:lastmodified":1537662455,
+    "wof:name":"Paalantis",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60179,
+    55.83434000000001,
+    21.60179,
+    55.83434000000001
+],
+  "geometry": {"coordinates":[21.60179,55.83434000000001],"type":"Point"}
+}

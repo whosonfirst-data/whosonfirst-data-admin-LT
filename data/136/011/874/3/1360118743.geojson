@@ -1,0 +1,74 @@
+{
+  "id": 1360118743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37998,55.46381,24.37998,55.46381",
+    "geom:latitude":55.46381,
+    "geom:longitude":24.37998,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Daniunai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600086,
+    "gn:latitude":55.46381,
+    "gn:longitude":24.37998,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dani\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dani\u016bnai"
+    ],
+    "name:und_x_variant":[
+        "Danj\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600086
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bbd3bc34144431df9d7d288f0fcc3feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1360118743,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360118743,
+    "wof:lastmodified":1537662363,
+    "wof:name":"Daniunai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37998,
+    55.46381,
+    24.37998,
+    55.46381
+],
+  "geometry": {"coordinates":[24.37998,55.46381],"type":"Point"}
+}

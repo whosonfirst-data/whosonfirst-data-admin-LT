@@ -1,0 +1,71 @@
+{
+  "id": 1360316039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69026,55.66275,24.69026,55.66275",
+    "geom:latitude":55.66275,
+    "geom:longitude":24.69026,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Konciapolis",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312052,
+    "gn:latitude":55.66275,
+    "gn:longitude":24.69026,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Konciapolis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Konciapolis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312052
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"834d5d63dfc570e902812f6d73131f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1360316039,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1360316039,
+    "wof:lastmodified":1537662983,
+    "wof:name":"Konciapolis",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69026,
+    55.66275,
+    24.69026,
+    55.66275
+],
+  "geometry": {"coordinates":[24.69026,55.66275],"type":"Point"}
+}

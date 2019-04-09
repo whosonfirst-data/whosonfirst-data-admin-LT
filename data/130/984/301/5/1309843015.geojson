@@ -1,0 +1,71 @@
+{
+  "id": 1309843015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81693,56.12381,22.81693,56.12381",
+    "geom:latitude":56.12381,
+    "geom:longitude":22.81693,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Zubreliai",
+    "gn:country_code":"LT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304306,
+    "gn:latitude":56.12381,
+    "gn:longitude":22.81693,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zubreliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zubreliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304306
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ff7f023807be9caa07fe3cd45a32a3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1309843015,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1309843015,
+    "wof:lastmodified":1537662822,
+    "wof:name":"Zubreliai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81693,
+    56.12381,
+    22.81693,
+    56.12381
+],
+  "geometry": {"coordinates":[22.81693,56.12381],"type":"Point"}
+}

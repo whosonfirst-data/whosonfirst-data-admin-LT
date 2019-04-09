@@ -1,0 +1,73 @@
+{
+  "id": 1277110411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06053,55.64708,23.06053,55.64708",
+    "geom:latitude":55.64708,
+    "geom:longitude":23.06053,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Gecaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599467,
+    "gn:latitude":55.64708,
+    "gn:longitude":23.06053,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ge\u010dai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gechaychyay",
+        "Gechaytse",
+        "Ge\u010dai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599467
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c544ef0db55f9012e7d9ddc2e95dff86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1277110411,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1277110411,
+    "wof:lastmodified":1537662321,
+    "wof:name":"Gecaiciai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06053,
+    55.64708,
+    23.06053,
+    55.64708
+],
+  "geometry": {"coordinates":[23.06053,55.64708],"type":"Point"}
+}

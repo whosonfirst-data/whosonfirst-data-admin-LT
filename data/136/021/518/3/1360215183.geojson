@@ -1,0 +1,71 @@
+{
+  "id": 1360215183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.61631,54.47705,25.61631,54.47705",
+    "geom:latitude":54.47705,
+    "geom:longitude":25.61631,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Dvarciai",
+    "gn:country_code":"LT",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295288,
+    "gn:latitude":54.47705,
+    "gn:longitude":25.61631,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dvar\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dvar\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295288
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dd8b0fb41c718f76f1647c7571fb16e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1360215183,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1360215183,
+    "wof:lastmodified":1537662589,
+    "wof:name":"Dvarciai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.61631,
+    54.47705,
+    25.61631,
+    54.47705
+],
+  "geometry": {"coordinates":[25.61631,54.47705],"type":"Point"}
+}

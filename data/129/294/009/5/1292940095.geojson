@@ -1,0 +1,79 @@
+{
+  "id": 1292940095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35455,54.63629,25.35455,54.63629",
+    "geom:latitude":54.63629,
+    "geom:longitude":25.35455,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Nemezis",
+    "gn:country_code":"LT",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596661,
+    "gn:latitude":54.63629,
+    "gn:longitude":25.35455,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nem\u0117\u017eis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nemezhis",
+        "Nem\u0117\u017e\u0117",
+        "Okolitsa Nemezh",
+        "Nemie\u017eis",
+        "Nemie\u017eius",
+        "Nem\u0117\u017ea",
+        "Nemie\u017c",
+        "Nem\u0117\u017eis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596661,
+        "wk:page":"Nem%C4%97%C5%BEis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3c3f89974c6645442a2f6e8f2a02125c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1292940095,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1292940095,
+    "wof:lastmodified":1537662131,
+    "wof:name":"Nemezis",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35455,
+    54.63629,
+    25.35455,
+    54.63629
+],
+  "geometry": {"coordinates":[25.35455,54.63629],"type":"Point"}
+}

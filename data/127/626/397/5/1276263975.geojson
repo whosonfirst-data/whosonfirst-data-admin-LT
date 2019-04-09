@@ -1,0 +1,71 @@
+{
+  "id": 1276263975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84524,56.15088,24.84524,56.15088",
+    "geom:latitude":56.15088,
+    "geom:longitude":24.84524,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Slizeliai",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298614,
+    "gn:latitude":56.15088,
+    "gn:longitude":24.84524,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160li\u017eeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160li\u017eeliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298614
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7d142ea0d7603000baf3350e38dee257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1276263975,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276263975,
+    "wof:lastmodified":1537662681,
+    "wof:name":"Slizeliai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84524,
+    56.15088000000001,
+    24.84524,
+    56.15088000000001
+],
+  "geometry": {"coordinates":[24.84524,56.15088000000001],"type":"Point"}
+}

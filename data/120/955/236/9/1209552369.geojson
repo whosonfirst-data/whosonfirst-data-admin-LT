@@ -1,0 +1,67 @@
+{
+  "id": 1209552369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.586,56.01328,22.586,56.01328",
+    "geom:latitude":56.01328,
+    "geom:longitude":22.586,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Pabalve",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596494,
+    "gn:latitude":56.01328,
+    "gn:longitude":22.586,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pabalv\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pabalv\u0117s",
+        "Pobolwiany",
+        "Pabalv\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596494
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bec284d618254a444d477a461677c06f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209552369
+        }
+    ],
+    "wof:id":1209552369,
+    "wof:lastmodified":1537662118,
+    "wof:name":"Pabalve",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.586,
+    56.01328,
+    22.586,
+    56.01328
+],
+  "geometry": {"coordinates":[22.586,56.01328],"type":"Point"}
+}

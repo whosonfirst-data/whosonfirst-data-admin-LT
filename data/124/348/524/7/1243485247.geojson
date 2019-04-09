@@ -1,0 +1,71 @@
+{
+  "id": 1243485247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51276,54.73322,24.51276,54.73322",
+    "geom:latitude":54.73322,
+    "geom:longitude":24.51276,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Uzubalis",
+    "gn:country_code":"LT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310915,
+    "gn:latitude":54.73322,
+    "gn:longitude":24.51276,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Uzubalis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Uzubalis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310915
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6eb3fd22ba0bab7d7d1bf95bce56986b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1243485247,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1243485247,
+    "wof:lastmodified":1537662953,
+    "wof:name":"Uzubalis",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51276,
+    54.73322,
+    24.51276,
+    54.73322
+],
+  "geometry": {"coordinates":[24.51276,54.73322],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209345317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88117,56.05402,21.88117,56.05402",
+    "geom:latitude":56.05402,
+    "geom:longitude":21.88117,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Paplatele",
+    "gn:country_code":"LT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290313,
+    "gn:latitude":56.05402,
+    "gn:longitude":21.88117,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paplatel\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paplatel\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290313
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"06bf7f39b9b20f0dd6087b0f04b3abf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209345317
+        }
+    ],
+    "wof:id":1209345317,
+    "wof:lastmodified":1537662469,
+    "wof:name":"Paplatele",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88117,
+    56.05402,
+    21.88117,
+    56.05402
+],
+  "geometry": {"coordinates":[21.88117,56.05402],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310240037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.76567,56.32343,22.76567,56.32343",
+    "geom:latitude":56.32343,
+    "geom:longitude":22.76567,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Manceliai",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301857,
+    "gn:latitude":56.32343,
+    "gn:longitude":22.76567,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Man\u010deliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Man\u010deliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301857
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"91c1cf0632596f6fdb0530e14908061c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1310240037,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310240037,
+    "wof:lastmodified":1537662767,
+    "wof:name":"Manceliai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76567,
+    56.32343,
+    22.76567,
+    56.32343
+],
+  "geometry": {"coordinates":[22.76567,56.32343],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243292431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52675,55.2084,25.52675,55.2084",
+    "geom:latitude":55.2084,
+    "geom:longitude":25.52675,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Rudesa",
+    "gn:country_code":"LT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297534,
+    "gn:latitude":55.2084,
+    "gn:longitude":25.52675,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Rudesa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rudesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297534
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"be5125e28714feee8a96d1b132bdfa5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1243292431,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243292431,
+    "wof:lastmodified":1537662650,
+    "wof:name":"Rudesa",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52675,
+    55.2084,
+    25.52675,
+    55.2084
+],
+  "geometry": {"coordinates":[25.52675,55.2084],"type":"Point"}
+}

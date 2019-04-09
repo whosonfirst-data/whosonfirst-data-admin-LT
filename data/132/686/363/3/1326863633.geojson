@@ -1,0 +1,74 @@
+{
+  "id": 1326863633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56959,54.21681,25.56959,54.21681",
+    "geom:latitude":54.21681,
+    "geom:longitude":25.56959,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Naujieji Miezionys",
+    "gn:country_code":"LT",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":624339,
+    "gn:latitude":54.21681,
+    "gn:longitude":25.56959,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Naujieji Mie\u017eionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Naujieji Mie\u017eionys"
+    ],
+    "name:und_x_variant":[
+        "Novyye Mezhany"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":624339
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"60ab3e11c9adec37476f7fd791f59468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1326863633,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1326863633,
+    "wof:lastmodified":1537662441,
+    "wof:name":"Naujieji Miezionys",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56959,
+    54.21681,
+    25.56959,
+    54.21681
+],
+  "geometry": {"coordinates":[25.56959,54.21681],"type":"Point"}
+}

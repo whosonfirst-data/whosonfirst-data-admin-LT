@@ -1,0 +1,70 @@
+{
+  "id": 1209139555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81887,55.21776,21.81887,55.21776",
+    "geom:latitude":55.21776,
+    "geom:longitude":21.81887,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Uzkamoniai",
+    "gn:country_code":"LT",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593639,
+    "gn:latitude":55.21776,
+    "gn:longitude":21.81887,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"U\u017ekamoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "U\u017ekamoniai"
+    ],
+    "name:und_x_variant":[
+        "Uzhkamonyay",
+        "Uzhkamonen",
+        "U\u017ekamun\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593639
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"53b774f96fddc5c010b215fc4f821647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209139555
+        }
+    ],
+    "wof:id":1209139555,
+    "wof:lastmodified":1537661919,
+    "wof:name":"Uzkamoniai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81887,
+    55.21776,
+    21.81887,
+    55.21776
+],
+  "geometry": {"coordinates":[21.81887,55.21776],"type":"Point"}
+}

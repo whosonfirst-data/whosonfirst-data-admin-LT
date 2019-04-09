@@ -1,0 +1,74 @@
+{
+  "id": 1343592651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66504,54.23226,25.66504,54.23226",
+    "geom:latitude":54.23226,
+    "geom:longitude":25.66504,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Jurgelionys",
+    "gn:country_code":"LT",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598645,
+    "gn:latitude":54.23226,
+    "gn:longitude":25.66504,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jurgelionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yurgel\u00ebnis",
+        "Jurgonys",
+        "Yurgelyany",
+        "Jurgelionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598645
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c0620b39b8583b0a61ea8b3bf843d323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1343592651,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343592651,
+    "wof:lastmodified":1537662267,
+    "wof:name":"Jurgelionys",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66504,
+    54.23226,
+    25.66504,
+    54.23226
+],
+  "geometry": {"coordinates":[25.66504,54.23226],"type":"Point"}
+}

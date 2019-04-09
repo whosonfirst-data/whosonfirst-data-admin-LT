@@ -1,0 +1,71 @@
+{
+  "id": 1226079769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69975,55.98765,24.69975,55.98765",
+    "geom:latitude":55.98765,
+    "geom:longitude":24.69975,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Strazdziai",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301275,
+    "gn:latitude":55.98765,
+    "gn:longitude":24.69975,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Strazd\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Strazd\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301275
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"feb5a4c545e5645a49777a5dc3c1ace3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1226079769,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226079769,
+    "wof:lastmodified":1537662757,
+    "wof:name":"Strazdziai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69975,
+    55.98765,
+    24.69975,
+    55.98765
+],
+  "geometry": {"coordinates":[24.69975,55.98765],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360322305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03097,56.38682,22.03097,56.38682",
+    "geom:latitude":56.38682,
+    "geom:longitude":22.03097,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Ritine",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595234,
+    "gn:latitude":56.38682,
+    "gn:longitude":22.03097,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ritin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ritin\u0117s",
+        "Ritinay",
+        "Ritin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595234
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f906da35a592afaa985b48ae97cb617f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1360322305,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1360322305,
+    "wof:lastmodified":1537662027,
+    "wof:name":"Ritine",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03097,
+    56.38681999999999,
+    22.03097,
+    56.38681999999999
+],
+  "geometry": {"coordinates":[22.03097,56.38681999999999],"type":"Point"}
+}

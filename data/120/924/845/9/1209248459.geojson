@@ -1,0 +1,65 @@
+{
+  "id": 1209248459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88947,55.97636,22.88947,55.97636",
+    "geom:latitude":55.97636,
+    "geom:longitude":22.88947,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Vaitkaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304389,
+    "gn:latitude":55.97636,
+    "gn:longitude":22.88947,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vaitkai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vaitkai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304389
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"44e59cfd5bbc697a0157e89e9f2554ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209248459
+        }
+    ],
+    "wof:id":1209248459,
+    "wof:lastmodified":1537662823,
+    "wof:name":"Vaitkaiciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88947000000001,
+    55.97636,
+    22.88947000000001,
+    55.97636
+],
+  "geometry": {"coordinates":[22.88947000000001,55.97636],"type":"Point"}
+}

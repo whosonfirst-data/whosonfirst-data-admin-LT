@@ -1,0 +1,71 @@
+{
+  "id": 1310339993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07281,54.44127,23.07281,54.44127",
+    "geom:latitude":54.44127,
+    "geom:longitude":23.07281,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Dirvonai",
+    "gn:country_code":"LT",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303010,
+    "gn:latitude":54.44127,
+    "gn:longitude":23.07281,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dirvonai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dirvonai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303010
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"37cda87108cfac890585b05394ff1914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073585,
+            "locality_id":1310339993,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1310339993,
+    "wof:lastmodified":1537662790,
+    "wof:name":"Dirvonai",
+    "wof:parent_id":102073585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07281,
+    54.44127,
+    23.07281,
+    54.44127
+],
+  "geometry": {"coordinates":[23.07281,54.44127],"type":"Point"}
+}

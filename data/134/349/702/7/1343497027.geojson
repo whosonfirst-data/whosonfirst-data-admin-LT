@@ -1,0 +1,81 @@
+{
+  "id": 1343497027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88529,55.89145,23.88529,55.89145",
+    "geom:latitude":55.89145,
+    "geom:longitude":23.88529,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Rozalimas",
+    "gn:country_code":"LT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595196,
+    "gn:latitude":55.89145,
+    "gn:longitude":23.88529,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rozalimas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rozalimas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0430\u043b\u0438\u043c\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Razalimas",
+        "Rozalinas",
+        "Rozalin",
+        "Rozalimas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595196,
+        "wk:page":"Rozalimas"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bb9ad8f90ac3dc48351ea8ee1ecf9a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1343497027,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343497027,
+    "wof:lastmodified":1537662025,
+    "wof:name":"Rozalimas",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88529,
+    55.89145,
+    23.88529,
+    55.89145
+],
+  "geometry": {"coordinates":[23.88529,55.89145],"type":"Point"}
+}

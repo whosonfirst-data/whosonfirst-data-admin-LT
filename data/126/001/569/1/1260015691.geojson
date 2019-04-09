@@ -1,0 +1,71 @@
+{
+  "id": 1260015691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0495,55.01395,25.0495,55.01395",
+    "geom:latitude":55.01395,
+    "geom:longitude":25.0495,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Ramaskonys",
+    "gn:country_code":"LT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300360,
+    "gn:latitude":55.01395,
+    "gn:longitude":25.0495,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Rama\u0161konys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rama\u0161konys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300360
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e076629ea4bb264ec33d4bfa2118a536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1260015691,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260015691,
+    "wof:lastmodified":1537662735,
+    "wof:name":"Ramaskonys",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0495,
+    55.01395,
+    25.0495,
+    55.01395
+],
+  "geometry": {"coordinates":[25.0495,55.01395],"type":"Point"}
+}

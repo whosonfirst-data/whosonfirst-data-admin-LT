@@ -1,0 +1,71 @@
+{
+  "id": 1226378863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28999,55.21952,25.28999,55.21952",
+    "geom:latitude":55.21952,
+    "geom:longitude":25.28999,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Linuciai",
+    "gn:country_code":"LT",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297548,
+    "gn:latitude":55.21952,
+    "gn:longitude":25.28999,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Linu\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Linu\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297548
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"27fd55c59795e3f74349d473348ba6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1226378863,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226378863,
+    "wof:lastmodified":1537662651,
+    "wof:name":"Linuciai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28999,
+    55.21952,
+    25.28999,
+    55.21952
+],
+  "geometry": {"coordinates":[25.28999,55.21952],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310023947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05,55.28333,22.05,55.28333",
+    "geom:latitude":55.28333,
+    "geom:longitude":22.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Urviniai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593686,
+    "gn:latitude":55.28333,
+    "gn:longitude":22.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Urviniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urvini\u0173",
+        "Urveniki",
+        "Urviniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593686
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ddbe762a4e3fb738ada5d6bf7e7c8830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1310023947,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1310023947,
+    "wof:lastmodified":1537661922,
+    "wof:name":"Urviniai",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05,
+    55.28333000000001,
+    22.05,
+    55.28333000000001
+],
+  "geometry": {"coordinates":[22.05,55.28333000000001],"type":"Point"}
+}

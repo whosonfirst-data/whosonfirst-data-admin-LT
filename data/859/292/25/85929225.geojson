@@ -1,0 +1,108 @@
+{
+  "id": 85929225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15599164.238493,
+    "geom:bbox":"25.293911,54.670796,25.293911,54.670796",
+    "geom:latitude":54.670796,
+    "geom:longitude":25.293911,
+    "gn:id":"",
+    "iso:country":"LT",
+    "lbl:latitude":54.670796,
+    "lbl:longitude":25.293911,
+    "mps:latitude":54.67646,
+    "mps:longitude":25.326659,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:und_x_preferred":[
+        "Rasos"
+    ],
+    "name:unk_x_variant":[
+        "Rasos"
+    ],
+    "qs:gn_adm0_cc":"LT",
+    "qs:gn_id":0,
+    "qs:gn_local":593116,
+    "qs:local_max":12571,
+    "qs:local_sum":23762,
+    "qs:localhoods":20,
+    "qs:name":"Rasos",
+    "qs:name_adm0":"Lietuva",
+    "qs:name_adm1":"Vilniaus Apskritis",
+    "qs:name_adm2":"Vilniaus Miesto Savivaldybe",
+    "qs:name_lau":"Vilnius",
+    "qs:name_local":"Vilnius",
+    "qs:photo_max":108,
+    "qs:photo_sum":280,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":27,
+    "qs:woe_adm0":23424875,
+    "qs:woe_adm1":55848083,
+    "qs:woe_adm2":2346097,
+    "qs:woe_lau":56044000,
+    "qs:woe_local":479616,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        101753031,
+        102073615,
+        85685759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55848105,
+        "qs:id":1310966,
+        "qs_pg:id":1310966
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"84c6a63ab0bb5ca3a09584fb53c52ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":85929225,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":85929225,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531939119,
+    "wof:name":"Rasos",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.293911,
+    54.670796,
+    25.293911,
+    54.670796
+],
+  "geometry": {"coordinates":[25.293911,54.670796],"type":"Point"}
+}

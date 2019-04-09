@@ -1,0 +1,71 @@
+{
+  "id": 1276690765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.44534,55.08569,25.44534,55.08569",
+    "geom:latitude":55.08569,
+    "geom:longitude":25.44534,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Kuriskiai",
+    "gn:country_code":"LT",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297469,
+    "gn:latitude":55.08569,
+    "gn:longitude":25.44534,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kuri\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kuri\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297469
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ff12a833242a666358710964e5827ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1276690765,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276690765,
+    "wof:lastmodified":1537662648,
+    "wof:name":"Kuriskiai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.44534,
+    55.08569,
+    25.44534,
+    55.08569
+],
+  "geometry": {"coordinates":[25.44534,55.08569],"type":"Point"}
+}

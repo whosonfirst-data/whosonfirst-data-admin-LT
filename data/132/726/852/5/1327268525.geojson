@@ -1,0 +1,71 @@
+{
+  "id": 1327268525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5335,55.5614,26.5335,55.5614",
+    "geom:latitude":55.5614,
+    "geom:longitude":26.5335,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Kukutenai",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291024,
+    "gn:latitude":55.5614,
+    "gn:longitude":26.5335,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kukut\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kukut\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291024
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d255e3af42fcd52e9d4b7c5ceda1f391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1327268525,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327268525,
+    "wof:lastmodified":1537662484,
+    "wof:name":"Kukutenai",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5335,
+    55.5614,
+    26.5335,
+    55.5614
+],
+  "geometry": {"coordinates":[26.5335,55.5614],"type":"Point"}
+}

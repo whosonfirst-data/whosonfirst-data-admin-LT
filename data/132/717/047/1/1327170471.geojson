@@ -1,0 +1,72 @@
+{
+  "id": 1327170471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.68687,55.11441,24.68687,55.11441",
+    "geom:latitude":55.11441,
+    "geom:longitude":24.68687,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Pavytine",
+    "gn:country_code":"LT",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595915,
+    "gn:latitude":55.11441,
+    "gn:longitude":24.68687,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pavytin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pavitine",
+        "Pavytin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595915
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bf78226813c7662b3583ff77a7c7a837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1327170471,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1327170471,
+    "wof:lastmodified":1537662075,
+    "wof:name":"Pavytine",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68687000000001,
+    55.11441,
+    24.68687000000001,
+    55.11441
+],
+  "geometry": {"coordinates":[24.68687000000001,55.11441],"type":"Point"}
+}

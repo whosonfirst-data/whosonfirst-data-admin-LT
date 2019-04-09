@@ -1,0 +1,71 @@
+{
+  "id": 1310241347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63288,55.77248,24.63288,55.77248",
+    "geom:latitude":55.77248,
+    "geom:longitude":24.63288,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Asciagaliai",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312180,
+    "gn:latitude":55.77248,
+    "gn:longitude":24.63288,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"A\u0161\u010diagaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "A\u0161\u010diagaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312180
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"299a3598bf5a192da176eaa73f1c6467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1310241347,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310241347,
+    "wof:lastmodified":1537662987,
+    "wof:name":"Asciagaliai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63288,
+    55.77248,
+    24.63288,
+    55.77248
+],
+  "geometry": {"coordinates":[24.63288,55.77248],"type":"Point"}
+}

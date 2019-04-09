@@ -1,0 +1,74 @@
+{
+  "id": 1209846219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.29853,54.69452,23.29853,54.69452",
+    "geom:latitude":54.69452,
+    "geom:longitude":23.29853,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Bebrininkai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600562,
+    "gn:latitude":54.69452,
+    "gn:longitude":23.29853,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bebrininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobrovniki",
+        "Bebrininkay",
+        "Bebriniuk\u0173",
+        "Bebrininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600562
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2df91103fe34df76d9096ad4dbb89db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1209846219,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1209846219,
+    "wof:lastmodified":1537662398,
+    "wof:name":"Bebrininkai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.29853,
+    54.69452,
+    23.29853,
+    54.69452
+],
+  "geometry": {"coordinates":[23.29853,54.69452],"type":"Point"}
+}

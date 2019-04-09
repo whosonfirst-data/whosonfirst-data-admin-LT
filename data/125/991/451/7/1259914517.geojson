@@ -1,0 +1,71 @@
+{
+  "id": 1259914517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75356,54.92673,24.75356,54.92673",
+    "geom:latitude":54.92673,
+    "geom:longitude":24.75356,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Paneriai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311416,
+    "gn:latitude":54.92673,
+    "gn:longitude":24.75356,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paneriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paneriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311416
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d53b78ff877fe5eed4506612063e6cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1259914517,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1259914517,
+    "wof:lastmodified":1537662965,
+    "wof:name":"Paneriai",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75356,
+    54.92673000000001,
+    24.75356,
+    54.92673000000001
+],
+  "geometry": {"coordinates":[24.75356,54.92673000000001],"type":"Point"}
+}

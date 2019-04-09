@@ -1,0 +1,76 @@
+{
+  "id": 1243208695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53083,55.53554,25.53083,55.53554",
+    "geom:latitude":55.53554,
+    "geom:longitude":25.53083,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Kaliekiai",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598554,
+    "gn:latitude":55.53554,
+    "gn:longitude":25.53083,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kaliekiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalekiai",
+        "Kaliyekyay",
+        "Kalekyay",
+        "Kaleikiai",
+        "Kalieki\u0173",
+        "Kaliekiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598554
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8df34f4a67cd238a08522a3d0f53186a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1243208695,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243208695,
+    "wof:lastmodified":1537662260,
+    "wof:name":"Kaliekiai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53083,
+    55.53554000000001,
+    25.53083,
+    55.53554000000001
+],
+  "geometry": {"coordinates":[25.53083,55.53554000000001],"type":"Point"}
+}

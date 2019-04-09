@@ -1,0 +1,71 @@
+{
+  "id": 1243399319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84733,54.9864,24.84733,54.9864",
+    "geom:latitude":54.9864,
+    "geom:longitude":24.84733,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Lydekupe",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300167,
+    "gn:latitude":54.9864,
+    "gn:longitude":24.84733,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lydekup\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lydekup\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300167
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"03a0940c9e0e325ff97b29c1a84e43c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1243399319,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243399319,
+    "wof:lastmodified":1537662725,
+    "wof:name":"Lydekupe",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84733,
+    54.9864,
+    24.84733,
+    54.9864
+],
+  "geometry": {"coordinates":[24.84733,54.9864],"type":"Point"}
+}

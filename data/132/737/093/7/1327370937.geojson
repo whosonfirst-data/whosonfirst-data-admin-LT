@@ -1,0 +1,71 @@
+{
+  "id": 1327370937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48901,55.5284,25.48901,55.5284",
+    "geom:latitude":55.5284,
+    "geom:longitude":25.48901,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Pagranda",
+    "gn:country_code":"LT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296174,
+    "gn:latitude":55.5284,
+    "gn:longitude":25.48901,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pagranda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pagranda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296174
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"df10998a9d4fc5f26aa07238032c8abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1327370937,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327370937,
+    "wof:lastmodified":1537662612,
+    "wof:name":"Pagranda",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48901,
+    55.5284,
+    25.48901,
+    55.5284
+],
+  "geometry": {"coordinates":[25.48901,55.5284],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293820189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.17229,54.69668,23.17229,54.69668",
+    "geom:latitude":54.69668,
+    "geom:longitude":23.17229,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Balciunai",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600729,
+    "gn:latitude":54.69668,
+    "gn:longitude":23.17229,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bal\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u2019tsuny",
+        "Bal\u010di\u016bn\u0173",
+        "Bal\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600729
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c6328a2f0387cf2aafef04794f6129c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1293820189,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1293820189,
+    "wof:lastmodified":1537662410,
+    "wof:name":"Balciunai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.17229,
+    54.69668000000001,
+    23.17229,
+    54.69668000000001
+],
+  "geometry": {"coordinates":[23.17229,54.69668000000001],"type":"Point"}
+}

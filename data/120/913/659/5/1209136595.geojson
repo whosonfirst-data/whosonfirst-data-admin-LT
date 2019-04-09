@@ -1,0 +1,65 @@
+{
+  "id": 1209136595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58488,54.98313,24.58488,54.98313",
+    "geom:latitude":54.98313,
+    "geom:longitude":24.58488,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Smelianka",
+    "gn:country_code":"LT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311358,
+    "gn:latitude":54.98313,
+    "gn:longitude":24.58488,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sm\u0117lianka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sm\u0117lianka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311358
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bc87f6953e6ae57702195cd61dfb26b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209136595
+        }
+    ],
+    "wof:id":1209136595,
+    "wof:lastmodified":1537662963,
+    "wof:name":"Smelianka",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58488,
+    54.98313,
+    24.58488,
+    54.98313
+],
+  "geometry": {"coordinates":[24.58488,54.98313],"type":"Point"}
+}

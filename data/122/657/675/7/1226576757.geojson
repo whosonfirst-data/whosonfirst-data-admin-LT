@@ -1,0 +1,72 @@
+{
+  "id": 1226576757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41414,55.32879,23.41414,55.32879",
+    "geom:latitude":55.32879,
+    "geom:longitude":23.41414,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Antupyciai",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601002,
+    "gn:latitude":55.32879,
+    "gn:longitude":23.41414,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Antupy\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antupitsa",
+        "Antupy\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601002
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2f46ecb9fa0b52b9d552ab213ec5fa7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1226576757,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226576757,
+    "wof:lastmodified":1537662426,
+    "wof:name":"Antupyciai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41414,
+    55.32879000000001,
+    23.41414,
+    55.32879000000001
+],
+  "geometry": {"coordinates":[23.41414,55.32879000000001],"type":"Point"}
+}

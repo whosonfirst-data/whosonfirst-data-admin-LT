@@ -1,0 +1,75 @@
+{
+  "id": 1343596217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80436,55.19988,23.80436,55.19988",
+    "geom:latitude":55.19988,
+    "geom:longitude":23.80436,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Maleikoniai",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597293,
+    "gn:latitude":55.19988,
+    "gn:longitude":23.80436,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Maleikoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maloykoviche",
+        "Malaikoniai",
+        "Maleykonyay",
+        "Malaykovichyay",
+        "Maleikoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597293
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cee2671e2eeb28bdea0db2846f0f5179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1343596217,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343596217,
+    "wof:lastmodified":1537662175,
+    "wof:name":"Maleikoniai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80436,
+    55.19988000000001,
+    23.80436,
+    55.19988000000001
+],
+  "geometry": {"coordinates":[23.80436,55.19988000000001],"type":"Point"}
+}

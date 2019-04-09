@@ -1,0 +1,72 @@
+{
+  "id": 1360019113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48531,55.61033,24.48531,55.61033",
+    "geom:latitude":55.61033,
+    "geom:longitude":24.48531,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Mazeniai",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597179,
+    "gn:latitude":55.61033,
+    "gn:longitude":24.48531,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ma\u017eeniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazhany",
+        "Ma\u017eeniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597179
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1061d68ae5b7c42908f2a589b9b4d9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1360019113,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360019113,
+    "wof:lastmodified":1537662167,
+    "wof:name":"Mazeniai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48531,
+    55.61033000000001,
+    24.48531,
+    55.61033000000001
+],
+  "geometry": {"coordinates":[24.48531,55.61033000000001],"type":"Point"}
+}

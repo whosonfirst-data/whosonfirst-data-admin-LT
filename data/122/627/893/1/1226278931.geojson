@@ -1,0 +1,73 @@
+{
+  "id": 1226278931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65902,55.5678,23.65902,55.5678",
+    "geom:latitude":55.5678,
+    "geom:longitude":23.65902,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Rudziai",
+    "gn:country_code":"LT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595143,
+    "gn:latitude":55.5678,
+    "gn:longitude":23.65902,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rud\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ridzhyay",
+        "Ridze",
+        "Rud\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595143
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ff293f17c5fe12c0275ae5a4bff7e782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1226278931,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226278931,
+    "wof:lastmodified":1537662021,
+    "wof:name":"Rudziai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65902,
+    55.5678,
+    23.65902,
+    55.5678
+],
+  "geometry": {"coordinates":[23.65902,55.5678],"type":"Point"}
+}

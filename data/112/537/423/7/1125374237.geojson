@@ -1,0 +1,82 @@
+{
+  "id": 1125374237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.784116,54.871869,23.784116,54.871869",
+    "geom:latitude":54.871869,
+    "geom:longitude":23.784116,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":54.871869,
+    "lbl:longitude":23.784116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Ringaudu Seniunija",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos":7,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":991682,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56044088,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56044088,
+        "qs_pg:id":991682
+    },
+    "wof:country":"LT",
+    "wof:created":1497047616,
+    "wof:geomhash":"f4b1349c0728626311f505c90443d030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "localadmin_id":1125374237,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1125374237,
+    "wof:lastmodified":1509389414,
+    "wof:name":"Ringaudu Seniunija",
+    "wof:parent_id":102073625,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.784116,
+    54.871869,
+    23.784116,
+    54.871869
+],
+  "geometry": {"coordinates":[23.784116,54.871869],"type":"Point"}
+}

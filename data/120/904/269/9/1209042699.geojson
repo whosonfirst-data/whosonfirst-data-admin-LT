@@ -1,0 +1,65 @@
+{
+  "id": 1209042699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01588,55.29998,22.01588,55.29998",
+    "geom:latitude":55.29998,
+    "geom:longitude":22.01588,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Vylusciai",
+    "gn:country_code":"LT",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289813,
+    "gn:latitude":55.29998,
+    "gn:longitude":22.01588,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vyl\u016bsciai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vyl\u016bsciai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289813
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"43715256c54a6ba497702db586482d67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209042699
+        }
+    ],
+    "wof:id":1209042699,
+    "wof:lastmodified":1537662462,
+    "wof:name":"Vylusciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01588,
+    55.29998000000001,
+    22.01588,
+    55.29998000000001
+],
+  "geometry": {"coordinates":[22.01588,55.29998000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259914461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13597,55.24974,23.13597,55.24974",
+    "geom:latitude":55.24974,
+    "geom:longitude":23.13597,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Griauzai",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599200,
+    "gn:latitude":55.24974,
+    "gn:longitude":23.13597,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Griau\u017eai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Griau\u017eai"
+    ],
+    "name:und_x_variant":[
+        "Gravzhe",
+        "Gravzhyay",
+        "Grau\u017eai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599200
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4d899e43b1decb7e5a529f47675258de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1259914461,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1259914461,
+    "wof:lastmodified":1537662303,
+    "wof:name":"Griauzai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13597,
+    55.24974,
+    23.13597,
+    55.24974
+],
+  "geometry": {"coordinates":[23.13597,55.24974],"type":"Point"}
+}

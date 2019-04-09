@@ -1,0 +1,74 @@
+{
+  "id": 1293424175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56763,54.82279,24.56763,54.82279",
+    "geom:latitude":54.82279,
+    "geom:longitude":24.56763,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Pajautiskes",
+    "gn:country_code":"LT",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596345,
+    "gn:latitude":54.82279,
+    "gn:longitude":24.56763,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pajauti\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pajauti\u0161k\u0117s",
+        "Pajauci\u0161ki\u0173",
+        "Payautishkyay",
+        "Pajauti\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596345
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"35fefbbe1b02cbd256de58ce61c577b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1293424175,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293424175,
+    "wof:lastmodified":1537662107,
+    "wof:name":"Pajautiskes",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56763,
+    54.82279000000001,
+    24.56763,
+    54.82279000000001
+],
+  "geometry": {"coordinates":[24.56763,54.82279000000001],"type":"Point"}
+}

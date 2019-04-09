@@ -1,0 +1,82 @@
+{
+  "id": 1327470943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53574,55.6757,24.53574,55.6757",
+    "geom:latitude":55.6757,
+    "geom:longitude":24.53574,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Mieziskiai",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597013,
+    "gn:latitude":55.6757,
+    "gn:longitude":24.53574,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mie\u017ei\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mie\u017ei\u0161kiai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0436\u0438\u0448\u043a\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Miyezhishkyay",
+        "Mezhishkyay",
+        "Mie\u0161kai",
+        "Mie\u017ei\u0161ki\u0173",
+        "Mie\u017ei\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597013,
+        "wk:page":"Mie%C5%BEi%C5%A1kiai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"72e77f866a14eeafb319b80d8b0ab214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1327470943,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1327470943,
+    "wof:lastmodified":1537662156,
+    "wof:name":"Mieziskiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53574,
+    55.6757,
+    24.53574,
+    55.6757
+],
+  "geometry": {"coordinates":[24.53574,55.6757],"type":"Point"}
+}

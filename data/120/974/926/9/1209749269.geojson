@@ -1,0 +1,73 @@
+{
+  "id": 1209749269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.07529,56.05826,24.07529,56.05826",
+    "geom:latitude":56.05826,
+    "geom:longitude":24.07529,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Gailioniai",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599546,
+    "gn:latitude":56.05826,
+    "gn:longitude":24.07529,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Gailioniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gailioni\u0173",
+        "Gayl\u00ebnyay",
+        "Gaylionyay",
+        "Gailioniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599546
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d2a28fbf3abb605ef83cb02c333c95d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1209749269,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1209749269,
+    "wof:lastmodified":1537662327,
+    "wof:name":"Gailioniai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.07529,
+    56.05826,
+    24.07529,
+    56.05826
+],
+  "geometry": {"coordinates":[24.07529,56.05826],"type":"Point"}
+}

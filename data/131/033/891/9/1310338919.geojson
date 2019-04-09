@@ -1,0 +1,75 @@
+{
+  "id": 1310338919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.55694,54.44889,24.55694,54.44889",
+    "geom:latitude":54.44889,
+    "geom:longitude":24.55694,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Kietaviskes",
+    "gn:country_code":"LT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598163,
+    "gn:latitude":54.44889,
+    "gn:longitude":24.55694,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kietavi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ketavishkes",
+        "Kiyetavishkes",
+        "Kietavi\u0161kis",
+        "Keytovichi",
+        "Kietavi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598163
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c437decd3f2177e14004d9dd0c0d7a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1310338919,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1310338919,
+    "wof:lastmodified":1537662234,
+    "wof:name":"Kietaviskes",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.55694,
+    54.44889000000001,
+    24.55694,
+    54.44889000000001
+],
+  "geometry": {"coordinates":[24.55694,54.44889000000001],"type":"Point"}
+}

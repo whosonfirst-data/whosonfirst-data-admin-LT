@@ -1,0 +1,71 @@
+{
+  "id": 1193052787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.84342,55.47422,22.84342,55.47422",
+    "geom:latitude":55.47422,
+    "geom:longitude":22.84342,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Uzzalpiai",
+    "gn:country_code":"LT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303621,
+    "gn:latitude":55.47422,
+    "gn:longitude":22.84342,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"U\u017e\u017ealpiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "U\u017e\u017ealpiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303621
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"13da0cbd784f8093c52ab6da3961670c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1193052787,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1193052787,
+    "wof:lastmodified":1537662805,
+    "wof:name":"Uzzalpiai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84342,
+    55.47422,
+    22.84342,
+    55.47422
+],
+  "geometry": {"coordinates":[22.84342,55.47422],"type":"Point"}
+}

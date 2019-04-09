@@ -1,0 +1,76 @@
+{
+  "id": 1243007907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69386,55.56594,22.69386,55.56594",
+    "geom:latitude":55.56594,
+    "geom:longitude":22.69386,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Pluscios",
+    "gn:country_code":"LT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595681,
+    "gn:latitude":55.56594,
+    "gn:longitude":22.69386,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pl\u016bs\u010dios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pl\u016bs\u010dios"
+    ],
+    "name:und_x_variant":[
+        "Plushche",
+        "Pl\u016b\u0161\u010dias",
+        "Pl\u016b\u0161\u010dios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595681
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a6fe3f8f6899ab48c51fbb07c93ae1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1243007907,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1243007907,
+    "wof:lastmodified":1537662058,
+    "wof:name":"Pluscios",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69386,
+    55.56594000000001,
+    22.69386,
+    55.56594000000001
+],
+  "geometry": {"coordinates":[22.69386,55.56594000000001],"type":"Point"}
+}

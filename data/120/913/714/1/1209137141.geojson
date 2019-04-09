@@ -1,0 +1,65 @@
+{
+  "id": 1209137141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55868,54.13109,23.55868,54.13109",
+    "geom:latitude":54.13109,
+    "geom:longitude":23.55868,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Zelionka",
+    "gn:country_code":"LT",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304673,
+    "gn:latitude":54.13109,
+    "gn:longitude":23.55868,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zelionka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zelionka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304673
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c091fc5f0d6d0706dbc88fe6e63bb5bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209137141
+        }
+    ],
+    "wof:id":1209137141,
+    "wof:lastmodified":1537662828,
+    "wof:name":"Zelionka",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55868,
+    54.13109,
+    23.55868,
+    54.13109
+],
+  "geometry": {"coordinates":[23.55868,54.13109],"type":"Point"}
+}

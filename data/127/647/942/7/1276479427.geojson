@@ -1,0 +1,77 @@
+{
+  "id": 1276479427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63677,55.49753,21.63677,55.49753",
+    "geom:latitude":55.49753,
+    "geom:longitude":21.63677,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Vilkenas I",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593147,
+    "gn:latitude":55.49753,
+    "gn:longitude":21.63677,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vilk\u0117nas I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vilk\u0117nas I"
+    ],
+    "name:und_x_variant":[
+        "Vilk\u0117nai",
+        "Vilk\u0117nas Pirmieji",
+        "Vilk\u0117n\u0173",
+        "Vilk\u0117nas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593147
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5780facc43a788b47da3069222c611fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1276479427,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1276479427,
+    "wof:lastmodified":1537661887,
+    "wof:name":"Vilkenas I",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63677,
+    55.49753000000001,
+    21.63677,
+    55.49753000000001
+],
+  "geometry": {"coordinates":[21.63677,55.49753000000001],"type":"Point"}
+}

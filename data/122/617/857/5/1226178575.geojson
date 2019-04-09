@@ -1,0 +1,71 @@
+{
+  "id": 1226178575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.37569,55.6106,23.37569,55.6106",
+    "geom:latitude":55.6106,
+    "geom:longitude":23.37569,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Butkiai",
+    "gn:country_code":"LT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305983,
+    "gn:latitude":55.6106,
+    "gn:longitude":23.37569,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Butkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Butkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305983
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c1a869bef3d8d5590c01158c2c673e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1226178575,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226178575,
+    "wof:lastmodified":1537662859,
+    "wof:name":"Butkiai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.37569,
+    55.6106,
+    23.37569,
+    55.6106
+],
+  "geometry": {"coordinates":[23.37569,55.6106],"type":"Point"}
+}

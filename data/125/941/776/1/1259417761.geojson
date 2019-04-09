@@ -1,0 +1,73 @@
+{
+  "id": 1259417761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25938,56.18629,24.25938,56.18629",
+    "geom:latitude":56.18629,
+    "geom:longitude":24.25938,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Payslykis",
+    "gn:country_code":"LT",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595913,
+    "gn:latitude":56.18629,
+    "gn:longitude":24.25938,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Payslykis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paislikio",
+        "Paisiklis",
+        "Payslykis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595913
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a3fa9f332475d70bcaf513b81c8d4d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1259417761,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1259417761,
+    "wof:lastmodified":1537662075,
+    "wof:name":"Payslykis",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25938,
+    56.18629,
+    24.25938,
+    56.18629
+],
+  "geometry": {"coordinates":[24.25938,56.18629],"type":"Point"}
+}

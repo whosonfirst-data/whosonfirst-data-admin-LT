@@ -1,0 +1,72 @@
+{
+  "id": 1310441883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0814,55.50795,22.0814,55.50795",
+    "geom:latitude":55.50795,
+    "geom:longitude":22.0814,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Sarkai",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594939,
+    "gn:latitude":55.50795,
+    "gn:longitude":22.0814,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160arkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharki",
+        "\u0160arkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594939
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"359dc4d9b18ef9b1b178b7e7c735a613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1310441883,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1310441883,
+    "wof:lastmodified":1537662008,
+    "wof:name":"Sarkai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0814,
+    55.50795,
+    22.0814,
+    55.50795
+],
+  "geometry": {"coordinates":[22.0814,55.50795],"type":"Point"}
+}

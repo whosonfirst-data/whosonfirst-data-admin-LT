@@ -1,0 +1,71 @@
+{
+  "id": 1326959561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80164,56.02663,21.80164,56.02663",
+    "geom:latitude":56.02663,
+    "geom:longitude":21.80164,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Pamedinciai",
+    "gn:country_code":"LT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290312,
+    "gn:latitude":56.02663,
+    "gn:longitude":21.80164,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pamedin\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pamedin\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290312
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"722c4773677582e5d718bd38875e9a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1326959561,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1326959561,
+    "wof:lastmodified":1537662469,
+    "wof:name":"Pamedinciai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80164,
+    56.02663,
+    21.80164,
+    56.02663
+],
+  "geometry": {"coordinates":[21.80164,56.02663],"type":"Point"}
+}

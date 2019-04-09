@@ -1,0 +1,71 @@
+{
+  "id": 1226273533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8164,56.04436,24.8164,56.04436",
+    "geom:latitude":56.04436,
+    "geom:longitude":24.8164,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Daunoriai",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298638,
+    "gn:latitude":56.04436,
+    "gn:longitude":24.8164,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Daunoriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Daunoriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298638
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"944581b87b83375743691ee96d31510e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1226273533,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226273533,
+    "wof:lastmodified":1537662681,
+    "wof:name":"Daunoriai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8164,
+    56.04436,
+    24.8164,
+    56.04436
+],
+  "geometry": {"coordinates":[24.8164,56.04436],"type":"Point"}
+}

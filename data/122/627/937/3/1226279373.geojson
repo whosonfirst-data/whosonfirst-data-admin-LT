@@ -1,0 +1,77 @@
+{
+  "id": 1226279373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45059,55.71158,24.45059,55.71158",
+    "geom:latitude":55.71158,
+    "geom:longitude":24.45059,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Karuziskiai",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598367,
+    "gn:latitude":55.71158,
+    "gn:longitude":24.45059,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Karu\u017ei\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Karu\u017ei\u0161kiai"
+    ],
+    "name:und_x_variant":[
+        "Karuzishkyay",
+        "Kar\u016b\u017ei\u0161kai",
+        "Kar\u016b\u017ei\u0161ki\u0173",
+        "Kar\u016b\u017ei\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598367
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"247e8a9b7d45cde4120f2bdcbc78907b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1226279373,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226279373,
+    "wof:lastmodified":1537662247,
+    "wof:name":"Karuziskiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45059,
+    55.71158000000001,
+    24.45059,
+    55.71158000000001
+],
+  "geometry": {"coordinates":[24.45059,55.71158000000001],"type":"Point"}
+}

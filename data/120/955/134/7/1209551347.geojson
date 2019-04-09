@@ -1,0 +1,65 @@
+{
+  "id": 1209551347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29709,55.2954,24.29709,55.2954",
+    "geom:latitude":55.2954,
+    "geom:longitude":24.29709,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Linksmaviete",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309671,
+    "gn:latitude":55.2954,
+    "gn:longitude":24.29709,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Linksmaviet\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Linksmaviet\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309671
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"26dc755a6399d4beebaced5f967ca5d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209551347
+        }
+    ],
+    "wof:id":1209551347,
+    "wof:lastmodified":1537662928,
+    "wof:name":"Linksmaviete",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29709,
+    55.2954,
+    24.29709,
+    55.2954
+],
+  "geometry": {"coordinates":[24.29709,55.2954],"type":"Point"}
+}

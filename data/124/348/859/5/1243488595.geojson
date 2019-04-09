@@ -1,0 +1,78 @@
+{
+  "id": 1243488595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53224,56.13978,24.53224,56.13978",
+    "geom:latitude":56.13978,
+    "geom:longitude":24.53224,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Trecioneliai",
+    "gn:country_code":"LT",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593844,
+    "gn:latitude":56.13978,
+    "gn:longitude":24.53224,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tre\u010dion\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tre\u010dion\u0117liai"
+    ],
+    "name:und_x_variant":[
+        "Tre\u010dioniai",
+        "Trechonay",
+        "Tre\u010dioni\u0173",
+        "Tryach\u00ebnelyay",
+        "Tre\u010dion\u00ebliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593844
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f8906400158e95285ead9a8967196721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1243488595,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243488595,
+    "wof:lastmodified":1537661932,
+    "wof:name":"Trecioneliai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53224,
+    56.13978,
+    24.53224,
+    56.13978
+],
+  "geometry": {"coordinates":[24.53224,56.13978],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343395789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85797,56.1382,23.85797,56.1382",
+    "geom:latitude":56.1382,
+    "geom:longitude":23.85797,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Sodeliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594371,
+    "gn:latitude":56.1382,
+    "gn:longitude":23.85797,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sodeli\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sodyalishkis",
+        "Sodeli\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594371
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c0126af8c40b7088b11313fe8c781c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1343395789,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343395789,
+    "wof:lastmodified":1537661967,
+    "wof:name":"Sodeliskiai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85797,
+    56.1382,
+    23.85797,
+    56.1382
+],
+  "geometry": {"coordinates":[23.85797,56.1382],"type":"Point"}
+}

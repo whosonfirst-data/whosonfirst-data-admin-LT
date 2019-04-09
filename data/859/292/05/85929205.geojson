@@ -1,0 +1,125 @@
+{
+  "id": 85929205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":17891340.518053,
+    "geom:bbox":"25.301475,54.719114,25.301475,54.719114",
+    "geom:latitude":54.719114,
+    "geom:longitude":25.301475,
+    "gn:id":"",
+    "iso:country":"LT",
+    "lbl:latitude":54.719114,
+    "lbl:longitude":25.301475,
+    "mps:latitude":54.719061,
+    "mps:longitude":25.306696,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:dan_x_preferred":[
+        "\u017dirm\u016bnai"
+    ],
+    "name:deu_x_preferred":[
+        "\u017dirm\u016bnai"
+    ],
+    "name:lav_x_preferred":[
+        "\u017dirm\u016bni"
+    ],
+    "name:lit_x_preferred":[
+        "\u017dirm\u016bnai"
+    ],
+    "name:pol_x_preferred":[
+        "\u017byrmuny"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0440\u043c\u0443\u043d\u0430\u0439"
+    ],
+    "name:und_x_preferred":[
+        "Zirmunai"
+    ],
+    "name:unk_x_variant":[
+        "Zirmunai"
+    ],
+    "qs:gn_adm0_cc":"LT",
+    "qs:gn_id":0,
+    "qs:gn_local":593116,
+    "qs:local_max":12571,
+    "qs:local_sum":23762,
+    "qs:localhoods":20,
+    "qs:name":"Zirmunai",
+    "qs:name_adm0":"Lietuva",
+    "qs:name_adm1":"Vilniaus Apskritis",
+    "qs:name_adm2":"Vilniaus Miesto Savivaldybe",
+    "qs:name_lau":"Vilnius",
+    "qs:name_local":"Vilnius",
+    "qs:photo_max":106,
+    "qs:photo_sum":646,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":72,
+    "qs:woe_adm0":23424875,
+    "qs:woe_adm1":55848083,
+    "qs:woe_adm2":2346097,
+    "qs:woe_lau":56044000,
+    "qs:woe_local":479616,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        101753031,
+        102073615,
+        85685759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55848100,
+        "qs:id":1091108,
+        "qs_pg:id":1091108
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6b44b64d4ab3905cdc98e512e8f53fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":85929205,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":85929205,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531939116,
+    "wof:name":"Zirmunai",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.301475,
+    54.719114,
+    25.301475,
+    54.719114
+],
+  "geometry": {"coordinates":[25.301475,54.719114],"type":"Point"}
+}

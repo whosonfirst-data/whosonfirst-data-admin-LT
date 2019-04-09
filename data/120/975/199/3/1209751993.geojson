@@ -1,0 +1,74 @@
+{
+  "id": 1209751993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65119,54.45388,24.65119,54.45388",
+    "geom:latitude":54.45388,
+    "geom:longitude":24.65119,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Gruozninkai",
+    "gn:country_code":"LT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599129,
+    "gn:latitude":54.45388,
+    "gn:longitude":24.65119,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gruo\u017eninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gruo\u017enik\u0173",
+        "Gruozhnikay",
+        "Gruo\u017eninkai",
+        "Gruo\u017enykai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599129
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e08856ec3b750aaf8c53b08769c7bf97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1209751993,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1209751993,
+    "wof:lastmodified":1537662298,
+    "wof:name":"Gruozninkai",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65119,
+    54.45388000000001,
+    24.65119,
+    54.45388000000001
+],
+  "geometry": {"coordinates":[24.65119,54.45388000000001],"type":"Point"}
+}

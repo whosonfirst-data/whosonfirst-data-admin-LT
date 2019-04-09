@@ -1,0 +1,68 @@
+{
+  "id": 1209249071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.11553,54.72269,23.11553,54.72269",
+    "geom:latitude":54.72269,
+    "geom:longitude":23.11553,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Alksnenai",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601121,
+    "gn:latitude":54.72269,
+    "gn:longitude":23.11553,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Alksn\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u2019ksnenay",
+        "Alksn\u0117n\u0173 Nauj\u0173j\u0173",
+        "Alksn\u0117n\u0173",
+        "Alksn\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601121
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"56b9620cfcda28dd9affe75342477f10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249071
+        }
+    ],
+    "wof:id":1209249071,
+    "wof:lastmodified":1537662434,
+    "wof:name":"Alksnenai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11553,
+    54.72269,
+    23.11553,
+    54.72269
+],
+  "geometry": {"coordinates":[23.11553,54.72269],"type":"Point"}
+}

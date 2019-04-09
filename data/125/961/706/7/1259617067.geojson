@@ -1,0 +1,71 @@
+{
+  "id": 1259617067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71428,54.74812,25.71428,54.74812",
+    "geom:latitude":54.74812,
+    "geom:longitude":25.71428,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Vitkiskes",
+    "gn:country_code":"LT",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295227,
+    "gn:latitude":54.74812,
+    "gn:longitude":25.71428,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vitki\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vitki\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295227
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"83e68f6f621ee1e146f57789bb142e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1259617067,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259617067,
+    "wof:lastmodified":1537662587,
+    "wof:name":"Vitkiskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71428,
+    54.74811999999999,
+    25.71428,
+    54.74811999999999
+],
+  "geometry": {"coordinates":[25.71428,54.74811999999999],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1125772463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6,54.26667,23.6,54.26667",
+    "geom:latitude":54.26667,
+    "geom:longitude":23.6,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":54.26667,
+    "lbl:longitude":23.6,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Giraytse"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":599299,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Giraite",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos":43,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":43,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":125567,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56039501,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599299,
+        "gp:id":56039501,
+        "qs_pg:id":125567
+    },
+    "wof:country":"LT",
+    "wof:created":1497290116,
+    "wof:geomhash":"907def6f32bb0537af084876fbd5ac00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1125772463,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1125772463,
+    "wof:lastmodified":1509391069,
+    "wof:name":"Giraite",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6,
+    54.26667,
+    23.6,
+    54.26667
+],
+  "geometry": {"coordinates":[23.6,54.26667],"type":"Point"}
+}

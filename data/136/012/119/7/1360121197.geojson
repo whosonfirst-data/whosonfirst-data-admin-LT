@@ -1,0 +1,71 @@
+{
+  "id": 1360121197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.40583,54.59562,23.40583,54.59562",
+    "geom:latitude":54.59562,
+    "geom:longitude":23.40583,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Nendriniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305172,
+    "gn:latitude":54.59562,
+    "gn:longitude":23.40583,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Nendrini\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Nendrini\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305172
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f8ae3f3cb4f1e4d44c23fff4f932094d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073595,
+            "locality_id":1360121197,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1360121197,
+    "wof:lastmodified":1537662842,
+    "wof:name":"Nendriniskiai",
+    "wof:parent_id":102073595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.40583,
+    54.59562,
+    23.40583,
+    54.59562
+],
+  "geometry": {"coordinates":[23.40583,54.59562],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344193429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24567,55.62576,21.24567,55.62576",
+    "geom:latitude":55.62576,
+    "geom:longitude":21.24567,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Gruceikiai",
+    "gn:country_code":"LT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599133,
+    "gn:latitude":55.62576,
+    "gn:longitude":21.24567,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gru\u010deikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gru\u010deikiai"
+    ],
+    "name:und_x_variant":[
+        "Grudshayken",
+        "Grud\u017eeikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599133
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cd874f4244c7eb8b532390de3f82d8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1344193429,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1344193429,
+    "wof:lastmodified":1537662298,
+    "wof:name":"Gruceikiai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24567,
+    55.62576,
+    21.24567,
+    55.62576
+],
+  "geometry": {"coordinates":[21.24567,55.62576],"type":"Point"}
+}

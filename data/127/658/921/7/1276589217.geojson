@@ -1,0 +1,71 @@
+{
+  "id": 1276589217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.94022,54.96446,23.94022,54.96446",
+    "geom:latitude":54.96446,
+    "geom:longitude":23.94022,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Saliai",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307344,
+    "gn:latitude":54.96446,
+    "gn:longitude":23.94022,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Saliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Saliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307344
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"95fdebe2ea73ea0505cebdbe7836b44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1276589217,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276589217,
+    "wof:lastmodified":1537662888,
+    "wof:name":"Saliai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.94022,
+    54.96446,
+    23.94022,
+    54.96446
+],
+  "geometry": {"coordinates":[23.94022,54.96446],"type":"Point"}
+}

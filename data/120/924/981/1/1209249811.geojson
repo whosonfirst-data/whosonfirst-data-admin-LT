@@ -1,0 +1,65 @@
+{
+  "id": 1209249811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90765,55.95431,22.90765,55.95431",
+    "geom:latitude":55.95431,
+    "geom:longitude":22.90765,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Ciuineliai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304404,
+    "gn:latitude":55.95431,
+    "gn:longitude":22.90765,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ciuineliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ciuineliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304404
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"94e6b8ad98ce1f30ec584197e5c29463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249811
+        }
+    ],
+    "wof:id":1209249811,
+    "wof:lastmodified":1537662823,
+    "wof:name":"Ciuineliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90765,
+    55.95431,
+    22.90765,
+    55.95431
+],
+  "geometry": {"coordinates":[22.90765,55.95431],"type":"Point"}
+}

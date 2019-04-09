@@ -1,0 +1,72 @@
+{
+  "id": 1226073929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8878,55.70573,22.8878,55.70573",
+    "geom:latitude":55.70573,
+    "geom:longitude":22.8878,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Miezaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597018,
+    "gn:latitude":55.70573,
+    "gn:longitude":22.8878,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mie\u017eai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mezhayteli",
+        "Mie\u017eai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597018
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0a6507c2d387c034da9bb9da860dd502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1226073929,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226073929,
+    "wof:lastmodified":1537662157,
+    "wof:name":"Miezaiciai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8878,
+    55.70573,
+    22.8878,
+    55.70573
+],
+  "geometry": {"coordinates":[22.8878,55.70573],"type":"Point"}
+}

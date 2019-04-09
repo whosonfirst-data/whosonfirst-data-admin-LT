@@ -1,0 +1,75 @@
+{
+  "id": 1343496309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16489,55.93196,24.16489,55.93196",
+    "geom:latitude":55.93196,
+    "geom:longitude":24.16489,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Jaciunai",
+    "gn:country_code":"LT",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598941,
+    "gn:latitude":55.93196,
+    "gn:longitude":24.16489,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jaci\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jaci\u016bnai"
+    ],
+    "name:und_x_variant":[
+        "Yatsuny",
+        "Ja\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598941
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"507a6e5cbae29861664b2a2bb1c6bb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1343496309,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343496309,
+    "wof:lastmodified":1537662286,
+    "wof:name":"Jaciunai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16489,
+    55.93196,
+    24.16489,
+    55.93196
+],
+  "geometry": {"coordinates":[24.16489,55.93196],"type":"Point"}
+}

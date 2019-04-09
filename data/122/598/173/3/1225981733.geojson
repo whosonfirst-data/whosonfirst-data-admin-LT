@@ -1,0 +1,71 @@
+{
+  "id": 1225981733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69333,54.60905,23.69333,54.60905",
+    "geom:latitude":54.60905,
+    "geom:longitude":23.69333,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"69.0",
+    "gn:asciiname":"Kuisiai",
+    "gn:country_code":"LT",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597897,
+    "gn:latitude":54.60905,
+    "gn:longitude":23.69333,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kui\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kui\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597897
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b37bfd08ac1ebb0a6a8ecd382c41c6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073603,
+            "locality_id":1225981733,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1225981733,
+    "wof:lastmodified":1537662215,
+    "wof:name":"Kuisiai",
+    "wof:parent_id":102073603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69333,
+    54.60905,
+    23.69333,
+    54.60905
+],
+  "geometry": {"coordinates":[23.69333,54.60905],"type":"Point"}
+}

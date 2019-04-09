@@ -1,0 +1,71 @@
+{
+  "id": 1242611339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17278,55.89156,21.17278,55.89156",
+    "geom:latitude":55.89156,
+    "geom:longitude":21.17278,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Prysmanciai",
+    "gn:country_code":"LT",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595575,
+    "gn:latitude":55.89156,
+    "gn:longitude":21.17278,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pry\u0161man\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pry\u0161man\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595575
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d481c35f664ada3e52c4b0348147a2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":1242611339,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1242611339,
+    "wof:lastmodified":1537662050,
+    "wof:name":"Prysmanciai",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17278,
+    55.89156,
+    21.17278,
+    55.89156
+],
+  "geometry": {"coordinates":[21.17278,55.89156],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226784315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6277,55.41862,23.6277,55.41862",
+    "geom:latitude":55.41862,
+    "geom:longitude":23.6277,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Paskerdumys",
+    "gn:country_code":"LT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307548,
+    "gn:latitude":55.41862,
+    "gn:longitude":23.6277,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paskerd\u016bmys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paskerd\u016bmys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307548
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8c03218a721267b4e2381e3ed39b4cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1226784315,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226784315,
+    "wof:lastmodified":1537662891,
+    "wof:name":"Paskerdumys",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6277,
+    55.41862,
+    23.6277,
+    55.41862
+],
+  "geometry": {"coordinates":[23.6277,55.41862],"type":"Point"}
+}

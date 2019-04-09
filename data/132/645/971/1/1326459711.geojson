@@ -1,0 +1,71 @@
+{
+  "id": 1326459711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.536,54.29602,23.536,54.29602",
+    "geom:latitude":54.29602,
+    "geom:longitude":23.536,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Kurdimaksciai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304833,
+    "gn:latitude":54.29602,
+    "gn:longitude":23.536,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kurdimak\u0161\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kurdimak\u0161\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304833
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4d5747b37e806a312e46eeac6b8982ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1326459711,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1326459711,
+    "wof:lastmodified":1537662832,
+    "wof:name":"Kurdimaksciai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.536,
+    54.29602,
+    23.536,
+    54.29602
+],
+  "geometry": {"coordinates":[23.536,54.29602],"type":"Point"}
+}

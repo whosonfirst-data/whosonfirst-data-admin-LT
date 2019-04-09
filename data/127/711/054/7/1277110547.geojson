@@ -1,0 +1,72 @@
+{
+  "id": 1277110547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92024,56.18315,23.92024,56.18315",
+    "geom:latitude":56.18315,
+    "geom:longitude":23.92024,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Viseikiai",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864454,
+    "gn:latitude":56.18315,
+    "gn:longitude":23.92024,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vi\u0161eikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Visheykyay",
+        "Vi\u0161eikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864454
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c9babdcc7f88ad11acde706e0f64d6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1277110547,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1277110547,
+    "wof:lastmodified":1537662445,
+    "wof:name":"Viseikiai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92024,
+    56.18315,
+    23.92024,
+    56.18315
+],
+  "geometry": {"coordinates":[23.92024,56.18315],"type":"Point"}
+}

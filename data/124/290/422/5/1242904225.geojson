@@ -1,0 +1,74 @@
+{
+  "id": 1242904225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.05283,56.26247,25.05283,56.26247",
+    "geom:latitude":56.26247,
+    "geom:longitude":25.05283,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Tamosiunai II",
+    "gn:country_code":"LT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593992,
+    "gn:latitude":56.26247,
+    "gn:longitude":25.05283,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tamo\u0161i\u016bnai II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tamo\u0161i\u016bnai II"
+    ],
+    "name:lit_x_variant":[
+        "Tamo\u0161iunai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593992
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7ed0148f778212fd74dfc1847211555c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1242904225,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1242904225,
+    "wof:lastmodified":1537661941,
+    "wof:name":"Tamosiunai II",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.05283,
+    56.26246999999999,
+    25.05283,
+    56.26246999999999
+],
+  "geometry": {"coordinates":[25.05283,56.26246999999999],"type":"Point"}
+}

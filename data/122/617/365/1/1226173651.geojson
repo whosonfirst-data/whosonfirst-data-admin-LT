@@ -1,0 +1,71 @@
+{
+  "id": 1226173651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79624,56.14276,22.79624,56.14276",
+    "geom:latitude":56.14276,
+    "geom:longitude":22.79624,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Daubiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304293,
+    "gn:latitude":56.14276,
+    "gn:longitude":22.79624,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Daubiskiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Daubiskiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304293
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"722d11dc1712d8c26958672491943543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1226173651,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226173651,
+    "wof:lastmodified":1537662821,
+    "wof:name":"Daubiskiai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79624,
+    56.14276,
+    22.79624,
+    56.14276
+],
+  "geometry": {"coordinates":[22.79624,56.14276],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343988947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46811,55.67142,26.46811,55.67142",
+    "geom:latitude":55.67142,
+    "geom:longitude":26.46811,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Kamariske",
+    "gn:country_code":"LT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290919,
+    "gn:latitude":55.67142,
+    "gn:longitude":26.46811,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kamari\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kamari\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290919
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9fc97728b4bda4bd4fa6f725ec54e178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1343988947,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343988947,
+    "wof:lastmodified":1537662481,
+    "wof:name":"Kamariske",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46811,
+    55.67142,
+    26.46811,
+    55.67142
+],
+  "geometry": {"coordinates":[26.46811,55.67142],"type":"Point"}
+}

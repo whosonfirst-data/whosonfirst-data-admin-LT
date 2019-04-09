@@ -1,0 +1,71 @@
+{
+  "id": 1344190895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.76484,55.66321,21.76484,55.66321",
+    "geom:latitude":55.66321,
+    "geom:longitude":21.76484,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Sausiai",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289872,
+    "gn:latitude":55.66321,
+    "gn:longitude":21.76484,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sausiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sausiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289872
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"955a7847b7826c2e6c7961c3fc150823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1344190895,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1344190895,
+    "wof:lastmodified":1537662463,
+    "wof:name":"Sausiai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.76484,
+    55.66321,
+    21.76484,
+    55.66321
+],
+  "geometry": {"coordinates":[21.76484,55.66321],"type":"Point"}
+}

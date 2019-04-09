@@ -1,0 +1,70 @@
+{
+  "id": 1209646613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66578,55.85776,25.66578,55.85776",
+    "geom:latitude":55.85776,
+    "geom:longitude":25.66578,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Norkunai",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596786,
+    "gn:latitude":55.85776,
+    "gn:longitude":25.66578,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nork\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Nork\u016bnai"
+    ],
+    "name:und_x_variant":[
+        "Narkunay",
+        "Nark\u016bn\u0173",
+        "Nark\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596786
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8af7aed43f2f814a069318c7b53da743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209646613
+        }
+    ],
+    "wof:id":1209646613,
+    "wof:lastmodified":1537662140,
+    "wof:name":"Norkunai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66578,
+    55.85776,
+    25.66578,
+    55.85776
+],
+  "geometry": {"coordinates":[25.66578,55.85776],"type":"Point"}
+}

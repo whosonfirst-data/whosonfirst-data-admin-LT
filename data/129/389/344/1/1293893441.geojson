@@ -1,0 +1,72 @@
+{
+  "id": 1293893441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05,55.86667,24.05,55.86667",
+    "geom:latitude":55.86667,
+    "geom:longitude":24.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Girele",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599287,
+    "gn:latitude":55.86667,
+    "gn:longitude":24.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Girel\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giralka",
+        "Girel\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599287
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0941db592c312a045e4fd7261b59a53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1293893441,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1293893441,
+    "wof:lastmodified":1537662309,
+    "wof:name":"Girele",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05,
+    55.86666999999999,
+    24.05,
+    55.86666999999999
+],
+  "geometry": {"coordinates":[24.05,55.86666999999999],"type":"Point"}
+}

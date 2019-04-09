@@ -1,0 +1,71 @@
+{
+  "id": 1293137133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75677,55.59011,21.75677,55.59011",
+    "geom:latitude":55.59011,
+    "geom:longitude":21.75677,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Misgiriai",
+    "gn:country_code":"LT",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289878,
+    "gn:latitude":55.59011,
+    "gn:longitude":21.75677,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Misgiriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Misgiriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289878
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3273080d365038d8187d4a2d8943eec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1293137133,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1293137133,
+    "wof:lastmodified":1537662464,
+    "wof:name":"Misgiriai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75677,
+    55.59011,
+    21.75677,
+    55.59011
+],
+  "geometry": {"coordinates":[21.75677,55.59011],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326666309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18282,55.04678,23.18282,55.04678",
+    "geom:latitude":55.04678,
+    "geom:longitude":23.18282,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Vaiguviskiai",
+    "gn:country_code":"LT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":593534,
+    "gn:latitude":55.04678,
+    "gn:longitude":23.18282,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vaiguvi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaygovishki",
+        "Vaiguvi\u0161ki\u0173",
+        "Vaiguvi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593534
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c00c090f9e317147a741bb378bb297a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1326666309,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1326666309,
+    "wof:lastmodified":1537661911,
+    "wof:name":"Vaiguviskiai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18282,
+    55.04678000000001,
+    23.18282,
+    55.04678000000001
+],
+  "geometry": {"coordinates":[23.18282,55.04678000000001],"type":"Point"}
+}

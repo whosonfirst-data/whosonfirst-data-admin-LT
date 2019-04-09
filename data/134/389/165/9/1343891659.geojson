@@ -1,0 +1,71 @@
+{
+  "id": 1343891659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65947,56.14059,23.65947,56.14059",
+    "geom:latitude":56.14059,
+    "geom:longitude":23.65947,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Klopai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308154,
+    "gn:latitude":56.14059,
+    "gn:longitude":23.65947,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Klopai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Klopai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308154
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1bdab2fe4853c61f362c2ae4ab5fb473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1343891659,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343891659,
+    "wof:lastmodified":1537662898,
+    "wof:name":"Klopai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65947,
+    56.14059,
+    23.65947,
+    56.14059
+],
+  "geometry": {"coordinates":[23.65947,56.14059],"type":"Point"}
+}

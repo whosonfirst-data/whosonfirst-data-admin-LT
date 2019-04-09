@@ -1,0 +1,79 @@
+{
+  "id": 1243007423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61641,56.19851,24.61641,56.19851",
+    "geom:latitude":56.19851,
+    "geom:longitude":24.61641,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Likenai",
+    "gn:country_code":"LT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597466,
+    "gn:latitude":56.19851,
+    "gn:longitude":24.61641,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lik\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lik\u0117nai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043a\u0435\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kurort Likenay",
+        "Likenay",
+        "Lik\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597466
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"211341874d90fa4bb3081ddefb9b78a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1243007423,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243007423,
+    "wof:lastmodified":1537662186,
+    "wof:name":"Likenai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61641,
+    56.19851,
+    24.61641,
+    56.19851
+],
+  "geometry": {"coordinates":[24.61641,56.19851],"type":"Point"}
+}

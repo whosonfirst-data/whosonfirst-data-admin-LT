@@ -1,0 +1,71 @@
+{
+  "id": 1309834531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02774,55.11429,25.02774,55.11429",
+    "geom:latitude":55.11429,
+    "geom:longitude":25.02774,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Limonys",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299961,
+    "gn:latitude":55.11429,
+    "gn:longitude":25.02774,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Limonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Limonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299961
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4a0c78367f452dbe5b4a8253501c763f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1309834531,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309834531,
+    "wof:lastmodified":1537662720,
+    "wof:name":"Limonys",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02774,
+    55.11429,
+    25.02774,
+    55.11429
+],
+  "geometry": {"coordinates":[25.02774,55.11429],"type":"Point"}
+}

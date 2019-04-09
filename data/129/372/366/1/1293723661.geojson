@@ -1,0 +1,71 @@
+{
+  "id": 1293723661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4778,55.39162,26.4778,55.39162",
+    "geom:latitude":55.39162,
+    "geom:longitude":26.4778,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Triklotiske",
+    "gn:country_code":"LT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291143,
+    "gn:latitude":55.39162,
+    "gn:longitude":26.4778,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Trikloti\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Trikloti\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291143
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"458a2a00e08aefda2b8dbca16adc6b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1293723661,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1293723661,
+    "wof:lastmodified":1537662487,
+    "wof:name":"Triklotiske",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4778,
+    55.39162,
+    26.4778,
+    55.39162
+],
+  "geometry": {"coordinates":[26.4778,55.39162],"type":"Point"}
+}

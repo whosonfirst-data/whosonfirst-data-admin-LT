@@ -1,0 +1,72 @@
+{
+  "id": 1243190635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23333,55.11667,22.23333,55.11667",
+    "geom:latitude":55.11667,
+    "geom:longitude":22.23333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aukstieji Zagmantai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600881,
+    "gn:latitude":55.11667,
+    "gn:longitude":22.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Auk\u0161tieji \u017dagmantai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khokh Zhagmanten",
+        "Auk\u0161tieji \u017dagmantai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600881
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cbe12b003e980343da4fced31b47d2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073623,
+            "locality_id":1243190635,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1243190635,
+    "wof:lastmodified":1537662420,
+    "wof:name":"Aukstieji Zagmantai",
+    "wof:parent_id":102073623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23333,
+    55.11666999999999,
+    22.23333,
+    55.11666999999999
+],
+  "geometry": {"coordinates":[22.23333,55.11666999999999],"type":"Point"}
+}

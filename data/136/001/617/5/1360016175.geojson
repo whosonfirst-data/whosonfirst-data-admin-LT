@@ -1,0 +1,73 @@
+{
+  "id": 1360016175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92791,56.27109,24.92791,56.27109",
+    "geom:latitude":56.27109,
+    "geom:longitude":24.92791,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Spalviskiai",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594349,
+    "gn:latitude":56.27109,
+    "gn:longitude":24.92791,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Spalvi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spalvi\u0161ki\u0173",
+        "Spal\u2019vishkyay",
+        "Spalvi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594349
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9cfccd32750c7387ed7d3a803e1c38d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1360016175,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360016175,
+    "wof:lastmodified":1537661966,
+    "wof:name":"Spalviskiai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92791,
+    56.27109,
+    24.92791,
+    56.27109
+],
+  "geometry": {"coordinates":[24.92791,56.27109],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343796429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78754,55.21073,24.78754,55.21073",
+    "geom:latitude":55.21073,
+    "geom:longitude":24.78754,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Varine",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299779,
+    "gn:latitude":55.21073,
+    "gn:longitude":24.78754,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Varin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Varin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299779
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b4298960c2c426aa7e4dba7e8779ddbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1343796429,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343796429,
+    "wof:lastmodified":1537662714,
+    "wof:name":"Varine",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78754,
+    55.21073000000001,
+    24.78754,
+    55.21073000000001
+],
+  "geometry": {"coordinates":[24.78754,55.21073000000001],"type":"Point"}
+}

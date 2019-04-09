@@ -1,0 +1,74 @@
+{
+  "id": 1326958699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64502,54.33535,23.64502,54.33535",
+    "geom:latitude":54.33535,
+    "geom:longitude":23.64502,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Babrauninkai",
+    "gn:country_code":"LT",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600810,
+    "gn:latitude":54.33535,
+    "gn:longitude":23.64502,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Babrauninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Babraunyk\u0173",
+        "Babraunink\u0173",
+        "Babrauninkay",
+        "Babrininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600810
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5d93adadf6ebedff10a3ea9bd4f2d6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1326958699,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1326958699,
+    "wof:lastmodified":1537662416,
+    "wof:name":"Babrauninkai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64502,
+    54.33535,
+    23.64502,
+    54.33535
+],
+  "geometry": {"coordinates":[23.64502,54.33535],"type":"Point"}
+}

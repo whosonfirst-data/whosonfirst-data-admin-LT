@@ -1,0 +1,66 @@
+{
+  "id": 1209139755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37184,55.31269,24.37184,55.31269",
+    "geom:latitude":55.31269,
+    "geom:longitude":24.37184,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Bebrikiai",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600563,
+    "gn:latitude":55.31269,
+    "gn:longitude":24.37184,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bebrikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobriki",
+        "Bebrikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600563
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e616f8e6d3a35b663b584b562583b5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209139755
+        }
+    ],
+    "wof:id":1209139755,
+    "wof:lastmodified":1537662398,
+    "wof:name":"Bebrikiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37184,
+    55.31269,
+    24.37184,
+    55.31269
+],
+  "geometry": {"coordinates":[24.37184,55.31269],"type":"Point"}
+}

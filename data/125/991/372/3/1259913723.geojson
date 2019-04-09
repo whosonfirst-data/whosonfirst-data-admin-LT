@@ -1,0 +1,73 @@
+{
+  "id": 1259913723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64552,55.02819,23.64552,55.02819",
+    "geom:latitude":55.02819,
+    "geom:longitude":23.64552,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Antalkiai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601033,
+    "gn:latitude":55.02819,
+    "gn:longitude":23.64552,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Antalkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shudchyay",
+        "Shudze",
+        "Antalkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601033
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f5769f4a639981bcdd5573c7d481726b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1259913723,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1259913723,
+    "wof:lastmodified":1537662429,
+    "wof:name":"Antalkiai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64552,
+    55.02819,
+    23.64552,
+    55.02819
+],
+  "geometry": {"coordinates":[23.64552,55.02819],"type":"Point"}
+}

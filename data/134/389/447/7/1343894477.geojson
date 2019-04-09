@@ -1,0 +1,73 @@
+{
+  "id": 1343894477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6763,56.18484,23.6763,56.18484",
+    "geom:latitude":56.18484,
+    "geom:longitude":23.6763,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Mielaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597098,
+    "gn:latitude":56.18484,
+    "gn:longitude":23.6763,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mielai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melai\u010diai",
+        "Melaychyay",
+        "Mielai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597098
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c46df2124562052778df70372da189ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1343894477,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343894477,
+    "wof:lastmodified":1537662162,
+    "wof:name":"Mielaiciai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6763,
+    56.18484,
+    23.6763,
+    56.18484
+],
+  "geometry": {"coordinates":[23.6763,56.18484],"type":"Point"}
+}

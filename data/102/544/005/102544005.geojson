@@ -1,0 +1,65 @@
+{
+  "id": 102544005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05555556,54.41277778,24.05555556,54.41277778",
+    "geom:latitude":54.412778,
+    "geom:longitude":24.055556,
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"269",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424875,
+        "county_id":2346046,
+        "localadmin_id":56044090,
+        "planet_id":1,
+        "state_id":55848082
+    },
+    "wof:belongsto":[
+        85633269,
+        85685765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514580,
+        "icao:code":"EYAL",
+        "oa:id":"29658",
+        "wd:id":"Q763480"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"203bdac935065af30156bf69bfe2c5f7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102544005,
+            "country_id":85633269,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":102544005,
+    "wof:lastmodified":1548069916,
+    "wof:name":"Alytus Airport",
+    "wof:parent_id":85685765,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    24.05555556,
+    54.41277778,
+    24.05555556,
+    54.41277778
+],
+  "geometry": {"coordinates":[24.05555556,54.41277778],"type":"Point"}
+}

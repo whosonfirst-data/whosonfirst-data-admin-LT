@@ -1,0 +1,74 @@
+{
+  "id": 1293518411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88428,55.1581,23.88428,55.1581",
+    "geom:latitude":55.1581,
+    "geom:longitude":23.88428,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Kacergiai",
+    "gn:country_code":"LT",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598601,
+    "gn:latitude":55.1581,
+    "gn:longitude":23.88428,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ka\u010dergiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kachergyay",
+        "Kachergine",
+        "Kochergi",
+        "Ka\u010dergiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598601
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"64cb2d7eab5e455d709a4e7405534b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1293518411,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293518411,
+    "wof:lastmodified":1537662263,
+    "wof:name":"Kacergiai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88428,
+    55.1581,
+    23.88428,
+    55.1581
+],
+  "geometry": {"coordinates":[23.88428,55.1581],"type":"Point"}
+}

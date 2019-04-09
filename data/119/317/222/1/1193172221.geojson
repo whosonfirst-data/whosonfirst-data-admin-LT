@@ -1,0 +1,71 @@
+{
+  "id": 1193172221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48976,54.64188,24.48976,54.64188",
+    "geom:latitude":54.64188,
+    "geom:longitude":24.48976,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Morkunava",
+    "gn:country_code":"LT",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310957,
+    "gn:latitude":54.64188,
+    "gn:longitude":24.48976,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mork\u016bnava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mork\u016bnava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310957
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"567430d09cd72670c9d0c50b382a61c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1193172221,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1193172221,
+    "wof:lastmodified":1537662954,
+    "wof:name":"Morkunava",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48976,
+    54.64188000000001,
+    24.48976,
+    54.64188000000001
+],
+  "geometry": {"coordinates":[24.48976,54.64188000000001],"type":"Point"}
+}

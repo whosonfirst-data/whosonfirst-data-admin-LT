@@ -1,0 +1,65 @@
+{
+  "id": 1209345965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83119,55.51308,23.83119,55.51308",
+    "geom:latitude":55.51308,
+    "geom:longitude":23.83119,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Tremtiniai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593840,
+    "gn:latitude":55.51308,
+    "gn:longitude":23.83119,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tremtiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tremtiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593840
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6bbe4586ec5f0695e96d97ee3d7764ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209345965
+        }
+    ],
+    "wof:id":1209345965,
+    "wof:lastmodified":1537661931,
+    "wof:name":"Tremtiniai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83119,
+    55.51308,
+    23.83119,
+    55.51308
+],
+  "geometry": {"coordinates":[23.83119,55.51308],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293231093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97251,54.95022,23.97251,54.95022",
+    "geom:latitude":54.95022,
+    "geom:longitude":23.97251,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Naujasodis (Karmelava)",
+    "gn:country_code":"LT",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9610014,
+    "gn:latitude":54.95022,
+    "gn:longitude":23.97251,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Naujasodis (Karm\u0117lava)",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9610014
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"43319cf15e8650c43745a6d418a178cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1293231093,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293231093,
+    "wof:lastmodified":1536659881,
+    "wof:name":"Naujasodis (Karmelava)",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97251,
+    54.95022,
+    23.97251,
+    54.95022
+],
+  "geometry": {"coordinates":[23.97251,54.95022],"type":"Point"}
+}

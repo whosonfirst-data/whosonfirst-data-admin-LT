@@ -1,0 +1,72 @@
+{
+  "id": 1343595005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43592,55.76397,21.43592,55.76397",
+    "geom:latitude":55.76397,
+    "geom:longitude":21.43592,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Zvelsenai",
+    "gn:country_code":"LT",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592688,
+    "gn:latitude":55.76397,
+    "gn:longitude":21.43592,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017dvels\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhvel\u2019syany",
+        "\u017dvels\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592688
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ff92b7ac8d6da9e186257f7530109c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1343595005,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1343595005,
+    "wof:lastmodified":1537661857,
+    "wof:name":"Zvelsenai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43592,
+    55.76396999999999,
+    21.43592,
+    55.76396999999999
+],
+  "geometry": {"coordinates":[21.43592,55.76396999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226680163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56531,55.39675,21.56531,55.39675",
+    "geom:latitude":55.39675,
+    "geom:longitude":21.56531,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Gnybalai",
+    "gn:country_code":"LT",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599235,
+    "gn:latitude":55.39675,
+    "gn:longitude":21.56531,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gnybalai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gnibalay",
+        "Gniballen",
+        "Gnybalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599235
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f2bd0af5aa0781ce1476eed904af8ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1226680163,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1226680163,
+    "wof:lastmodified":1537662305,
+    "wof:name":"Gnybalai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56531,
+    55.39675,
+    21.56531,
+    55.39675
+],
+  "geometry": {"coordinates":[21.56531,55.39675],"type":"Point"}
+}

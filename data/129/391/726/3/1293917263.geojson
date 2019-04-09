@@ -1,0 +1,71 @@
+{
+  "id": 1293917263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31658,54.56835,25.31658,54.56835",
+    "geom:latitude":54.56835,
+    "geom:longitude":25.31658,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Pysna",
+    "gn:country_code":"LT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298328,
+    "gn:latitude":54.56835,
+    "gn:longitude":25.31658,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Py\u0161na",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Py\u0161na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298328
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"eaa2f8b13f97dd48961edff651f4dcae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1293917263,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293917263,
+    "wof:lastmodified":1537662673,
+    "wof:name":"Pysna",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31658,
+    54.56835,
+    25.31658,
+    54.56835
+],
+  "geometry": {"coordinates":[25.31658,54.56835],"type":"Point"}
+}

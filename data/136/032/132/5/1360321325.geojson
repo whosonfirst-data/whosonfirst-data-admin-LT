@@ -1,0 +1,71 @@
+{
+  "id": 1360321325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00067,56.41054,22.00067,56.41054",
+    "geom:latitude":56.41054,
+    "geom:longitude":22.00067,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Paluse",
+    "gn:country_code":"LT",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301775,
+    "gn:latitude":56.41054,
+    "gn:longitude":22.00067,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pal\u016b\u0161\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pal\u016b\u0161\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301775
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b87433e93d561e556738f6bce065f243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1360321325,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1360321325,
+    "wof:lastmodified":1537662765,
+    "wof:name":"Paluse",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00067,
+    56.41054000000001,
+    22.00067,
+    56.41054000000001
+],
+  "geometry": {"coordinates":[22.00067,56.41054000000001],"type":"Point"}
+}

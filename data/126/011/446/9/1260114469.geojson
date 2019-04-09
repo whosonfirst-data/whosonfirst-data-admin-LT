@@ -1,0 +1,72 @@
+{
+  "id": 1260114469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37242,55.60599,24.37242,55.60599",
+    "geom:latitude":55.60599,
+    "geom:longitude":24.37242,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Kuciai",
+    "gn:country_code":"LT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597908,
+    "gn:latitude":55.60599,
+    "gn:longitude":24.37242,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ku\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuche",
+        "Ku\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597908
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c02244834305141d154f02aa02cd93d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1260114469,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1260114469,
+    "wof:lastmodified":1537662216,
+    "wof:name":"Kuciai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37242,
+    55.60599000000001,
+    24.37242,
+    55.60599000000001
+],
+  "geometry": {"coordinates":[24.37242,55.60599000000001],"type":"Point"}
+}

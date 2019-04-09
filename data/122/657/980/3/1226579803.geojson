@@ -1,0 +1,71 @@
+{
+  "id": 1226579803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21307,55.03435,24.21307,55.03435",
+    "geom:latitude":55.03435,
+    "geom:longitude":24.21307,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Gumbiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309365,
+    "gn:latitude":55.03435,
+    "gn:longitude":24.21307,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gumbi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gumbi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309365
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1ec0304c1304af16e413a9e323d8f754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1226579803,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226579803,
+    "wof:lastmodified":1537662921,
+    "wof:name":"Gumbiskiai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21307,
+    55.03435,
+    24.21307,
+    55.03435
+],
+  "geometry": {"coordinates":[24.21307,55.03435],"type":"Point"}
+}

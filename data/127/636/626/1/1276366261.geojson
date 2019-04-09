@@ -1,0 +1,73 @@
+{
+  "id": 1276366261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12362,54.78054,24.12362,54.78054",
+    "geom:latitude":54.78054,
+    "geom:longitude":24.12362,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Piliuona",
+    "gn:country_code":"LT",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595754,
+    "gn:latitude":54.78054,
+    "gn:longitude":24.12362,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Piliuona",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pilivonos",
+        "Pilena",
+        "Piliuona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595754
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ce88f21f4225ec7bb400b81eec88aeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1276366261,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276366261,
+    "wof:lastmodified":1537662062,
+    "wof:name":"Piliuona",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12362000000001,
+    54.78054,
+    24.12362000000001,
+    54.78054
+],
+  "geometry": {"coordinates":[24.12362000000001,54.78054],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209549667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60882,54.72411,25.60882,54.72411",
+    "geom:latitude":54.72411,
+    "geom:longitude":25.60882,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Pauliukiskes",
+    "gn:country_code":"LT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295142,
+    "gn:latitude":54.72411,
+    "gn:longitude":25.60882,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pauliuki\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pauliuki\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295142
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d28e8a9cc0cdf5a6a344dbc011e93eab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209549667
+        }
+    ],
+    "wof:id":1209549667,
+    "wof:lastmodified":1537662584,
+    "wof:name":"Pauliukiskes",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60882,
+    54.72411,
+    25.60882,
+    54.72411
+],
+  "geometry": {"coordinates":[25.60882,54.72411],"type":"Point"}
+}

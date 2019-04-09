@@ -1,0 +1,73 @@
+{
+  "id": 1343598095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26714,55.56742,23.26714,55.56742",
+    "geom:latitude":55.56742,
+    "geom:longitude":23.26714,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Plekaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595713,
+    "gn:latitude":55.56742,
+    "gn:longitude":23.26714,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Plekai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plekaychyay",
+        "Plekaytse",
+        "Plekai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595713
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5946a9d08798aa37094292eceb323e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1343598095,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343598095,
+    "wof:lastmodified":1537662060,
+    "wof:name":"Plekaiciai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26714,
+    55.56742,
+    23.26714,
+    55.56742
+],
+  "geometry": {"coordinates":[23.26714,55.56742],"type":"Point"}
+}

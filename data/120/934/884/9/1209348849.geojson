@@ -1,0 +1,66 @@
+{
+  "id": 1209348849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98752,55.06922,22.98752,55.06922",
+    "geom:latitude":55.06922,
+    "geom:longitude":22.98752,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Daukantiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600008,
+    "gn:latitude":55.06922,
+    "gn:longitude":22.98752,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Daukanti\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daukantishkis",
+        "Daukanti\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600008
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0408569e933ef3fd7a20e66ea2658edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209348849
+        }
+    ],
+    "wof:id":1209348849,
+    "wof:lastmodified":1537662357,
+    "wof:name":"Daukantiskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98752,
+    55.06922,
+    22.98752,
+    55.06922
+],
+  "geometry": {"coordinates":[22.98752,55.06922],"type":"Point"}
+}

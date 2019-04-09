@@ -1,0 +1,72 @@
+{
+  "id": 1293408303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61667,55.9,22.61667,55.9",
+    "geom:latitude":55.9,
+    "geom:longitude":22.61667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kirkliukai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598130,
+    "gn:latitude":55.9,
+    "gn:longitude":22.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kirkliukai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirklyunay",
+        "Kirkliukai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598130
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d18e732378fb743fc4c8abd172a276a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1293408303,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293408303,
+    "wof:lastmodified":1537662232,
+    "wof:name":"Kirkliukai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61667000000001,
+    55.9,
+    22.61667000000001,
+    55.9
+],
+  "geometry": {"coordinates":[22.61667000000001,55.9],"type":"Point"}
+}

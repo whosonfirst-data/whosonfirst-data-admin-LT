@@ -1,0 +1,65 @@
+{
+  "id": 1209649045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83039,55.17673,25.83039,55.17673",
+    "geom:latitude":55.17673,
+    "geom:longitude":25.83039,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Lusnia",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294682,
+    "gn:latitude":55.17673,
+    "gn:longitude":25.83039,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"L\u016b\u0161nia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "L\u016b\u0161nia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294682
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8197499393a29d9ba130836cda70951c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209649045
+        }
+    ],
+    "wof:id":1209649045,
+    "wof:lastmodified":1537662574,
+    "wof:name":"Lusnia",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83039,
+    55.17673000000001,
+    25.83039,
+    55.17673000000001
+],
+  "geometry": {"coordinates":[25.83039,55.17673000000001],"type":"Point"}
+}

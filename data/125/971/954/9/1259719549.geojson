@@ -1,0 +1,71 @@
+{
+  "id": 1259719549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.691,55.30324,24.691,55.30324",
+    "geom:latitude":55.30324,
+    "geom:longitude":24.691,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Svaronys",
+    "gn:country_code":"LT",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311906,
+    "gn:latitude":55.30324,
+    "gn:longitude":24.691,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Svaronys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Svaronys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311906
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"42c52fbde414838acc1a09b1254c3ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1259719549,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259719549,
+    "wof:lastmodified":1537662978,
+    "wof:name":"Svaronys",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.691,
+    55.30324,
+    24.691,
+    55.30324
+],
+  "geometry": {"coordinates":[24.691,55.30324],"type":"Point"}
+}

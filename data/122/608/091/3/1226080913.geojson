@@ -1,0 +1,71 @@
+{
+  "id": 1226080913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98925,55.56737,22.98925,55.56737",
+    "geom:latitude":55.56737,
+    "geom:longitude":22.98925,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Jogeliske",
+    "gn:country_code":"LT",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303915,
+    "gn:latitude":55.56737,
+    "gn:longitude":22.98925,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jogeli\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jogeli\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303915
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7d9e5f1c05d118830f7c1f482e7405c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1226080913,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226080913,
+    "wof:lastmodified":1537662812,
+    "wof:name":"Jogeliske",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98925,
+    55.56737,
+    22.98925,
+    55.56737
+],
+  "geometry": {"coordinates":[22.98925,55.56737],"type":"Point"}
+}

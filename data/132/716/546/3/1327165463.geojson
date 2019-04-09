@@ -1,0 +1,76 @@
+{
+  "id": 1327165463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05193,55.22033,23.05193,55.22033",
+    "geom:latitude":55.22033,
+    "geom:longitude":23.05193,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Voluniske",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593025,
+    "gn:latitude":55.22033,
+    "gn:longitude":23.05193,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Voluni\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Voluni\u0161k\u0117"
+    ],
+    "name:und_x_variant":[
+        "Volonchishkyay",
+        "Volonchishki",
+        "Volungi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593025
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"01737c31e097542817d2a2e4f7218c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1327165463,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1327165463,
+    "wof:lastmodified":1537661880,
+    "wof:name":"Voluniske",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05193,
+    55.22033,
+    23.05193,
+    55.22033
+],
+  "geometry": {"coordinates":[23.05193,55.22033],"type":"Point"}
+}

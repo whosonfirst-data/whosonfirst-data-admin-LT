@@ -1,0 +1,73 @@
+{
+  "id": 1293814625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06799,55.70428,24.06799,55.70428",
+    "geom:latitude":55.70428,
+    "geom:longitude":24.06799,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Prievacka",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595589,
+    "gn:latitude":55.70428,
+    "gn:longitude":24.06799,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Prieva\u010dka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prieva\u010dkos",
+        "Preochki",
+        "Prieva\u010dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595589
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9a4343a302da8ec004d92611a3482402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1293814625,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293814625,
+    "wof:lastmodified":1537662051,
+    "wof:name":"Prievacka",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06799,
+    55.70428,
+    24.06799,
+    55.70428
+],
+  "geometry": {"coordinates":[24.06799,55.70428],"type":"Point"}
+}

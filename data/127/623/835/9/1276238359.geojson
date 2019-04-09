@@ -1,0 +1,73 @@
+{
+  "id": 1276238359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85,55.66667,21.85,55.66667",
+    "geom:latitude":55.66667,
+    "geom:longitude":21.85,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Spraudis II",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594329,
+    "gn:latitude":55.66667,
+    "gn:longitude":21.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Spraudis II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spraudis Antrasis",
+        "Spraudis",
+        "Spraudis II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594329
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e1a6443a788a2ac44ed5373d0cb13a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1276238359,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1276238359,
+    "wof:lastmodified":1537661965,
+    "wof:name":"Spraudis II",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85,
+    55.66667,
+    21.85,
+    55.66667
+],
+  "geometry": {"coordinates":[21.85,55.66667],"type":"Point"}
+}

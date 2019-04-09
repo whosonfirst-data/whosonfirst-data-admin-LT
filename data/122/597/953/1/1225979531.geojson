@@ -1,0 +1,71 @@
+{
+  "id": 1225979531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60051,54.72071,25.60051,54.72071",
+    "geom:latitude":54.72071,
+    "geom:longitude":25.60051,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Uosininkai III",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295141,
+    "gn:latitude":54.72071,
+    "gn:longitude":25.60051,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Uosininkai III",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Uosininkai III"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295141
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cf9156669a494b1c43231eaa41054e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1225979531,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1225979531,
+    "wof:lastmodified":1537662584,
+    "wof:name":"Uosininkai III",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60051,
+    54.72071,
+    25.60051,
+    54.72071
+],
+  "geometry": {"coordinates":[25.60051,54.72071],"type":"Point"}
+}

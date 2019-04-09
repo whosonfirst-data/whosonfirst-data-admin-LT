@@ -1,0 +1,78 @@
+{
+  "id": 1276908721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2167,55.55641,26.2167,55.55641",
+    "geom:latitude":55.55641,
+    "geom:longitude":26.2167,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Aukstakalniai",
+    "gn:country_code":"LT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600890,
+    "gn:latitude":55.55641,
+    "gn:longitude":26.2167,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Auk\u0161takalniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Auk\u0161takalniai"
+    ],
+    "name:und_x_variant":[
+        "Aukshtokal\u2019nis",
+        "Aukt\u0161akalnis",
+        "Auk\u0161takalnio",
+        "Auk\u0161takalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600890,
+        "wk:page":"Auk%C5%A1takalnis_%28Var%C4%97na%29"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9e350cdf58cb63b6fa5fa2ac4b3dc625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276908721,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276908721,
+    "wof:lastmodified":1537662421,
+    "wof:name":"Aukstakalniai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2167,
+    55.55641,
+    26.2167,
+    55.55641
+],
+  "geometry": {"coordinates":[26.2167,55.55641],"type":"Point"}
+}

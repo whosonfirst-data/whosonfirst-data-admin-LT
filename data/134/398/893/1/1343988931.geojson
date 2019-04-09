@@ -1,0 +1,81 @@
+{
+  "id": 1343988931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.47345,56.0205,25.47345,56.0205",
+    "geom:latitude":56.0205,
+    "geom:longitude":25.47345,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Ziobiskis",
+    "gn:country_code":"LT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592759,
+    "gn:latitude":56.0205,
+    "gn:longitude":25.47345,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017diobi\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u017diobi\u0161kis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u0431\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "\u017diobi\u0161kio",
+        "Zh\u00ebbishkis",
+        "Zhiobishkis",
+        "\u017babiszki",
+        "\u017diobi\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592759
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e31ba9dea90a037c3530a10c424b2ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1343988931,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343988931,
+    "wof:lastmodified":1537661862,
+    "wof:name":"Ziobiskis",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47345,
+    56.0205,
+    25.47345,
+    56.0205
+],
+  "geometry": {"coordinates":[25.47345,56.0205],"type":"Point"}
+}

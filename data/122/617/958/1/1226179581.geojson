@@ -1,0 +1,72 @@
+{
+  "id": 1226179581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56163,55.79738,25.56163,55.79738",
+    "geom:latitude":55.79738,
+    "geom:longitude":25.56163,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Kuoksiai",
+    "gn:country_code":"LT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597816,
+    "gn:latitude":55.79738,
+    "gn:longitude":25.56163,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kuok\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuokshyay",
+        "Kuok\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597816
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4251abcfa8223f37088f8a73975bf58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1226179581,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226179581,
+    "wof:lastmodified":1537662210,
+    "wof:name":"Kuoksiai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56163,
+    55.79738,
+    25.56163,
+    55.79738
+],
+  "geometry": {"coordinates":[25.56163,55.79738],"type":"Point"}
+}

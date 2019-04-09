@@ -1,0 +1,71 @@
+{
+  "id": 1243396999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98477,56.02903,23.98477,56.02903",
+    "geom:latitude":56.02903,
+    "geom:longitude":23.98477,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Lasmenpamusis",
+    "gn:country_code":"LT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308241,
+    "gn:latitude":56.02903,
+    "gn:longitude":23.98477,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"La\u0161menpam\u016b\u0161is",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "La\u0161menpam\u016b\u0161is"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308241
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3393132b75aad4f05503607bc36a590d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1243396999,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1243396999,
+    "wof:lastmodified":1537662900,
+    "wof:name":"Lasmenpamusis",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98477,
+    56.02903000000001,
+    23.98477,
+    56.02903000000001
+],
+  "geometry": {"coordinates":[23.98477,56.02903000000001],"type":"Point"}
+}

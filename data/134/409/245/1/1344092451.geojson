@@ -1,0 +1,81 @@
+{
+  "id": 1344092451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66839,55.23954,24.66839,55.23954",
+    "geom:latitude":55.23954,
+    "geom:longitude":24.66839,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Deltuva",
+    "gn:country_code":"LT",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599935,
+    "gn:latitude":55.23954,
+    "gn:longitude":24.66839,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Deltuva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Deltuva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044f\u043b\u0442\u0443\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Konstantinovo",
+        "Deltuvos",
+        "Dziewa\u0142t\u00f3w",
+        "Deltuva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599935,
+        "wk:page":"Deltuva"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5b82e431de1f1d68ea6560964b53db9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1344092451,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1344092451,
+    "wof:lastmodified":1537662351,
+    "wof:name":"Deltuva",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66839,
+    55.23954000000001,
+    24.66839,
+    55.23954000000001
+],
+  "geometry": {"coordinates":[24.66839,55.23954000000001],"type":"Point"}
+}

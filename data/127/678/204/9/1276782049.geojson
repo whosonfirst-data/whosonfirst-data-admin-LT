@@ -1,0 +1,71 @@
+{
+  "id": 1276782049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6805,56.1282,25.6805,56.1282",
+    "geom:latitude":56.1282,
+    "geom:longitude":25.6805,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Prudupe",
+    "gn:country_code":"LT",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595583,
+    "gn:latitude":56.1282,
+    "gn:longitude":25.6805,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Pr\u016bdup\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pr\u016bdupi\u0173",
+        "Pr\u016bdup\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595583
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"46728228f668cf2e0cfd422b1abbd0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1276782049,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276782049,
+    "wof:lastmodified":1537662051,
+    "wof:name":"Prudupe",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6805,
+    56.1282,
+    25.6805,
+    56.1282
+],
+  "geometry": {"coordinates":[25.6805,56.1282],"type":"Point"}
+}

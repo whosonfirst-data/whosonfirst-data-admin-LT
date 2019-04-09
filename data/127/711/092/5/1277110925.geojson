@@ -1,0 +1,74 @@
+{
+  "id": 1277110925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69113,56.28261,23.69113,56.28261",
+    "geom:latitude":56.28261,
+    "geom:longitude":23.69113,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Skilvioniai",
+    "gn:country_code":"LT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594546,
+    "gn:latitude":56.28261,
+    "gn:longitude":23.69113,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Skilvioniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skil\u2019vyany",
+        "Skilv\u012fani",
+        "Skil\u2019venyay",
+        "Skilvioniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594546
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7715092e1c9e60c9b597ed7bfaddce86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1277110925,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1277110925,
+    "wof:lastmodified":1537661979,
+    "wof:name":"Skilvioniai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69113,
+    56.28261,
+    23.69113,
+    56.28261
+],
+  "geometry": {"coordinates":[23.69113,56.28261],"type":"Point"}
+}

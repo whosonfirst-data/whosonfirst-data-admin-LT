@@ -1,0 +1,71 @@
+{
+  "id": 1309748289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41696,54.93207,24.41696,54.93207",
+    "geom:latitude":54.93207,
+    "geom:longitude":24.41696,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Paromates Krusonys",
+    "gn:country_code":"LT",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311262,
+    "gn:latitude":54.93207,
+    "gn:longitude":24.41696,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paromat\u0117s Kru\u0161onys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paromat\u0117s Kru\u0161onys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311262
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"eb34ca3eb6de200914159e3f121cdc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1309748289,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309748289,
+    "wof:lastmodified":1537662961,
+    "wof:name":"Paromates Krusonys",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41696,
+    54.93207,
+    24.41696,
+    54.93207
+],
+  "geometry": {"coordinates":[24.41696,54.93207],"type":"Point"}
+}

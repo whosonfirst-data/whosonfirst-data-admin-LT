@@ -1,0 +1,83 @@
+{
+  "id": 1242712505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.27385,55.41843,25.27385,55.41843",
+    "geom:latitude":55.41843,
+    "geom:longitude":25.27385,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Skiemonys",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594549,
+    "gn:latitude":55.41843,
+    "gn:longitude":25.27385,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Skiemonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Skiemonys"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0435\u043c\u043e\u043d\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Skiemiany",
+        "Skemyany",
+        "Skiyemonis",
+        "Skemonis",
+        "Skemoni\u0173",
+        "Skiemonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594549,
+        "wk:page":"Skiemonys"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f1792cbfc2edadce1552856ca070c85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1242712505,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1242712505,
+    "wof:lastmodified":1537661980,
+    "wof:name":"Skiemonys",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27385,
+    55.41843000000001,
+    25.27385,
+    55.41843000000001
+],
+  "geometry": {"coordinates":[25.27385,55.41843000000001],"type":"Point"}
+}

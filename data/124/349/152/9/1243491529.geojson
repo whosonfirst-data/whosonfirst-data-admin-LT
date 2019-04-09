@@ -1,0 +1,72 @@
+{
+  "id": 1243491529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20817,55.74471,22.20817,55.74471",
+    "geom:latitude":55.74471,
+    "geom:longitude":22.20817,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Pribitka",
+    "gn:country_code":"LT",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595602,
+    "gn:latitude":55.74471,
+    "gn:longitude":22.20817,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pribitka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pribytkay",
+        "Pribitka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595602
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2ef5d77a90b8a0f132c6c81c2810ee38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1243491529,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1243491529,
+    "wof:lastmodified":1537662052,
+    "wof:name":"Pribitka",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20817000000001,
+    55.74471,
+    22.20817000000001,
+    55.74471
+],
+  "geometry": {"coordinates":[22.20817000000001,55.74471],"type":"Point"}
+}

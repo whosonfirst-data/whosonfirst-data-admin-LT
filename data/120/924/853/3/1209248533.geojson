@@ -1,0 +1,65 @@
+{
+  "id": 1209248533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49967,55.07452,25.49967,55.07452",
+    "geom:latitude":55.07452,
+    "geom:longitude":25.49967,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Trumpakojai",
+    "gn:country_code":"LT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297478,
+    "gn:latitude":55.07452,
+    "gn:longitude":25.49967,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Trumpakojai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Trumpakojai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297478
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f96f7920affeb65829eda881fc1ca7ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209248533
+        }
+    ],
+    "wof:id":1209248533,
+    "wof:lastmodified":1537662648,
+    "wof:name":"Trumpakojai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49967,
+    55.07451999999999,
+    25.49967,
+    55.07451999999999
+],
+  "geometry": {"coordinates":[25.49967,55.07451999999999],"type":"Point"}
+}

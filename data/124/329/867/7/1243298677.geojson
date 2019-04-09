@@ -1,0 +1,77 @@
+{
+  "id": 1243298677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57073,55.34946,21.57073,55.34946",
+    "geom:latitude":55.34946,
+    "geom:longitude":21.57073,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Jonaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598828,
+    "gn:latitude":55.34946,
+    "gn:longitude":21.57073,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jonai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jonaten"
+    ],
+    "name:und_x_variant":[
+        "Yonaychey",
+        "Yonaychyay",
+        "Jonai\u010diai",
+        "Jonaten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598828
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0c412ea0880f681d82f19a3985c9b75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1243298677,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1243298677,
+    "wof:lastmodified":1537662278,
+    "wof:name":"Jonaiciai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57073,
+    55.34946,
+    21.57073,
+    55.34946
+],
+  "geometry": {"coordinates":[21.57073,55.34946],"type":"Point"}
+}

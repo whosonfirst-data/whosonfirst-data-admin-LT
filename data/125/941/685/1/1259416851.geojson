@@ -1,0 +1,71 @@
+{
+  "id": 1259416851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79637,55.61149,24.79637,55.61149",
+    "geom:latitude":55.61149,
+    "geom:longitude":24.79637,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Mileikiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299154,
+    "gn:latitude":55.61149,
+    "gn:longitude":24.79637,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mileiki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mileiki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299154
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d714154f90f35425c5cdfc4aa715161f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1259416851,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259416851,
+    "wof:lastmodified":1537662694,
+    "wof:name":"Mileikiskiai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79637,
+    55.61149,
+    24.79637,
+    55.61149
+],
+  "geometry": {"coordinates":[24.79637,55.61149],"type":"Point"}
+}

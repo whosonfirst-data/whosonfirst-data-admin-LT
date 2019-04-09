@@ -1,0 +1,73 @@
+{
+  "id": 1343397647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7425,54.49373,23.7425,54.49373",
+    "geom:latitude":54.49373,
+    "geom:longitude":23.7425,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Daugirdai",
+    "gn:country_code":"LT",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600021,
+    "gn:latitude":54.49373,
+    "gn:longitude":23.7425,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Daugirdai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dovgirdy",
+        "Daugird\u0173",
+        "Daugirdai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600021
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f0dd60b0730cd1e37c441e5697c712dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073595,
+            "locality_id":1343397647,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1343397647,
+    "wof:lastmodified":1537662358,
+    "wof:name":"Daugirdai",
+    "wof:parent_id":102073595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7425,
+    54.49373000000001,
+    23.7425,
+    54.49373000000001
+],
+  "geometry": {"coordinates":[23.7425,54.49373000000001],"type":"Point"}
+}

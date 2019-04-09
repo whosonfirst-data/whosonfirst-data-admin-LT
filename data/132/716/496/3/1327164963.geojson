@@ -1,0 +1,71 @@
+{
+  "id": 1327164963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.30334,54.87758,25.30334,54.87758",
+    "geom:latitude":54.87758,
+    "geom:longitude":25.30334,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Pranciskonys",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297749,
+    "gn:latitude":54.87758,
+    "gn:longitude":25.30334,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pranci\u0161konys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pranci\u0161konys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297749
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fb8f6b14b5984d9b5148dcb7b668deb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1327164963,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1327164963,
+    "wof:lastmodified":1537662657,
+    "wof:name":"Pranciskonys",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30334,
+    54.87758,
+    25.30334,
+    54.87758
+],
+  "geometry": {"coordinates":[25.30334,54.87758],"type":"Point"}
+}

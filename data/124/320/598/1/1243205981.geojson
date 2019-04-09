@@ -1,0 +1,73 @@
+{
+  "id": 1243205981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00343,55.48314,24.00343,55.48314",
+    "geom:latitude":55.48314,
+    "geom:longitude":24.00343,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Uzupe",
+    "gn:country_code":"LT",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593591,
+    "gn:latitude":55.48314,
+    "gn:longitude":24.00343,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"U\u017eup\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uzhupe",
+        "U\u017eup\u0117s",
+        "U\u017eup\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593591
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"68d41040245b353c60566ba9840a6ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1243205981,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1243205981,
+    "wof:lastmodified":1537661915,
+    "wof:name":"Uzupe",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00343,
+    55.48314,
+    24.00343,
+    55.48314
+],
+  "geometry": {"coordinates":[24.00343,55.48314],"type":"Point"}
+}

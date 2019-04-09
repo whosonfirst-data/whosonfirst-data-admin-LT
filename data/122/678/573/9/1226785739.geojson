@@ -1,0 +1,74 @@
+{
+  "id": 1226785739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94428,56.24821,21.94428,56.24821",
+    "geom:latitude":56.24821,
+    "geom:longitude":21.94428,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Pasile",
+    "gn:country_code":"LT",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596037,
+    "gn:latitude":56.24821,
+    "gn:longitude":21.94428,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u0161il\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poszylany",
+        "Pa\u0161il\u0117s",
+        "Poshile",
+        "Pa\u0161il\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596037
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5e3ce6ccc6c34a64584c48f5dae5ac0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1226785739,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1226785739,
+    "wof:lastmodified":1537662084,
+    "wof:name":"Pasile",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94428,
+    56.24821,
+    21.94428,
+    56.24821
+],
+  "geometry": {"coordinates":[21.94428,56.24821],"type":"Point"}
+}

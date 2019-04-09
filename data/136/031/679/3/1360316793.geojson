@@ -1,0 +1,72 @@
+{
+  "id": 1360316793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58882,54.76724,24.58882,54.76724",
+    "geom:latitude":54.76724,
+    "geom:longitude":24.58882,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Asakieniai",
+    "gn:country_code":"LT",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600938,
+    "gn:latitude":54.76724,
+    "gn:longitude":24.58882,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"A\u0161akieniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oshakentsy",
+        "A\u0161akieniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600938
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2e1fcae7e79c139109f762c28b3fd231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1360316793,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1360316793,
+    "wof:lastmodified":1537662424,
+    "wof:name":"Asakieniai",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58882,
+    54.76724,
+    24.58882,
+    54.76724
+],
+  "geometry": {"coordinates":[24.58882,54.76724],"type":"Point"}
+}

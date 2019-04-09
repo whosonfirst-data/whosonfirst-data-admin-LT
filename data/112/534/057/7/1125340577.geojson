@@ -1,0 +1,82 @@
+{
+  "id": 1125340577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.978004,54.016815,23.978004,54.016815",
+    "geom:latitude":54.016815,
+    "geom:longitude":23.978004,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":54.016815,
+    "lbl:longitude":23.978004,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Druskininkai",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Alytaus Apskritis",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":699,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1313749,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56043723,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Alytaus Apskritis",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043723,
+        "qs_pg:id":1313749
+    },
+    "wof:country":"LT",
+    "wof:created":1497045633,
+    "wof:geomhash":"15fd67f1415d486d008a2f7488a04b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073579,
+            "localadmin_id":1125340577,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1125340577,
+    "wof:lastmodified":1509388649,
+    "wof:name":"Druskininkai",
+    "wof:parent_id":102073579,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.978004,
+    54.016815,
+    23.978004,
+    54.016815
+],
+  "geometry": {"coordinates":[23.978004,54.016815],"type":"Point"}
+}

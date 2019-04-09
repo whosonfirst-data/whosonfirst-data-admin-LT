@@ -1,0 +1,73 @@
+{
+  "id": 1343889317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.14063,54.30493,24.14063,54.30493",
+    "geom:latitude":54.30493,
+    "geom:longitude":24.14063,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Dusnionys",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599680,
+    "gn:latitude":54.30493,
+    "gn:longitude":24.14063,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Du\u0161nionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dushnyany",
+        "Du\u0161nionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599680
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"22b67c2011fb14b8bb03ed0f492e91ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1343889317,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1343889317,
+    "wof:lastmodified":1537662335,
+    "wof:name":"Dusnionys",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.14063,
+    54.30493000000001,
+    24.14063,
+    54.30493000000001
+],
+  "geometry": {"coordinates":[24.14063,54.30493000000001],"type":"Point"}
+}

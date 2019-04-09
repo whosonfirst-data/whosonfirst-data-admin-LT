@@ -1,0 +1,71 @@
+{
+  "id": 1259718331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.17449,54.17696,24.17449,54.17696",
+    "geom:latitude":54.17696,
+    "geom:longitude":24.17449,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Zakavoliai",
+    "gn:country_code":"LT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308600,
+    "gn:latitude":54.17696,
+    "gn:longitude":24.17449,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zakavoliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zakavoliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308600
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f2eeaae6949db7285a4c3934be65a135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1259718331,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1259718331,
+    "wof:lastmodified":1537662905,
+    "wof:name":"Zakavoliai",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17449,
+    54.17696,
+    24.17449,
+    54.17696
+],
+  "geometry": {"coordinates":[24.17449,54.17696],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210050895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71182,55.37045,21.71182,55.37045",
+    "geom:latitude":55.37045,
+    "geom:longitude":21.71182,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Cipariai",
+    "gn:country_code":"LT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600162,
+    "gn:latitude":55.37045,
+    "gn:longitude":21.71182,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Cipariai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sipary",
+        "Tsiparyay",
+        "Cipariai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600162
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e56d49989897857f2928c408b7730ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1210050895,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1210050895,
+    "wof:lastmodified":1537662369,
+    "wof:name":"Cipariai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71182,
+    55.37045,
+    21.71182,
+    55.37045
+],
+  "geometry": {"coordinates":[21.71182,55.37045],"type":"Point"}
+}

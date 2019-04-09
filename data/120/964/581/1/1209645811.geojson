@@ -1,0 +1,66 @@
+{
+  "id": 1209645811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62546,54.88527,24.62546,54.88527",
+    "geom:latitude":54.88527,
+    "geom:longitude":24.62546,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Senkonys",
+    "gn:country_code":"LT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594809,
+    "gn:latitude":54.88527,
+    "gn:longitude":24.62546,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Senkonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Senkany",
+        "Senkonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594809
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e975c67b3718fdad7027de12d5de3b0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209645811
+        }
+    ],
+    "wof:id":1209645811,
+    "wof:lastmodified":1537661998,
+    "wof:name":"Senkonys",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62546,
+    54.88527,
+    24.62546,
+    54.88527
+],
+  "geometry": {"coordinates":[24.62546,54.88527],"type":"Point"}
+}

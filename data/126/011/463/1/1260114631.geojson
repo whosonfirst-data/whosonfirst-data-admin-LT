@@ -1,0 +1,76 @@
+{
+  "id": 1260114631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.333,55.43359,24.333,55.43359",
+    "geom:latitude":55.43359,
+    "geom:longitude":24.333,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Ramygolka",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594068,
+    "gn:latitude":55.43359,
+    "gn:longitude":24.333,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ramygolka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ramygolka"
+    ],
+    "name:und_x_variant":[
+        "Remigola",
+        "Ramigolka",
+        "\u0160ven\u010dgalis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594068
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"11a2bd4a1865d59e984c756dc9017e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1260114631,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260114631,
+    "wof:lastmodified":1537661946,
+    "wof:name":"Ramygolka",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.333,
+    55.43359,
+    24.333,
+    55.43359
+],
+  "geometry": {"coordinates":[24.333,55.43359],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344087587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.60854,56.29692,24.60854,56.29692",
+    "geom:latitude":56.29692,
+    "geom:longitude":24.60854,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Butautai",
+    "gn:country_code":"LT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600242,
+    "gn:latitude":56.29692,
+    "gn:longitude":24.60854,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Butautai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butaut\u0173",
+        "Butautay",
+        "Butautai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600242
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4e25acf59a730cc2236f7426f7997e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1344087587,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1344087587,
+    "wof:lastmodified":1537662375,
+    "wof:name":"Butautai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60854,
+    56.29691999999999,
+    24.60854,
+    56.29691999999999
+],
+  "geometry": {"coordinates":[24.60854,56.29691999999999],"type":"Point"}
+}

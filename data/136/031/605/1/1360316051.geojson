@@ -1,0 +1,71 @@
+{
+  "id": 1360316051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59101,55.24484,25.59101,55.24484",
+    "geom:latitude":55.24484,
+    "geom:longitude":25.59101,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Strizauciske",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294469,
+    "gn:latitude":55.24484,
+    "gn:longitude":25.59101,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Stri\u017eau\u010di\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Stri\u017eau\u010di\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294469
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b820735d4ebba2305e73ff86dc9a90f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1360316051,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1360316051,
+    "wof:lastmodified":1537662569,
+    "wof:name":"Strizauciske",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59101,
+    55.24484,
+    25.59101,
+    55.24484
+],
+  "geometry": {"coordinates":[25.59101,55.24484],"type":"Point"}
+}

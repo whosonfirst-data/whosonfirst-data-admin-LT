@@ -1,0 +1,71 @@
+{
+  "id": 1309842607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.60338,54.18307,25.60338,54.18307",
+    "geom:latitude":54.18307,
+    "geom:longitude":25.60338,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Lobas",
+    "gn:country_code":"LT",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295370,
+    "gn:latitude":54.18307,
+    "gn:longitude":25.60338,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lobas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lobas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295370
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ae5456ed21bb80bac726941c30b6768a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1309842607,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309842607,
+    "wof:lastmodified":1537662591,
+    "wof:name":"Lobas",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.60338,
+    54.18307,
+    25.60338,
+    54.18307
+],
+  "geometry": {"coordinates":[25.60338,54.18307],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1125942961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56667,55.31667,25.56667,55.31667",
+    "geom:latitude":55.31667,
+    "geom:longitude":25.56667,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":47,
+    "iso:country":"LT",
+    "lbl:latitude":55.31667,
+    "lbl:longitude":25.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kulionys"
+    ],
+    "name:eng_x_preferred":[
+        "Kulionys"
+    ],
+    "name:lit_x_preferred":[
+        "Kulionys"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0438\u043e\u043d\u0438\u0441"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":597870,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kulionys",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Utenos Apskritis",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":495770,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":475813,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Utenos Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597870,
+        "gp:id":475813,
+        "qs_pg:id":495770,
+        "wd:id":"Q6443036"
+    },
+    "wof:country":"LT",
+    "wof:created":1497297179,
+    "wof:geomhash":"952a00909c4e7cea8df5df202758f455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1125942961,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1125942961,
+    "wof:lastmodified":1514470343,
+    "wof:name":"Kulionys",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:population":47,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56667,
+    55.31667,
+    25.56667,
+    55.31667
+],
+  "geometry": {"coordinates":[25.56667,55.31667],"type":"Point"}
+}

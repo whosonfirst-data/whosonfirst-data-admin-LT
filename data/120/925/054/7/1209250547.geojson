@@ -1,0 +1,67 @@
+{
+  "id": 1209250547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44634,55.84428,23.44634,55.84428",
+    "geom:latitude":55.84428,
+    "geom:longitude":23.44634,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Mankiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597268,
+    "gn:latitude":55.84428,
+    "gn:longitude":23.44634,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Manki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manki\u0161ki\u0173",
+        "Mankishkyay",
+        "Manki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597268
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"55bd1afa1d0a39943e3eec65d9b299e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209250547
+        }
+    ],
+    "wof:id":1209250547,
+    "wof:lastmodified":1537662174,
+    "wof:name":"Mankiskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44634,
+    55.84428000000001,
+    23.44634,
+    55.84428000000001
+],
+  "geometry": {"coordinates":[23.44634,55.84428000000001],"type":"Point"}
+}

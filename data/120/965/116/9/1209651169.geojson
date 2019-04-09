@@ -1,0 +1,65 @@
+{
+  "id": 1209651169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.20097,54.7377,24.20097,54.7377",
+    "geom:latitude":54.7377,
+    "geom:longitude":24.20097,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Kleboniskis",
+    "gn:country_code":"LT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309099,
+    "gn:latitude":54.7377,
+    "gn:longitude":24.20097,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kleboni\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kleboni\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309099
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8e5dbab0731d1e0ff3a12ed54969777c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209651169
+        }
+    ],
+    "wof:id":1209651169,
+    "wof:lastmodified":1537662916,
+    "wof:name":"Kleboniskis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.20097,
+    54.7377,
+    24.20097,
+    54.7377
+],
+  "geometry": {"coordinates":[24.20097,54.7377],"type":"Point"}
+}

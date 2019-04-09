@@ -1,0 +1,65 @@
+{
+  "id": 1209140263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.00222,55.14447,26.00222,55.14447",
+    "geom:latitude":55.14447,
+    "geom:longitude":26.00222,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Statkuske",
+    "gn:country_code":"LT",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292548,
+    "gn:latitude":55.14447,
+    "gn:longitude":26.00222,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Statku\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Statku\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292548
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"740f0edee112efc4bcd7d7dd497f4791",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209140263
+        }
+    ],
+    "wof:id":1209140263,
+    "wof:lastmodified":1537662525,
+    "wof:name":"Statkuske",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.00222,
+    55.14447,
+    26.00222,
+    55.14447
+],
+  "geometry": {"coordinates":[26.00222,55.14447],"type":"Point"}
+}

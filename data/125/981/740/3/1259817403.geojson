@@ -1,0 +1,71 @@
+{
+  "id": 1259817403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94757,55.40015,24.94757,55.40015",
+    "geom:latitude":55.40015,
+    "geom:longitude":24.94757,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Seriai",
+    "gn:country_code":"LT",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594789,
+    "gn:latitude":55.40015,
+    "gn:longitude":24.94757,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160eriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160eriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594789
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0d9e251e1eb0486983ea4703a832656a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1259817403,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259817403,
+    "wof:lastmodified":1537661996,
+    "wof:name":"Seriai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94757,
+    55.40015,
+    24.94757,
+    55.40015
+],
+  "geometry": {"coordinates":[24.94757,55.40015],"type":"Point"}
+}

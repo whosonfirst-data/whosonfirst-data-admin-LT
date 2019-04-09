@@ -1,0 +1,75 @@
+{
+  "id": 1243394735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.07904,55.08838,24.07904,55.08838",
+    "geom:latitude":55.08838,
+    "geom:longitude":24.07904,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Preisiogala",
+    "gn:country_code":"LT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595604,
+    "gn:latitude":55.08838,
+    "gn:longitude":24.07904,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Prei\u0161iogala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Priyeshogala",
+        "Preyshiogala",
+        "Prie\u0161ogala",
+        "Prei\u0161iogalos",
+        "Prei\u0161iogala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595604
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3d9d079b92d49a3ebc62f4bd34ff22d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1243394735,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1243394735,
+    "wof:lastmodified":1537662052,
+    "wof:name":"Preisiogala",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.07904,
+    55.08838000000001,
+    24.07904,
+    55.08838000000001
+],
+  "geometry": {"coordinates":[24.07904,55.08838000000001],"type":"Point"}
+}

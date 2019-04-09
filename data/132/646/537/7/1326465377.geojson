@@ -1,0 +1,71 @@
+{
+  "id": 1326465377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22909,55.2593,25.22909,55.2593",
+    "geom:latitude":55.2593,
+    "geom:longitude":25.22909,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Juodike",
+    "gn:country_code":"LT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296458,
+    "gn:latitude":55.2593,
+    "gn:longitude":25.22909,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Juodik\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Juodik\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296458
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e24b95eca632f5d027c167c59224afc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1326465377,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1326465377,
+    "wof:lastmodified":1537662619,
+    "wof:name":"Juodike",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22909,
+    55.2593,
+    25.22909,
+    55.2593
+],
+  "geometry": {"coordinates":[25.22909,55.2593],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243101415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69124,55.4976,24.69124,55.4976",
+    "geom:latitude":55.4976,
+    "geom:longitude":24.69124,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Geldonka",
+    "gn:country_code":"LT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312008,
+    "gn:latitude":55.4976,
+    "gn:longitude":24.69124,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Geldonka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Geldonka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312008
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"44fdf3cd6bb6ec1d91817b99d7a25c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1243101415,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243101415,
+    "wof:lastmodified":1537662981,
+    "wof:name":"Geldonka",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69124,
+    55.4976,
+    24.69124,
+    55.4976
+],
+  "geometry": {"coordinates":[24.69124,55.4976],"type":"Point"}
+}

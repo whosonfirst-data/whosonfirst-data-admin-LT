@@ -1,0 +1,82 @@
+{
+  "id": 1326864407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.90589,55.19174,23.90589,55.19174",
+    "geom:latitude":55.19174,
+    "geom:longitude":23.90589,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Labunava",
+    "gn:country_code":"LT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597706,
+    "gn:latitude":55.19174,
+    "gn:longitude":23.90589,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lab\u016bnava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lab\u016bnava"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0431\u0443\u043d\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Labunavos",
+        "Lab\u016bnai",
+        "Labunovo",
+        "Lab\u00fanov",
+        "Labunavas",
+        "Lab\u016bnava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597706
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fdce04315bd36aa9c49b443fe20ed8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1326864407,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1326864407,
+    "wof:lastmodified":1537662203,
+    "wof:name":"Labunava",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.90589,
+    55.19174,
+    23.90589,
+    55.19174
+],
+  "geometry": {"coordinates":[23.90589,55.19174],"type":"Point"}
+}

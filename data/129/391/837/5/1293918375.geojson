@@ -1,0 +1,71 @@
+{
+  "id": 1293918375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68444,54.59211,23.68444,54.59211",
+    "geom:latitude":54.59211,
+    "geom:longitude":23.68444,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Opsrutai I",
+    "gn:country_code":"LT",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307109,
+    "gn:latitude":54.59211,
+    "gn:longitude":23.68444,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Op\u0161r\u016btai I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Op\u0161r\u016btai I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307109
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e05bdf6cef68bdc13e1dfe4974099ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073595,
+            "locality_id":1293918375,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1293918375,
+    "wof:lastmodified":1537662883,
+    "wof:name":"Opsrutai I",
+    "wof:parent_id":102073595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68444,
+    54.59211,
+    23.68444,
+    54.59211
+],
+  "geometry": {"coordinates":[23.68444,54.59211],"type":"Point"}
+}

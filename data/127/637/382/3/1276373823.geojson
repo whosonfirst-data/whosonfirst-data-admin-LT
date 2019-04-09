@@ -1,0 +1,74 @@
+{
+  "id": 1276373823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.21149,55.20085,25.21149,55.20085",
+    "geom:latitude":55.20085,
+    "geom:longitude":25.21149,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Zvynenai",
+    "gn:country_code":"LT",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592665,
+    "gn:latitude":55.20085,
+    "gn:longitude":25.21149,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017dvyn\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhvinenay",
+        "\u017dvyn\u0117n\u0173",
+        "\u017dvyr\u0117nai",
+        "\u017dvyn\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592665
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"91cc829997329fc21bea745a1972c3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1276373823,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276373823,
+    "wof:lastmodified":1537661856,
+    "wof:name":"Zvynenai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21149,
+    55.20085,
+    25.21149,
+    55.20085
+],
+  "geometry": {"coordinates":[25.21149,55.20085],"type":"Point"}
+}

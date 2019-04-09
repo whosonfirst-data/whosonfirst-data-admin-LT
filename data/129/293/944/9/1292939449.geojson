@@ -1,0 +1,76 @@
+{
+  "id": 1292939449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05706,56.26006,23.05706,56.26006",
+    "geom:latitude":56.26006,
+    "geom:longitude":23.05706,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Laumenai II",
+    "gn:country_code":"LT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597610,
+    "gn:latitude":56.26006,
+    "gn:longitude":23.05706,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Laum\u0117nai II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Laum\u0117nai II"
+    ],
+    "name:und_x_variant":[
+        "Laum\u0117n\u0173",
+        "Laumenay",
+        "Laum\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597610
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1851a53968065d980ac399eec559a9d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1292939449,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1292939449,
+    "wof:lastmodified":1537662196,
+    "wof:name":"Laumenai II",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05706,
+    56.26006,
+    23.05706,
+    56.26006
+],
+  "geometry": {"coordinates":[23.05706,56.26006],"type":"Point"}
+}

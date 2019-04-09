@@ -1,0 +1,77 @@
+{
+  "id": 1360220883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.79614,56.04695,25.79614,56.04695",
+    "geom:latitude":56.04695,
+    "geom:longitude":25.79614,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Tumasonys",
+    "gn:country_code":"LT",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593787,
+    "gn:latitude":56.04695,
+    "gn:longitude":25.79614,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tumasonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tumasonys"
+    ],
+    "name:und_x_variant":[
+        "Temasopis",
+        "Temasonis",
+        "Tuma\u0161oni\u0173",
+        "Tuma\u0161onys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593787
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ed4ac7098e0e33aba5f10db1293cd1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1360220883,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360220883,
+    "wof:lastmodified":1537661928,
+    "wof:name":"Tumasonys",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79614,
+    56.04695,
+    25.79614,
+    56.04695
+],
+  "geometry": {"coordinates":[25.79614,56.04695],"type":"Point"}
+}

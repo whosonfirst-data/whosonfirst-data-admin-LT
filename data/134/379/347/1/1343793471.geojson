@@ -1,0 +1,71 @@
+{
+  "id": 1343793471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18009,54.83613,25.18009,54.83613",
+    "geom:latitude":54.83613,
+    "geom:longitude":25.18009,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Duksteliai",
+    "gn:country_code":"LT",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297685,
+    "gn:latitude":54.83613,
+    "gn:longitude":25.18009,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"D\u016bk\u0161teliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "D\u016bk\u0161teliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297685
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a5b9569fdc7415e95ea03648355a0fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1343793471,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343793471,
+    "wof:lastmodified":1537662655,
+    "wof:name":"Duksteliai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18009,
+    54.83613,
+    25.18009,
+    54.83613
+],
+  "geometry": {"coordinates":[25.18009,54.83613],"type":"Point"}
+}

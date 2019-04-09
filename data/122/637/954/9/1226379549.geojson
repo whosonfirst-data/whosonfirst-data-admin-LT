@@ -1,0 +1,71 @@
+{
+  "id": 1226379549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22591,55.69347,24.22591,55.69347",
+    "geom:latitude":55.69347,
+    "geom:longitude":24.22591,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Nevezninkai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309931,
+    "gn:latitude":55.69347,
+    "gn:longitude":24.22591,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Nev\u0117\u017eninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Nev\u0117\u017eninkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309931
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"949ba204fb889891ba218e8d422479a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1226379549,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226379549,
+    "wof:lastmodified":1537662933,
+    "wof:name":"Nevezninkai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22591,
+    55.69347,
+    24.22591,
+    55.69347
+],
+  "geometry": {"coordinates":[24.22591,55.69347],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259719887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65875,54.45538,23.65875,54.45538",
+    "geom:latitude":54.45538,
+    "geom:longitude":23.65875,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Aleknonys",
+    "gn:country_code":"LT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601146,
+    "gn:latitude":54.45538,
+    "gn:longitude":23.65875,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Aleknonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olekhnyany",
+        "Aleknoni\u0173",
+        "Aleknonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601146
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"386ef3de012a055f91803a2b12154057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1259719887,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1259719887,
+    "wof:lastmodified":1537662436,
+    "wof:name":"Aleknonys",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65875,
+    54.45538000000001,
+    23.65875,
+    54.45538000000001
+],
+  "geometry": {"coordinates":[23.65875,54.45538000000001],"type":"Point"}
+}

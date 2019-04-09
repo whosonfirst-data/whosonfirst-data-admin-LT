@@ -1,0 +1,71 @@
+{
+  "id": 1343988699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69936,55.69246,24.69936,55.69246",
+    "geom:latitude":55.69246,
+    "geom:longitude":24.69936,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Pakape",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312065,
+    "gn:latitude":55.69246,
+    "gn:longitude":24.69936,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pakap\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pakap\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312065
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3f93f1b3d89aab7c36473d7850d19bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1343988699,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343988699,
+    "wof:lastmodified":1537662983,
+    "wof:name":"Pakape",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69936,
+    55.69246,
+    24.69936,
+    55.69246
+],
+  "geometry": {"coordinates":[24.69936,55.69246],"type":"Point"}
+}

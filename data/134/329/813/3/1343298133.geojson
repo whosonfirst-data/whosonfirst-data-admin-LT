@@ -1,0 +1,75 @@
+{
+  "id": 1343298133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78075,55.36513,24.78075,55.36513",
+    "geom:latitude":55.36513,
+    "geom:longitude":24.78075,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Paazuoliai",
+    "gn:country_code":"LT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595948,
+    "gn:latitude":55.36513,
+    "gn:longitude":24.78075,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u0105\u017euoliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u0105\u017euoliai",
+        "Pu\u017euoliai",
+        "Pouzholi",
+        "Pau\u017euoli\u0173",
+        "Pau\u017euoliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595948
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8597343b60fdf04f5bd9c23181b0cd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1343298133,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343298133,
+    "wof:lastmodified":1537662078,
+    "wof:name":"Paazuoliai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78075,
+    55.36513000000001,
+    24.78075,
+    55.36513000000001
+],
+  "geometry": {"coordinates":[24.78075,55.36513000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360322353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26424,56.26913,22.26424,56.26913",
+    "geom:latitude":56.26913,
+    "geom:longitude":22.26424,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Spurganai",
+    "gn:country_code":"LT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594325,
+    "gn:latitude":56.26913,
+    "gn:longitude":22.26424,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Spurganai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spurgen\u0173",
+        "Spurganay",
+        "Spurganai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594325
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2018ed8622ec12a737dd5f9ef517937c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1360322353,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1360322353,
+    "wof:lastmodified":1537661964,
+    "wof:name":"Spurganai",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26424,
+    56.26913,
+    22.26424,
+    56.26913
+],
+  "geometry": {"coordinates":[22.26424,56.26913],"type":"Point"}
+}

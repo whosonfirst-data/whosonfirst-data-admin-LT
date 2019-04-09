@@ -1,0 +1,77 @@
+{
+  "id": 1226473525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80669,55.694,23.80669,55.694",
+    "geom:latitude":55.694,
+    "geom:longitude":23.80669,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Celkiai",
+    "gn:country_code":"LT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600184,
+    "gn:latitude":55.694,
+    "gn:longitude":23.80669,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u010celkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u010celkiai"
+    ],
+    "name:und_x_variant":[
+        "\u010celkiai Pirmieji",
+        "Chel\u2019kyay",
+        "C\u010felkiai",
+        "\u010celkiai I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600184
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"08cbf71203d6d28148f28a660b964699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1226473525,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226473525,
+    "wof:lastmodified":1537662370,
+    "wof:name":"Celkiai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80669,
+    55.694,
+    23.80669,
+    55.694
+],
+  "geometry": {"coordinates":[23.80669,55.694],"type":"Point"}
+}

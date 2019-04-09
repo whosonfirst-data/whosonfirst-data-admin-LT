@@ -1,0 +1,73 @@
+{
+  "id": 1259417031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.84763,55.1898,23.84763,55.1898",
+    "geom:latitude":55.1898,
+    "geom:longitude":23.84763,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Paliepiai",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596212,
+    "gn:latitude":55.1898,
+    "gn:longitude":23.84763,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Paliepiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polepe",
+        "Palepyay",
+        "Paliepiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596212
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e645130d21bd0a3bfc53acea3a4db9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1259417031,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1259417031,
+    "wof:lastmodified":1537662098,
+    "wof:name":"Paliepiai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84763,
+    55.1898,
+    23.84763,
+    55.1898
+],
+  "geometry": {"coordinates":[23.84763,55.1898],"type":"Point"}
+}

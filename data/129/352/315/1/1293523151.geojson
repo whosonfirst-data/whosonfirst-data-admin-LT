@@ -1,0 +1,71 @@
+{
+  "id": 1293523151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.74548,54.25875,25.74548,54.25875",
+    "geom:latitude":54.25875,
+    "geom:longitude":25.74548,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Vejeliai",
+    "gn:country_code":"LT",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295403,
+    "gn:latitude":54.25875,
+    "gn:longitude":25.74548,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"V\u0117jeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "V\u0117jeliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295403
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c52cf62bee56f61673352b4063bc71b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1293523151,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293523151,
+    "wof:lastmodified":1537662593,
+    "wof:name":"Vejeliai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.74548,
+    54.25875,
+    25.74548,
+    54.25875
+],
+  "geometry": {"coordinates":[25.74548,54.25875],"type":"Point"}
+}

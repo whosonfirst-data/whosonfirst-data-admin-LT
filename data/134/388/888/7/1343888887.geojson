@@ -1,0 +1,81 @@
+{
+  "id": 1343888887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.09498,55.01501,24.09498,55.01501",
+    "geom:latitude":55.01501,
+    "geom:longitude":24.09498,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Andruskoniai",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601062,
+    "gn:latitude":55.01501,
+    "gn:longitude":24.09498,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Andru\u0161koniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Andriu\u0161koniai"
+    ],
+    "name:lit_x_preferred":[
+        "Andru\u0161koniai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u0443\u0448\u043a\u043e\u043d\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Andryushkonyay",
+        "Andriu\u0161koniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601062
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"45b3ff563b120c3744c637a8629e23ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1343888887,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343888887,
+    "wof:lastmodified":1537662431,
+    "wof:name":"Andruskoniai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.09498,
+    55.01501,
+    24.09498,
+    55.01501
+],
+  "geometry": {"coordinates":[24.09498,55.01501],"type":"Point"}
+}

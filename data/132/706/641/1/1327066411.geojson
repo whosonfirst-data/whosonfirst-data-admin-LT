@@ -1,0 +1,71 @@
+{
+  "id": 1327066411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48327,55.18516,25.48327,55.18516",
+    "geom:latitude":55.18516,
+    "geom:longitude":25.48327,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Zamokeliai",
+    "gn:country_code":"LT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297398,
+    "gn:latitude":55.18516,
+    "gn:longitude":25.48327,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zamok\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Zamok\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297398
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"db3d1f66786d83a02f2c038e07934067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1327066411,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327066411,
+    "wof:lastmodified":1537662646,
+    "wof:name":"Zamokeliai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48327,
+    55.18516,
+    25.48327,
+    55.18516
+],
+  "geometry": {"coordinates":[25.48327,55.18516],"type":"Point"}
+}

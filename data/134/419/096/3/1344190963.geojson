@@ -1,0 +1,81 @@
+{
+  "id": 1344190963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.77252,55.11797,25.77252,55.11797",
+    "geom:latitude":55.11797,
+    "geom:longitude":25.77252,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Maldziunai",
+    "gn:country_code":"LT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597093,
+    "gn:latitude":55.11797,
+    "gn:longitude":25.77252,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mald\u017ei\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Meld\u017ei\u016bnai"
+    ],
+    "name:lit_x_preferred":[
+        "Mald\u017ei\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u0434\u0436\u044e\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Mal\u2019dzyuny",
+        "Meld\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597093
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6edfefbbaee9140f08fd1d284517dc4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1344190963,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1344190963,
+    "wof:lastmodified":1537662161,
+    "wof:name":"Maldziunai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.77252,
+    55.11796999999999,
+    25.77252,
+    55.11796999999999
+],
+  "geometry": {"coordinates":[25.77252,55.11796999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260015905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19372,55.62491,22.19372,55.62491",
+    "geom:latitude":55.62491,
+    "geom:longitude":22.19372,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Palokystalis",
+    "gn:country_code":"LT",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290805,
+    "gn:latitude":55.62491,
+    "gn:longitude":22.19372,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Palokystalis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Palokystalis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290805
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fd551b74583cab54a50998bf0a3d7b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1260015905,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1260015905,
+    "wof:lastmodified":1537662477,
+    "wof:name":"Palokystalis",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19372000000001,
+    55.62491,
+    22.19372000000001,
+    55.62491
+],
+  "geometry": {"coordinates":[22.19372000000001,55.62491],"type":"Point"}
+}

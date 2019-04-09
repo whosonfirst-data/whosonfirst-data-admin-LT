@@ -1,0 +1,77 @@
+{
+  "id": 1326764803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41894,55.46947,24.41894,55.46947",
+    "geom:latitude":55.46947,
+    "geom:longitude":24.41894,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Stebekiai II",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594261,
+    "gn:latitude":55.46947,
+    "gn:longitude":24.41894,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Steb\u0117kiai II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Steb\u0117kiai II"
+    ],
+    "name:und_x_variant":[
+        "Stebyaki-Staryye",
+        "Steb\u0117kiai Senieji",
+        "Stebyaki-Novyye",
+        "Steb\u0117kiai Naujieji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594261
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5b9aad047c30dd8f8ef0379e0475e175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1326764803,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1326764803,
+    "wof:lastmodified":1537661959,
+    "wof:name":"Stebekiai II",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41894,
+    55.46947,
+    24.41894,
+    55.46947
+],
+  "geometry": {"coordinates":[24.41894,55.46947],"type":"Point"}
+}

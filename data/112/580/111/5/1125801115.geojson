@@ -1,0 +1,125 @@
+{
+  "id": 1125801115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58333,55.65,25.58333,55.65",
+    "geom:latitude":55.65,
+    "geom:longitude":25.58333,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":55.65,
+    "lbl:longitude":25.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "U\u017epaliai"
+    ],
+    "name:dut_x_preferred":[
+        "U\u017epaliai"
+    ],
+    "name:eng_x_preferred":[
+        "U\u017epaliai"
+    ],
+    "name:fre_x_preferred":[
+        "U\u017epaliai"
+    ],
+    "name:ger_x_preferred":[
+        "U\u017epaliai"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e9\u05e4\u05d5\u05dc"
+    ],
+    "name:lit_x_preferred":[
+        "U\u017epaliai"
+    ],
+    "name:pol_x_preferred":[
+        "U\u017cpol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0436\u043f\u0430\u043b\u044f\u0439"
+    ],
+    "name:sgs_x_preferred":[
+        "O\u017epal\u0113"
+    ],
+    "name:swe_x_preferred":[
+        "U\u017epaliai"
+    ],
+    "name:unk_x_variant":[
+        "Uzhpalyay"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":593624,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"U\u017epaliai",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Utenos Apskritis",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":125933,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":479220,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Utenos Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593624,
+        "gp:id":479220,
+        "qs_pg:id":125933,
+        "wd:id":"Q2236454"
+    },
+    "wof:country":"LT",
+    "wof:created":1497291265,
+    "wof:geomhash":"5dc3ef0850a656cbd45ad6b03dc8ce19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1125801115,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1125801115,
+    "wof:lastmodified":1514483822,
+    "wof:name":"U\u017epaliai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58333,
+    55.65,
+    25.58333,
+    55.65
+],
+  "geometry": {"coordinates":[25.58333,55.65],"type":"Point"}
+}

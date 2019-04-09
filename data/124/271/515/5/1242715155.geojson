@@ -1,0 +1,73 @@
+{
+  "id": 1242715155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31828,55.81366,25.31828,55.81366",
+    "geom:latitude":55.81366,
+    "geom:longitude":25.31828,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Guciunai",
+    "gn:country_code":"LT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599108,
+    "gn:latitude":55.81366,
+    "gn:longitude":25.31828,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gu\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guchunay",
+        "Gu\u010di\u016bn\u0173",
+        "Gu\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599108
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d47c37e8441ca32f218ff2fbbe550563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1242715155,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1242715155,
+    "wof:lastmodified":1537662297,
+    "wof:name":"Guciunai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31828,
+    55.81366,
+    25.31828,
+    55.81366
+],
+  "geometry": {"coordinates":[25.31828,55.81366],"type":"Point"}
+}

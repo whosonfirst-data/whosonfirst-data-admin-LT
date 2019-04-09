@@ -1,0 +1,113 @@
+{
+  "id": 101817925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000121,
+    "geom:area_square_m":866215.952389,
+    "geom:bbox":"23.6408373716,54.5645922733,23.6590953726,54.5768422717",
+    "geom:latitude":54.570938,
+    "geom:longitude":23.651253,
+    "iso:country":"LT",
+    "lbl:latitude":54.57131,
+    "lbl:longitude":23.652014,
+    "mps:latitude":54.57131,
+    "mps:longitude":23.652014,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0418\u0433\u043b\u0438\u0430\u0443\u043a\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Igliauka"
+    ],
+    "name:eng_x_preferred":[
+        "Igliauka"
+    ],
+    "name:est_x_preferred":[
+        "Igliauka"
+    ],
+    "name:lit_x_preferred":[
+        "Igliauka"
+    ],
+    "name:nld_x_preferred":[
+        "Igliauka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0433\u043b\u044f\u0443\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Igliauka"
+    ],
+    "name:unk_x_variant":[
+        "Ilglauka"
+    ],
+    "qs:a0":"Lietuva",
+    "qs:a1":"*Marijampole",
+    "qs:a1r":"0Marijampole",
+    "qs:adm0":"Lietuva",
+    "qs:la":"Igliaukos",
+    "qs:la_lc":"*LT041830",
+    "qs:level":"locality",
+    "qs:loc":"Igliauka",
+    "qs:loc_alt":"Igliauka",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":54.571944,
+    "wd:longitude":23.653056,
+    "wd:population":979,
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599002,
+        "gp:id":474908,
+        "qs:id":910256,
+        "qs_pg:id":910256,
+        "wd:id":"Q304740",
+        "wk:page":"Igliauka"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"12b2865374d062555c61a78ad11e7807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073595,
+            "locality_id":101817925,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":101817925,
+    "wof:lastmodified":1527642456,
+    "wof:name":"Igliauka",
+    "wof:parent_id":102073595,
+    "wof:placetype":"locality",
+    "wof:population":979,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64083737161121,
+    54.56459227328583,
+    23.65909537257761,
+    54.57684227167698
+],
+  "geometry": {"coordinates":[[[23.64595399284707,54.57667331312297],[23.6456577319255,54.57579331623305],[23.65174456936313,54.57511731272899],[23.6520409544172,54.57599729308731],[23.65660605421834,54.57549008295666],[23.65542023339725,54.57197020564104],[23.65846332724578,54.57163200573115],[23.65757393605293,54.56899211293489],[23.65909537257761,54.56882299751703],[23.65790960764139,54.56530314416659],[23.65638829517235,54.56547224304779],[23.65609192316663,54.56459227328583],[23.65000668179488,54.56526846652235],[23.65030292975047,54.56614845281473],[23.64878155951425,54.56631745881589],[23.6496703020054,54.5689574245979],[23.64814882716314,54.56912642441699],[23.64874133651438,54.57088640529412],[23.64417665653713,54.57139331806968],[23.64388048729546,54.57051331569437],[23.64083737161121,54.57085115638597],[23.64142960126105,54.57261117674426],[23.64295122693346,54.57244225742784],[23.64383977907147,54.57508226871937],[23.64231806030358,54.57525120042851],[23.64261424387348,54.57613120649546],[23.64413599367646,54.57596227065522],[23.6444322235626,54.57684227167698],[23.64595399284707,54.57667331312297]]],"type":"Polygon"}
+}

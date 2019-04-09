@@ -1,0 +1,72 @@
+{
+  "id": 1293234737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41425,54.46492,24.41425,54.46492",
+    "geom:latitude":54.46492,
+    "geom:longitude":24.41425,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Anykstenai",
+    "gn:country_code":"LT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310686,
+    "gn:latitude":54.46492,
+    "gn:longitude":24.41425,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Anyk\u0161t\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Anyk\u0161t\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310686
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"27798eaec6f5e146df975d54e3712aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1293234737,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1293234737,
+    "wof:lastmodified":1537662948,
+    "wof:name":"Anykstenai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41425,
+    54.46491999999999,
+    24.41425,
+    54.46491999999999
+],
+  "geometry": {"coordinates":[24.41425,54.46491999999999],"type":"Point"}
+}

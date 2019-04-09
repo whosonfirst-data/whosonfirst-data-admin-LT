@@ -1,0 +1,70 @@
+{
+  "id": 1242792179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.04014,55.28003,26.04014,55.28003",
+    "geom:latitude":55.28003,
+    "geom:longitude":26.04014,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Obely Ragas",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10842346,
+    "gn:latitude":55.28003,
+    "gn:longitude":26.04014,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Obely Ragas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Obely Ragas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10842346
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6cca1895a58dd14e0fb8a2b75af01a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1242792179,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1242792179,
+    "wof:lastmodified":1537662449,
+    "wof:name":"Obely Ragas",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04014,
+    55.28003,
+    26.04014,
+    55.28003
+],
+  "geometry": {"coordinates":[26.04014,55.28003],"type":"Point"}
+}

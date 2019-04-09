@@ -1,0 +1,71 @@
+{
+  "id": 1209752169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01137,56.09783,24.01137,56.09783",
+    "geom:latitude":56.09783,
+    "geom:longitude":24.01137,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Dovydiskis",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310143,
+    "gn:latitude":56.09783,
+    "gn:longitude":24.01137,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dovydi\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dovydi\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310143
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d9035f7fde4300432bbb9689e666b5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1209752169,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1209752169,
+    "wof:lastmodified":1537662939,
+    "wof:name":"Dovydiskis",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01137,
+    56.09783,
+    24.01137,
+    56.09783
+],
+  "geometry": {"coordinates":[24.01137,56.09783],"type":"Point"}
+}

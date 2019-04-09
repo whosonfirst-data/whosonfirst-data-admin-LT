@@ -1,0 +1,74 @@
+{
+  "id": 1344192449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41401,54.77174,24.41401,54.77174",
+    "geom:latitude":54.77174,
+    "geom:longitude":24.41401,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Juknonys",
+    "gn:country_code":"LT",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598750,
+    "gn:latitude":54.77174,
+    "gn:longitude":24.41401,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Juknonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuknenay",
+        "Juknoni\u0173",
+        "Yukhnyany",
+        "Juknonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598750
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"beb19d1e72fe17f917a39ccf7ccc743c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1344192449,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1344192449,
+    "wof:lastmodified":1537662274,
+    "wof:name":"Juknonys",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41401,
+    54.77174,
+    24.41401,
+    54.77174
+],
+  "geometry": {"coordinates":[24.41401,54.77174],"type":"Point"}
+}

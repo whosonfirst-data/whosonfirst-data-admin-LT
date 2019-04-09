@@ -1,0 +1,71 @@
+{
+  "id": 1293323793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.25028,54.80863,24.25028,54.80863",
+    "geom:latitude":54.80863,
+    "geom:longitude":24.25028,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Lasiniai",
+    "gn:country_code":"LT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309133,
+    "gn:latitude":54.80863,
+    "gn:longitude":24.25028,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"La\u0161iniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "La\u0161iniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309133
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ac85e9121c89e669d32342a1c56d21a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1293323793,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293323793,
+    "wof:lastmodified":1537662917,
+    "wof:name":"Lasiniai",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.25028,
+    54.80863000000001,
+    24.25028,
+    54.80863000000001
+],
+  "geometry": {"coordinates":[24.25028,54.80863000000001],"type":"Point"}
+}

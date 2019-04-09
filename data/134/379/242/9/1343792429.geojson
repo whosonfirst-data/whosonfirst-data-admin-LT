@@ -1,0 +1,72 @@
+{
+  "id": 1343792429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.64258,55.53721,24.64258,55.53721",
+    "geom:latitude":55.53721,
+    "geom:longitude":24.64258,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Prasciunai",
+    "gn:country_code":"LT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595622,
+    "gn:latitude":55.53721,
+    "gn:longitude":24.64258,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pra\u0161\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Prashchuny",
+        "Pra\u0161\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595622
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"898a7ba2d9d2d845f482b626e5e637a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1343792429,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343792429,
+    "wof:lastmodified":1537662053,
+    "wof:name":"Prasciunai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.64258,
+    55.53721,
+    24.64258,
+    55.53721
+],
+  "geometry": {"coordinates":[24.64258,55.53721],"type":"Point"}
+}

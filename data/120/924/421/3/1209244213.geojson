@@ -1,0 +1,65 @@
+{
+  "id": 1209244213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.71221,55.30147,26.71221,55.30147",
+    "geom:latitude":55.30147,
+    "geom:longitude":26.71221,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Sapliai",
+    "gn:country_code":"LT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291273,
+    "gn:latitude":55.30147,
+    "gn:longitude":26.71221,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sapliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sapliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291273
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a72b461940235e5357c054b9b7eb1c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209244213
+        }
+    ],
+    "wof:id":1209244213,
+    "wof:lastmodified":1537662491,
+    "wof:name":"Sapliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71221,
+    55.30147,
+    26.71221,
+    55.30147
+],
+  "geometry": {"coordinates":[26.71221,55.30147],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226784279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20457,54.44653,23.20457,54.44653",
+    "geom:latitude":54.44653,
+    "geom:longitude":23.20457,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Kampiniai",
+    "gn:country_code":"LT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598480,
+    "gn:latitude":54.44653,
+    "gn:longitude":23.20457,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kampiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kempiny",
+        "Kampiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598480
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"82e6d730f6185a782bc67d0b124e4525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073585,
+            "locality_id":1226784279,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1226784279,
+    "wof:lastmodified":1537662255,
+    "wof:name":"Kampiniai",
+    "wof:parent_id":102073585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20457,
+    54.44653,
+    23.20457,
+    54.44653
+],
+  "geometry": {"coordinates":[23.20457,54.44653],"type":"Point"}
+}

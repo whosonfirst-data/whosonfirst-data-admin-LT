@@ -1,0 +1,75 @@
+{
+  "id": 1310531861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98895,54.17508,23.98895,54.17508",
+    "geom:latitude":54.17508,
+    "geom:longitude":23.98895,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Miezionys",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596884,
+    "gn:latitude":54.17508,
+    "gn:longitude":23.98895,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mie\u017eionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mie\u017eionys"
+    ],
+    "name:und_x_variant":[
+        "Mi\u017eoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596884
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b78b771ea3ee9665e4a1eafb8374dbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1310531861,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1310531861,
+    "wof:lastmodified":1537662147,
+    "wof:name":"Miezionys",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98895,
+    54.17508,
+    23.98895,
+    54.17508
+],
+  "geometry": {"coordinates":[23.98895,54.17508],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259519797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.32857,55.44988,26.32857,55.44988",
+    "geom:latitude":55.44988,
+    "geom:longitude":26.32857,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Gedziuneliai",
+    "gn:country_code":"LT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292446,
+    "gn:latitude":55.44988,
+    "gn:longitude":26.32857,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ged\u017ei\u016bn\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ged\u017ei\u016bn\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292446
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ea7cf5c90c13c3a02aacfaf17e53d2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1259519797,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259519797,
+    "wof:lastmodified":1537662523,
+    "wof:name":"Gedziuneliai",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.32857000000001,
+    55.44988000000001,
+    26.32857000000001,
+    55.44988000000001
+],
+  "geometry": {"coordinates":[26.32857000000001,55.44988000000001],"type":"Point"}
+}

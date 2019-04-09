@@ -1,0 +1,72 @@
+{
+  "id": 1193170749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35702,55.02183,23.35702,55.02183",
+    "geom:latitude":55.02183,
+    "geom:longitude":23.35702,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Pypliske",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595473,
+    "gn:latitude":55.02183,
+    "gn:longitude":23.35702,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pypli\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piplishki",
+        "Pypli\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595473
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"be9950848b65a9ea86e8173524964685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1193170749,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1193170749,
+    "wof:lastmodified":1537662043,
+    "wof:name":"Pypliske",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35702,
+    55.02183,
+    23.35702,
+    55.02183
+],
+  "geometry": {"coordinates":[23.35702,55.02183],"type":"Point"}
+}

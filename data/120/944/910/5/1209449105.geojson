@@ -1,0 +1,65 @@
+{
+  "id": 1209449105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.79093,55.48003,25.79093,55.48003",
+    "geom:latitude":55.48003,
+    "geom:longitude":25.79093,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Vilkablauzde",
+    "gn:country_code":"LT",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293714,
+    "gn:latitude":55.48003,
+    "gn:longitude":25.79093,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vilkablauzd\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vilkablauzd\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293714
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"73a6b5f90fd4afbb0492b5574c6b3524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209449105
+        }
+    ],
+    "wof:id":1209449105,
+    "wof:lastmodified":1537662551,
+    "wof:name":"Vilkablauzde",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79093,
+    55.48003000000001,
+    25.79093,
+    55.48003000000001
+],
+  "geometry": {"coordinates":[25.79093,55.48003000000001],"type":"Point"}
+}

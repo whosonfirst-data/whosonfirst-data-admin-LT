@@ -1,0 +1,72 @@
+{
+  "id": 1226074111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9462,55.98969,23.9462,55.98969",
+    "geom:latitude":55.98969,
+    "geom:longitude":23.9462,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Uosas",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593718,
+    "gn:latitude":55.98969,
+    "gn:longitude":23.9462,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Uo\u0161as",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ozhyay",
+        "Uo\u0161as"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593718
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"34978387be2d19e31c462fb8f7dd3ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1226074111,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226074111,
+    "wof:lastmodified":1537661924,
+    "wof:name":"Uosas",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9462,
+    55.98969,
+    23.9462,
+    55.98969
+],
+  "geometry": {"coordinates":[23.9462,55.98969],"type":"Point"}
+}

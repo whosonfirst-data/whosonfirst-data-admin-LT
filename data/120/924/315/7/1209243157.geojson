@@ -1,0 +1,67 @@
+{
+  "id": 1209243157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.87865,54.77399,23.87865,54.77399",
+    "geom:latitude":54.77399,
+    "geom:longitude":23.87865,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Ilgakiemis",
+    "gn:country_code":"LT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598992,
+    "gn:latitude":54.77399,
+    "gn:longitude":23.87865,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ilgakiemis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilgakiemio",
+        "Ilgakemis",
+        "Ilgakiemis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598992
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f366bc8a77858f854857a97298e43dc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209243157
+        }
+    ],
+    "wof:id":1209243157,
+    "wof:lastmodified":1537662289,
+    "wof:name":"Ilgakiemis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.87865,
+    54.77399000000001,
+    23.87865,
+    54.77399000000001
+],
+  "geometry": {"coordinates":[23.87865,54.77399000000001],"type":"Point"}
+}

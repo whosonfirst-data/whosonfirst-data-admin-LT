@@ -1,0 +1,73 @@
+{
+  "id": 1243293267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30176,55.81059,24.30176,55.81059",
+    "geom:latitude":55.81059,
+    "geom:longitude":24.30176,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Pakuodziupiai",
+    "gn:country_code":"LT",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596269,
+    "gn:latitude":55.81059,
+    "gn:longitude":24.30176,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pakuod\u017eiupiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakuod\u017eiupiai",
+        "Pakodzhyupyay",
+        "Pakod\u017eiupiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596269
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"34872e8cb9cafc4e7817a02eb694b8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1243293267,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243293267,
+    "wof:lastmodified":1537662101,
+    "wof:name":"Pakuodziupiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30176,
+    55.81059000000001,
+    24.30176,
+    55.81059000000001
+],
+  "geometry": {"coordinates":[24.30176,55.81059000000001],"type":"Point"}
+}

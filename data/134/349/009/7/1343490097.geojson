@@ -1,0 +1,71 @@
+{
+  "id": 1343490097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78657,55.62365,22.78657,55.62365",
+    "geom:latitude":55.62365,
+    "geom:longitude":22.78657,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Ganyprova",
+    "gn:country_code":"LT",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302552,
+    "gn:latitude":55.62365,
+    "gn:longitude":22.78657,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ganyprova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ganyprova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302552
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9b861c5960651066248530988d3abea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1343490097,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343490097,
+    "wof:lastmodified":1537662781,
+    "wof:name":"Ganyprova",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78657,
+    55.62365,
+    22.78657,
+    55.62365
+],
+  "geometry": {"coordinates":[22.78657,55.62365],"type":"Point"}
+}

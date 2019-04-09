@@ -1,0 +1,71 @@
+{
+  "id": 1293136905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02903,56.1907,25.02903,56.1907",
+    "geom:latitude":56.1907,
+    "geom:longitude":25.02903,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Vaivadyne",
+    "gn:country_code":"LT",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298566,
+    "gn:latitude":56.1907,
+    "gn:longitude":25.02903,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vaivadyn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vaivadyn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298566
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1ef72928355a1b83ed4a04e841490b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1293136905,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293136905,
+    "wof:lastmodified":1537662680,
+    "wof:name":"Vaivadyne",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02903,
+    56.1907,
+    25.02903,
+    56.1907
+],
+  "geometry": {"coordinates":[25.02903,56.1907],"type":"Point"}
+}

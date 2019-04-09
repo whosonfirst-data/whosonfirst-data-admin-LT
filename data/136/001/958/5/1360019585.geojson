@@ -1,0 +1,72 @@
+{
+  "id": 1360019585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11237,56.05192,24.11237,56.05192",
+    "geom:latitude":56.05192,
+    "geom:longitude":24.11237,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Staciunai",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594312,
+    "gn:latitude":56.05192,
+    "gn:longitude":24.11237,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sta\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stachyunay",
+        "Sta\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594312
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"75daa22d4ea4e502fe9b74340302869b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1360019585,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360019585,
+    "wof:lastmodified":1537661964,
+    "wof:name":"Staciunai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11237,
+    56.05192,
+    24.11237,
+    56.05192
+],
+  "geometry": {"coordinates":[24.11237,56.05192],"type":"Point"}
+}

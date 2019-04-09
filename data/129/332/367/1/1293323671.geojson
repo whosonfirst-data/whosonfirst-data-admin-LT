@@ -1,0 +1,79 @@
+{
+  "id": 1293323671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.64592,54.59684,25.64592,54.59684",
+    "geom:latitude":54.59684,
+    "geom:longitude":25.64592,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Didzioji Kuosine",
+    "gn:country_code":"LT",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599884,
+    "gn:latitude":54.59684,
+    "gn:longitude":25.64592,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Did\u017eioji Kuosin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Did\u017eioji Kuosin\u0117"
+    ],
+    "name:lit_x_variant":[
+        "Did\u017eioji K\u016bosin\u0117"
+    ],
+    "name:und_x_variant":[
+        "Did\u017eioji Ka\u017ein\u0117",
+        "Vel\u2019ka Kosina",
+        "Ko\u017ein\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599884
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"13f07352eb42ccb1be9c76014fca6680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1293323671,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293323671,
+    "wof:lastmodified":1537662348,
+    "wof:name":"Didzioji Kuosine",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.64592,
+    54.59684,
+    25.64592,
+    54.59684
+],
+  "geometry": {"coordinates":[25.64592,54.59684],"type":"Point"}
+}

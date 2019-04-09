@@ -1,0 +1,72 @@
+{
+  "id": 1226682807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15909,56.1089,24.15909,56.1089",
+    "geom:latitude":56.1089,
+    "geom:longitude":24.15909,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Gruziai",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599120,
+    "gn:latitude":56.1089,
+    "gn:longitude":24.15909,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gr\u016b\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gruzhyay",
+        "Gr\u016b\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599120
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d209b9a9a8a7633f9a5f8ae8c14e802f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1226682807,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226682807,
+    "wof:lastmodified":1537662297,
+    "wof:name":"Gruziai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15909,
+    56.1089,
+    24.15909,
+    56.1089
+],
+  "geometry": {"coordinates":[24.15909,56.1089],"type":"Point"}
+}

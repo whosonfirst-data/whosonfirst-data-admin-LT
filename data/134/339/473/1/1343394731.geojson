@@ -1,0 +1,73 @@
+{
+  "id": 1343394731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.38078,55.49768,22.38078,55.49768",
+    "geom:latitude":55.49768,
+    "geom:longitude":22.38078,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Varsedziai",
+    "gn:country_code":"LT",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593372,
+    "gn:latitude":55.49768,
+    "gn:longitude":22.38078,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vars\u0117d\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vars\u0117d\u017ei\u0173",
+        "Varsedzhyay",
+        "Vars\u0117d\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593372
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ae3860392326fd6cc5fc149c49bc1d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1343394731,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1343394731,
+    "wof:lastmodified":1537661900,
+    "wof:name":"Varsedziai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.38078,
+    55.49768,
+    22.38078,
+    55.49768
+],
+  "geometry": {"coordinates":[22.38078,55.49768],"type":"Point"}
+}

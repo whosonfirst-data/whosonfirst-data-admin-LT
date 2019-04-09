@@ -1,0 +1,76 @@
+{
+  "id": 1243400469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54255,55.20565,21.54255,55.20565",
+    "geom:latitude":55.20565,
+    "geom:longitude":21.54255,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Silininkai",
+    "gn:country_code":"LT",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594670,
+    "gn:latitude":55.20565,
+    "gn:longitude":21.54255,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160ilininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kaliningrad",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gro\u00df Schilleningken"
+    ],
+    "name:und_x_variant":[
+        "Gros Shilleningken",
+        "Shilininkay",
+        "\u0160ilininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594670
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"590d3da97d22144aeb0f41f975889c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1243400469,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1243400469,
+    "wof:lastmodified":1537661988,
+    "wof:name":"Silininkai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54255,
+    55.20565,
+    21.54255,
+    55.20565
+],
+  "geometry": {"coordinates":[21.54255,55.20565],"type":"Point"}
+}

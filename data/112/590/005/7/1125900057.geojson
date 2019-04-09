@@ -1,0 +1,101 @@
+{
+  "id": 1125900057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18333,54.81667,24.18333,54.81667",
+    "geom:latitude":54.81667,
+    "geom:longitude":24.18333,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":54.81667,
+    "lbl:longitude":24.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Vir\u0161u\u017eiglis"
+    ],
+    "name:lit_x_preferred":[
+        "Vir\u0161u\u017eiglis"
+    ],
+    "name:sgs_x_preferred":[
+        "V\u0117r\u0161o\u017e\u0117glis"
+    ],
+    "name:unk_x_variant":[
+        "Vir\u0161u\u017eegliai"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":593068,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vir\u0161u\u017eiglis",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":53924,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":479652,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593068,
+        "gp:id":479652,
+        "qs_pg:id":53924,
+        "wd:id":"Q12677844"
+    },
+    "wof:country":"LT",
+    "wof:created":1497295765,
+    "wof:geomhash":"b3a17fecdb6c9bbf490444cafbb3c059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1125900057,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1125900057,
+    "wof:lastmodified":1514483863,
+    "wof:name":"Vir\u0161u\u017eiglis",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18333,
+    54.81667,
+    24.18333,
+    54.81667
+],
+  "geometry": {"coordinates":[24.18333,54.81667],"type":"Point"}
+}

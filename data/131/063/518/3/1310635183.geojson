@@ -1,0 +1,79 @@
+{
+  "id": 1310635183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78848,55.63009,23.78848,55.63009",
+    "geom:latitude":55.63009,
+    "geom:longitude":23.78848,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Valatkoniai",
+    "gn:country_code":"LT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593453,
+    "gn:latitude":55.63009,
+    "gn:longitude":23.78848,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Valatkoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Valatkoniai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0430\u0442\u043a\u043e\u043d\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Valatkantse",
+        "Valatkoni\u0173",
+        "Valatkoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593453
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4bcf4b808513ed151a49478da5808ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1310635183,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310635183,
+    "wof:lastmodified":1537661906,
+    "wof:name":"Valatkoniai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78848,
+    55.63009,
+    23.78848,
+    55.63009
+],
+  "geometry": {"coordinates":[23.78848,55.63009],"type":"Point"}
+}

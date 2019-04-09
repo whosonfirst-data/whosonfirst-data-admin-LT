@@ -1,0 +1,82 @@
+{
+  "id": 1125322009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.027088,54.606271,24.027088,54.606271",
+    "geom:latitude":54.606271,
+    "geom:longitude":24.027088,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":54.606271,
+    "lbl:longitude":24.027088,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Birstono Seniunija",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":651,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1112115,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56044109,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56044109,
+        "qs_pg:id":1112115
+    },
+    "wof:country":"LT",
+    "wof:created":1497044587,
+    "wof:geomhash":"81fab9ba0c8ac9127546abde049b0a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073593,
+            "localadmin_id":1125322009,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1125322009,
+    "wof:lastmodified":1509388138,
+    "wof:name":"Birstono Seniunija",
+    "wof:parent_id":102073593,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.027088,
+    54.606271,
+    24.027088,
+    54.606271
+],
+  "geometry": {"coordinates":[24.027088,54.606271],"type":"Point"}
+}

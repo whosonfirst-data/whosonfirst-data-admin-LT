@@ -1,0 +1,72 @@
+{
+  "id": 1226572529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4,55.81667,22.4,55.81667",
+    "geom:latitude":55.81667,
+    "geom:longitude":22.4,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Stabine",
+    "gn:country_code":"LT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594316,
+    "gn:latitude":55.81667,
+    "gn:longitude":22.4,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Stabin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stabiny",
+        "Stabin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594316
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"49449b80b5710e55373e51c53c0643d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1226572529,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1226572529,
+    "wof:lastmodified":1537661964,
+    "wof:name":"Stabine",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4,
+    55.81667,
+    22.4,
+    55.81667
+],
+  "geometry": {"coordinates":[22.4,55.81667],"type":"Point"}
+}

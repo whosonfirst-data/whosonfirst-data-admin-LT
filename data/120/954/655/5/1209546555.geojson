@@ -1,0 +1,68 @@
+{
+  "id": 1209546555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25815,56.1356,22.25815,56.1356",
+    "geom:latitude":56.1356,
+    "geom:longitude":22.25815,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Baleneliai",
+    "gn:country_code":"LT",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600722,
+    "gn:latitude":56.1356,
+    "gn:longitude":22.25815,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bal\u0117n\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bali\u0117n\u0117li\u0173",
+        "Balenelyay",
+        "Balomele",
+        "Bal\u0117n\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600722
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cd22dabcc1a89986e0b9027829dbf9cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209546555
+        }
+    ],
+    "wof:id":1209546555,
+    "wof:lastmodified":1537662409,
+    "wof:name":"Baleneliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25815,
+    56.1356,
+    22.25815,
+    56.1356
+],
+  "geometry": {"coordinates":[22.25815,56.1356],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293326567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26302,56.02518,24.26302,56.02518",
+    "geom:latitude":56.02518,
+    "geom:longitude":24.26302,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Jurgeniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310228,
+    "gn:latitude":56.02518,
+    "gn:longitude":24.26302,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jurgeni\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jurgeni\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310228
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d2b65a97703cfa140ccac2b6be8093e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1293326567,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293326567,
+    "wof:lastmodified":1537662940,
+    "wof:name":"Jurgeniskiai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26302,
+    56.02518000000001,
+    24.26302,
+    56.02518000000001
+],
+  "geometry": {"coordinates":[24.26302,56.02518000000001],"type":"Point"}
+}

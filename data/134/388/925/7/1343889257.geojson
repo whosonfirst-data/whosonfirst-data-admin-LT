@@ -1,0 +1,71 @@
+{
+  "id": 1343889257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97555,55.69995,25.97555,55.69995",
+    "geom:latitude":55.69995,
+    "geom:longitude":25.97555,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Kunotai",
+    "gn:country_code":"LT",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293369,
+    "gn:latitude":55.69995,
+    "gn:longitude":25.97555,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kunotai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kunotai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293369
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4722b80762aac15f91f01efe1d32eca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1343889257,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343889257,
+    "wof:lastmodified":1537662544,
+    "wof:name":"Kunotai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97555,
+    55.69995,
+    25.97555,
+    55.69995
+],
+  "geometry": {"coordinates":[25.97555,55.69995],"type":"Point"}
+}

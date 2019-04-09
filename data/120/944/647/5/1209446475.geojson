@@ -1,0 +1,68 @@
+{
+  "id": 1209446475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94114,56.22544,22.94114,56.22544",
+    "geom:latitude":56.22544,
+    "geom:longitude":22.94114,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Mergeluiciai",
+    "gn:country_code":"LT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597075,
+    "gn:latitude":56.22544,
+    "gn:longitude":22.94114,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mergelui\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mergielajcie",
+        "Mergeluychyay",
+        "Mergeliu\u010di\u0173",
+        "Mergelui\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597075
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"36144e6b9ce43a0fbc11c74ea9e8c708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209446475
+        }
+    ],
+    "wof:id":1209446475,
+    "wof:lastmodified":1537662160,
+    "wof:name":"Mergeluiciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94114,
+    56.22544,
+    22.94114,
+    56.22544
+],
+  "geometry": {"coordinates":[22.94114,56.22544],"type":"Point"}
+}

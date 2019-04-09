@@ -1,0 +1,71 @@
+{
+  "id": 1260114475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.461,54.60792,24.461,54.60792",
+    "geom:latitude":54.60792,
+    "geom:longitude":24.461,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"69.0",
+    "gn:asciiname":"Antaversis",
+    "gn:country_code":"LT",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311232,
+    "gn:latitude":54.60792,
+    "gn:longitude":24.461,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Antaver\u0161is",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Antaver\u0161is"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311232
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8dcf6adb89e54905f16c925ff5406261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073603,
+            "locality_id":1260114475,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260114475,
+    "wof:lastmodified":1537662960,
+    "wof:name":"Antaversis",
+    "wof:parent_id":102073603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.461,
+    54.60791999999999,
+    24.461,
+    54.60791999999999
+],
+  "geometry": {"coordinates":[24.461,54.60791999999999],"type":"Point"}
+}

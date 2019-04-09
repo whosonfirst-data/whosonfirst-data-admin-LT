@@ -1,0 +1,77 @@
+{
+  "id": 1193155139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30219,56.12108,21.30219,56.12108",
+    "geom:latitude":56.12108,
+    "geom:longitude":21.30219,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Naujoji Ipiltis",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596717,
+    "gn:latitude":56.12108,
+    "gn:longitude":21.30219,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Naujoji \u012epiltis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ipiltis",
+        "Novyy Ipiltis",
+        "Impilties Naujoji",
+        "\u012epilties Piliakalnis",
+        "Ipiltis-Naujoji",
+        "Impilty Now\u00e9",
+        "Naujoji \u012epiltis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596717
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"51fcb9709460b4a255bee5c597941c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":1193155139,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1193155139,
+    "wof:lastmodified":1537662135,
+    "wof:name":"Naujoji Ipiltis",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30219,
+    56.12108000000001,
+    21.30219,
+    56.12108000000001
+],
+  "geometry": {"coordinates":[21.30219,56.12108000000001],"type":"Point"}
+}

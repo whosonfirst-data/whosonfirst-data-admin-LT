@@ -1,0 +1,71 @@
+{
+  "id": 1343298301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.87822,55.06495,24.87822,55.06495",
+    "geom:latitude":55.06495,
+    "geom:longitude":24.87822,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Banisonys",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299901,
+    "gn:latitude":55.06495,
+    "gn:longitude":24.87822,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bani\u0161onys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bani\u0161onys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299901
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"402e431747c5a2b74088889ccd6a6b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1343298301,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343298301,
+    "wof:lastmodified":1537662718,
+    "wof:name":"Banisonys",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.87822,
+    55.06495,
+    24.87822,
+    55.06495
+],
+  "geometry": {"coordinates":[24.87822,55.06495],"type":"Point"}
+}

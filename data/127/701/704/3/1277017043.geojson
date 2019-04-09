@@ -1,0 +1,72 @@
+{
+  "id": 1277017043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6503,55.27845,24.6503,55.27845",
+    "geom:latitude":55.27845,
+    "geom:longitude":24.6503,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Tatkunai",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593975,
+    "gn:latitude":55.27845,
+    "gn:longitude":24.6503,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tatk\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tatkuny",
+        "Tatk\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593975
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0bd2cedb4c94a269ccd3c02bc0d1a3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1277017043,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1277017043,
+    "wof:lastmodified":1537661940,
+    "wof:name":"Tatkunai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6503,
+    55.27845,
+    24.6503,
+    55.27845
+],
+  "geometry": {"coordinates":[24.6503,55.27845],"type":"Point"}
+}

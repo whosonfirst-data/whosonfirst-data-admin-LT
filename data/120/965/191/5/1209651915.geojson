@@ -1,0 +1,65 @@
+{
+  "id": 1209651915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6172,55.52043,25.6172,55.52043",
+    "geom:latitude":55.52043,
+    "geom:longitude":25.6172,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Saltupys",
+    "gn:country_code":"LT",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293692,
+    "gn:latitude":55.52043,
+    "gn:longitude":25.6172,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160altupys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160altupys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293692
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7e9b5eb0943434a5e838715d0d8138fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209651915
+        }
+    ],
+    "wof:id":1209651915,
+    "wof:lastmodified":1537662551,
+    "wof:name":"Saltupys",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6172,
+    55.52043000000001,
+    25.6172,
+    55.52043000000001
+],
+  "geometry": {"coordinates":[25.6172,55.52043000000001],"type":"Point"}
+}

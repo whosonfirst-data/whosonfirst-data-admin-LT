@@ -1,0 +1,71 @@
+{
+  "id": 1326861449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71223,55.75982,25.71223,55.75982",
+    "geom:latitude":55.75982,
+    "geom:longitude":25.71223,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Ausrenai",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293195,
+    "gn:latitude":55.75982,
+    "gn:longitude":25.71223,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Au\u0161r\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Au\u0161r\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293195
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c3fdc6075d9c469395a61880197baa46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1326861449,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1326861449,
+    "wof:lastmodified":1537662541,
+    "wof:name":"Ausrenai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71223,
+    55.75982,
+    25.71223,
+    55.75982
+],
+  "geometry": {"coordinates":[25.71223,55.75982],"type":"Point"}
+}

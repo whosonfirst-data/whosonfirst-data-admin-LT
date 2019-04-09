@@ -1,0 +1,76 @@
+{
+  "id": 1193167707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56224,54.42878,24.56224,54.42878",
+    "geom:latitude":54.42878,
+    "geom:longitude":24.56224,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Bakaloriskes",
+    "gn:country_code":"LT",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600744,
+    "gn:latitude":54.42878,
+    "gn:longitude":24.56224,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bakalori\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bakalori\u0161k\u0117s"
+    ],
+    "name:und_x_variant":[
+        "Bakalori\u0161ki\u0173",
+        "Bokolorishskiy",
+        "Bakalori\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600744
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b33f7ae9ea20bb977ff3b63670daab66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1193167707,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1193167707,
+    "wof:lastmodified":1537662411,
+    "wof:name":"Bakaloriskes",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56224,
+    54.42878,
+    24.56224,
+    54.42878
+],
+  "geometry": {"coordinates":[24.56224,54.42878],"type":"Point"}
+}

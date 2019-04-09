@@ -1,0 +1,71 @@
+{
+  "id": 1310042597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13252,56.25767,23.13252,56.25767",
+    "geom:latitude":56.25767,
+    "geom:longitude":23.13252,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Pailiai",
+    "gn:country_code":"LT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304620,
+    "gn:latitude":56.25767,
+    "gn:longitude":23.13252,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pailiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pailiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304620
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f90f408464766d1668164e4bbbdc8a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1310042597,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310042597,
+    "wof:lastmodified":1537662828,
+    "wof:name":"Pailiai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13252,
+    56.25767,
+    23.13252,
+    56.25767
+],
+  "geometry": {"coordinates":[23.13252,56.25767],"type":"Point"}
+}

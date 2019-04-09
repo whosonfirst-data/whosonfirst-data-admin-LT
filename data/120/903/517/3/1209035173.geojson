@@ -1,0 +1,67 @@
+{
+  "id": 1209035173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59558,55.10095,24.59558,55.10095",
+    "geom:latitude":55.10095,
+    "geom:longitude":24.59558,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Sliziai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594440,
+    "gn:latitude":55.10095,
+    "gn:longitude":24.59558,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sli\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slizhyay",
+        "Sli\u017ei\u0173",
+        "Sli\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594440
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e308066674777ec5f51fec86d2ae08f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209035173
+        }
+    ],
+    "wof:id":1209035173,
+    "wof:lastmodified":1537661972,
+    "wof:name":"Sliziai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59558,
+    55.10095,
+    24.59558,
+    55.10095
+],
+  "geometry": {"coordinates":[24.59558,55.10095],"type":"Point"}
+}

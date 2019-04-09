@@ -1,0 +1,73 @@
+{
+  "id": 1309842831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06565,54.28699,24.06565,54.28699",
+    "geom:latitude":54.28699,
+    "geom:longitude":24.06565,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Kastriskes",
+    "gn:country_code":"LT",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598344,
+    "gn:latitude":54.28699,
+    "gn:longitude":24.06565,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kastri\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kostrishki",
+        "Kastri\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598344
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"653f6ad159f3c55ed4474e9ffe8d3e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1309842831,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1309842831,
+    "wof:lastmodified":1537662245,
+    "wof:name":"Kastriskes",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06565,
+    54.28699,
+    24.06565,
+    54.28699
+],
+  "geometry": {"coordinates":[24.06565,54.28699],"type":"Point"}
+}

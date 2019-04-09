@@ -1,0 +1,71 @@
+{
+  "id": 1276373931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80799,55.9647,24.80799,55.9647",
+    "geom:latitude":55.9647,
+    "geom:longitude":24.80799,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Palaima",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298648,
+    "gn:latitude":55.9647,
+    "gn:longitude":24.80799,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Palaima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Palaima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298648
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2fc1af2d33087a883b16136f6131481f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1276373931,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276373931,
+    "wof:lastmodified":1537662682,
+    "wof:name":"Palaima",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80799,
+    55.9647,
+    24.80799,
+    55.9647
+],
+  "geometry": {"coordinates":[24.80799,55.9647],"type":"Point"}
+}

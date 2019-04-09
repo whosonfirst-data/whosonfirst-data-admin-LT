@@ -1,0 +1,71 @@
+{
+  "id": 1243485059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.0647,55.89599,21.0647,55.89599",
+    "geom:latitude":55.89599,
+    "geom:longitude":21.0647,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"25.0",
+    "gn:asciiname":"Plytine",
+    "gn:country_code":"LT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289059,
+    "gn:latitude":55.89599,
+    "gn:longitude":21.0647,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Plytin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Plytin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289059
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b342b27ae847ef3946426496a8d56c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073675,
+            "locality_id":1243485059,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1243485059,
+    "wof:lastmodified":1537662451,
+    "wof:name":"Plytine",
+    "wof:parent_id":102073675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.0647,
+    55.89599000000001,
+    21.0647,
+    55.89599000000001
+],
+  "geometry": {"coordinates":[21.0647,55.89599000000001],"type":"Point"}
+}

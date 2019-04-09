@@ -1,0 +1,71 @@
+{
+  "id": 1210050317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.20106,55.23669,25.20106,55.23669",
+    "geom:latitude":55.23669,
+    "geom:longitude":25.20106,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Prudai",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297048,
+    "gn:latitude":55.23669,
+    "gn:longitude":25.20106,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pr\u016bdai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pr\u016bdai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297048
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2ea826e374539e07b39844a09e4ac818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1210050317,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1210050317,
+    "wof:lastmodified":1537662636,
+    "wof:name":"Prudai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.20106,
+    55.23669,
+    25.20106,
+    55.23669
+],
+  "geometry": {"coordinates":[25.20106,55.23669],"type":"Point"}
+}

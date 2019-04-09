@@ -1,0 +1,71 @@
+{
+  "id": 1292942873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.42706,55.63176,24.42706,55.63176",
+    "geom:latitude":55.63176,
+    "geom:longitude":24.42706,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Pakojai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311947,
+    "gn:latitude":55.63176,
+    "gn:longitude":24.42706,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pakojai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pakojai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311947
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ab7837874ba4f31b61d714bcd88dfa1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1292942873,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1292942873,
+    "wof:lastmodified":1537662980,
+    "wof:name":"Pakojai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.42706,
+    55.63176,
+    24.42706,
+    55.63176
+],
+  "geometry": {"coordinates":[24.42706,55.63176],"type":"Point"}
+}

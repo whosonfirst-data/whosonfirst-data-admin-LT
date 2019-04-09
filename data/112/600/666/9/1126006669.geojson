@@ -1,0 +1,127 @@
+{
+  "id": 1126006669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9,55.35,23.9,55.35",
+    "geom:latitude":55.35,
+    "geom:longitude":23.9,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":783,
+    "gn:population":783,
+    "iso:country":"LT",
+    "lbl:latitude":55.35,
+    "lbl:longitude":23.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dotnuva"
+    ],
+    "name:eng_x_preferred":[
+        "Dotnuva"
+    ],
+    "name:est_x_preferred":[
+        "Dotnuva"
+    ],
+    "name:fin_x_preferred":[
+        "Dotnuva"
+    ],
+    "name:fre_x_preferred":[
+        "Dotnuva"
+    ],
+    "name:ger_x_preferred":[
+        "Dotnuva"
+    ],
+    "name:lit_x_preferred":[
+        "Dotnuva"
+    ],
+    "name:pol_x_preferred":[
+        "Datn\u00f3w"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0442\u043d\u0443\u0432\u0430"
+    ],
+    "name:sgs_x_preferred":[
+        "Duotnova"
+    ],
+    "name:spa_x_preferred":[
+        "Dotnuva"
+    ],
+    "name:unk_x_variant":[
+        "Dotnava"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":599808,
+    "qs_pg:gn_pop":783,
+    "qs_pg:name":"Dotnuva",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":925369,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":474271,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599808,
+        "gp:id":474271,
+        "qs_pg:id":925369,
+        "wd:id":"Q1251216"
+    },
+    "wof:country":"LT",
+    "wof:created":1497300004,
+    "wof:geomhash":"f04c6e31632cb930b646554cf722bb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1126006669,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1126006669,
+    "wof:lastmodified":1514470299,
+    "wof:name":"Dotnuva",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:population":783,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9,
+    55.35,
+    23.9,
+    55.35
+],
+  "geometry": {"coordinates":[23.9,55.35],"type":"Point"}
+}

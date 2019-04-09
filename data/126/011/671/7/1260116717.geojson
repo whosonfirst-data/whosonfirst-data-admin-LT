@@ -1,0 +1,71 @@
+{
+  "id": 1260116717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.871,55.29851,24.871,55.29851",
+    "geom:latitude":55.29851,
+    "geom:longitude":24.871,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Kunigeliai",
+    "gn:country_code":"LT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299531,
+    "gn:latitude":55.29851,
+    "gn:longitude":24.871,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kunig\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kunig\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299531
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"04c4b1fcc09e52178e0579baac3202c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1260116717,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260116717,
+    "wof:lastmodified":1537662705,
+    "wof:name":"Kunigeliai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.871,
+    55.29851,
+    24.871,
+    55.29851
+],
+  "geometry": {"coordinates":[24.871,55.29851],"type":"Point"}
+}

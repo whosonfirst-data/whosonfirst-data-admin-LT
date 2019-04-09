@@ -1,0 +1,71 @@
+{
+  "id": 1242613727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02688,54.63141,25.02688,54.63141",
+    "geom:latitude":54.63141,
+    "geom:longitude":25.02688,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Rackunai",
+    "gn:country_code":"LT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300762,
+    "gn:latitude":54.63141,
+    "gn:longitude":25.02688,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ra\u010dk\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ra\u010dk\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300762
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3d2e1f4e57c7020ee44656ad11cf4bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1242613727,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1242613727,
+    "wof:lastmodified":1537662744,
+    "wof:name":"Rackunai",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02688,
+    54.63141,
+    25.02688,
+    54.63141
+],
+  "geometry": {"coordinates":[25.02688,54.63141],"type":"Point"}
+}

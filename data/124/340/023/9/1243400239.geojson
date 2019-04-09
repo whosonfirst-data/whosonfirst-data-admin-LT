@@ -1,0 +1,71 @@
+{
+  "id": 1243400239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.17188,56.14434,23.17188,56.14434",
+    "geom:latitude":56.14434,
+    "geom:longitude":23.17188,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Viesgirdziai",
+    "gn:country_code":"LT",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304472,
+    "gn:latitude":56.14434,
+    "gn:longitude":23.17188,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Viesgird\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Viesgird\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304472
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"84ec740d02aa1152dc71aa9e6d52f04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1243400239,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1243400239,
+    "wof:lastmodified":1537662825,
+    "wof:name":"Viesgirdziai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.17188,
+    56.14434,
+    23.17188,
+    56.14434
+],
+  "geometry": {"coordinates":[23.17188,56.14434],"type":"Point"}
+}

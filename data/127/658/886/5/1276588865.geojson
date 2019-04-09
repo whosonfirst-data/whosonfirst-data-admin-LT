@@ -1,0 +1,73 @@
+{
+  "id": 1276588865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21448,55.09045,23.21448,55.09045",
+    "geom:latitude":55.09045,
+    "geom:longitude":23.21448,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Grauzenai",
+    "gn:country_code":"LT",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599198,
+    "gn:latitude":55.09045,
+    "gn:longitude":23.21448,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Grau\u017e\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grau\u017e\u0117n\u0173",
+        "Gravzhany",
+        "Grau\u017e\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599198
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4dc86b3e9e62ff37a4c34425a6b45dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1276588865,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1276588865,
+    "wof:lastmodified":1537662303,
+    "wof:name":"Grauzenai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21448,
+    55.09045,
+    23.21448,
+    55.09045
+],
+  "geometry": {"coordinates":[23.21448,55.09045],"type":"Point"}
+}

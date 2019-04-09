@@ -1,0 +1,71 @@
+{
+  "id": 1259818475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21023,55.16034,26.21023,55.16034",
+    "geom:latitude":55.16034,
+    "geom:longitude":26.21023,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Kochanovka I",
+    "gn:country_code":"LT",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292664,
+    "gn:latitude":55.16034,
+    "gn:longitude":26.21023,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kochanovka I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kochanovka I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292664
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"33f491594528d78d243d826d7f814846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1259818475,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259818475,
+    "wof:lastmodified":1537662528,
+    "wof:name":"Kochanovka I",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21023,
+    55.16034000000001,
+    26.21023,
+    55.16034000000001
+],
+  "geometry": {"coordinates":[26.21023,55.16034000000001],"type":"Point"}
+}

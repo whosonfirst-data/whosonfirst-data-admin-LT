@@ -1,0 +1,72 @@
+{
+  "id": 1242904861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75562,55.84949,24.75562,55.84949",
+    "geom:latitude":55.84949,
+    "geom:longitude":24.75562,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Niciunai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596613,
+    "gn:latitude":55.84949,
+    "gn:longitude":24.75562,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ni\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nichunay",
+        "Ni\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596613
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d36ce4be8eb5ef88534ab4d1a838f5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1242904861,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1242904861,
+    "wof:lastmodified":1537662127,
+    "wof:name":"Niciunai",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75562,
+    55.84949,
+    24.75562,
+    55.84949
+],
+  "geometry": {"coordinates":[24.75562,55.84949],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242714577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.70526,55.22672,22.70526,55.22672",
+    "geom:latitude":55.22672,
+    "geom:longitude":22.70526,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Balniai I",
+    "gn:country_code":"LT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600712,
+    "gn:latitude":55.22672,
+    "gn:longitude":22.70526,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Balniai I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u2019ni",
+        "Balniai Pirmieji",
+        "Balniai I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600712
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2e342b37c5b6d17e0cad9ef8caa2f8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1242714577,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1242714577,
+    "wof:lastmodified":1537662408,
+    "wof:name":"Balniai I",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.70526,
+    55.22671999999999,
+    22.70526,
+    55.22671999999999
+],
+  "geometry": {"coordinates":[22.70526,55.22671999999999],"type":"Point"}
+}

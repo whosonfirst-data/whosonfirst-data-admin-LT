@@ -1,0 +1,72 @@
+{
+  "id": 1327441539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21667,55.15,24.21667,55.15",
+    "geom:latitude":55.15,
+    "geom:longitude":24.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kripciai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597962,
+    "gn:latitude":55.15,
+    "gn:longitude":24.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Krip\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kripchyay",
+        "Krip\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597962
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4a9732898c76191bf3424ea86c477840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1327441539,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327441539,
+    "wof:lastmodified":1537662220,
+    "wof:name":"Kripciai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21667,
+    55.15,
+    24.21667,
+    55.15
+],
+  "geometry": {"coordinates":[24.21667,55.15],"type":"Point"}
+}

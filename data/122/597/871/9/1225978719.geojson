@@ -1,0 +1,75 @@
+{
+  "id": 1225978719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50921,54.98997,25.50921,54.98997",
+    "geom:latitude":54.98997,
+    "geom:longitude":25.50921,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Suzionys",
+    "gn:country_code":"LT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594083,
+    "gn:latitude":54.98997,
+    "gn:longitude":25.50921,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Su\u017eionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suzhenis",
+        "Su\u017eany",
+        "Su\u017eonys",
+        "Suzhany",
+        "Su\u017eionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594083
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"76ecf6361bec2830e7327c7a2bc6e9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1225978719,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1225978719,
+    "wof:lastmodified":1537661947,
+    "wof:name":"Suzionys",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50921,
+    54.98996999999999,
+    25.50921,
+    54.98996999999999
+],
+  "geometry": {"coordinates":[25.50921,54.98996999999999],"type":"Point"}
+}

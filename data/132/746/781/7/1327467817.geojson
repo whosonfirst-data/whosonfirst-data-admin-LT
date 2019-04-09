@@ -1,0 +1,79 @@
+{
+  "id": 1327467817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.07183,55.8145,22.07183,55.8145",
+    "geom:latitude":55.8145,
+    "geom:longitude":22.07183,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Medingenai",
+    "gn:country_code":"LT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597147,
+    "gn:latitude":55.8145,
+    "gn:longitude":22.07183,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Meding\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Meding\u0117nai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u0434\u0438\u043d\u0433\u0435\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Medingenay",
+        "Medingen\u0173",
+        "Meding\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597147
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"488e6ade2bef76d63d8588aa4f03613d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1327467817,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1327467817,
+    "wof:lastmodified":1537662165,
+    "wof:name":"Medingenai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.07183,
+    55.8145,
+    22.07183,
+    55.8145
+],
+  "geometry": {"coordinates":[22.07183,55.8145],"type":"Point"}
+}

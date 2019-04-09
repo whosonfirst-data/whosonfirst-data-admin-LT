@@ -1,0 +1,71 @@
+{
+  "id": 1343796239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18504,55.82728,22.18504,55.82728",
+    "geom:latitude":55.82728,
+    "geom:longitude":22.18504,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Vinteliske",
+    "gn:country_code":"LT",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301357,
+    "gn:latitude":55.82728,
+    "gn:longitude":22.18504,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vinteli\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vinteli\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301357
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b7ef09f80573ae391c9909a1779041ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1343796239,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1343796239,
+    "wof:lastmodified":1537662758,
+    "wof:name":"Vinteliske",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18504,
+    55.82728,
+    22.18504,
+    55.82728
+],
+  "geometry": {"coordinates":[22.18504,55.82728],"type":"Point"}
+}

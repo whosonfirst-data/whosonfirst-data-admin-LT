@@ -1,0 +1,71 @@
+{
+  "id": 1343796483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90039,54.49527,22.90039,54.49527",
+    "geom:latitude":54.49527,
+    "geom:longitude":22.90039,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Silsodis",
+    "gn:country_code":"LT",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303081,
+    "gn:latitude":54.49527,
+    "gn:longitude":22.90039,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160ilsodis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160ilsodis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303081
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"528c5ad7eba2a8f6d7a3b8b03e0c6384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1343796483,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1343796483,
+    "wof:lastmodified":1537662793,
+    "wof:name":"Silsodis",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90039,
+    54.49527,
+    22.90039,
+    54.49527
+],
+  "geometry": {"coordinates":[22.90039,54.49527],"type":"Point"}
+}

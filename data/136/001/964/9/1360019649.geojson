@@ -1,0 +1,71 @@
+{
+  "id": 1360019649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73345,54.95462,24.73345,54.95462",
+    "geom:latitude":54.95462,
+    "geom:longitude":24.73345,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Nesteriskis",
+    "gn:country_code":"LT",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311404,
+    "gn:latitude":54.95462,
+    "gn:longitude":24.73345,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Nesteri\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Nesteri\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311404
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c34e005c7b4651a2835c04e6eaa2e8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1360019649,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1360019649,
+    "wof:lastmodified":1537662965,
+    "wof:name":"Nesteriskis",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73345,
+    54.95462,
+    24.73345,
+    54.95462
+],
+  "geometry": {"coordinates":[24.73345,54.95462],"type":"Point"}
+}

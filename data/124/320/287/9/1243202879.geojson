@@ -1,0 +1,71 @@
+{
+  "id": 1243202879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88414,55.7981,25.88414,55.7981",
+    "geom:latitude":55.7981,
+    "geom:longitude":25.88414,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Meletiskes",
+    "gn:country_code":"LT",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293308,
+    "gn:latitude":55.7981,
+    "gn:longitude":25.88414,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Meleti\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Meleti\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293308
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"38d142b1d8f5eee26e48aacdc143b744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1243202879,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243202879,
+    "wof:lastmodified":1537662543,
+    "wof:name":"Meletiskes",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88414,
+    55.7981,
+    25.88414,
+    55.7981
+],
+  "geometry": {"coordinates":[25.88414,55.7981],"type":"Point"}
+}

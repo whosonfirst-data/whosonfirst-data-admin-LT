@@ -1,0 +1,65 @@
+{
+  "id": 1209449159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9032,55.28717,22.9032,55.28717",
+    "geom:latitude":55.28717,
+    "geom:longitude":22.9032,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Kalupiai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303643,
+    "gn:latitude":55.28717,
+    "gn:longitude":22.9032,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kalupiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kalupiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303643
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a39466226ae0ed5f1f5a09044114bfcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209449159
+        }
+    ],
+    "wof:id":1209449159,
+    "wof:lastmodified":1537662806,
+    "wof:name":"Kalupiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9032,
+    55.28717,
+    22.9032,
+    55.28717
+],
+  "geometry": {"coordinates":[22.9032,55.28717],"type":"Point"}
+}

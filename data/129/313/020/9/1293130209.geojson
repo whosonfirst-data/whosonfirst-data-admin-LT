@@ -1,0 +1,82 @@
+{
+  "id": 1293130209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45082,55.91326,24.45082,55.91326",
+    "geom:latitude":55.91326,
+    "geom:longitude":24.45082,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Krikliniai",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597970,
+    "gn:latitude":55.91326,
+    "gn:longitude":24.45082,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Krikliniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krikliniai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u043a\u043b\u0438\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kriklen\u0173",
+        "Krikl\u0117nai",
+        "Kriklinyay",
+        "Kriklenyay",
+        "Krikliniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597970,
+        "wk:page":"Krikliniai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ef629e96f59c003d497d48df3a0e2186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1293130209,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293130209,
+    "wof:lastmodified":1537662221,
+    "wof:name":"Krikliniai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45082,
+    55.91326,
+    24.45082,
+    55.91326
+],
+  "geometry": {"coordinates":[24.45082,55.91326],"type":"Point"}
+}

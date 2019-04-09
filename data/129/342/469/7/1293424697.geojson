@@ -1,0 +1,71 @@
+{
+  "id": 1293424697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94017,54.54511,24.94017,54.54511",
+    "geom:latitude":54.54511,
+    "geom:longitude":24.94017,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Liodzionys",
+    "gn:country_code":"LT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300805,
+    "gn:latitude":54.54511,
+    "gn:longitude":24.94017,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Liod\u017eionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Liod\u017eionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300805
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2e7639c170aae1d5ecaca4a0a711b88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1293424697,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293424697,
+    "wof:lastmodified":1537662745,
+    "wof:name":"Liodzionys",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94017,
+    54.54511,
+    24.94017,
+    54.54511
+],
+  "geometry": {"coordinates":[24.94017,54.54511],"type":"Point"}
+}

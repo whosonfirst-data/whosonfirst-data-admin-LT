@@ -1,0 +1,71 @@
+{
+  "id": 1243098757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57429,55.75527,25.57429,55.75527",
+    "geom:latitude":55.75527,
+    "geom:longitude":25.57429,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Neciunai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295874,
+    "gn:latitude":55.75527,
+    "gn:longitude":25.57429,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ne\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ne\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295874
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bbf8f756b308de63257546fa0f1cc440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1243098757,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243098757,
+    "wof:lastmodified":1537662605,
+    "wof:name":"Neciunai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57429,
+    55.75527,
+    25.57429,
+    55.75527
+],
+  "geometry": {"coordinates":[25.57429,55.75527],"type":"Point"}
+}

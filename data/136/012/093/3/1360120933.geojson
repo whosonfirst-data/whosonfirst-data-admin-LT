@@ -1,0 +1,73 @@
+{
+  "id": 1360120933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.80264,54.19564,23.80264,54.19564",
+    "geom:latitude":54.19564,
+    "geom:longitude":23.80264,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Paserninkai",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596047,
+    "gn:latitude":54.19564,
+    "gn:longitude":23.80264,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Paserninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paserniki",
+        "Pasernik\u0173",
+        "Paserninkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596047
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9b7166cf87d5d54bf34e5830415563da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1360120933,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1360120933,
+    "wof:lastmodified":1537662085,
+    "wof:name":"Paserninkai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.80264,
+    54.19564,
+    23.80264,
+    54.19564
+],
+  "geometry": {"coordinates":[23.80264,54.19564],"type":"Point"}
+}

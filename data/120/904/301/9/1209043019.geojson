@@ -1,0 +1,65 @@
+{
+  "id": 1209043019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.08638,55.4059,25.08638,55.4059",
+    "geom:latitude":55.4059,
+    "geom:longitude":25.08638,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Moliakalnis",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299649,
+    "gn:latitude":55.4059,
+    "gn:longitude":25.08638,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Moliakalnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Moliakalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299649
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e36baf1ae3812a46f3f7f19e1aa3741d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209043019
+        }
+    ],
+    "wof:id":1209043019,
+    "wof:lastmodified":1537662709,
+    "wof:name":"Moliakalnis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08638,
+    55.4059,
+    25.08638,
+    55.4059
+],
+  "geometry": {"coordinates":[25.08638,55.4059],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310235891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.27991,55.66841,23.27991,55.66841",
+    "geom:latitude":55.66841,
+    "geom:longitude":23.27991,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Budos",
+    "gn:country_code":"LT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305995,
+    "gn:latitude":55.66841,
+    "gn:longitude":23.27991,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"B\u016bdos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "B\u016bdos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305995
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"40448ab55825325dd1bd8322744ee584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1310235891,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310235891,
+    "wof:lastmodified":1537662860,
+    "wof:name":"Budos",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.27991,
+    55.66841,
+    23.27991,
+    55.66841
+],
+  "geometry": {"coordinates":[23.27991,55.66841],"type":"Point"}
+}

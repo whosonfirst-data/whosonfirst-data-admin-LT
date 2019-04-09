@@ -1,0 +1,72 @@
+{
+  "id": 1309937281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47791,55.36207,22.47791,55.36207",
+    "geom:latitude":55.36207,
+    "geom:longitude":22.47791,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Paegluonis",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596423,
+    "gn:latitude":55.36207,
+    "gn:longitude":22.47791,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Paegluonis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Payeglone",
+        "Paegluonis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596423
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f1a4f0d9b26ce2f4a6a7718d3326c494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1309937281,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1309937281,
+    "wof:lastmodified":1537662113,
+    "wof:name":"Paegluonis",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47791,
+    55.36207,
+    22.47791,
+    55.36207
+],
+  "geometry": {"coordinates":[22.47791,55.36207],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 1125891373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98333,55.38333,25.98333,55.38333",
+    "geom:latitude":55.38333,
+    "geom:longitude":25.98333,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":55.38333,
+    "lbl:longitude":25.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Ginu\u010diai"
+    ],
+    "name:dut_x_preferred":[
+        "Ginu\u010diai"
+    ],
+    "name:eng_x_preferred":[
+        "Ginu\u010diai"
+    ],
+    "name:epo_x_preferred":[
+        "Ginu\u010diai"
+    ],
+    "name:lit_x_preferred":[
+        "Ginu\u010diai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043d\u0443\u0447\u044f\u0439"
+    ],
+    "name:sgs_x_preferred":[
+        "Ginot\u0113"
+    ],
+    "name:unk_x_variant":[
+        "Ginuchya"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":599301,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ginu\u010diai",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Utenos Apskritis",
+    "qs_pg:photos":235,
+    "qs_pg:photos_1k":48,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":235,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117095,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":474662,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Utenos Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599301,
+        "gp:id":474662,
+        "qs_pg:id":1117095,
+        "wd:id":"Q265070"
+    },
+    "wof:country":"LT",
+    "wof:created":1497295334,
+    "wof:geomhash":"328d391a66677986d51d39294f182c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1125891373,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1125891373,
+    "wof:lastmodified":1514470302,
+    "wof:name":"Ginu\u010diai",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98333,
+    55.38333,
+    25.98333,
+    55.38333
+],
+  "geometry": {"coordinates":[25.98333,55.38333],"type":"Point"}
+}

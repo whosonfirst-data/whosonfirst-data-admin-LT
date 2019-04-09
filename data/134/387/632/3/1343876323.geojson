@@ -1,0 +1,67 @@
+{
+  "id": 1343876323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.53333,54.7,23.53333,54.7",
+    "geom:latitude":54.7,
+    "geom:longitude":23.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Zariskiai",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592881,
+    "gn:latitude":54.7,
+    "gn:longitude":23.53333,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Zari\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592881
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a13ecff690eb02ee3cead4000ee73ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073607,
+            "locality_id":1343876323,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1343876323,
+    "wof:lastmodified":1536643013,
+    "wof:name":"Zariskiai",
+    "wof:parent_id":102073607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.53333,
+    54.7,
+    23.53333,
+    54.7
+],
+  "geometry": {"coordinates":[23.53333,54.7],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259911241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01009,56.23979,24.01009,56.23979",
+    "geom:latitude":56.23979,
+    "geom:longitude":24.01009,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Nociunai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596599,
+    "gn:latitude":56.23979,
+    "gn:longitude":24.01009,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Noci\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Noci\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0446\u044e\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Noci\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596599
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"929b95831795e20a16f725da504220e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1259911241,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1259911241,
+    "wof:lastmodified":1537662126,
+    "wof:name":"Nociunai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01009,
+    56.23979,
+    24.01009,
+    56.23979
+],
+  "geometry": {"coordinates":[24.01009,56.23979],"type":"Point"}
+}

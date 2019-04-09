@@ -1,0 +1,73 @@
+{
+  "id": 1293817927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11802,55.71302,22.11802,55.71302",
+    "geom:latitude":55.71302,
+    "geom:longitude":22.11802,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Vincentavas",
+    "gn:country_code":"LT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593106,
+    "gn:latitude":55.71302,
+    "gn:longitude":22.11802,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vincentavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vintsentavas",
+        "Vincentavas",
+        "Vincenti\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593106
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fce2973c0be5b15816577ad81fc34807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1293817927,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293817927,
+    "wof:lastmodified":1537661884,
+    "wof:name":"Vincentavas",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11802,
+    55.71301999999999,
+    22.11802,
+    55.71301999999999
+],
+  "geometry": {"coordinates":[22.11802,55.71301999999999],"type":"Point"}
+}

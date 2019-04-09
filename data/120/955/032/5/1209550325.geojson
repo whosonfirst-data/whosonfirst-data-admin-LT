@@ -1,0 +1,65 @@
+{
+  "id": 1209550325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58991,54.49166,25.58991,54.49166",
+    "geom:latitude":54.49166,
+    "geom:longitude":25.58991,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Varniskes",
+    "gn:country_code":"LT",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295283,
+    "gn:latitude":54.49166,
+    "gn:longitude":25.58991,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Varni\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Varni\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295283
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"eeae283a122141fd37b7818517554421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209550325
+        }
+    ],
+    "wof:id":1209550325,
+    "wof:lastmodified":1537662588,
+    "wof:name":"Varniskes",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58991,
+    54.49166,
+    25.58991,
+    54.49166
+],
+  "geometry": {"coordinates":[25.58991,54.49166],"type":"Point"}
+}

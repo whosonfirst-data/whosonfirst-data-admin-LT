@@ -1,0 +1,81 @@
+{
+  "id": 1293913927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52412,55.89429,22.52412,55.89429",
+    "geom:latitude":55.89429,
+    "geom:longitude":22.52412,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Luoke",
+    "gn:country_code":"LT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597356,
+    "gn:latitude":55.89429,
+    "gn:longitude":22.52412,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Luok\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Luok\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043e\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Lukniki",
+        "Luok\u0117s",
+        "Luoka",
+        "Luok\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597356,
+        "wk:page":"Luok%C4%97"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6dba7603707bd39855b102bbafd8edb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1293913927,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293913927,
+    "wof:lastmodified":1537662179,
+    "wof:name":"Luoke",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52412,
+    55.89429000000001,
+    22.52412,
+    55.89429000000001
+],
+  "geometry": {"coordinates":[22.52412,55.89429000000001],"type":"Point"}
+}

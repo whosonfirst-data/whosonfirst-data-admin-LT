@@ -1,0 +1,74 @@
+{
+  "id": 1326465309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85148,54.97488,25.85148,54.97488",
+    "geom:latitude":54.97488,
+    "geom:longitude":25.85148,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Pavovere",
+    "gn:country_code":"LT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595917,
+    "gn:latitude":54.97488,
+    "gn:longitude":25.85148,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pavover\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padver\u0117",
+        "Poveviorka",
+        "Powiewi\u00f3rka",
+        "Pavover\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595917
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6514f459e85bd1cf6d2665c6801c25a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1326465309,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1326465309,
+    "wof:lastmodified":1537662075,
+    "wof:name":"Pavovere",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85148,
+    54.97488000000001,
+    25.85148,
+    54.97488000000001
+],
+  "geometry": {"coordinates":[25.85148,54.97488000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193052675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.6074,55.57599,26.6074,55.57599",
+    "geom:latitude":55.57599,
+    "geom:longitude":26.6074,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Kalnezeris",
+    "gn:country_code":"LT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291010,
+    "gn:latitude":55.57599,
+    "gn:longitude":26.6074,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kalne\u017eeris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kalne\u017eeris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291010
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"512ee8ba71c43b37d561ee16672418f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1193052675,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1193052675,
+    "wof:lastmodified":1537662483,
+    "wof:name":"Kalnezeris",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.6074,
+    55.57599,
+    26.6074,
+    55.57599
+],
+  "geometry": {"coordinates":[26.6074,55.57599],"type":"Point"}
+}

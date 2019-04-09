@@ -1,0 +1,71 @@
+{
+  "id": 1243488575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18387,55.41067,25.18387,55.41067",
+    "geom:latitude":55.41067,
+    "geom:longitude":25.18387,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Uzuoraistis",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296343,
+    "gn:latitude":55.41067,
+    "gn:longitude":25.18387,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"U\u017euoraistis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "U\u017euoraistis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296343
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ea4774b17a9f75db818658dfb76b2092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1243488575,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243488575,
+    "wof:lastmodified":1537662616,
+    "wof:name":"Uzuoraistis",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18387,
+    55.41067,
+    25.18387,
+    55.41067
+],
+  "geometry": {"coordinates":[25.18387,55.41067],"type":"Point"}
+}

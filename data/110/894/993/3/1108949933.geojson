@@ -1,0 +1,66 @@
+{
+  "id": 1108949933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.167999641,54.7001738305,25.167999641,54.7001738305",
+    "geom:latitude":54.700174,
+    "geom:longitude":25.168,
+    "iso:country":"LT",
+    "lbl:latitude":54.700174,
+    "lbl:longitude":25.168,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:lit_x_preferred":[
+        "Dvaryk\u0161\u010diai"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85685759,
+        102191581,
+        85633269,
+        101753031,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491368003,
+    "wof:geomhash":"105d8d29761936f91868f858172d0c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":1108949933,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949933,
+    "wof:lastmodified":1497292360,
+    "wof:name":"Dvaryksciai",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16799964101607,
+    54.70017383053418,
+    25.16799964101607,
+    54.70017383053418
+],
+  "geometry": {"coordinates":[25.16799964101607,54.70017383053418],"type":"Point"}
+}

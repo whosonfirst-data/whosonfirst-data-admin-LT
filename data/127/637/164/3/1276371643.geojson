@@ -1,0 +1,71 @@
+{
+  "id": 1276371643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44189,54.47305,24.44189,54.47305",
+    "geom:latitude":54.47305,
+    "geom:longitude":24.44189,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Vackiskes",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310688,
+    "gn:latitude":54.47305,
+    "gn:longitude":24.44189,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vacki\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vacki\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310688
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"08a4c4a0ba435b0561c4552c5186a6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1276371643,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276371643,
+    "wof:lastmodified":1537662948,
+    "wof:name":"Vackiskes",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44189,
+    54.47305,
+    24.44189,
+    54.47305
+],
+  "geometry": {"coordinates":[24.44189,54.47305],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343298047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.57256,53.98896,24.57256,53.98896",
+    "geom:latitude":53.98896,
+    "geom:longitude":24.57256,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Katra",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310386,
+    "gn:latitude":53.98896,
+    "gn:longitude":24.57256,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Katra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Katra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310386
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ffd723404e3572be0c9fe68f1b140dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1343298047,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1343298047,
+    "wof:lastmodified":1537662944,
+    "wof:name":"Katra",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.57256,
+    53.98896,
+    24.57256,
+    53.98896
+],
+  "geometry": {"coordinates":[24.57256,53.98896],"type":"Point"}
+}

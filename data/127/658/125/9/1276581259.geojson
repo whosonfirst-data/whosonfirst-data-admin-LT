@@ -1,0 +1,76 @@
+{
+  "id": 1276581259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8729,55.11034,21.8729,55.11034",
+    "geom:latitude":55.11034,
+    "geom:longitude":21.8729,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Plausvariai",
+    "gn:country_code":"LT",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595717,
+    "gn:latitude":55.11034,
+    "gn:longitude":21.8729,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Plau\u0161variai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Plau\u0161variai"
+    ],
+    "name:und_x_variant":[
+        "Plaushvaryay",
+        "Plyaushvaren",
+        "Plau\u0161var\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595717
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0b273433eed458a04dc6f60fe52d23d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073623,
+            "locality_id":1276581259,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1276581259,
+    "wof:lastmodified":1537662060,
+    "wof:name":"Plausvariai",
+    "wof:parent_id":102073623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8729,
+    55.11034,
+    21.8729,
+    55.11034
+],
+  "geometry": {"coordinates":[21.8729,55.11034],"type":"Point"}
+}

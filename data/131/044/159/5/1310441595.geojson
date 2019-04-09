@@ -1,0 +1,72 @@
+{
+  "id": 1310441595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73861,56.00558,24.73861,56.00558",
+    "geom:latitude":56.00558,
+    "geom:longitude":24.73861,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Mockunai",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596873,
+    "gn:latitude":56.00558,
+    "gn:longitude":24.73861,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mock\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Motskunay",
+        "Mock\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596873
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"238d12eaf76f162b4c4860ca4efed67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1310441595,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310441595,
+    "wof:lastmodified":1537662146,
+    "wof:name":"Mockunai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73861,
+    56.00558,
+    24.73861,
+    56.00558
+],
+  "geometry": {"coordinates":[24.73861,56.00558],"type":"Point"}
+}

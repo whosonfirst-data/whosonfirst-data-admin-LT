@@ -1,0 +1,79 @@
+{
+  "id": 1242808703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92329,56.136,23.92329,56.136",
+    "geom:latitude":56.136,
+    "geom:longitude":23.92329,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Gaizunai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599536,
+    "gn:latitude":56.136,
+    "gn:longitude":23.92329,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gai\u017e\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gai\u017e\u016bnai"
+    ],
+    "name:und_x_variant":[
+        "Gayzunay",
+        "Gai\u017e\u016bn\u0173",
+        "Gai\u017ehuny",
+        "Gaiz\u016bnai",
+        "Gayzhunay",
+        "Gai\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599536
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e002ce4da826c1cf313bcfae3b4459db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1242808703,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1242808703,
+    "wof:lastmodified":1537662326,
+    "wof:name":"Gaizunai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92329,
+    56.136,
+    23.92329,
+    56.136
+],
+  "geometry": {"coordinates":[23.92329,56.136],"type":"Point"}
+}

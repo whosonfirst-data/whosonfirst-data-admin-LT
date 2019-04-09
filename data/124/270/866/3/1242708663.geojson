@@ -1,0 +1,79 @@
+{
+  "id": 1242708663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7473,55.66723,25.7473,55.66723",
+    "geom:latitude":55.66723,
+    "geom:longitude":25.7473,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Bikunai",
+    "gn:country_code":"LT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600463,
+    "gn:latitude":55.66723,
+    "gn:longitude":25.7473,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bik\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bik\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043a\u0443\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Bik\u016bn\u0173",
+        "Bikunay",
+        "Bik\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600463
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"beec1b67923154c23a38bb456bc8f2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1242708663,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1242708663,
+    "wof:lastmodified":1537662390,
+    "wof:name":"Bikunai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7473,
+    55.66723,
+    25.7473,
+    55.66723
+],
+  "geometry": {"coordinates":[25.7473,55.66723],"type":"Point"}
+}

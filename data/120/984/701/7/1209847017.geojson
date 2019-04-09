@@ -1,0 +1,71 @@
+{
+  "id": 1209847017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34997,55.99289,24.34997,55.99289",
+    "geom:latitude":55.99289,
+    "geom:longitude":24.34997,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Paistrieciai",
+    "gn:country_code":"LT",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310221,
+    "gn:latitude":55.99289,
+    "gn:longitude":24.34997,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pa\u012fstrie\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u012fstrie\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310221
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9b7f789a86b4ebcb2d5d07b227d0a42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1209847017,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1209847017,
+    "wof:lastmodified":1537662940,
+    "wof:name":"Paistrieciai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34997000000001,
+    55.99289,
+    24.34997000000001,
+    55.99289
+],
+  "geometry": {"coordinates":[24.34997000000001,55.99289],"type":"Point"}
+}

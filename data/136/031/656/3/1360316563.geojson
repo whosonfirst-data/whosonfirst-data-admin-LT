@@ -1,0 +1,71 @@
+{
+  "id": 1360316563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45991,55.51488,25.45991,55.51488",
+    "geom:latitude":55.51488,
+    "geom:longitude":25.45991,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Karciupys",
+    "gn:country_code":"LT",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296183,
+    "gn:latitude":55.51488,
+    "gn:longitude":25.45991,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kar\u010diupys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kar\u010diupys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296183
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ddf77fad1fb4ebb6dedcc4f857236f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1360316563,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1360316563,
+    "wof:lastmodified":1537662612,
+    "wof:name":"Karciupys",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45991,
+    55.51488000000001,
+    25.45991,
+    55.51488000000001
+],
+  "geometry": {"coordinates":[25.45991,55.51488000000001],"type":"Point"}
+}

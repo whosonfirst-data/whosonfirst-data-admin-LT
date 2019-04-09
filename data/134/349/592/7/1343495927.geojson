@@ -1,0 +1,74 @@
+{
+  "id": 1343495927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65781,55.74924,23.65781,55.74924",
+    "geom:latitude":55.74924,
+    "geom:longitude":23.65781,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Labuciai",
+    "gn:country_code":"LT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595560,
+    "gn:latitude":55.74924,
+    "gn:longitude":23.65781,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Labu\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Labu\u010diai",
+        "Puipiai Antrieji",
+        "Puypyay",
+        "Puipiai II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595560
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a66e40a1cd2b4823434ffc79df4fd364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1343495927,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343495927,
+    "wof:lastmodified":1537662049,
+    "wof:name":"Labuciai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65781,
+    55.74924,
+    23.65781,
+    55.74924
+],
+  "geometry": {"coordinates":[23.65781,55.74924],"type":"Point"}
+}

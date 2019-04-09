@@ -1,0 +1,67 @@
+{
+  "id": 1209451591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34707,55.75121,22.34707,55.75121",
+    "geom:latitude":55.75121,
+    "geom:longitude":22.34707,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Gintalai",
+    "gn:country_code":"LT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599311,
+    "gn:latitude":55.75121,
+    "gn:longitude":22.34707,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gintalai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giktalay",
+        "Gintalay",
+        "Gintalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599311
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"753492ff7c848a84f5d51577382c3546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209451591
+        }
+    ],
+    "wof:id":1209451591,
+    "wof:lastmodified":1537662311,
+    "wof:name":"Gintalai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34707,
+    55.75121,
+    22.34707,
+    55.75121
+],
+  "geometry": {"coordinates":[22.34707,55.75121],"type":"Point"}
+}

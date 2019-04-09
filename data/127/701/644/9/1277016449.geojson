@@ -1,0 +1,72 @@
+{
+  "id": 1277016449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03518,55.79031,24.03518,55.79031",
+    "geom:latitude":55.79031,
+    "geom:longitude":24.03518,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Utenai",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593671,
+    "gn:latitude":55.79031,
+    "gn:longitude":24.03518,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ut\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utany",
+        "Ut\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593671
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"584c7ed2cee22be7a2885e06434f1e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1277016449,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1277016449,
+    "wof:lastmodified":1537661921,
+    "wof:name":"Utenai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03518,
+    55.79031,
+    24.03518,
+    55.79031
+],
+  "geometry": {"coordinates":[24.03518,55.79031],"type":"Point"}
+}

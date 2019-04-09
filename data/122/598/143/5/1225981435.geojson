@@ -1,0 +1,71 @@
+{
+  "id": 1225981435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51413,55.75288,25.51413,55.75288",
+    "geom:latitude":55.75288,
+    "geom:longitude":25.51413,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Trumponys",
+    "gn:country_code":"LT",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295870,
+    "gn:latitude":55.75288,
+    "gn:longitude":25.51413,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Trumponys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Trumponys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295870
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"818052b19ba703a47dd473fa9ddcaac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1225981435,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1225981435,
+    "wof:lastmodified":1537662605,
+    "wof:name":"Trumponys",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51413,
+    55.75288000000001,
+    25.51413,
+    55.75288000000001
+],
+  "geometry": {"coordinates":[25.51413,55.75288000000001],"type":"Point"}
+}

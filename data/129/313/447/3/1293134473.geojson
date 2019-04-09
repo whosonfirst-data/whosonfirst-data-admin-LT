@@ -1,0 +1,76 @@
+{
+  "id": 1293134473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1718,55.52388,22.1718,55.52388",
+    "geom:latitude":55.52388,
+    "geom:longitude":22.1718,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Gubriai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599109,
+    "gn:latitude":55.52388,
+    "gn:longitude":22.1718,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"G\u016bbriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "G\u016bbriai"
+    ],
+    "name:und_x_variant":[
+        "Gubryay",
+        "Gubri\u0173",
+        "Gubriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599109
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9f19ed1a4fdc32a2802834e6d7fb5e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1293134473,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1293134473,
+    "wof:lastmodified":1537662297,
+    "wof:name":"Gubriai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1718,
+    55.52388000000001,
+    22.1718,
+    55.52388000000001
+],
+  "geometry": {"coordinates":[22.1718,55.52388000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209345431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.29504,55.85823,25.29504,55.85823",
+    "geom:latitude":55.85823,
+    "geom:longitude":25.29504,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Verguciai",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295775,
+    "gn:latitude":55.85823,
+    "gn:longitude":25.29504,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vergu\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vergu\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295775
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e0f5c0b12227066646549d5897ad531d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209345431
+        }
+    ],
+    "wof:id":1209345431,
+    "wof:lastmodified":1537662601,
+    "wof:name":"Verguciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29504,
+    55.85823000000001,
+    25.29504,
+    55.85823000000001
+],
+  "geometry": {"coordinates":[25.29504,55.85823000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276365667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04631,54.62598,23.04631,54.62598",
+    "geom:latitude":54.62598,
+    "geom:longitude":23.04631,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Mazieji Budezeriai",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11400975,
+    "gn:latitude":54.62598,
+    "gn:longitude":23.04631,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Ma\u017eieji B\u016bde\u017eeriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ma\u017eieji B\u016bde\u017eeriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11400975
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"eec3fa16bb3a7ca5452614db13e1ac7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1276365667,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1276365667,
+    "wof:lastmodified":1537662991,
+    "wof:name":"Mazieji Budezeriai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04631,
+    54.62598000000001,
+    23.04631,
+    54.62598000000001
+],
+  "geometry": {"coordinates":[23.04631,54.62598000000001],"type":"Point"}
+}

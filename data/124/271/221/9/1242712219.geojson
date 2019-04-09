@@ -1,0 +1,71 @@
+{
+  "id": 1242712219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.27409,55.28419,25.27409,55.28419",
+    "geom:latitude":55.28419,
+    "geom:longitude":25.27409,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Girsteitiskis",
+    "gn:country_code":"LT",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599262,
+    "gn:latitude":55.28419,
+    "gn:longitude":25.27409,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Girsteiti\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Girsteiti\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599262
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0d72152007984efaaab2bd5edc2c793d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1242712219,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1242712219,
+    "wof:lastmodified":1537662307,
+    "wof:name":"Girsteitiskis",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27409,
+    55.28419,
+    25.27409,
+    55.28419
+],
+  "geometry": {"coordinates":[25.27409,55.28419],"type":"Point"}
+}

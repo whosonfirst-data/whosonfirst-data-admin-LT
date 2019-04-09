@@ -1,0 +1,74 @@
+{
+  "id": 1259719775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48561,54.27618,24.48561,54.27618",
+    "geom:latitude":54.27618,
+    "geom:longitude":24.48561,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Ezeriekai",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599578,
+    "gn:latitude":54.27618,
+    "gn:longitude":24.48561,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"E\u017eeriekai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ozhereki",
+        "E\u017eeriek\u0173",
+        "E\u017eeriekai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599578,
+        "wk:page":"E%C5%BEeriekai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"55e6327cda1ee5e56e9349bf38343eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1259719775,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1259719775,
+    "wof:lastmodified":1537662329,
+    "wof:name":"Ezeriekai",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48561,
+    54.27618,
+    24.48561,
+    54.27618
+],
+  "geometry": {"coordinates":[24.48561,54.27618],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293524015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41157,55.9484,24.41157,55.9484",
+    "geom:latitude":55.9484,
+    "geom:longitude":24.41157,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Pasilieciai",
+    "gn:country_code":"LT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301161,
+    "gn:latitude":55.9484,
+    "gn:longitude":24.41157,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pa\u0161ilie\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u0161ilie\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301161
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"51b781fbbdc12a99e384d0beaf4015b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1293524015,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293524015,
+    "wof:lastmodified":1537662753,
+    "wof:name":"Pasilieciai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41157,
+    55.9484,
+    24.41157,
+    55.9484
+],
+  "geometry": {"coordinates":[24.41157,55.9484],"type":"Point"}
+}

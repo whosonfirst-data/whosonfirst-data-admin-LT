@@ -1,0 +1,65 @@
+{
+  "id": 1209451747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.68728,56.18116,22.68728,56.18116",
+    "geom:latitude":56.18116,
+    "geom:longitude":22.68728,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Zerksciai",
+    "gn:country_code":"LT",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592803,
+    "gn:latitude":56.18116,
+    "gn:longitude":22.68728,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017derk\u0161ciai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017derk\u0161ciai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592803
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a8ddd8c9a49123ced9bdb90fffc9fcd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209451747
+        }
+    ],
+    "wof:id":1209451747,
+    "wof:lastmodified":1537661865,
+    "wof:name":"Zerksciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.68728,
+    56.18116,
+    22.68728,
+    56.18116
+],
+  "geometry": {"coordinates":[22.68728,56.18116],"type":"Point"}
+}

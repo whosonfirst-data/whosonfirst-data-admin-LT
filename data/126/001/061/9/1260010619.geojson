@@ -1,0 +1,73 @@
+{
+  "id": 1260010619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.20014,55.12621,25.20014,55.12621",
+    "geom:latitude":55.12621,
+    "geom:longitude":25.20014,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Siupieniai",
+    "gn:country_code":"LT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594592,
+    "gn:latitude":55.12621,
+    "gn:longitude":25.20014,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160iupieniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shyupenyay",
+        "Shupene",
+        "\u0160iupieniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594592
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"99f0955eb8c9accf8a2a14408f2abd4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1260010619,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1260010619,
+    "wof:lastmodified":1537661982,
+    "wof:name":"Siupieniai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.20014,
+    55.12621,
+    25.20014,
+    55.12621
+],
+  "geometry": {"coordinates":[25.20014,55.12621],"type":"Point"}
+}

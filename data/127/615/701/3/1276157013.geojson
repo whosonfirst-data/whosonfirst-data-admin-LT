@@ -1,0 +1,76 @@
+{
+  "id": 1276157013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48169,55.60941,26.48169,55.60941",
+    "geom:latitude":55.60941,
+    "geom:longitude":26.48169,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Vysniava",
+    "gn:country_code":"LT",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592978,
+    "gn:latitude":55.60941,
+    "gn:longitude":26.48169,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vy\u0161niava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vy\u0161niava"
+    ],
+    "name:und_x_variant":[
+        "Vi\u0161niava",
+        "Vishnevo",
+        "Vy\u0161niavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592978
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"154e3ff514d7138e9ddadcda5fce8d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276157013,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276157013,
+    "wof:lastmodified":1537661877,
+    "wof:name":"Vysniava",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48169,
+    55.60941,
+    26.48169,
+    55.60941
+],
+  "geometry": {"coordinates":[26.48169,55.60941],"type":"Point"}
+}

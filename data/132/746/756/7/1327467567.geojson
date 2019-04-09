@@ -1,0 +1,74 @@
+{
+  "id": 1327467567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56,56.22849,21.56,56.22849",
+    "geom:latitude":56.22849,
+    "geom:longitude":21.56,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Virbalai",
+    "gn:country_code":"LT",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593087,
+    "gn:latitude":56.22849,
+    "gn:longitude":21.56,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Virbalai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Virbalay",
+        "Virbal\u0173",
+        "Wirbaly",
+        "Virbalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593087
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"42863755b360b4034edfbe09b04d2257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1327467567,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1327467567,
+    "wof:lastmodified":1537661883,
+    "wof:name":"Virbalai",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56,
+    56.22849,
+    21.56,
+    56.22849
+],
+  "geometry": {"coordinates":[21.56,56.22849],"type":"Point"}
+}

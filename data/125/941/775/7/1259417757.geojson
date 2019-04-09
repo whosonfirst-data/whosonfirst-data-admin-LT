@@ -1,0 +1,72 @@
+{
+  "id": 1259417757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56774,55.82766,22.56774,55.82766",
+    "geom:latitude":55.82766,
+    "geom:longitude":22.56774,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Leinartiske",
+    "gn:country_code":"LT",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597569,
+    "gn:latitude":55.82766,
+    "gn:longitude":22.56774,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Leinarti\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leynartyshki",
+        "Leinarti\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597569
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7be8573f99f3b1c7208c9eef2fa59c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1259417757,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1259417757,
+    "wof:lastmodified":1537662193,
+    "wof:name":"Leinartiske",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56774,
+    55.82766,
+    22.56774,
+    55.82766
+],
+  "geometry": {"coordinates":[22.56774,55.82766],"type":"Point"}
+}

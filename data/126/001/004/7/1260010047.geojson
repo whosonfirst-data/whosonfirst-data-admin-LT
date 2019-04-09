@@ -1,0 +1,71 @@
+{
+  "id": 1260010047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98496,55.35632,23.98496,55.35632",
+    "geom:latitude":55.35632,
+    "geom:longitude":23.98496,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Sirutiskis",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594614,
+    "gn:latitude":55.35632,
+    "gn:longitude":23.98496,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Siruti\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Siruti\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594614
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"125aa84fa875513819f858316c20caea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1260010047,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260010047,
+    "wof:lastmodified":1537661984,
+    "wof:name":"Sirutiskis",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98496,
+    55.35632,
+    23.98496,
+    55.35632
+],
+  "geometry": {"coordinates":[23.98496,55.35632],"type":"Point"}
+}

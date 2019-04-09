@@ -1,0 +1,71 @@
+{
+  "id": 1276911593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15052,55.33025,23.15052,55.33025",
+    "geom:latitude":55.33025,
+    "geom:longitude":23.15052,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Pasaltuonys I",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303692,
+    "gn:latitude":55.33025,
+    "gn:longitude":23.15052,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pa\u0161altuonys I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u0161altuonys I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303692
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fe76a400901eede3e6d42d1ac62d511c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1276911593,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276911593,
+    "wof:lastmodified":1537662808,
+    "wof:name":"Pasaltuonys I",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15052,
+    55.33025,
+    23.15052,
+    55.33025
+],
+  "geometry": {"coordinates":[23.15052,55.33025],"type":"Point"}
+}

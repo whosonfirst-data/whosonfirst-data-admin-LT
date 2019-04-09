@@ -1,0 +1,72 @@
+{
+  "id": 1242904917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59656,55.28419,22.59656,55.28419",
+    "geom:latitude":55.28419,
+    "geom:longitude":22.59656,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Palabauksciai",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596243,
+    "gn:latitude":55.28419,
+    "gn:longitude":22.59656,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Palabauk\u0161\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mil\u2019kishkyay",
+        "Palabauk\u0161\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596243
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3bada92d36ab4d74580596da976f0d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1242904917,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1242904917,
+    "wof:lastmodified":1537662099,
+    "wof:name":"Palabauksciai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59656,
+    55.28419,
+    22.59656,
+    55.28419
+],
+  "geometry": {"coordinates":[22.59656,55.28419],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226176125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68316,54.91411,23.68316,54.91411",
+    "geom:latitude":54.91411,
+    "geom:longitude":23.68316,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Vilemai",
+    "gn:country_code":"LT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307388,
+    "gn:latitude":54.91411,
+    "gn:longitude":23.68316,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vilemai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vilemai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307388
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a40c2a14a8e6e6891d583ee37c595c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1226176125,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226176125,
+    "wof:lastmodified":1537662889,
+    "wof:name":"Vilemai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68316,
+    54.91411,
+    23.68316,
+    54.91411
+],
+  "geometry": {"coordinates":[23.68316,54.91411],"type":"Point"}
+}

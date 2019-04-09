@@ -1,0 +1,71 @@
+{
+  "id": 1259420011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57649,54.90475,25.57649,54.90475",
+    "geom:latitude":54.90475,
+    "geom:longitude":25.57649,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Rudausiai",
+    "gn:country_code":"LT",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595172,
+    "gn:latitude":54.90475,
+    "gn:longitude":25.57649,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rudausiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rudausiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595172
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"557e26a2d55eca5ee7e991addcc6102c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1259420011,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259420011,
+    "wof:lastmodified":1537662023,
+    "wof:name":"Rudausiai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57649,
+    54.90475,
+    25.57649,
+    54.90475
+],
+  "geometry": {"coordinates":[25.57649,54.90475],"type":"Point"}
+}

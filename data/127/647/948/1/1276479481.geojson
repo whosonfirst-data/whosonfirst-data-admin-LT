@@ -1,0 +1,75 @@
+{
+  "id": 1276479481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4967,54.95431,24.4967,54.95431",
+    "geom:latitude":54.95431,
+    "geom:longitude":24.4967,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Klusai",
+    "gn:country_code":"LT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598048,
+    "gn:latitude":54.95431,
+    "gn:longitude":24.4967,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kl\u016bsai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kl\u016bsai"
+    ],
+    "name:und_x_variant":[
+        "Klusy",
+        "Klusai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598048
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4a6ae814ff36f468a40b7ad9e3fe8d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1276479481,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276479481,
+    "wof:lastmodified":1537662226,
+    "wof:name":"Klusai",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4967,
+    54.95431,
+    24.4967,
+    54.95431
+],
+  "geometry": {"coordinates":[24.4967,54.95431],"type":"Point"}
+}

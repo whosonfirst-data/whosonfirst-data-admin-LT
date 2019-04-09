@@ -1,0 +1,71 @@
+{
+  "id": 1276263421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26991,55.70056,23.26991,55.70056",
+    "geom:latitude":55.70056,
+    "geom:longitude":23.26991,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Skynimieciai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305924,
+    "gn:latitude":55.70056,
+    "gn:longitude":23.26991,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Skynimie\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Skynimie\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305924
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d6fe9a14355131541b4a69f31c1dc350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1276263421,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1276263421,
+    "wof:lastmodified":1537662858,
+    "wof:name":"Skynimieciai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26991,
+    55.70056,
+    23.26991,
+    55.70056
+],
+  "geometry": {"coordinates":[23.26991,55.70056],"type":"Point"}
+}

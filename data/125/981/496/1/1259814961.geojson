@@ -1,0 +1,76 @@
+{
+  "id": 1259814961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51537,55.16753,24.51537,55.16753",
+    "geom:latitude":55.16753,
+    "geom:longitude":24.51537,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Pageleziai",
+    "gn:country_code":"LT",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596397,
+    "gn:latitude":55.16753,
+    "gn:longitude":24.51537,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pagele\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagelizhyay",
+        "Pagela\u017eiai",
+        "Pagelezhyay",
+        "Pagelazhay",
+        "Pagela\u017ei\u0173",
+        "Pagele\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596397
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c137ae68407513eb356dd73a6e7a38e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1259814961,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259814961,
+    "wof:lastmodified":1537662111,
+    "wof:name":"Pageleziai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51537,
+    55.16753000000001,
+    24.51537,
+    55.16753000000001
+],
+  "geometry": {"coordinates":[24.51537,55.16753000000001],"type":"Point"}
+}

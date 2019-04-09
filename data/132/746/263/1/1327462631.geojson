@@ -1,0 +1,71 @@
+{
+  "id": 1327462631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21337,55.78782,26.21337,55.78782",
+    "geom:latitude":55.78782,
+    "geom:longitude":26.21337,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Kurionkai",
+    "gn:country_code":"LT",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291554,
+    "gn:latitude":55.78782,
+    "gn:longitude":26.21337,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kurionkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kurionkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291554
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"85f5d7a57cf0f57f4a5acd03b4855dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1327462631,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327462631,
+    "wof:lastmodified":1537662499,
+    "wof:name":"Kurionkai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21337,
+    55.78782,
+    26.21337,
+    55.78782
+],
+  "geometry": {"coordinates":[26.21337,55.78782],"type":"Point"}
+}

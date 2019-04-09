@@ -1,0 +1,76 @@
+{
+  "id": 1259702053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26667,55.53333,25.26667,55.53333",
+    "geom:latitude":55.53333,
+    "geom:longitude":25.26667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sauliai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594887,
+    "gn:latitude":55.53333,
+    "gn:longitude":25.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u0160auliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shyaulyay",
+        "Shavli",
+        "\u0160iauliai",
+        "Shaulyay",
+        "\u0160auli\u0173",
+        "\u0160auliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594887
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"49796c4bdcd3d3939da4a57f428149b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1259702053,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259702053,
+    "wof:lastmodified":1537662003,
+    "wof:name":"Sauliai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26667,
+    55.53333000000001,
+    25.26667,
+    55.53333000000001
+],
+  "geometry": {"coordinates":[25.26667,55.53333000000001],"type":"Point"}
+}

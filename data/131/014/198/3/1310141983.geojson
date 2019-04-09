@@ -1,0 +1,71 @@
+{
+  "id": 1310141983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15042,55.17619,24.15042,55.17619",
+    "geom:latitude":55.17619,
+    "geom:longitude":24.15042,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Pamelnytele",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309472,
+    "gn:latitude":55.17619,
+    "gn:longitude":24.15042,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pamelnyt\u0117l\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pamelnyt\u0117l\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309472
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"11549c2fc03b2cd96e91fc983a27691f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1310141983,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310141983,
+    "wof:lastmodified":1537662923,
+    "wof:name":"Pamelnytele",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15042,
+    55.17619000000001,
+    24.15042,
+    55.17619000000001
+],
+  "geometry": {"coordinates":[24.15042,55.17619000000001],"type":"Point"}
+}

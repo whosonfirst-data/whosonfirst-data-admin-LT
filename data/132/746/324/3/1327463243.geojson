@@ -1,0 +1,71 @@
+{
+  "id": 1327463243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66428,55.31987,25.66428,55.31987",
+    "geom:latitude":55.31987,
+    "geom:longitude":25.66428,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Briedine",
+    "gn:country_code":"LT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294136,
+    "gn:latitude":55.31987,
+    "gn:longitude":25.66428,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Briedin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Briedin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294136
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1872e55254bdb862a6b682cc7db34693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1327463243,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327463243,
+    "wof:lastmodified":1537662560,
+    "wof:name":"Briedine",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66428,
+    55.31987,
+    25.66428,
+    55.31987
+],
+  "geometry": {"coordinates":[25.66428,55.31987],"type":"Point"}
+}

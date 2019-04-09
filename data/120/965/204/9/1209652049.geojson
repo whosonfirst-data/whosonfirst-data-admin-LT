@@ -1,0 +1,67 @@
+{
+  "id": 1209652049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90586,55.2646,21.90586,55.2646",
+    "geom:latitude":55.2646,
+    "geom:longitude":21.90586,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Minjotai",
+    "gn:country_code":"LT",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596924,
+    "gn:latitude":55.2646,
+    "gn:longitude":21.90586,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Minjotai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vil\u2019pin",
+        "Minyotay",
+        "Minjotai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596924
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f49d1494e769beb1c6212e45a58366ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209652049
+        }
+    ],
+    "wof:id":1209652049,
+    "wof:lastmodified":1537662149,
+    "wof:name":"Minjotai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90586,
+    55.2646,
+    21.90586,
+    55.2646
+],
+  "geometry": {"coordinates":[21.90586,55.2646],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209242993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63092,55.53447,21.63092,55.53447",
+    "geom:latitude":55.53447,
+    "geom:longitude":21.63092,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Jurizdika",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289992,
+    "gn:latitude":55.53447,
+    "gn:longitude":21.63092,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jurizdika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jurizdika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289992
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1d3f324d3f427b98599b7c82d8de1760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209242993
+        }
+    ],
+    "wof:id":1209242993,
+    "wof:lastmodified":1537662465,
+    "wof:name":"Jurizdika",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63092,
+    55.53447,
+    21.63092,
+    55.53447
+],
+  "geometry": {"coordinates":[21.63092,55.53447],"type":"Point"}
+}

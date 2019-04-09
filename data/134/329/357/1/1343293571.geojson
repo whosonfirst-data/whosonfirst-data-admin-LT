@@ -1,0 +1,71 @@
+{
+  "id": 1343293571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63015,55.57121,21.63015,55.57121",
+    "geom:latitude":55.57121,
+    "geom:longitude":21.63015,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Pasluzmis",
+    "gn:country_code":"LT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289996,
+    "gn:latitude":55.57121,
+    "gn:longitude":21.63015,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pa\u0161l\u016b\u017emis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u0161l\u016b\u017emis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289996
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ad31422fd9f200025dbb837aeca17501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1343293571,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1343293571,
+    "wof:lastmodified":1537662465,
+    "wof:name":"Pasluzmis",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63015,
+    55.57121,
+    21.63015,
+    55.57121
+],
+  "geometry": {"coordinates":[21.63015,55.57121],"type":"Point"}
+}

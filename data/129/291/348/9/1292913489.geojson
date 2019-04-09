@@ -1,0 +1,72 @@
+{
+  "id": 1292913489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8,55.7,22.8,55.7",
+    "geom:latitude":55.7,
+    "geom:longitude":22.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Judikiai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598766,
+    "gn:latitude":55.7,
+    "gn:longitude":22.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Judikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yudyky",
+        "Judikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598766
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"59d6cb7250f91f886316f3d2581f741b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1292913489,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1292913489,
+    "wof:lastmodified":1537662275,
+    "wof:name":"Judikiai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8,
+    55.7,
+    22.8,
+    55.7
+],
+  "geometry": {"coordinates":[22.8,55.7],"type":"Point"}
+}

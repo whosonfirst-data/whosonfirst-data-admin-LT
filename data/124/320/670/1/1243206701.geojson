@@ -1,0 +1,71 @@
+{
+  "id": 1243206701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96963,55.3517,25.96963,55.3517",
+    "geom:latitude":55.3517,
+    "geom:longitude":25.96963,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Benediktavas",
+    "gn:country_code":"LT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294028,
+    "gn:latitude":55.3517,
+    "gn:longitude":25.96963,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Benediktavas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Benediktavas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294028
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"02fd1f86990de1b8a348725cd3db823a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1243206701,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243206701,
+    "wof:lastmodified":1537662558,
+    "wof:name":"Benediktavas",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96963,
+    55.3517,
+    25.96963,
+    55.3517
+],
+  "geometry": {"coordinates":[25.96963,55.3517],"type":"Point"}
+}

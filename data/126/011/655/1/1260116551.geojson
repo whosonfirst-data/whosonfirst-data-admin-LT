@@ -1,0 +1,71 @@
+{
+  "id": 1260116551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.47574,55.23585,26.47574,55.23585",
+    "geom:latitude":55.23585,
+    "geom:longitude":26.47574,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Baltasis",
+    "gn:country_code":"LT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291229,
+    "gn:latitude":55.23585,
+    "gn:longitude":26.47574,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Baltasis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Baltasis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291229
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6e972da36c60056fe5a4442548885e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1260116551,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1260116551,
+    "wof:lastmodified":1537662490,
+    "wof:name":"Baltasis",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.47574,
+    55.23585,
+    26.47574,
+    55.23585
+],
+  "geometry": {"coordinates":[26.47574,55.23585],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310435705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71309,55.21749,24.71309,55.21749",
+    "geom:latitude":55.21749,
+    "geom:longitude":24.71309,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Leonpolis",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311640,
+    "gn:latitude":55.21749,
+    "gn:longitude":24.71309,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Leonpolis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Leonpolis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311640
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"08f61d8d074f72cd7c68e83b5d2f7a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1310435705,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1310435705,
+    "wof:lastmodified":1537662971,
+    "wof:name":"Leonpolis",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71309,
+    55.21749000000001,
+    24.71309,
+    55.21749000000001
+],
+  "geometry": {"coordinates":[24.71309,55.21749000000001],"type":"Point"}
+}

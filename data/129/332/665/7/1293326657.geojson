@@ -1,0 +1,71 @@
+{
+  "id": 1293326657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.10678,55.38634,22.10678,55.38634",
+    "geom:latitude":55.38634,
+    "geom:longitude":22.10678,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Paziurzmotis",
+    "gn:country_code":"LT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290684,
+    "gn:latitude":55.38634,
+    "gn:longitude":22.10678,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pa\u017eiur\u017emotis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u017eiur\u017emotis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290684
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6281c0df6d407fc6e923114fd2d9461f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1293326657,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1293326657,
+    "wof:lastmodified":1537662475,
+    "wof:name":"Paziurzmotis",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.10678,
+    55.38634,
+    22.10678,
+    55.38634
+],
+  "geometry": {"coordinates":[22.10678,55.38634],"type":"Point"}
+}

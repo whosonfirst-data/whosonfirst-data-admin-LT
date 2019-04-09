@@ -1,0 +1,70 @@
+{
+  "id": 1327246291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.17441,56.14619,24.17441,56.14619",
+    "geom:latitude":56.14619,
+    "geom:longitude":24.17441,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Majeliai",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11212177,
+    "gn:latitude":56.14619,
+    "gn:longitude":24.17441,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Majeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Majeliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11212177
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"920c06a1a6504cf13217d61df8e805cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1327246291,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1327246291,
+    "wof:lastmodified":1537662450,
+    "wof:name":"Majeliai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17441,
+    56.14619,
+    24.17441,
+    56.14619
+],
+  "geometry": {"coordinates":[24.17441,56.14619],"type":"Point"}
+}

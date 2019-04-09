@@ -1,0 +1,65 @@
+{
+  "id": 1209550367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95304,55.44386,22.95304,55.44386",
+    "geom:latitude":55.44386,
+    "geom:longitude":22.95304,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Rimkiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595270,
+    "gn:latitude":55.44386,
+    "gn:longitude":22.95304,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rimki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rimki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595270
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"eedaef22cef3493d884f352851f1906c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209550367
+        }
+    ],
+    "wof:id":1209550367,
+    "wof:lastmodified":1537662029,
+    "wof:name":"Rimkiskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95304,
+    55.44386,
+    22.95304,
+    55.44386
+],
+  "geometry": {"coordinates":[22.95304,55.44386],"type":"Point"}
+}

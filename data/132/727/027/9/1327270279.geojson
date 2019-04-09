@@ -1,0 +1,75 @@
+{
+  "id": 1327270279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85428,55.22434,24.85428,55.22434",
+    "geom:latitude":55.22434,
+    "geom:longitude":24.85428,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Papreniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596088,
+    "gn:latitude":55.22434,
+    "gn:longitude":24.85428,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Papr\u0117ni\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Papr\u0117ni\u0161kiai"
+    ],
+    "name:und_x_variant":[
+        "Papriyenishkis",
+        "Paprieni\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596088
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"75b00828642e885ba909c4a138d628e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1327270279,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1327270279,
+    "wof:lastmodified":1537662088,
+    "wof:name":"Papreniskiai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85428,
+    55.22434000000001,
+    24.85428,
+    55.22434000000001
+],
+  "geometry": {"coordinates":[24.85428,55.22434000000001],"type":"Point"}
+}

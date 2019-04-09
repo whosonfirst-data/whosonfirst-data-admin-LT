@@ -1,0 +1,74 @@
+{
+  "id": 1193174035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55657,54.21189,23.55657,54.21189",
+    "geom:latitude":54.21189,
+    "geom:longitude":23.55657,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Kukliai",
+    "gn:country_code":"LT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597890,
+    "gn:latitude":54.21189,
+    "gn:longitude":23.55657,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kukliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuklyay",
+        "Kukle",
+        "Kukliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597890,
+        "wk:page":"Kukliai_%28Var%C4%97na%29"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cf55b6a1f19a2a1e898a5cae80615004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1193174035,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1193174035,
+    "wof:lastmodified":1537662215,
+    "wof:name":"Kukliai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55657,
+    54.21189,
+    23.55657,
+    54.21189
+],
+  "geometry": {"coordinates":[23.55657,54.21189],"type":"Point"}
+}

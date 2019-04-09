@@ -1,0 +1,71 @@
+{
+  "id": 1243206841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84801,55.0579,24.84801,55.0579",
+    "geom:latitude":55.0579,
+    "geom:longitude":24.84801,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Grigiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299908,
+    "gn:latitude":55.0579,
+    "gn:longitude":24.84801,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Grigi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Grigi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299908
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"29e388a9e8f7b27c52bcd566f58125f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1243206841,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243206841,
+    "wof:lastmodified":1537662718,
+    "wof:name":"Grigiskiai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84801,
+    55.0579,
+    24.84801,
+    55.0579
+],
+  "geometry": {"coordinates":[24.84801,55.0579],"type":"Point"}
+}

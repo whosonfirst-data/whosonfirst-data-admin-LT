@@ -1,0 +1,71 @@
+{
+  "id": 1343894801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46077,55.52139,25.46077,55.52139",
+    "geom:latitude":55.52139,
+    "geom:longitude":25.46077,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Gaspariskis II",
+    "gn:country_code":"LT",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296171,
+    "gn:latitude":55.52139,
+    "gn:longitude":25.46077,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gaspari\u0161kis II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gaspari\u0161kis II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296171
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"26106e8f18b4652d8956e4667f125f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1343894801,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343894801,
+    "wof:lastmodified":1537662612,
+    "wof:name":"Gaspariskis II",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46077,
+    55.52139,
+    25.46077,
+    55.52139
+],
+  "geometry": {"coordinates":[25.46077,55.52139],"type":"Point"}
+}

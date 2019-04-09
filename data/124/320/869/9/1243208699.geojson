@@ -1,0 +1,71 @@
+{
+  "id": 1243208699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41208,55.44274,25.41208,55.44274",
+    "geom:latitude":55.44274,
+    "geom:longitude":25.41208,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Guleliai",
+    "gn:country_code":"LT",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296624,
+    "gn:latitude":55.44274,
+    "gn:longitude":25.41208,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Guleliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Guleliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296624
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"98d277b604f5c230d42e84407cf34a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1243208699,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243208699,
+    "wof:lastmodified":1537662624,
+    "wof:name":"Guleliai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41208,
+    55.44274,
+    25.41208,
+    55.44274
+],
+  "geometry": {"coordinates":[25.41208,55.44274],"type":"Point"}
+}

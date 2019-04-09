@@ -1,0 +1,72 @@
+{
+  "id": 1243585373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69225,55.25676,22.69225,55.25676",
+    "geom:latitude":55.25676,
+    "geom:longitude":22.69225,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Balandziai",
+    "gn:country_code":"LT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600737,
+    "gn:latitude":55.25676,
+    "gn:longitude":22.69225,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baland\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balandze",
+        "Baland\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600737
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f1ed26b1287f08c267184b3fe3e30021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1243585373,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1243585373,
+    "wof:lastmodified":1537662411,
+    "wof:name":"Balandziai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69225,
+    55.25676,
+    22.69225,
+    55.25676
+],
+  "geometry": {"coordinates":[22.69225,55.25676],"type":"Point"}
+}

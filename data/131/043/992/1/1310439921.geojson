@@ -1,0 +1,71 @@
+{
+  "id": 1310439921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20855,55.20895,26.20855,55.20895",
+    "geom:latitude":55.20895,
+    "geom:longitude":26.20855,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Aidukai",
+    "gn:country_code":"LT",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292719,
+    "gn:latitude":55.20895,
+    "gn:longitude":26.20855,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Aidukai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Aidukai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292719
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"64df0a61f7511c73b639156a4c48dbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1310439921,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1310439921,
+    "wof:lastmodified":1537662530,
+    "wof:name":"Aidukai",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20855,
+    55.20895,
+    26.20855,
+    55.20895
+],
+  "geometry": {"coordinates":[26.20855,55.20895],"type":"Point"}
+}

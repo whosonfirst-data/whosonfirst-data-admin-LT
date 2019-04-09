@@ -1,0 +1,71 @@
+{
+  "id": 1309746325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1945,55.7401,25.1945,55.7401",
+    "geom:latitude":55.7401,
+    "geom:longitude":25.1945,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Paizinys",
+    "gn:country_code":"LT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298989,
+    "gn:latitude":55.7401,
+    "gn:longitude":25.1945,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pai\u017einys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pai\u017einys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298989
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b7f2443b53a0178756de2856736bdd2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1309746325,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1309746325,
+    "wof:lastmodified":1537662690,
+    "wof:name":"Paizinys",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1945,
+    55.7401,
+    25.1945,
+    55.7401
+],
+  "geometry": {"coordinates":[25.1945,55.7401],"type":"Point"}
+}

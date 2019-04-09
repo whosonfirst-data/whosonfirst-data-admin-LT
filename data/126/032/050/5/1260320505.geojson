@@ -1,0 +1,72 @@
+{
+  "id": 1260320505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.60707,55.60677,21.60707,55.60677",
+    "geom:latitude":55.60677,
+    "geom:longitude":21.60707,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Vilkiai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593146,
+    "gn:latitude":55.60677,
+    "gn:longitude":21.60707,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vilkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vilkay",
+        "Vilkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593146
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d7024f2aeed8005033fc6c405c255945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1260320505,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1260320505,
+    "wof:lastmodified":1537661887,
+    "wof:name":"Vilkiai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.60707,
+    55.60677,
+    21.60707,
+    55.60677
+],
+  "geometry": {"coordinates":[21.60707,55.60677],"type":"Point"}
+}

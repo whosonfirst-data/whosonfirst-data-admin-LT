@@ -1,0 +1,74 @@
+{
+  "id": 1226179001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22177,54.7886,25.22177,54.7886",
+    "geom:latitude":54.7886,
+    "geom:longitude":25.22177,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Lindiniskes",
+    "gn:country_code":"LT",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597454,
+    "gn:latitude":54.7886,
+    "gn:longitude":25.22177,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lindini\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lindzinimshki",
+        "Lindinishkes",
+        "Lindini\u0161k\u0117s",
+        "Lingini\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597454
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"89771f9e8c04074c0d04cb2930a71064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1226179001,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226179001,
+    "wof:lastmodified":1537662185,
+    "wof:name":"Lindiniskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22177000000001,
+    54.7886,
+    25.22177000000001,
+    54.7886
+],
+  "geometry": {"coordinates":[25.22177000000001,54.7886],"type":"Point"}
+}

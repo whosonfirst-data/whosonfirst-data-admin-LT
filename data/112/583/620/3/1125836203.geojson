@@ -1,0 +1,106 @@
+{
+  "id": 1125836203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25,55.75,23.25,55.75",
+    "geom:latitude":55.75,
+    "geom:longitude":23.25,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":372,
+    "gn:population":372,
+    "iso:country":"LT",
+    "lbl:latitude":55.75,
+    "lbl:longitude":23.25,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Tyruliai"
+    ],
+    "name:eng_x_preferred":[
+        "Tyruliai"
+    ],
+    "name:est_x_preferred":[
+        "Tyruliai"
+    ],
+    "name:lit_x_preferred":[
+        "Tyruliai"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u06cc\u0631\u0648\u0644\u06cc\u0627\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Tyrolki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0440\u0443\u043b\u044f\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Tyruliai"
+    ],
+    "name:unk_x_variant":[
+        "Tirulyay"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":593752,
+    "qs_pg:gn_pop":372,
+    "qs_pg:name":"Tyruliai",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":550173,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593752,
+        "qs_pg:id":550173,
+        "wd:id":"Q7861727"
+    },
+    "wof:country":"LT",
+    "wof:created":1497292726,
+    "wof:geomhash":"861e695320cf289e2036b9a56de8ffc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1125836203,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1125836203,
+    "wof:lastmodified":1514483812,
+    "wof:name":"Tyruliai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:population":372,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25,
+    55.75,
+    23.25,
+    55.75
+],
+  "geometry": {"coordinates":[23.25,55.75],"type":"Point"}
+}

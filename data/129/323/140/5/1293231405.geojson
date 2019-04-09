@@ -1,0 +1,84 @@
+{
+  "id": 1293231405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1089,55.02007,25.1089,55.02007",
+    "geom:latitude":55.02007,
+    "geom:longitude":25.1089,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Alionys I",
+    "gn:country_code":"LT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601130,
+    "gn:latitude":55.02007,
+    "gn:longitude":25.1089,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Alionys I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Alionys I"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043d\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Olany",
+        "Al\u00ebnis",
+        "Olyany",
+        "Alioniai",
+        "Alenyay",
+        "Alionys",
+        "Alionys 2",
+        "Alionys I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601130
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c7b89b7028d16ba072d8c97597d8fde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1293231405,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293231405,
+    "wof:lastmodified":1537662435,
+    "wof:name":"Alionys I",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.1089,
+    55.02007,
+    25.1089,
+    55.02007
+],
+  "geometry": {"coordinates":[25.1089,55.02007],"type":"Point"}
+}

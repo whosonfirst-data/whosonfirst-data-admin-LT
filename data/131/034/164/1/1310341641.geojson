@@ -1,0 +1,71 @@
+{
+  "id": 1310341641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7,56.0,23.7,56.0",
+    "geom:latitude":56.0,
+    "geom:longitude":23.7,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Mantjurgiai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597260,
+    "gn:latitude":56.0,
+    "gn:longitude":23.7,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Mantjurgiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montyurgu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597260
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2fc024918e94f53740a5e8ebbbf0675c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1310341641,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310341641,
+    "wof:lastmodified":1537662173,
+    "wof:name":"Mantjurgiai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7,
+    56.0,
+    23.7,
+    56.0
+],
+  "geometry": {"coordinates":[23.7,56.0],"type":"Point"}
+}

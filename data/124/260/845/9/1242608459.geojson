@@ -1,0 +1,72 @@
+{
+  "id": 1242608459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82131,55.97367,21.82131,55.97367",
+    "geom:latitude":55.97367,
+    "geom:longitude":21.82131,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Surbliai",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594111,
+    "gn:latitude":55.97367,
+    "gn:longitude":21.82131,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Surbliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surbley",
+        "Surbliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594111
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"11669933db79cc16f09cb12d6e61cf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1242608459,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1242608459,
+    "wof:lastmodified":1537661948,
+    "wof:name":"Surbliai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82131,
+    55.97367,
+    21.82131,
+    55.97367
+],
+  "geometry": {"coordinates":[21.82131,55.97367],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343989243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30489,55.96107,22.30489,55.96107",
+    "geom:latitude":55.96107,
+    "geom:longitude":22.30489,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Rainiai",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595431,
+    "gn:latitude":55.96107,
+    "gn:longitude":22.30489,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rainiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raynyay",
+        "Rainiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595431
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4622b66486e8b5288be263acd63dfb06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1343989243,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1343989243,
+    "wof:lastmodified":1537662039,
+    "wof:name":"Rainiai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30489,
+    55.96106999999999,
+    22.30489,
+    55.96106999999999
+],
+  "geometry": {"coordinates":[22.30489,55.96106999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242809215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43153,54.79424,24.43153,54.79424",
+    "geom:latitude":54.79424,
+    "geom:longitude":24.43153,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Zalvarniai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592900,
+    "gn:latitude":54.79424,
+    "gn:longitude":24.43153,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u017dalvarniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017dalvarniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592900
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b3b1e313517f5cd24e86a3f49d8f0e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1242809215,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1242809215,
+    "wof:lastmodified":1537661871,
+    "wof:name":"Zalvarniai",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43153,
+    54.79424,
+    24.43153,
+    54.79424
+],
+  "geometry": {"coordinates":[24.43153,54.79424],"type":"Point"}
+}

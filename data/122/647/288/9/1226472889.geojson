@@ -1,0 +1,76 @@
+{
+  "id": 1226472889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24785,54.83024,24.24785,54.83024",
+    "geom:latitude":54.83024,
+    "geom:longitude":24.24785,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Dovainonys",
+    "gn:country_code":"LT",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599803,
+    "gn:latitude":54.83024,
+    "gn:longitude":24.24785,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dovainonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dovainonys"
+    ],
+    "name:und_x_variant":[
+        "Dovainonys Pirmosios",
+        "Devoynyantsy Pervoye",
+        "Dovainonys I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599803
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d5b5345cd7f6ea680cfcfa6fabef4236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1226472889,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226472889,
+    "wof:lastmodified":1537662343,
+    "wof:name":"Dovainonys",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24785,
+    54.83024,
+    24.24785,
+    54.83024
+],
+  "geometry": {"coordinates":[24.24785,54.83024],"type":"Point"}
+}

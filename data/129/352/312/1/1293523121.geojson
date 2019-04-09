@@ -1,0 +1,72 @@
+{
+  "id": 1293523121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79145,56.30801,23.79145,56.30801",
+    "geom:latitude":56.30801,
+    "geom:longitude":23.79145,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Jackoniai",
+    "gn:country_code":"LT",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864462,
+    "gn:latitude":56.30801,
+    "gn:longitude":23.79145,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jackoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yatskonyay",
+        "Jackoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864462
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"16935ddbd2cff30e5529c78a24029e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1293523121,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1293523121,
+    "wof:lastmodified":1537662446,
+    "wof:name":"Jackoniai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79145,
+    56.30801,
+    23.79145,
+    56.30801
+],
+  "geometry": {"coordinates":[23.79145,56.30801],"type":"Point"}
+}

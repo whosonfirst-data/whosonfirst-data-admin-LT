@@ -1,0 +1,71 @@
+{
+  "id": 1343991815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30698,55.64511,26.30698,55.64511",
+    "geom:latitude":55.64511,
+    "geom:longitude":26.30698,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Antaniskis",
+    "gn:country_code":"LT",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291946,
+    "gn:latitude":55.64511,
+    "gn:longitude":26.30698,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Antani\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Antani\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291946
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3731b07c6da2dac844fe8114b6c8800a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1343991815,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343991815,
+    "wof:lastmodified":1537662509,
+    "wof:name":"Antaniskis",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30698,
+    55.64511,
+    26.30698,
+    55.64511
+],
+  "geometry": {"coordinates":[26.30698,55.64511],"type":"Point"}
+}

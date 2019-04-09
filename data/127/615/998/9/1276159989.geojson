@@ -1,0 +1,77 @@
+{
+  "id": 1276159989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52368,55.55313,23.52368,55.55313",
+    "geom:latitude":55.55313,
+    "geom:longitude":23.52368,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Bargailiai",
+    "gn:country_code":"LT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600644,
+    "gn:latitude":55.55313,
+    "gn:longitude":23.52368,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bargailiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bargailiai"
+    ],
+    "name:und_x_variant":[
+        "Bargailiai Pirmieji",
+        "Borgoyli",
+        "Bargaylyay",
+        "Bargailiai I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600644
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5d51a7da1b5d928b917feb1340fbb7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1276159989,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1276159989,
+    "wof:lastmodified":1537662404,
+    "wof:name":"Bargailiai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52368,
+    55.55313,
+    23.52368,
+    55.55313
+],
+  "geometry": {"coordinates":[23.52368,55.55313],"type":"Point"}
+}

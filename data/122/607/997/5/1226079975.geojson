@@ -1,0 +1,71 @@
+{
+  "id": 1226079975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.12756,55.17717,25.12756,55.17717",
+    "geom:latitude":55.17717,
+    "geom:longitude":25.12756,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Barkuskis",
+    "gn:country_code":"LT",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300002,
+    "gn:latitude":55.17717,
+    "gn:longitude":25.12756,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Barku\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Barku\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300002
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d7ef91e1b0b79942b826bcae70fab2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1226079975,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226079975,
+    "wof:lastmodified":1537662722,
+    "wof:name":"Barkuskis",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.12756,
+    55.17717,
+    25.12756,
+    55.17717
+],
+  "geometry": {"coordinates":[25.12756,55.17717],"type":"Point"}
+}

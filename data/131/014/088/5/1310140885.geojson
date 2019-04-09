@@ -1,0 +1,77 @@
+{
+  "id": 1310140885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59537,55.58324,23.59537,55.58324",
+    "geom:latitude":55.58324,
+    "geom:longitude":23.59537,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Pasusvys",
+    "gn:country_code":"LT",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596003,
+    "gn:latitude":55.58324,
+    "gn:longitude":23.59537,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u0161u\u0161vys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poshushve",
+        "Pa\u0161iu\u0161vys",
+        "Pa\u0161u\u0161vio",
+        "Pa\u0161u\u0161vis",
+        "Pa\u0161u\u0161ys",
+        "Pa\u0161u\u0161vys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596003,
+        "wk:page":"Pa%C5%A1u%C5%A1vys"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"863a159bdf1832d657d2b9b47c78817c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1310140885,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310140885,
+    "wof:lastmodified":1537662081,
+    "wof:name":"Pasusvys",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59537000000001,
+    55.58324,
+    23.59537000000001,
+    55.58324
+],
+  "geometry": {"coordinates":[23.59537000000001,55.58324],"type":"Point"}
+}

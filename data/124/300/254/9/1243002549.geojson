@@ -1,0 +1,71 @@
+{
+  "id": 1243002549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.05688,54.71667,25.05688,54.71667",
+    "geom:latitude":54.71667,
+    "geom:longitude":25.05688,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Stirniai",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300710,
+    "gn:latitude":54.71667,
+    "gn:longitude":25.05688,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Stirniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Stirniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300710
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3fa7b8e754d1a6d1e379afd898b7f21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1243002549,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243002549,
+    "wof:lastmodified":1537662742,
+    "wof:name":"Stirniai",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.05688,
+    54.71666999999999,
+    25.05688,
+    54.71666999999999
+],
+  "geometry": {"coordinates":[25.05688,54.71666999999999],"type":"Point"}
+}

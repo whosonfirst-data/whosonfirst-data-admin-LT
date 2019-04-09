@@ -1,0 +1,71 @@
+{
+  "id": 1343993797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36243,54.86352,23.36243,54.86352",
+    "geom:latitude":54.86352,
+    "geom:longitude":23.36243,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"58.0",
+    "gn:asciiname":"Zukai",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305360,
+    "gn:latitude":54.86352,
+    "gn:longitude":23.36243,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Z\u016bkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Z\u016bkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305360
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"94f1d6b08ae2bea3f487c8e282306187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073607,
+            "locality_id":1343993797,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1343993797,
+    "wof:lastmodified":1537662848,
+    "wof:name":"Zukai",
+    "wof:parent_id":102073607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36243,
+    54.86352,
+    23.36243,
+    54.86352
+],
+  "geometry": {"coordinates":[23.36243,54.86352],"type":"Point"}
+}

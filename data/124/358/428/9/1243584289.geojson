@@ -1,0 +1,71 @@
+{
+  "id": 1243584289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.74284,55.91127,24.74284,55.91127",
+    "geom:latitude":55.91127,
+    "geom:longitude":24.74284,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Kiauledziai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312229,
+    "gn:latitude":55.91127,
+    "gn:longitude":24.74284,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kiaul\u0117d\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kiaul\u0117d\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312229
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8ba987f2ab78fdb27ecbc8054a2ad0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1243584289,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243584289,
+    "wof:lastmodified":1537662988,
+    "wof:name":"Kiauledziai",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74284,
+    55.91127,
+    24.74284,
+    55.91127
+],
+  "geometry": {"coordinates":[24.74284,55.91127],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260218335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61795,54.66942,24.61795,54.66942",
+    "geom:latitude":54.66942,
+    "geom:longitude":24.61795,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Budiliai",
+    "gn:country_code":"LT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600306,
+    "gn:latitude":54.66942,
+    "gn:longitude":24.61795,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Budiliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Budzili",
+        "Budiliai",
+        "B\u016bdzili\u0173",
+        "B\u016bdziliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600306
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"33661ba3a1ccd4762042816dc4ebaae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1260218335,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260218335,
+    "wof:lastmodified":1537662380,
+    "wof:name":"Budiliai",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61795,
+    54.66942,
+    24.61795,
+    54.66942
+],
+  "geometry": {"coordinates":[24.61795,54.66942],"type":"Point"}
+}

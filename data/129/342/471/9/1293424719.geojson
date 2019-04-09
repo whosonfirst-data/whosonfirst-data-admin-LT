@@ -1,0 +1,73 @@
+{
+  "id": 1293424719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11358,55.04051,26.11358,55.04051",
+    "geom:latitude":55.04051,
+    "geom:longitude":26.11358,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Ziboliske",
+    "gn:country_code":"LT",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592792,
+    "gn:latitude":55.04051,
+    "gn:longitude":26.11358,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ziboli\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dibali\u0161kiai",
+        "Zybalishki",
+        "Ziboli\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592792
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0c53acb8e75566a3c829048ff764dcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1293424719,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293424719,
+    "wof:lastmodified":1537661865,
+    "wof:name":"Ziboliske",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11358,
+    55.04051,
+    26.11358,
+    55.04051
+],
+  "geometry": {"coordinates":[26.11358,55.04051],"type":"Point"}
+}

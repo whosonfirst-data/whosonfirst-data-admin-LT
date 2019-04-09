@@ -1,0 +1,74 @@
+{
+  "id": 1210050489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.13631,54.48022,24.13631,54.48022",
+    "geom:latitude":54.48022,
+    "geom:longitude":24.13631,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Kruziunai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597925,
+    "gn:latitude":54.48022,
+    "gn:longitude":24.13631,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kru\u017ei\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kruzhuntsy",
+        "Kru\u017ei\u016bn\u0173",
+        "Kru\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597925
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"44c1faa6d2b484496e97480fca76ff31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1210050489,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1210050489,
+    "wof:lastmodified":1537662217,
+    "wof:name":"Kruziunai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13631,
+    54.48022,
+    24.13631,
+    54.48022
+],
+  "geometry": {"coordinates":[24.13631,54.48022],"type":"Point"}
+}

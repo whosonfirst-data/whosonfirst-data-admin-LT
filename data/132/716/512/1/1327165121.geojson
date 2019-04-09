@@ -1,0 +1,81 @@
+{
+  "id": 1327165121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11031,55.13223,24.11031,55.13223",
+    "geom:latitude":55.13223,
+    "geom:longitude":24.11031,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Naujasodis",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596740,
+    "gn:latitude":55.13223,
+    "gn:longitude":24.11031,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Naujasodis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Naujasod\u017eiai"
+    ],
+    "name:lit_x_preferred":[
+        "Naujasodis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u044f\u0441\u043e\u0434\u0436\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Nauyasodzhyay",
+        "Naujasod\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596740
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5dd700e91f778b9b8a4e70735f773a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1327165121,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327165121,
+    "wof:lastmodified":1537662136,
+    "wof:name":"Naujasodis",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11031,
+    55.13223000000001,
+    24.11031,
+    55.13223000000001
+],
+  "geometry": {"coordinates":[24.11031,55.13223000000001],"type":"Point"}
+}

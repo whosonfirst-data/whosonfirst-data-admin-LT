@@ -1,0 +1,73 @@
+{
+  "id": 1226176291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71224,55.15858,21.71224,55.15858",
+    "geom:latitude":55.15858,
+    "geom:longitude":21.71224,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Lazdenai",
+    "gn:country_code":"LT",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597598,
+    "gn:latitude":55.15858,
+    "gn:longitude":21.71224,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lazd\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyazdenen",
+        "Lazdenay",
+        "Lazd\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597598
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"82865c65220acb862e1b7778691d6ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073623,
+            "locality_id":1226176291,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1226176291,
+    "wof:lastmodified":1537662195,
+    "wof:name":"Lazdenai",
+    "wof:parent_id":102073623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71224,
+    55.15858000000001,
+    21.71224,
+    55.15858000000001
+],
+  "geometry": {"coordinates":[21.71224,55.15858000000001],"type":"Point"}
+}

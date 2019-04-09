@@ -1,0 +1,71 @@
+{
+  "id": 1327367665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66379,55.1937,22.66379,55.1937",
+    "geom:latitude":55.1937,
+    "geom:longitude":22.66379,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Valuckai",
+    "gn:country_code":"LT",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302155,
+    "gn:latitude":55.1937,
+    "gn:longitude":22.66379,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Valuckai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Valuckai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302155
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5c6bdce6175d2108cae9709b04e6edbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1327367665,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1327367665,
+    "wof:lastmodified":1537662771,
+    "wof:name":"Valuckai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66379,
+    55.1937,
+    22.66379,
+    55.1937
+],
+  "geometry": {"coordinates":[22.66379,55.1937],"type":"Point"}
+}

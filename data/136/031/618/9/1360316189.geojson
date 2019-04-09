@@ -1,0 +1,74 @@
+{
+  "id": 1360316189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04831,55.90615,22.04831,55.90615",
+    "geom:latitude":55.90615,
+    "geom:longitude":22.04831,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Kantauciai",
+    "gn:country_code":"LT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598452,
+    "gn:latitude":55.90615,
+    "gn:longitude":22.04831,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kantau\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kontowcie",
+        "Kontauchyay",
+        "Kantauchyay",
+        "Kantau\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598452
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b03af88ad70eaed70b8d4b2c87c2a779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1360316189,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1360316189,
+    "wof:lastmodified":1537662252,
+    "wof:name":"Kantauciai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04831,
+    55.90615,
+    22.04831,
+    55.90615
+],
+  "geometry": {"coordinates":[22.04831,55.90615],"type":"Point"}
+}

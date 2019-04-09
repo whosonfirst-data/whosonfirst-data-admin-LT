@@ -1,0 +1,71 @@
+{
+  "id": 1310036325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.32556,54.40534,23.32556,54.40534",
+    "geom:latitude":54.40534,
+    "geom:longitude":23.32556,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Brukai",
+    "gn:country_code":"LT",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600373,
+    "gn:latitude":54.40534,
+    "gn:longitude":23.32556,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Brukai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Brukai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600373
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"994e7a57118f30aff07d8ca789096530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073585,
+            "locality_id":1310036325,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1310036325,
+    "wof:lastmodified":1537662385,
+    "wof:name":"Brukai",
+    "wof:parent_id":102073585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.32556,
+    54.40534,
+    23.32556,
+    54.40534
+],
+  "geometry": {"coordinates":[23.32556,54.40534],"type":"Point"}
+}

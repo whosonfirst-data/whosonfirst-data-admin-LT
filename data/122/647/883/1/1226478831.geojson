@@ -1,0 +1,75 @@
+{
+  "id": 1226478831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50695,55.05778,22.50695,55.05778",
+    "geom:latitude":55.05778,
+    "geom:longitude":22.50695,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Kazikenai",
+    "gn:country_code":"LT",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598350,
+    "gn:latitude":55.05778,
+    "gn:longitude":22.50695,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kazik\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kaliningrad",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kazik\u0117nai"
+    ],
+    "name:und_x_variant":[
+        "Neykhey",
+        "Kasik\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598350
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"96236ee5bbb817438dbe4ce5c392f037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1226478831,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1226478831,
+    "wof:lastmodified":1537662246,
+    "wof:name":"Kazikenai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50695,
+    55.05778000000001,
+    22.50695,
+    55.05778000000001
+],
+  "geometry": {"coordinates":[22.50695,55.05778000000001],"type":"Point"}
+}

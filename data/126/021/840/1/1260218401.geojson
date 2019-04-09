@@ -1,0 +1,71 @@
+{
+  "id": 1260218401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.53057,55.39582,26.53057,55.39582",
+    "geom:latitude":55.39582,
+    "geom:longitude":26.53057,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Strilungiai",
+    "gn:country_code":"LT",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291259,
+    "gn:latitude":55.39582,
+    "gn:longitude":26.53057,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Strilungiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Strilungiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291259
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"025d31a0eda02f308dc19dfab615b661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1260218401,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1260218401,
+    "wof:lastmodified":1537662490,
+    "wof:name":"Strilungiai",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.53057,
+    55.39581999999999,
+    26.53057,
+    55.39581999999999
+],
+  "geometry": {"coordinates":[26.53057,55.39581999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327470929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31759,54.79119,24.31759,54.79119",
+    "geom:latitude":54.79119,
+    "geom:longitude":24.31759,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Mankuviskes II",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309147,
+    "gn:latitude":54.79119,
+    "gn:longitude":24.31759,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mankuvi\u0161k\u0117s II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mankuvi\u0161k\u0117s II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309147
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"177fa1e4e3a8ef546a03a1a876f59dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1327470929,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327470929,
+    "wof:lastmodified":1537662917,
+    "wof:name":"Mankuviskes II",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31759,
+    54.79119,
+    24.31759,
+    54.79119
+],
+  "geometry": {"coordinates":[24.31759,54.79119],"type":"Point"}
+}

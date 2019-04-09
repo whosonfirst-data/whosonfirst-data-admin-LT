@@ -1,0 +1,71 @@
+{
+  "id": 1309835469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48896,55.19929,26.48896,55.19929",
+    "geom:latitude":55.19929,
+    "geom:longitude":26.48896,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Rakauskai",
+    "gn:country_code":"LT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595417,
+    "gn:latitude":55.19929,
+    "gn:longitude":26.48896,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rakauskai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rakauskai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595417
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8b30aa2f40a9752ed14b133d1244489b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1309835469,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309835469,
+    "wof:lastmodified":1537662038,
+    "wof:name":"Rakauskai",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48896,
+    55.19929000000001,
+    26.48896,
+    55.19929000000001
+],
+  "geometry": {"coordinates":[26.48896,55.19929000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326964289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53249,56.23573,21.53249,56.23573",
+    "geom:latitude":56.23573,
+    "geom:longitude":21.53249,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Puodkaliai",
+    "gn:country_code":"LT",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595548,
+    "gn:latitude":56.23573,
+    "gn:longitude":21.53249,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Puodkaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Puodkaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595548
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b59596278334037cdda85487d8090caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1326964289,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1326964289,
+    "wof:lastmodified":1537662048,
+    "wof:name":"Puodkaliai",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53249,
+    56.23573,
+    21.53249,
+    56.23573
+],
+  "geometry": {"coordinates":[21.53249,56.23573],"type":"Point"}
+}

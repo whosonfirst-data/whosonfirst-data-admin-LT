@@ -1,0 +1,71 @@
+{
+  "id": 1226081849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76099,55.89965,24.76099,55.89965",
+    "geom:latitude":55.89965,
+    "geom:longitude":24.76099,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Zizmariskis",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312232,
+    "gn:latitude":55.89965,
+    "gn:longitude":24.76099,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u017di\u017emari\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017di\u017emari\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312232
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d8f4f929c80fc8f514fddfbf63ac595e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1226081849,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226081849,
+    "wof:lastmodified":1537662988,
+    "wof:name":"Zizmariskis",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76099,
+    55.89965,
+    24.76099,
+    55.89965
+],
+  "geometry": {"coordinates":[24.76099,55.89965],"type":"Point"}
+}

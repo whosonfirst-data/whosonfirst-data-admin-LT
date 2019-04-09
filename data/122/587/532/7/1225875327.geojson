@@ -1,0 +1,79 @@
+{
+  "id": 1225875327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81021,56.11049,24.81021,56.11049",
+    "geom:latitude":56.11049,
+    "geom:longitude":24.81021,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Geidziunai",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599430,
+    "gn:latitude":56.11049,
+    "gn:longitude":24.81021,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Geid\u017ei\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Geid\u017ei\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0439\u0434\u0436\u044e\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Geydzhyunay",
+        "Geid\u017ei\u016bn\u0173",
+        "Geid\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599430
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f2592bff5bdff8b7bde3236466d4a5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1225875327,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1225875327,
+    "wof:lastmodified":1537662318,
+    "wof:name":"Geidziunai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81021,
+    56.11049000000001,
+    24.81021,
+    56.11049000000001
+],
+  "geometry": {"coordinates":[24.81021,56.11049000000001],"type":"Point"}
+}

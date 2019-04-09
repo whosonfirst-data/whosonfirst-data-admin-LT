@@ -1,0 +1,74 @@
+{
+  "id": 1309936755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6228,55.48049,25.6228,55.48049",
+    "geom:latitude":55.48049,
+    "geom:longitude":25.6228,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Nemeiksciai",
+    "gn:country_code":"LT",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596668,
+    "gn:latitude":55.48049,
+    "gn:longitude":25.6228,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nemeik\u0161\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nemekshgyay",
+        "Nemeik\u0161\u010di\u0173",
+        "Nemeik\u0161\u010diai",
+        "Nemeik\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596668
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5e1f37bbabed2fb5edc94c65b9f3a145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1309936755,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1309936755,
+    "wof:lastmodified":1537662131,
+    "wof:name":"Nemeiksciai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6228,
+    55.48049,
+    25.6228,
+    55.48049
+],
+  "geometry": {"coordinates":[25.6228,55.48049],"type":"Point"}
+}

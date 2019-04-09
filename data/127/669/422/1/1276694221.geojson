@@ -1,0 +1,71 @@
+{
+  "id": 1276694221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.19473,55.14346,26.19473,55.14346",
+    "geom:latitude":55.14346,
+    "geom:longitude":26.19473,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Mielagenu Kelias",
+    "gn:country_code":"LT",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292654,
+    "gn:latitude":55.14346,
+    "gn:longitude":26.19473,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mielag\u0117n\u0173 Kelias",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mielag\u0117n\u0173 Kelias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292654
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"68facb5c5bbc6a6f3fe5e47a1782003d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1276694221,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276694221,
+    "wof:lastmodified":1537662528,
+    "wof:name":"Mielagenu Kelias",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19473,
+    55.14346,
+    26.19473,
+    55.14346
+],
+  "geometry": {"coordinates":[26.19473,55.14346],"type":"Point"}
+}

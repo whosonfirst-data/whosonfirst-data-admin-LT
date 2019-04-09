@@ -1,0 +1,73 @@
+{
+  "id": 1293818235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86122,55.12188,23.86122,55.12188",
+    "geom:latitude":55.12188,
+    "geom:longitude":23.86122,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Antagyneles",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601046,
+    "gn:latitude":55.12188,
+    "gn:longitude":23.86122,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Antagyn\u0117l\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Antogineli",
+        "Antoninelyay",
+        "Antagyn\u0117l\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601046
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6ddab750a706ea607c1553ce0b9b087b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1293818235,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293818235,
+    "wof:lastmodified":1537662430,
+    "wof:name":"Antagyneles",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86122,
+    55.12188,
+    23.86122,
+    55.12188
+],
+  "geometry": {"coordinates":[23.86122,55.12188],"type":"Point"}
+}

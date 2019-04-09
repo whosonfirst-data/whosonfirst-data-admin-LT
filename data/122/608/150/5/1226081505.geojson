@@ -1,0 +1,71 @@
+{
+  "id": 1226081505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.94728,55.58042,24.94728,55.58042",
+    "geom:latitude":55.58042,
+    "geom:longitude":24.94728,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Kalnuociai",
+    "gn:country_code":"LT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299189,
+    "gn:latitude":55.58042,
+    "gn:longitude":24.94728,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kalnuo\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kalnuo\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299189
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"47ca9c125df7a57cfdc6993b528c4b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1226081505,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226081505,
+    "wof:lastmodified":1537662695,
+    "wof:name":"Kalnuociai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.94728,
+    55.58042,
+    24.94728,
+    55.58042
+],
+  "geometry": {"coordinates":[24.94728,55.58042],"type":"Point"}
+}

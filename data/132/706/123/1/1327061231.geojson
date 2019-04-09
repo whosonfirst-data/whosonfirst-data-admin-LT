@@ -1,0 +1,74 @@
+{
+  "id": 1327061231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.97855,55.29734,21.97855,55.29734",
+    "geom:latitude":55.29734,
+    "geom:longitude":21.97855,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Putoksliai",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595493,
+    "gn:latitude":55.29734,
+    "gn:longitude":21.97855,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Putok\u0161liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Putokshli",
+        "Putokshlyay",
+        "Putok\u0161li\u0173",
+        "Putok\u0161liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595493
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3ba4d5ca84e32fd8f394b7015b2077d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1327061231,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1327061231,
+    "wof:lastmodified":1537662044,
+    "wof:name":"Putoksliai",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.97855,
+    55.29734000000001,
+    21.97855,
+    55.29734000000001
+],
+  "geometry": {"coordinates":[21.97855,55.29734000000001],"type":"Point"}
+}

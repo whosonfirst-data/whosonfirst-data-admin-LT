@@ -1,0 +1,71 @@
+{
+  "id": 1259617691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33309,55.80413,22.33309,55.80413",
+    "geom:latitude":55.80413,
+    "geom:longitude":22.33309,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Uzrotkalnis",
+    "gn:country_code":"LT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301384,
+    "gn:latitude":55.80413,
+    "gn:longitude":22.33309,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"U\u017erotkalnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "U\u017erotkalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301384
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1253f06870fe69d1dd7524238db61eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1259617691,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1259617691,
+    "wof:lastmodified":1537662759,
+    "wof:name":"Uzrotkalnis",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33309,
+    55.80413000000001,
+    22.33309,
+    55.80413000000001
+],
+  "geometry": {"coordinates":[22.33309,55.80413000000001],"type":"Point"}
+}

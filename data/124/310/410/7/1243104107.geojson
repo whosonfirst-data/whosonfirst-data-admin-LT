@@ -1,0 +1,74 @@
+{
+  "id": 1243104107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66787,55.59804,23.66787,55.59804",
+    "geom:latitude":55.59804,
+    "geom:longitude":23.66787,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Kubiliunai",
+    "gn:country_code":"LT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597914,
+    "gn:latitude":55.59804,
+    "gn:longitude":23.66787,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kubili\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kubilyunay",
+        "Kubili\u016bn\u0173",
+        "Kobylyuny",
+        "Kubili\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597914
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fbcc60d87d42ac40688e05f3946aa64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1243104107,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1243104107,
+    "wof:lastmodified":1537662216,
+    "wof:name":"Kubiliunai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66787,
+    55.59804000000001,
+    23.66787,
+    55.59804000000001
+],
+  "geometry": {"coordinates":[23.66787,55.59804000000001],"type":"Point"}
+}

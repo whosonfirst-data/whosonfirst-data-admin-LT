@@ -1,0 +1,73 @@
+{
+  "id": 1343976283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93333,56.31667,22.93333,56.31667",
+    "geom:latitude":56.31667,
+    "geom:longitude":22.93333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Karpenai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598391,
+    "gn:latitude":56.31667,
+    "gn:longitude":22.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karp\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karpanay",
+        "Karpen\u0173",
+        "Karp\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598391
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dde9592405b82328c80b4cbc027ae0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1343976283,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343976283,
+    "wof:lastmodified":1537662248,
+    "wof:name":"Karpenai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93333,
+    56.31667,
+    22.93333,
+    56.31667
+],
+  "geometry": {"coordinates":[22.93333,56.31667],"type":"Point"}
+}

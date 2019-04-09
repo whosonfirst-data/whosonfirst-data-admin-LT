@@ -1,0 +1,71 @@
+{
+  "id": 1310532429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5791,55.94523,25.5791,55.94523",
+    "geom:latitude":55.94523,
+    "geom:longitude":25.5791,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Parokiske",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295626,
+    "gn:latitude":55.94523,
+    "gn:longitude":25.5791,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paroki\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paroki\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295626
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"41d903477d51cf67d376c5a87898f762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1310532429,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310532429,
+    "wof:lastmodified":1537662598,
+    "wof:name":"Parokiske",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5791,
+    55.94523,
+    25.5791,
+    55.94523
+],
+  "geometry": {"coordinates":[25.5791,55.94523],"type":"Point"}
+}

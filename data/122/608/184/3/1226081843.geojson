@@ -1,0 +1,71 @@
+{
+  "id": 1226081843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18731,54.59635,24.18731,54.59635",
+    "geom:latitude":54.59635,
+    "geom:longitude":24.18731,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"69.0",
+    "gn:asciiname":"Strazdiskes",
+    "gn:country_code":"LT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309255,
+    "gn:latitude":54.59635,
+    "gn:longitude":24.18731,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Strazdi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Strazdi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309255
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c68fe9bf1066c9138621584ca03c9fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073603,
+            "locality_id":1226081843,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226081843,
+    "wof:lastmodified":1537662919,
+    "wof:name":"Strazdiskes",
+    "wof:parent_id":102073603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18731,
+    54.59635,
+    24.18731,
+    54.59635
+],
+  "geometry": {"coordinates":[24.18731,54.59635],"type":"Point"}
+}

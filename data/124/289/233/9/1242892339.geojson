@@ -1,0 +1,67 @@
+{
+  "id": 1242892339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8,53.93333,23.8,53.93333",
+    "geom:latitude":53.93333,
+    "geom:longitude":23.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bugeda",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600305,
+    "gn:latitude":53.93333,
+    "gn:longitude":23.8,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Bugeda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85632395,
+        85669305,
+        890428903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600305
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"15f70d34d2767adb8bae65401b924e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632395,
+            "county_id":890428903,
+            "locality_id":1242892339,
+            "region_id":85669305
+        }
+    ],
+    "wof:id":1242892339,
+    "wof:lastmodified":1536607507,
+    "wof:name":"Bugeda",
+    "wof:parent_id":890428903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8,
+    53.93333000000001,
+    23.8,
+    53.93333000000001
+],
+  "geometry": {"coordinates":[23.8,53.93333000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243077645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18471,55.26094,25.18471,55.26094",
+    "geom:latitude":55.26094,
+    "geom:longitude":25.18471,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Makiugaliai",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10929538,
+    "gn:latitude":55.26094,
+    "gn:longitude":25.18471,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Maki\u016bgaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Maki\u016bgaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10929538
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4598f3dac489782ab3d1b53b060ccbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1243077645,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243077645,
+    "wof:lastmodified":1537662449,
+    "wof:name":"Makiugaliai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18471,
+    55.26094000000001,
+    25.18471,
+    55.26094000000001
+],
+  "geometry": {"coordinates":[25.18471,55.26094000000001],"type":"Point"}
+}

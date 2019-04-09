@@ -1,0 +1,68 @@
+{
+  "id": 1209250587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79308,55.28788,22.79308,55.28788",
+    "geom:latitude":55.28788,
+    "geom:longitude":22.79308,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Rutkiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595079,
+    "gn:latitude":55.28788,
+    "gn:longitude":22.79308,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rutki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rutkushkyay",
+        "Rudkishki",
+        "Rutkishkyay",
+        "Rutki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595079
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"10b7c1cfb81fbd608d3a88a876df09ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209250587
+        }
+    ],
+    "wof:id":1209250587,
+    "wof:lastmodified":1537662016,
+    "wof:name":"Rutkiskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79308,
+    55.28788,
+    22.79308,
+    55.28788
+],
+  "geometry": {"coordinates":[22.79308,55.28788],"type":"Point"}
+}

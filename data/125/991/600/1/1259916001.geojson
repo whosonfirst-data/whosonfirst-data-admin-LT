@@ -1,0 +1,79 @@
+{
+  "id": 1259916001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39278,55.47503,25.39278,55.47503",
+    "geom:latitude":55.47503,
+    "geom:longitude":25.39278,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Leliunai",
+    "gn:country_code":"LT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597556,
+    "gn:latitude":55.47503,
+    "gn:longitude":25.39278,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Leli\u016bnai",
+    "gn:population":483,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lelyuny",
+        "Leli\u016bn\u0173",
+        "Lelyunay",
+        "Lieli\u016bnai",
+        "Leli\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597556,
+        "wk:page":"Leli%C5%ABnai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0d95b0ccdf415ffa8d2e4c7d7fd056e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1259916001,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259916001,
+    "wof:lastmodified":1537662192,
+    "wof:name":"Leliunai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:population":483,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39278,
+    55.47503,
+    25.39278,
+    55.47503
+],
+  "geometry": {"coordinates":[25.39278,55.47503],"type":"Point"}
+}

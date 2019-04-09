@@ -1,0 +1,76 @@
+{
+  "id": 1260317395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7787,55.05539,23.7787,55.05539",
+    "geom:latitude":55.05539,
+    "geom:longitude":23.7787,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Vosiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593011,
+    "gn:latitude":55.05539,
+    "gn:longitude":23.7787,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vosi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vosi\u0161kiai"
+    ],
+    "name:und_x_variant":[
+        "Ivashishki",
+        "Ivashyay",
+        "Vo\u0161i\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593011
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e6e7f72873754d429090ef480b56d60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1260317395,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260317395,
+    "wof:lastmodified":1537661879,
+    "wof:name":"Vosiskiai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7787,
+    55.05539,
+    23.7787,
+    55.05539
+],
+  "geometry": {"coordinates":[23.7787,55.05539],"type":"Point"}
+}

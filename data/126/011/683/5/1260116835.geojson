@@ -1,0 +1,75 @@
+{
+  "id": 1260116835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81552,55.55658,22.81552,55.55658",
+    "geom:latitude":55.55658,
+    "geom:longitude":22.81552,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Pakrazantis",
+    "gn:country_code":"LT",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596267,
+    "gn:latitude":55.55658,
+    "gn:longitude":22.81552,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pakra\u017eantis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pokrazhentse",
+        "Pakrazhantis",
+        "Pakra\u017ean\u010dio",
+        "Pakra\u017eentis",
+        "Pakra\u017eantis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596267
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"95b28b8c0dd38af1deab3c7ec6800bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1260116835,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1260116835,
+    "wof:lastmodified":1537662101,
+    "wof:name":"Pakrazantis",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81552000000001,
+    55.55658,
+    22.81552000000001,
+    55.55658
+],
+  "geometry": {"coordinates":[22.81552000000001,55.55658],"type":"Point"}
+}

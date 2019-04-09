@@ -1,0 +1,71 @@
+{
+  "id": 1343597989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.99862,55.99687,24.99862,55.99687",
+    "geom:latitude":55.99687,
+    "geom:longitude":24.99862,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Uzubaliai",
+    "gn:country_code":"LT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298688,
+    "gn:latitude":55.99687,
+    "gn:longitude":24.99862,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"U\u017eubaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "U\u017eubaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298688
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ca7826fcbb3a792934cd740d6647a7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1343597989,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343597989,
+    "wof:lastmodified":1537662683,
+    "wof:name":"Uzubaliai",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.99862000000001,
+    55.99687,
+    24.99862000000001,
+    55.99687
+],
+  "geometry": {"coordinates":[24.99862000000001,55.99687],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343695307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41438,55.61533,26.41438,55.61533",
+    "geom:latitude":55.61533,
+    "geom:longitude":26.41438,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Pasmalves",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291062,
+    "gn:latitude":55.61533,
+    "gn:longitude":26.41438,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pasmalv\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pasmalv\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291062
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ed4320d13883b117b4bd61a4a3f4b5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1343695307,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343695307,
+    "wof:lastmodified":1537662485,
+    "wof:name":"Pasmalves",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41438,
+    55.61533000000001,
+    26.41438,
+    55.61533000000001
+],
+  "geometry": {"coordinates":[26.41438,55.61533000000001],"type":"Point"}
+}

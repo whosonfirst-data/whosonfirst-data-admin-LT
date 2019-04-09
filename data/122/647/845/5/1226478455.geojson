@@ -1,0 +1,71 @@
+{
+  "id": 1226478455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.97598,55.11906,24.97598,55.11906",
+    "geom:latitude":55.11906,
+    "geom:longitude":24.97598,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Bokstas",
+    "gn:country_code":"LT",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299841,
+    "gn:latitude":55.11906,
+    "gn:longitude":24.97598,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bok\u0161tas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bok\u0161tas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299841
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"91741789593186e39cbf97d4b78b3096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1226478455,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226478455,
+    "wof:lastmodified":1537662716,
+    "wof:name":"Bokstas",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.97598,
+    55.11906,
+    24.97598,
+    55.11906
+],
+  "geometry": {"coordinates":[24.97598,55.11906],"type":"Point"}
+}

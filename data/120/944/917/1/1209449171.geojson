@@ -1,0 +1,65 @@
+{
+  "id": 1209449171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62117,56.13897,24.62117,56.13897",
+    "geom:latitude":56.13897,
+    "geom:longitude":24.62117,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Paringuziai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301206,
+    "gn:latitude":56.13897,
+    "gn:longitude":24.62117,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paringu\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paringu\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301206
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"33b504533e782ccb699aab96a8bf407d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209449171
+        }
+    ],
+    "wof:id":1209449171,
+    "wof:lastmodified":1537662755,
+    "wof:name":"Paringuziai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62117000000001,
+    56.13896999999999,
+    24.62117000000001,
+    56.13896999999999
+],
+  "geometry": {"coordinates":[24.62117000000001,56.13896999999999],"type":"Point"}
+}

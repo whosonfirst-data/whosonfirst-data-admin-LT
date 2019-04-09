@@ -1,0 +1,67 @@
+{
+  "id": 1209124435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71667,54.65,24.71667,54.65",
+    "geom:latitude":54.65,
+    "geom:longitude":24.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sargine",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594942,
+    "gn:latitude":54.65,
+    "gn:longitude":24.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sargin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sargyn\u0117s",
+        "Sargin\u0117s",
+        "Sargin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594942
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0cf2d460b32e3bf4db65cfee5f984752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209124435
+        }
+    ],
+    "wof:id":1209124435,
+    "wof:lastmodified":1537662008,
+    "wof:name":"Sargine",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71667,
+    54.65,
+    24.71667,
+    54.65
+],
+  "geometry": {"coordinates":[24.71667,54.65],"type":"Point"}
+}

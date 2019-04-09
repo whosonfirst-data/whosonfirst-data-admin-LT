@@ -1,0 +1,71 @@
+{
+  "id": 1242713127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5119,55.2649,26.5119,55.2649",
+    "geom:latitude":55.2649,
+    "geom:longitude":26.5119,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Veikscios",
+    "gn:country_code":"LT",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291241,
+    "gn:latitude":55.2649,
+    "gn:longitude":26.5119,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Veik\u0161\u010dios",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Veik\u0161\u010dios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291241
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d7fa2eab83a2ee11ecf76baea58054b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1242713127,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1242713127,
+    "wof:lastmodified":1537662490,
+    "wof:name":"Veikscios",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5119,
+    55.2649,
+    26.5119,
+    55.2649
+],
+  "geometry": {"coordinates":[26.5119,55.2649],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260116591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7869,55.29861,24.7869,55.29861",
+    "geom:latitude":55.29861,
+    "geom:longitude":24.7869,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Recionys",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311828,
+    "gn:latitude":55.29861,
+    "gn:longitude":24.7869,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Re\u010dionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Re\u010dionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311828
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9f5e10453b53092a4e0e8407201e92ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1260116591,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260116591,
+    "wof:lastmodified":1537662977,
+    "wof:name":"Recionys",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7869,
+    55.29861,
+    24.7869,
+    55.29861
+],
+  "geometry": {"coordinates":[24.7869,55.29861],"type":"Point"}
+}

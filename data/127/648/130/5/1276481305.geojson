@@ -1,0 +1,71 @@
+{
+  "id": 1276481305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6264,55.94215,24.6264,55.94215",
+    "geom:latitude":55.94215,
+    "geom:longitude":24.6264,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Linaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301168,
+    "gn:latitude":55.94215,
+    "gn:longitude":24.6264,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Linai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Linai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301168
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fa5e9d4e5c7baa1d45da5f67fc918a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1276481305,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276481305,
+    "wof:lastmodified":1537662754,
+    "wof:name":"Linaiciai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6264,
+    55.94215,
+    24.6264,
+    55.94215
+],
+  "geometry": {"coordinates":[24.6264,55.94215],"type":"Point"}
+}

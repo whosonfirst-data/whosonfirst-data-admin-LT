@@ -1,0 +1,73 @@
+{
+  "id": 1226074299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04594,55.43773,23.04594,55.43773",
+    "geom:latitude":55.43773,
+    "geom:longitude":23.04594,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Alejai I",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601152,
+    "gn:latitude":55.43773,
+    "gn:longitude":23.04594,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Al\u0117jai I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alej\u0173",
+        "Al\u0117jai I",
+        "Al\u0117jai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601152
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e3dc3aac150870d588ca180518b656ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1226074299,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226074299,
+    "wof:lastmodified":1537662436,
+    "wof:name":"Alejai I",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04594,
+    55.43773,
+    23.04594,
+    55.43773
+],
+  "geometry": {"coordinates":[23.04594,55.43773],"type":"Point"}
+}

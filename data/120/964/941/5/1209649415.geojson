@@ -1,0 +1,68 @@
+{
+  "id": 1209649415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00178,54.43868,24.00178,54.43868",
+    "geom:latitude":54.43868,
+    "geom:longitude":24.00178,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Miklusenai",
+    "gn:country_code":"LT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596981,
+    "gn:latitude":54.43868,
+    "gn:longitude":24.00178,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Miklus\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miklus\u0117n\u0173",
+        "Miklusyany",
+        "Miklus\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596981,
+        "wk:page":"Miklus%C4%97nai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"850aa47b1a07a223f7e1df8a492ad087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209649415
+        }
+    ],
+    "wof:id":1209649415,
+    "wof:lastmodified":1537662154,
+    "wof:name":"Miklusenai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00178,
+    54.43868000000001,
+    24.00178,
+    54.43868000000001
+],
+  "geometry": {"coordinates":[24.00178,54.43868000000001],"type":"Point"}
+}

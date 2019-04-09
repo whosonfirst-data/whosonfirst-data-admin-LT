@@ -1,0 +1,71 @@
+{
+  "id": 1310042611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79002,56.22041,24.79002,56.22041",
+    "geom:latitude":56.22041,
+    "geom:longitude":24.79002,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Paezeriai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301037,
+    "gn:latitude":56.22041,
+    "gn:longitude":24.79002,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pae\u017eeriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pae\u017eeriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301037
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"415177371ce9d4dd066716654deca740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1310042611,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310042611,
+    "wof:lastmodified":1537662751,
+    "wof:name":"Paezeriai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79002,
+    56.22041,
+    24.79002,
+    56.22041
+],
+  "geometry": {"coordinates":[24.79002,56.22041],"type":"Point"}
+}

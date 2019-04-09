@@ -1,0 +1,77 @@
+{
+  "id": 1259916375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20352,55.74199,21.20352,55.74199",
+    "geom:latitude":55.74199,
+    "geom:longitude":21.20352,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Klemiske II",
+    "gn:country_code":"LT",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598076,
+    "gn:latitude":55.74199,
+    "gn:longitude":21.20352,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Klemi\u0161k\u0117 II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Klemi\u0161k\u0117 II"
+    ],
+    "name:und_x_variant":[
+        "Clemmenhof",
+        "Klemmenhof",
+        "Klemmenkhof",
+        "Klemi\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598076
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c7d03ed7984b832ce9582b2efbd7e286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1259916375,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1259916375,
+    "wof:lastmodified":1537662228,
+    "wof:name":"Klemiske II",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20352,
+    55.74199,
+    21.20352,
+    55.74199
+],
+  "geometry": {"coordinates":[21.20352,55.74199],"type":"Point"}
+}

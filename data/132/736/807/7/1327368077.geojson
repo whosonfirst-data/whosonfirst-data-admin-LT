@@ -1,0 +1,74 @@
+{
+  "id": 1327368077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8533,55.20375,24.8533,55.20375",
+    "geom:latitude":55.20375,
+    "geom:longitude":24.8533,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Antakalnis III",
+    "gn:country_code":"LT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601038,
+    "gn:latitude":55.20375,
+    "gn:longitude":24.8533,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Antakalnis III",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Antakalnis III"
+    ],
+    "name:lit_x_variant":[
+        "Antakalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601038
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d64da2e926f82c49db825907418c19ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1327368077,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1327368077,
+    "wof:lastmodified":1537662429,
+    "wof:name":"Antakalnis III",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8533,
+    55.20375,
+    24.8533,
+    55.20375
+],
+  "geometry": {"coordinates":[24.8533,55.20375],"type":"Point"}
+}

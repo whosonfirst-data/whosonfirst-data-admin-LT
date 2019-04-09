@@ -1,0 +1,66 @@
+{
+  "id": 1209432995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.76667,55.9,22.76667,55.9",
+    "geom:latitude":55.9,
+    "geom:longitude":22.76667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Numsiai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596554,
+    "gn:latitude":55.9,
+    "gn:longitude":22.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Num\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Numshyay",
+        "Num\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596554
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8843107b01054673d16e317cf9e2b48c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209432995
+        }
+    ],
+    "wof:id":1209432995,
+    "wof:lastmodified":1537662123,
+    "wof:name":"Numsiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76667,
+    55.9,
+    22.76667,
+    55.9
+],
+  "geometry": {"coordinates":[22.76667,55.9],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293718629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52006,54.34296,24.52006,54.34296",
+    "geom:latitude":54.34296,
+    "geom:longitude":24.52006,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Pavarenis",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595945,
+    "gn:latitude":54.34296,
+    "gn:longitude":24.52006,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pavar\u0117nis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poverantsy",
+        "Pavar\u0117nis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595945,
+        "wk:page":"Pavar%C4%97nis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"78f3422b2e5615560d60bce6c2c3554b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1293718629,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1293718629,
+    "wof:lastmodified":1537662077,
+    "wof:name":"Pavarenis",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52006,
+    54.34296,
+    24.52006,
+    54.34296
+],
+  "geometry": {"coordinates":[24.52006,54.34296],"type":"Point"}
+}

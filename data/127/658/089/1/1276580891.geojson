@@ -1,0 +1,72 @@
+{
+  "id": 1276580891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73256,55.91205,22.73256,55.91205",
+    "geom:latitude":55.91205,
+    "geom:longitude":22.73256,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Girlauke",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599267,
+    "gn:latitude":55.91205,
+    "gn:longitude":22.73256,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Girlauk\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Girlaukis",
+        "Girlauk\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599267
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"71d9d2f225fa0f474c0d9bf2d101c1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1276580891,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1276580891,
+    "wof:lastmodified":1537662307,
+    "wof:name":"Girlauke",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73256,
+    55.91205,
+    22.73256,
+    55.91205
+],
+  "geometry": {"coordinates":[22.73256,55.91205],"type":"Point"}
+}

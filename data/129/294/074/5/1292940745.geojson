@@ -1,0 +1,80 @@
+{
+  "id": 1292940745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71157,55.68183,24.71157,55.68183",
+    "geom:latitude":55.68183,
+    "geom:longitude":24.71157,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Raguveles Gelezinkelio Stotis",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595434,
+    "gn:latitude":55.68183,
+    "gn:longitude":24.71157,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Raguv\u0117l\u0117s Gele\u017einkelio Stotis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Raguv\u0117l\u0117s Gele\u017einkelio Stotis"
+    ],
+    "name:lit_x_variant":[
+        "Gele\u017einkelio Stotis Raguv\u0117l\u0117",
+        "Raguv\u0117l\u0117"
+    ],
+    "name:und_x_variant":[
+        "Rog\u00f3wek",
+        "Raguv\u0117l\u0117s",
+        "Stotis Raguv\u0117l\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595434
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2af453c3bdcae4f9e6e1df0ab8d8259b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1292940745,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1292940745,
+    "wof:lastmodified":1537662040,
+    "wof:name":"Raguveles Gelezinkelio Stotis",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71157,
+    55.68183000000001,
+    24.71157,
+    55.68183000000001
+],
+  "geometry": {"coordinates":[24.71157,55.68183000000001],"type":"Point"}
+}

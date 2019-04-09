@@ -1,0 +1,73 @@
+{
+  "id": 1343394717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6657,55.34556,22.6657,55.34556",
+    "geom:latitude":55.34556,
+    "geom:longitude":22.6657,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Lybiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597348,
+    "gn:latitude":55.34556,
+    "gn:longitude":22.6657,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lybi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Libishkyay",
+        "Lybi\u0161kia",
+        "Lybi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597348
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"033dbc98db93ab0f9e36820949dc991e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1343394717,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1343394717,
+    "wof:lastmodified":1537662179,
+    "wof:name":"Lybiskiai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6657,
+    55.34556,
+    22.6657,
+    55.34556
+],
+  "geometry": {"coordinates":[22.6657,55.34556],"type":"Point"}
+}

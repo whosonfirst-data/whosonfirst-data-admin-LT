@@ -1,0 +1,65 @@
+{
+  "id": 1209350229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0258,55.81393,25.0258,55.81393",
+    "geom:latitude":55.81393,
+    "geom:longitude":25.0258,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Snipeliskis",
+    "gn:country_code":"LT",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298899,
+    "gn:latitude":55.81393,
+    "gn:longitude":25.0258,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160nipeli\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160nipeli\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298899
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7a73e18766b2b57f15600d05ebfdc142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209350229
+        }
+    ],
+    "wof:id":1209350229,
+    "wof:lastmodified":1537662688,
+    "wof:name":"Snipeliskis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0258,
+    55.81393000000001,
+    25.0258,
+    55.81393000000001
+],
+  "geometry": {"coordinates":[25.0258,55.81393000000001],"type":"Point"}
+}

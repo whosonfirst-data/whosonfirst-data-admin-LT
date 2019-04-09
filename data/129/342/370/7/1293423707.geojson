@@ -1,0 +1,71 @@
+{
+  "id": 1293423707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21545,55.24402,26.21545,55.24402",
+    "geom:latitude":55.24402,
+    "geom:longitude":26.21545,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Liubciske",
+    "gn:country_code":"LT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292356,
+    "gn:latitude":55.24402,
+    "gn:longitude":26.21545,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Liub\u010di\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Liub\u010di\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292356
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b8b51e8aec24b26ed5e09df8d4d3d25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1293423707,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1293423707,
+    "wof:lastmodified":1537662520,
+    "wof:name":"Liubciske",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21545,
+    55.24401999999999,
+    26.21545,
+    55.24401999999999
+],
+  "geometry": {"coordinates":[26.21545,55.24401999999999],"type":"Point"}
+}

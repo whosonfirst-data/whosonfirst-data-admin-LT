@@ -1,0 +1,71 @@
+{
+  "id": 1326963975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2481,54.93723,23.2481,54.93723",
+    "geom:latitude":54.93723,
+    "geom:longitude":23.2481,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Pudymai",
+    "gn:country_code":"LT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305319,
+    "gn:latitude":54.93723,
+    "gn:longitude":23.2481,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"P\u016bdymai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "P\u016bdymai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305319
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f681b297e8400c2a51c0799e447fba4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1326963975,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1326963975,
+    "wof:lastmodified":1537662847,
+    "wof:name":"Pudymai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2481,
+    54.93723000000001,
+    23.2481,
+    54.93723000000001
+],
+  "geometry": {"coordinates":[23.2481,54.93723000000001],"type":"Point"}
+}

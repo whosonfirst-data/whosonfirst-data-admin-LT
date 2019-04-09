@@ -1,0 +1,74 @@
+{
+  "id": 1326861319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22964,55.76297,22.22964,55.76297",
+    "geom:latitude":55.76297,
+    "geom:longitude":22.22964,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Velaiciai I",
+    "gn:country_code":"LT",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593326,
+    "gn:latitude":55.76297,
+    "gn:longitude":22.22964,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"V\u0117lai\u010diai I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "V\u0117lai\u010diai I"
+    ],
+    "name:lit_x_variant":[
+        "V\u0117lai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593326
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9330b4daf3ecb59d465b889db3188a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1326861319,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1326861319,
+    "wof:lastmodified":1537661898,
+    "wof:name":"Velaiciai I",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22964,
+    55.76297,
+    22.22964,
+    55.76297
+],
+  "geometry": {"coordinates":[22.22964,55.76297],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277105489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53588,56.05587,21.53588,56.05587",
+    "geom:latitude":56.05587,
+    "geom:longitude":21.53588,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Pesciai",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595834,
+    "gn:latitude":56.05587,
+    "gn:longitude":21.53588,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pes\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pes\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595834
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bd5fd5c8e004c73a09e909ef3e78bbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":1277105489,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1277105489,
+    "wof:lastmodified":1537662069,
+    "wof:name":"Pesciai",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53588,
+    56.05587,
+    21.53588,
+    56.05587
+],
+  "geometry": {"coordinates":[21.53588,56.05587],"type":"Point"}
+}

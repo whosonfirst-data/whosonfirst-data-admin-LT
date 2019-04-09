@@ -1,0 +1,66 @@
+{
+  "id": 1108949821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3201203078,54.672852819,25.3201203078,54.672852819",
+    "geom:latitude":54.672853,
+    "geom:longitude":25.32012,
+    "iso:country":"LT",
+    "lbl:latitude":54.672853,
+    "lbl:longitude":25.32012,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:lit_x_preferred":[
+        "Marku\u010diai"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85685759,
+        102191581,
+        85633269,
+        101753031,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367920,
+    "wof:geomhash":"0b5746ab3a024ffcab095d1a1a297657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":1108949821,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949821,
+    "wof:lastmodified":1497292361,
+    "wof:name":"Markuciai",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32012030776587,
+    54.67285281898224,
+    25.32012030776587,
+    54.67285281898224
+],
+  "geometry": {"coordinates":[25.32012030776587,54.67285281898224],"type":"Point"}
+}

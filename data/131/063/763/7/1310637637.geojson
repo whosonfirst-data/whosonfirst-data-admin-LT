@@ -1,0 +1,71 @@
+{
+  "id": 1310637637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98386,55.90528,22.98386,55.90528",
+    "geom:latitude":55.90528,
+    "geom:longitude":22.98386,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Noliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304098,
+    "gn:latitude":55.90528,
+    "gn:longitude":22.98386,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Noli\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Noli\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304098
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"458e25f55887ca64a8fd14b2be75307a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1310637637,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310637637,
+    "wof:lastmodified":1537662815,
+    "wof:name":"Noliskiai",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98386,
+    55.90528000000001,
+    22.98386,
+    55.90528000000001
+],
+  "geometry": {"coordinates":[22.98386,55.90528000000001],"type":"Point"}
+}

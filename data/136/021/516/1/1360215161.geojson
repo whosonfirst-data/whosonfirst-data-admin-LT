@@ -1,0 +1,74 @@
+{
+  "id": 1360215161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88479,54.62223,22.88479,54.62223",
+    "geom:latitude":54.62223,
+    "geom:longitude":22.88479,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Dailuciai",
+    "gn:country_code":"LT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":868407,
+    "gn:latitude":54.62223,
+    "gn:longitude":22.88479,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dailu\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dailu\u010diai"
+    ],
+    "name:und_x_variant":[
+        "Dayluchyay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":868407
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c763f66b5492b8a776fe1fff09bdfc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1360215161,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1360215161,
+    "wof:lastmodified":1537662448,
+    "wof:name":"Dailuciai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88479,
+    54.62223,
+    22.88479,
+    54.62223
+],
+  "geometry": {"coordinates":[22.88479,54.62223],"type":"Point"}
+}

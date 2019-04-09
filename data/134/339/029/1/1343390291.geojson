@@ -1,0 +1,75 @@
+{
+  "id": 1343390291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.62194,54.72395,23.62194,54.72395",
+    "geom:latitude":54.72395,
+    "geom:longitude":23.62194,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"58.0",
+    "gn:asciiname":"Gudeliai",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599091,
+    "gn:latitude":54.72395,
+    "gn:longitude":23.62194,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gudeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gudelyay",
+        "Gudeliai Pirmieji",
+        "Gudeli\u0173",
+        "Gudele",
+        "Gudeliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599091
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a0a0c5c06592100ae615785c0bb1da0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073607,
+            "locality_id":1343390291,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1343390291,
+    "wof:lastmodified":1537662295,
+    "wof:name":"Gudeliai",
+    "wof:parent_id":102073607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.62194,
+    54.72395,
+    23.62194,
+    54.72395
+],
+  "geometry": {"coordinates":[23.62194,54.72395],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209546003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87269,55.99212,25.87269,55.99212",
+    "geom:latitude":55.99212,
+    "geom:longitude":25.87269,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Vigarai",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292993,
+    "gn:latitude":55.99212,
+    "gn:longitude":25.87269,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vigarai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vigarai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292993
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fdb583bf6ecfe02b5215627c4108926b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209546003
+        }
+    ],
+    "wof:id":1209546003,
+    "wof:lastmodified":1537662536,
+    "wof:name":"Vigarai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87269,
+    55.99211999999999,
+    25.87269,
+    55.99211999999999
+],
+  "geometry": {"coordinates":[25.87269,55.99211999999999],"type":"Point"}
+}

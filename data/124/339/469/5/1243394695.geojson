@@ -1,0 +1,73 @@
+{
+  "id": 1243394695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78732,55.13958,23.78732,55.13958",
+    "geom:latitude":55.13958,
+    "geom:longitude":23.78732,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Paneveziukas",
+    "gn:country_code":"LT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596131,
+    "gn:latitude":55.13958,
+    "gn:longitude":23.78732,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Panev\u0117\u017eiukas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ponevezhik",
+        "Panev\u0117\u017eiuko",
+        "Panev\u0117\u017eiukas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596131
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"53c506b0daf49d125e6ffd04525ce2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1243394695,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1243394695,
+    "wof:lastmodified":1537662091,
+    "wof:name":"Paneveziukas",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78732,
+    55.13958,
+    23.78732,
+    55.13958
+],
+  "geometry": {"coordinates":[23.78732,55.13958],"type":"Point"}
+}

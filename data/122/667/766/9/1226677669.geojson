@@ -1,0 +1,73 @@
+{
+  "id": 1226677669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88483,56.32172,23.88483,56.32172",
+    "geom:latitude":56.32172,
+    "geom:longitude":23.88483,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Sodininkai",
+    "gn:country_code":"LT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594368,
+    "gn:latitude":56.32172,
+    "gn:longitude":23.88483,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sodininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sodininchay",
+        "Sodinka",
+        "Sodininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594368
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9d9362ba958fda7fc005897bd716bdef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1226677669,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226677669,
+    "wof:lastmodified":1537661967,
+    "wof:name":"Sodininkai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88483,
+    56.32171999999999,
+    23.88483,
+    56.32171999999999
+],
+  "geometry": {"coordinates":[23.88483,56.32171999999999],"type":"Point"}
+}

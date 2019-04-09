@@ -1,0 +1,73 @@
+{
+  "id": 1344092997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52405,54.35354,23.52405,54.35354",
+    "geom:latitude":54.35354,
+    "geom:longitude":23.52405,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Krosnenai",
+    "gn:country_code":"LT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597944,
+    "gn:latitude":54.35354,
+    "gn:longitude":23.52405,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Krosn\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krosn\u0117n\u0173",
+        "Krasnyany",
+        "Krosn\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597944
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"81cb29a6c02e865640bd959cae705a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1344092997,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1344092997,
+    "wof:lastmodified":1537662218,
+    "wof:name":"Krosnenai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52405,
+    54.35354,
+    23.52405,
+    54.35354
+],
+  "geometry": {"coordinates":[23.52405,54.35354],"type":"Point"}
+}

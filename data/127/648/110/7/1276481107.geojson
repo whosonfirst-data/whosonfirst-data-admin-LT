@@ -1,0 +1,76 @@
+{
+  "id": 1276481107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.37393,54.72875,25.37393,54.72875",
+    "geom:latitude":54.72875,
+    "geom:longitude":25.37393,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"41.0",
+    "gn:asciiname":"Dvarcionys",
+    "gn:country_code":"LT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599678,
+    "gn:latitude":54.72875,
+    "gn:longitude":25.37393,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dvar\u010dionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dvar\u010dionys"
+    ],
+    "name:und_x_variant":[
+        "Dvorchany",
+        "Dvarchenay",
+        "Dvar\u010d\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599678
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"53eff7535418767459b0586c8229773d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":1276481107,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276481107,
+    "wof:lastmodified":1537662335,
+    "wof:name":"Dvarcionys",
+    "wof:parent_id":102073615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37393,
+    54.72875,
+    25.37393,
+    54.72875
+],
+  "geometry": {"coordinates":[25.37393,54.72875],"type":"Point"}
+}

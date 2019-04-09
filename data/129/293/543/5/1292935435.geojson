@@ -1,0 +1,71 @@
+{
+  "id": 1292935435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55484,55.71626,21.55484,55.71626",
+    "geom:latitude":55.71626,
+    "geom:longitude":21.55484,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Jokuliai",
+    "gn:country_code":"LT",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289387,
+    "gn:latitude":55.71626,
+    "gn:longitude":21.55484,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jokuliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jokuliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289387
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"813c002e3bcb2a8dba4207dcc1718cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1292935435,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1292935435,
+    "wof:lastmodified":1537662455,
+    "wof:name":"Jokuliai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55484,
+    55.71626,
+    21.55484,
+    55.71626
+],
+  "geometry": {"coordinates":[21.55484,55.71626],"type":"Point"}
+}

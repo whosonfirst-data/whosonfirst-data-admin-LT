@@ -1,0 +1,72 @@
+{
+  "id": 1293623321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98552,55.6242,22.98552,55.6242",
+    "geom:latitude":55.6242,
+    "geom:longitude":22.98552,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Puckoriske",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595566,
+    "gn:latitude":55.6242,
+    "gn:longitude":22.98552,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pu\u010dkori\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pushkarishki",
+        "Pu\u010dkori\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595566
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"67186279603a97faf96a620bca193ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1293623321,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1293623321,
+    "wof:lastmodified":1537662050,
+    "wof:name":"Puckoriske",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98552,
+    55.6242,
+    22.98552,
+    55.6242
+],
+  "geometry": {"coordinates":[22.98552,55.6242],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209043163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.37209,55.60657,25.37209,55.60657",
+    "geom:latitude":55.60657,
+    "geom:longitude":25.37209,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Toliskes",
+    "gn:country_code":"LT",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296094,
+    "gn:latitude":55.60657,
+    "gn:longitude":25.37209,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Toli\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Toli\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296094
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f7ebc4aac3b948f6d8b92ba9d32b5478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209043163
+        }
+    ],
+    "wof:id":1209043163,
+    "wof:lastmodified":1537662610,
+    "wof:name":"Toliskes",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37209,
+    55.60657,
+    25.37209,
+    55.60657
+],
+  "geometry": {"coordinates":[25.37209,55.60657],"type":"Point"}
+}

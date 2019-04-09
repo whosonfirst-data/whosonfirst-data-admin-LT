@@ -1,0 +1,72 @@
+{
+  "id": 1277018629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16584,55.45942,23.16584,55.45942",
+    "geom:latitude":55.45942,
+    "geom:longitude":23.16584,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Pakalniskiai",
+    "gn:country_code":"LT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596311,
+    "gn:latitude":55.45942,
+    "gn:longitude":23.16584,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pakalni\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakalishki",
+        "Pakalni\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596311
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"358223cf84f6f6c9084418c6678d627d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1277018629,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1277018629,
+    "wof:lastmodified":1537662104,
+    "wof:name":"Pakalniskiai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16584,
+    55.45942,
+    23.16584,
+    55.45942
+],
+  "geometry": {"coordinates":[23.16584,55.45942],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242814197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32376,55.46396,25.32376,55.46396",
+    "geom:latitude":55.46396,
+    "geom:longitude":25.32376,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Buivydai",
+    "gn:country_code":"LT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296618,
+    "gn:latitude":55.46396,
+    "gn:longitude":25.32376,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Buivydai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Buivydai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296618
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"77d495d1f9dc821e1dbe6449ea4cbeec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1242814197,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1242814197,
+    "wof:lastmodified":1537662623,
+    "wof:name":"Buivydai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32376,
+    55.46396,
+    25.32376,
+    55.46396
+],
+  "geometry": {"coordinates":[25.32376,55.46396],"type":"Point"}
+}

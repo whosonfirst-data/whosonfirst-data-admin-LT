@@ -1,0 +1,67 @@
+{
+  "id": 1293725689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.534,55.948,25.534,55.948",
+    "geom:latitude":55.948,
+    "geom:longitude":25.534,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Kavoliskis",
+    "gn:country_code":"LT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598298,
+    "gn:latitude":55.948,
+    "gn:longitude":25.534,
+    "gn:modification_date":"2016-09-29",
+    "gn:name":"Kavoli\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598298
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"37747a9dcf2b2971d78c4971358dad2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1293725689,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293725689,
+    "wof:lastmodified":1536941534,
+    "wof:name":"Kavoliskis",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.534,
+    55.948,
+    25.534,
+    55.948
+],
+  "geometry": {"coordinates":[25.534,55.948],"type":"Point"}
+}

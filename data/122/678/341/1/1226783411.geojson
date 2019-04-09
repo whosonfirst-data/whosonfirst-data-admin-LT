@@ -1,0 +1,71 @@
+{
+  "id": 1226783411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35914,55.7684,23.35914,55.7684",
+    "geom:latitude":55.7684,
+    "geom:longitude":23.35914,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Ciuteliai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600151,
+    "gn:latitude":55.7684,
+    "gn:longitude":23.35914,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u010ciuteliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u010ciuteliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600151
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e655fce08b381df3cac8bc0c0d3e393c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1226783411,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1226783411,
+    "wof:lastmodified":1537662368,
+    "wof:name":"Ciuteliai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35914,
+    55.7684,
+    23.35914,
+    55.7684
+],
+  "geometry": {"coordinates":[23.35914,55.7684],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310341519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13765,55.78862,26.13765,55.78862",
+    "geom:latitude":55.78862,
+    "geom:longitude":26.13765,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Novinkai",
+    "gn:country_code":"LT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291691,
+    "gn:latitude":55.78862,
+    "gn:longitude":26.13765,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Novinkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Novinkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291691
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"552061b95d443119713a5360d7545865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1310341519,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310341519,
+    "wof:lastmodified":1537662503,
+    "wof:name":"Novinkai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13765,
+    55.78862,
+    26.13765,
+    55.78862
+],
+  "geometry": {"coordinates":[26.13765,55.78862],"type":"Point"}
+}

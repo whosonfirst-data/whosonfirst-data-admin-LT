@@ -1,0 +1,74 @@
+{
+  "id": 1193167825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.85273,56.33557,21.85273,56.33557",
+    "geom:latitude":56.33557,
+    "geom:longitude":21.85273,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Vizanciai",
+    "gn:country_code":"LT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593036,
+    "gn:latitude":56.33557,
+    "gn:longitude":21.85273,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vi\u017ean\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vy\u017ean\u010di\u0173",
+        "Vi\u017ean\u011biai",
+        "Vizhanchyay",
+        "Vi\u017ean\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593036
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9422fc347b27f60e10fd5e5ac113e108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1193167825,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1193167825,
+    "wof:lastmodified":1537661881,
+    "wof:name":"Vizanciai",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.85273,
+    56.33557,
+    21.85273,
+    56.33557
+],
+  "geometry": {"coordinates":[21.85273,56.33557],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209750319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.57612,55.25315,24.57612,55.25315",
+    "geom:latitude":55.25315,
+    "geom:longitude":24.57612,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Atkociai",
+    "gn:country_code":"LT",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600912,
+    "gn:latitude":55.25315,
+    "gn:longitude":24.57612,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Atko\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atkache",
+        "Atko\u010di\u0173",
+        "Atkochyay",
+        "Atkochai",
+        "Atko\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600912
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"73493cc3b5fbd7ed96b323336659a93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1209750319,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1209750319,
+    "wof:lastmodified":1537662422,
+    "wof:name":"Atkociai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.57612,
+    55.25315,
+    24.57612,
+    55.25315
+],
+  "geometry": {"coordinates":[24.57612,55.25315],"type":"Point"}
+}

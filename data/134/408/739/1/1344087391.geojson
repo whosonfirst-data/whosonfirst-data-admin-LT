@@ -1,0 +1,71 @@
+{
+  "id": 1344087391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.859,56.17135,24.859,56.17135",
+    "geom:latitude":56.17135,
+    "geom:longitude":24.859,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Benosiskis",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298553,
+    "gn:latitude":56.17135,
+    "gn:longitude":24.859,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Benosi\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Benosi\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298553
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"702f6fa55ce60d1c8f83d9e31e2f4fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1344087391,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1344087391,
+    "wof:lastmodified":1537662679,
+    "wof:name":"Benosiskis",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.859,
+    56.17135,
+    24.859,
+    56.17135
+],
+  "geometry": {"coordinates":[24.859,56.17135],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343798107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.84386,55.6805,24.84386,55.6805",
+    "geom:latitude":55.6805,
+    "geom:longitude":24.84386,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Rakutenai",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299106,
+    "gn:latitude":55.6805,
+    "gn:longitude":24.84386,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Rakut\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rakut\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299106
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0bc0d53ba069062d48347bc29b2217fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1343798107,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343798107,
+    "wof:lastmodified":1537662693,
+    "wof:name":"Rakutenai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.84386,
+    55.6805,
+    24.84386,
+    55.6805
+],
+  "geometry": {"coordinates":[24.84386,55.6805],"type":"Point"}
+}

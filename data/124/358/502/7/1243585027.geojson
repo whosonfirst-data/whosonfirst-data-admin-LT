@@ -1,0 +1,71 @@
+{
+  "id": 1243585027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.84552,55.46372,25.84552,55.46372",
+    "geom:latitude":55.46372,
+    "geom:longitude":25.84552,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Pilkeniai",
+    "gn:country_code":"LT",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294407,
+    "gn:latitude":55.46372,
+    "gn:longitude":25.84552,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pilkeniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pilkeniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294407
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"acecf314c2253de3492ed383d7580514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1243585027,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243585027,
+    "wof:lastmodified":1537662566,
+    "wof:name":"Pilkeniai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84552,
+    55.46372,
+    25.84552,
+    55.46372
+],
+  "geometry": {"coordinates":[25.84552,55.46372],"type":"Point"}
+}

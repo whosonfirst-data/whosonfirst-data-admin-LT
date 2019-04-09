@@ -1,0 +1,82 @@
+{
+  "id": 1276265911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.32954,54.59005,24.32954,54.59005",
+    "geom:latitude":54.59005,
+    "geom:longitude":24.32954,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"69.0",
+    "gn:asciiname":"Stakliskes",
+    "gn:country_code":"LT",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594303,
+    "gn:latitude":54.59005,
+    "gn:longitude":24.32954,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Stakli\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Stakli\u0161k\u0117s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043a\u043b\u0438\u0448\u043a\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Staklishkes",
+        "Stokliszki",
+        "Stoklishki",
+        "Stakli\u0161ki\u0173",
+        "Stakli\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594303,
+        "wk:page":"Stakli%C5%A1k%C4%97s"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"57365dcbf0fd418416677b1a1f069f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073603,
+            "locality_id":1276265911,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276265911,
+    "wof:lastmodified":1537661963,
+    "wof:name":"Stakliskes",
+    "wof:parent_id":102073603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.32954,
+    54.59005,
+    24.32954,
+    54.59005
+],
+  "geometry": {"coordinates":[24.32954,54.59005],"type":"Point"}
+}

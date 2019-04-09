@@ -1,0 +1,72 @@
+{
+  "id": 1226176087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85193,55.24241,24.85193,55.24241",
+    "geom:latitude":55.24241,
+    "geom:longitude":24.85193,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Juodkiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598707,
+    "gn:latitude":55.24241,
+    "gn:longitude":24.85193,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Juodki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuodkishkyay",
+        "Juodki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598707
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"586ec5080b2649e2a5cfd4c2294e82fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1226176087,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226176087,
+    "wof:lastmodified":1537662270,
+    "wof:name":"Juodkiskiai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85193,
+    55.24241,
+    24.85193,
+    55.24241
+],
+  "geometry": {"coordinates":[24.85193,55.24241],"type":"Point"}
+}

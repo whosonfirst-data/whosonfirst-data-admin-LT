@@ -1,0 +1,71 @@
+{
+  "id": 1243098685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62193,55.41488,24.62193,55.41488",
+    "geom:latitude":55.41488,
+    "geom:longitude":24.62193,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Bagnapolis",
+    "gn:country_code":"LT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311857,
+    "gn:latitude":55.41488,
+    "gn:longitude":24.62193,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bagnapolis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bagnapolis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311857
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"875ac827c29a88754882d49d9d36dfe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1243098685,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243098685,
+    "wof:lastmodified":1537662977,
+    "wof:name":"Bagnapolis",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62193,
+    55.41488,
+    24.62193,
+    55.41488
+],
+  "geometry": {"coordinates":[24.62193,55.41488],"type":"Point"}
+}

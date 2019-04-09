@@ -1,0 +1,75 @@
+{
+  "id": 1327271005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90632,55.74065,21.90632,55.74065",
+    "geom:latitude":55.74065,
+    "geom:longitude":21.90632,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Drobstai",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599763,
+    "gn:latitude":55.74065,
+    "gn:longitude":21.90632,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Drobstai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Drobstai"
+    ],
+    "name:und_x_variant":[
+        "Drupsty",
+        "Druobstai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599763
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1a99f8cf81a8cea311103be37d3ad79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1327271005,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1327271005,
+    "wof:lastmodified":1537662340,
+    "wof:name":"Drobstai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90632,
+    55.74065,
+    21.90632,
+    55.74065
+],
+  "geometry": {"coordinates":[21.90632,55.74065],"type":"Point"}
+}

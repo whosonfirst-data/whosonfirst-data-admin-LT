@@ -1,0 +1,75 @@
+{
+  "id": 1310136513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88063,55.04201,24.88063,55.04201",
+    "geom:latitude":55.04201,
+    "geom:longitude":24.88063,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Pikunai",
+    "gn:country_code":"LT",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595764,
+    "gn:latitude":55.04201,
+    "gn:longitude":24.88063,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pik\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pik\u016bnai"
+    ],
+    "name:und_x_variant":[
+        "Gospodskiy Dvor Pikunay",
+        "Dvaras Pik\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595764
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c81fc8ebf161ca3f9686eda0f4f798e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1310136513,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1310136513,
+    "wof:lastmodified":1537662063,
+    "wof:name":"Pikunai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88063,
+    55.04201,
+    24.88063,
+    55.04201
+],
+  "geometry": {"coordinates":[24.88063,55.04201],"type":"Point"}
+}

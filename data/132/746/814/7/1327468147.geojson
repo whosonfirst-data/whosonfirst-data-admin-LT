@@ -1,0 +1,71 @@
+{
+  "id": 1327468147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.14681,55.06103,24.14681,55.06103",
+    "geom:latitude":55.06103,
+    "geom:longitude":24.14681,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Mardosiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309456,
+    "gn:latitude":55.06103,
+    "gn:longitude":24.14681,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mardo\u0161i\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mardo\u0161i\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309456
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b1eef27632cb02de5ad8ca7713d9979a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1327468147,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1327468147,
+    "wof:lastmodified":1537662923,
+    "wof:name":"Mardosiskiai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.14681,
+    55.06103,
+    24.14681,
+    55.06103
+],
+  "geometry": {"coordinates":[24.14681,55.06103],"type":"Point"}
+}

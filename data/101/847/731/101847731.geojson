@@ -1,0 +1,157 @@
+{
+  "id": 101847731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":517630.494593,
+    "geom:bbox":"21.1137649717,55.5277672111,21.1237794477,55.5456299945",
+    "geom:latitude":55.536902,
+    "geom:longitude":21.118216,
+    "iso:country":"LT",
+    "lbl:latitude":55.537048,
+    "lbl:longitude":21.117457,
+    "mps:latitude":55.537048,
+    "mps:longitude":21.117457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Yuodkrante"
+    ],
+    "name:cat_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:ces_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:cze_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:deu_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:dut_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:eng_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:epo_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:est_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:fin_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:fre_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:frr_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:ger_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:ind_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:ita_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:lit_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:nob_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:oci_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043e\u0434\u043a\u0440\u0430\u043d\u0442\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0419\u043e\u0434\u043a\u0440\u0430\u043d\u0442\u0435"
+    ],
+    "name:sgs_x_preferred":[
+        "Joudkront\u0117"
+    ],
+    "name:spa_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:swe_x_preferred":[
+        "Juodkrant\u0117"
+    ],
+    "name:unk_x_variant":[
+        "Schwarzort"
+    ],
+    "qs:a0":"Lietuva",
+    "qs:a1":"*Neringa",
+    "qs:a1r":"0Klaipeda",
+    "qs:adm0":"Lietuva",
+    "qs:id":0,
+    "qs:la":"Neringos",
+    "qs:la_lc":"*LT032399",
+    "qs:level":"locality",
+    "qs:loc":"Neringa (Juodkrant\u0117)",
+    "qs:loc_alt":"Neringa (Juodkrante)",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":55.542375,
+    "wd:longitude":21.120072,
+    "wd:population":720,
+    "wd:wordcount":1268,
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598706,
+        "gp:id":475148,
+        "qs_pg:id":1165550,
+        "wd:id":"Q20990"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"190863d0134d1e03308910e8c31c7e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073645,
+            "locality_id":101847731,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":101847731,
+    "wof:lastmodified":1527714968,
+    "wof:name":"Neringa (Juodkrant\u0117)",
+    "wof:parent_id":102073645,
+    "wof:placetype":"locality",
+    "wof:population":720,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.11376497169749,
+    55.5277672111045,
+    21.1237794477081,
+    55.54562999453418
+],
+  "geometry": {"coordinates":[[[21.1237794477081,55.5453532406969],[21.12277912529686,55.54180838944774],[21.12121267713815,55.54194676196295],[21.11871314212129,55.53308455948263],[21.12027925242427,55.53294622209808],[21.11927967636427,55.52940133946709],[21.11771370115559,55.52953966280478],[21.11721406057762,55.5277672111045],[21.11408221493417,55.52804378583653],[21.11433196102746,55.52893001898758],[21.11589792266835,55.52879173776108],[21.11664734214452,55.53145042332363],[21.11508127918574,55.53158871508157],[21.11533107853444,55.53247494599316],[21.11376497169749,55.53261322196005],[21.11601346113002,55.54058930657538],[21.11757987203589,55.54045099900611],[21.11857968223779,55.54399589690098],[21.12014621821697,55.54385755597292],[21.1206462708941,55.54562999453418],[21.1237794477081,55.5453532406969]]],"type":"Polygon"}
+}

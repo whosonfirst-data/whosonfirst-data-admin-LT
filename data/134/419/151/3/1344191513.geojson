@@ -1,0 +1,74 @@
+{
+  "id": 1344191513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13669,54.22148,25.13669,54.22148",
+    "geom:latitude":54.22148,
+    "geom:longitude":25.13669,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Janciunai",
+    "gn:country_code":"LT",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598907,
+    "gn:latitude":54.22148,
+    "gn:longitude":25.13669,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jan\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanchyunay",
+        "Jon\u010dionys",
+        "Yanyantsy",
+        "Jan\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598907
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"10485e023bd5657242480998cc64cc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1344191513,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1344191513,
+    "wof:lastmodified":1537662284,
+    "wof:name":"Janciunai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13669,
+    54.22148000000001,
+    25.13669,
+    54.22148000000001
+],
+  "geometry": {"coordinates":[25.13669,54.22148000000001],"type":"Point"}
+}

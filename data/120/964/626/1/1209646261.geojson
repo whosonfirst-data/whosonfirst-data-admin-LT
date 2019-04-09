@@ -1,0 +1,65 @@
+{
+  "id": 1209646261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.17694,55.77364,23.17694,55.77364",
+    "geom:latitude":55.77364,
+    "geom:longitude":23.17694,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Slisukai",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304197,
+    "gn:latitude":55.77364,
+    "gn:longitude":23.17694,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sli\u0161ukai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sli\u0161ukai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304197
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"971e5d0ae24b974f399b1951694924c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209646261
+        }
+    ],
+    "wof:id":1209646261,
+    "wof:lastmodified":1537662819,
+    "wof:name":"Slisukai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.17694,
+    55.77364,
+    23.17694,
+    55.77364
+],
+  "geometry": {"coordinates":[23.17694,55.77364],"type":"Point"}
+}

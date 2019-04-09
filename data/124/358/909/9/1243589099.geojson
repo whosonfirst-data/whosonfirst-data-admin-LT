@@ -1,0 +1,71 @@
+{
+  "id": 1243589099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.772,55.44387,25.772,55.44387",
+    "geom:latitude":55.44387,
+    "geom:longitude":25.772,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Paakmenis",
+    "gn:country_code":"LT",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294398,
+    "gn:latitude":55.44387,
+    "gn:longitude":25.772,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paakmenis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paakmenis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294398
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"27d7068e2869816dd4deb9cb7bd50d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1243589099,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243589099,
+    "wof:lastmodified":1537662566,
+    "wof:name":"Paakmenis",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.772,
+    55.44387,
+    25.772,
+    55.44387
+],
+  "geometry": {"coordinates":[25.772,55.44387],"type":"Point"}
+}

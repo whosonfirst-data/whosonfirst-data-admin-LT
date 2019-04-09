@@ -1,0 +1,68 @@
+{
+  "id": 1209349243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00861,55.50682,22.00861,55.50682",
+    "geom:latitude":55.50682,
+    "geom:longitude":22.00861,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Visdziaugai",
+    "gn:country_code":"LT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593055,
+    "gn:latitude":55.50682,
+    "gn:longitude":22.00861,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Visdziaugai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Visdziaugai"
+    ],
+    "name:und_x_variant":[
+        "Visd\u017eiaugai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593055
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e50df617b6fa6d24e2d6b9a06f9abfea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209349243
+        }
+    ],
+    "wof:id":1209349243,
+    "wof:lastmodified":1537661882,
+    "wof:name":"Visdziaugai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00861,
+    55.50682,
+    22.00861,
+    55.50682
+],
+  "geometry": {"coordinates":[22.00861,55.50682],"type":"Point"}
+}

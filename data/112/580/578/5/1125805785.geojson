@@ -1,0 +1,97 @@
+{
+  "id": 1125805785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75,55.4,24.75,55.4",
+    "geom:latitude":55.4,
+    "geom:longitude":24.75,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":55.4,
+    "lbl:longitude":24.75,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Tauj\u0117nai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0443\u0435\u043d\u0430\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Taunenay"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":593964,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tauj\u0117nai",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Vilniaus Apskritis",
+    "qs_pg:photos":128,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":128,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165560,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":478968,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Vilniaus Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593964,
+        "gp:id":478968,
+        "qs_pg:id":1165560
+    },
+    "wof:country":"LT",
+    "wof:created":1497291457,
+    "wof:geomhash":"095aecba92af3cd5723dd6ddcaa52609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1125805785,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1125805785,
+    "wof:lastmodified":1509393285,
+    "wof:name":"Tauj\u0117nai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75,
+    55.4,
+    24.75,
+    55.4
+],
+  "geometry": {"coordinates":[24.75,55.4],"type":"Point"}
+}

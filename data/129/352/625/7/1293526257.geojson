@@ -1,0 +1,71 @@
+{
+  "id": 1293526257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.20638,55.16864,24.20638,55.16864",
+    "geom:latitude":55.16864,
+    "geom:longitude":24.20638,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Palankesiai",
+    "gn:country_code":"LT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309474,
+    "gn:latitude":55.16864,
+    "gn:longitude":24.20638,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Palankesiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Palankesiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309474
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c5898b4b4dee8ebd5313c214593354a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1293526257,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293526257,
+    "wof:lastmodified":1537662924,
+    "wof:name":"Palankesiai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.20638,
+    55.16864,
+    24.20638,
+    55.16864
+],
+  "geometry": {"coordinates":[24.20638,55.16864],"type":"Point"}
+}

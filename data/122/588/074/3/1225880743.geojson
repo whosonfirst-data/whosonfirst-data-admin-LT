@@ -1,0 +1,71 @@
+{
+  "id": 1225880743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41258,56.16821,22.41258,56.16821",
+    "geom:latitude":56.16821,
+    "geom:longitude":22.41258,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Stockai",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301910,
+    "gn:latitude":56.16821,
+    "gn:longitude":22.41258,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sto\u010dkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sto\u010dkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301910
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3b679f57d43bd30d8b1f00bf70956a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1225880743,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1225880743,
+    "wof:lastmodified":1537662767,
+    "wof:name":"Stockai",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41258,
+    56.16821,
+    22.41258,
+    56.16821
+],
+  "geometry": {"coordinates":[22.41258,56.16821],"type":"Point"}
+}

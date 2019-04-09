@@ -1,0 +1,71 @@
+{
+  "id": 1226176765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47234,56.23543,22.47234,56.23543",
+    "geom:latitude":56.23543,
+    "geom:longitude":22.47234,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Pavente",
+    "gn:country_code":"LT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301884,
+    "gn:latitude":56.23543,
+    "gn:longitude":22.47234,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pavent\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pavent\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301884
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"48f1bc6745d800f020864b081ad175aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1226176765,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1226176765,
+    "wof:lastmodified":1537662767,
+    "wof:name":"Pavente",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47234,
+    56.23543000000001,
+    22.47234,
+    56.23543000000001
+],
+  "geometry": {"coordinates":[22.47234,56.23543000000001],"type":"Point"}
+}

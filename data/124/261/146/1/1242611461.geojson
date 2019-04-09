@@ -1,0 +1,76 @@
+{
+  "id": 1242611461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.77677,55.09692,23.77677,55.09692",
+    "geom:latitude":55.09692,
+    "geom:longitude":23.77677,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Vareikoniai",
+    "gn:country_code":"LT",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593407,
+    "gn:latitude":55.09692,
+    "gn:longitude":23.77677,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vareikoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vareikoniai"
+    ],
+    "name:und_x_variant":[
+        "Verekanay",
+        "Verekany",
+        "Varekoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593407
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1f6dcd7637c2a5ab7a914b0cb1e6993f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1242611461,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1242611461,
+    "wof:lastmodified":1537661902,
+    "wof:name":"Vareikoniai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.77677000000001,
+    55.09692,
+    23.77677000000001,
+    55.09692
+],
+  "geometry": {"coordinates":[23.77677000000001,55.09692],"type":"Point"}
+}

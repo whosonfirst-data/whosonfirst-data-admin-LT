@@ -1,0 +1,61 @@
+{
+  "id": 1209534071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.7,55.48333,25.7,55.48333",
+    "geom:latitude":55.48333,
+    "geom:longitude":25.7,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nemeiksiai",
+    "gn:country_code":"LT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596667,
+    "gn:latitude":55.48333,
+    "gn:longitude":25.7,
+    "gn:modification_date":"1994-01-12",
+    "gn:name":"Nemeik\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596667
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7bcfbba52417bf6523c0078ee9c44c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209534071
+        }
+    ],
+    "wof:id":1209534071,
+    "wof:lastmodified":1536284194,
+    "wof:name":"Nemeiksiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.7,
+    55.48333,
+    25.7,
+    55.48333
+],
+  "geometry": {"coordinates":[25.7,55.48333],"type":"Point"}
+}

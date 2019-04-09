@@ -1,0 +1,71 @@
+{
+  "id": 1309941941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59944,54.24207,25.59944,54.24207",
+    "geom:latitude":54.24207,
+    "geom:longitude":25.59944,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Pupiskes",
+    "gn:country_code":"LT",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295357,
+    "gn:latitude":54.24207,
+    "gn:longitude":25.59944,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pupi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pupi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295357
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7e7e3c6f191dff4919965901c81759d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1309941941,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309941941,
+    "wof:lastmodified":1537662591,
+    "wof:name":"Pupiskes",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59944,
+    54.24207,
+    25.59944,
+    54.24207
+],
+  "geometry": {"coordinates":[25.59944,54.24207],"type":"Point"}
+}

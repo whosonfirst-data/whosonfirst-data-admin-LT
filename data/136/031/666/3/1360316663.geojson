@@ -1,0 +1,71 @@
+{
+  "id": 1360316663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05441,56.07752,22.05441,56.07752",
+    "geom:latitude":56.07752,
+    "geom:longitude":22.05441,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Kubakiai",
+    "gn:country_code":"LT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301524,
+    "gn:latitude":56.07752,
+    "gn:longitude":22.05441,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"K\u016bbakiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "K\u016bbakiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301524
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dedf4773b2c2e83d7994de23d52e8f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1360316663,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1360316663,
+    "wof:lastmodified":1537662762,
+    "wof:name":"Kubakiai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05441,
+    56.07751999999999,
+    22.05441,
+    56.07751999999999
+],
+  "geometry": {"coordinates":[22.05441,56.07751999999999],"type":"Point"}
+}

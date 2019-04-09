@@ -1,0 +1,71 @@
+{
+  "id": 1226676621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.54285,55.23671,23.54285,55.23671",
+    "geom:latitude":55.23671,
+    "geom:longitude":23.54285,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Budriske",
+    "gn:country_code":"LT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305663,
+    "gn:latitude":55.23671,
+    "gn:longitude":23.54285,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Budri\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Budri\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305663
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ecc9cd67111486293955b7a00b6707b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1226676621,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226676621,
+    "wof:lastmodified":1537662852,
+    "wof:name":"Budriske",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.54285,
+    55.23671,
+    23.54285,
+    55.23671
+],
+  "geometry": {"coordinates":[23.54285,55.23671],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225880659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61293,55.8008,24.61293,55.8008",
+    "geom:latitude":55.8008,
+    "geom:longitude":24.61293,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Vepai",
+    "gn:country_code":"LT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593297,
+    "gn:latitude":55.8008,
+    "gn:longitude":24.61293,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vepai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vepi",
+        "Vepai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593297
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7609ea2a89ade4d8d2c7ac2e350dc1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1225880659,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1225880659,
+    "wof:lastmodified":1537661896,
+    "wof:name":"Vepai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61293,
+    55.8008,
+    24.61293,
+    55.8008
+],
+  "geometry": {"coordinates":[24.61293,55.8008],"type":"Point"}
+}

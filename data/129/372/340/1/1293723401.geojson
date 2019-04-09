@@ -1,0 +1,74 @@
+{
+  "id": 1293723401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51394,56.20744,22.51394,56.20744",
+    "geom:latitude":56.20744,
+    "geom:longitude":22.51394,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Kegriai",
+    "gn:country_code":"LT",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598266,
+    "gn:latitude":56.20744,
+    "gn:longitude":22.51394,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kegriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kegri\u0173",
+        "Kiegry",
+        "Kegryay",
+        "Kegriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598266
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4f43bd4d6f610e8de7cb95ca300c980d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1293723401,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293723401,
+    "wof:lastmodified":1537662240,
+    "wof:name":"Kegriai",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51394,
+    56.20744000000001,
+    22.51394,
+    56.20744000000001
+],
+  "geometry": {"coordinates":[22.51394,56.20744000000001],"type":"Point"}
+}

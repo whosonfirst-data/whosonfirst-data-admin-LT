@@ -1,0 +1,71 @@
+{
+  "id": 1260220337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.84771,54.88737,23.84771,54.88737",
+    "geom:latitude":54.88737,
+    "geom:longitude":23.84771,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Noreikiskes",
+    "gn:country_code":"LT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9610016,
+    "gn:latitude":54.88737,
+    "gn:longitude":23.84771,
+    "gn:modification_date":"2014-09-26",
+    "gn:name":"Noreiki\u0161k\u0117s",
+    "gn:population":926,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9610016
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f112cbeb26ff39fbb4a5ba0233694616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1260220337,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260220337,
+    "wof:lastmodified":1536797807,
+    "wof:name":"Noreikiskes",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:population":926,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84771,
+    54.88737,
+    23.84771,
+    54.88737
+],
+  "geometry": {"coordinates":[23.84771,54.88737],"type":"Point"}
+}

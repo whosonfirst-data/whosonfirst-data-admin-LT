@@ -1,0 +1,78 @@
+{
+  "id": 1276589393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.12029,54.45397,25.12029,54.45397",
+    "geom:latitude":54.45397,
+    "geom:longitude":25.12029,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Baltoji Voke",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600689,
+    "gn:latitude":54.45397,
+    "gn:longitude":25.12029,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baltoji Vok\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baltoji Vok\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u043e\u0439\u0438-\u0412\u043e\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Baltoji Vok\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600689,
+        "wk:page":"Baltoji_Vok%C4%97"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9f64d1de8f4bc4451b10b7755831732c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1276589393,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276589393,
+    "wof:lastmodified":1537662407,
+    "wof:name":"Baltoji Voke",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.12029,
+    54.45397,
+    25.12029,
+    54.45397
+],
+  "geometry": {"coordinates":[25.12029,54.45397],"type":"Point"}
+}

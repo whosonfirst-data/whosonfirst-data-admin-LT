@@ -1,0 +1,113 @@
+{
+  "id": 1125805687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.91667,54.96667,23.91667,54.96667",
+    "geom:latitude":54.96667,
+    "geom:longitude":23.91667,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":54.96667,
+    "lbl:longitude":23.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Domeikava"
+    ],
+    "name:eng_x_preferred":[
+        "Domeikava"
+    ],
+    "name:est_x_preferred":[
+        "Domeikava"
+    ],
+    "name:fin_x_preferred":[
+        "Domeikava"
+    ],
+    "name:lit_x_preferred":[
+        "Domeikava"
+    ],
+    "name:pol_x_preferred":[
+        "Domejkowo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c\u0435\u0439\u043a\u0430\u0432\u0430"
+    ],
+    "name:sgs_x_preferred":[
+        "Duom\u0117ikava"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":599815,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Domeikava",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos":48,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":48,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165547,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":474265,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599815,
+        "gp:id":474265,
+        "qs_pg:id":1165547,
+        "wd:id":"Q3500114"
+    },
+    "wof:country":"LT",
+    "wof:created":1497291453,
+    "wof:geomhash":"7bb31a5003bc3ebf179cce545dcd9445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1125805687,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1125805687,
+    "wof:lastmodified":1514470299,
+    "wof:name":"Domeikava",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91667,
+    54.96667,
+    23.91667,
+    54.96667
+],
+  "geometry": {"coordinates":[23.91667,54.96667],"type":"Point"}
+}

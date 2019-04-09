@@ -1,0 +1,72 @@
+{
+  "id": 1193170903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71862,55.03653,24.71862,55.03653",
+    "geom:latitude":55.03653,
+    "geom:longitude":24.71862,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Mazeliai",
+    "gn:country_code":"LT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597184,
+    "gn:latitude":55.03653,
+    "gn:longitude":24.71862,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ma\u017eeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazhelyay",
+        "Ma\u017eeliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597184
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bc3a53da61395fb449cf8616f7d5c290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1193170903,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1193170903,
+    "wof:lastmodified":1537662168,
+    "wof:name":"Mazeliai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71862,
+    55.03653000000001,
+    24.71862,
+    55.03653000000001
+],
+  "geometry": {"coordinates":[24.71862,55.03653000000001],"type":"Point"}
+}

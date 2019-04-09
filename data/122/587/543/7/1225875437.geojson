@@ -1,0 +1,73 @@
+{
+  "id": 1225875437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13853,55.08186,22.13853,55.08186",
+    "geom:latitude":55.08186,
+    "geom:longitude":22.13853,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"63.0",
+    "gn:asciiname":"Opstainys",
+    "gn:country_code":"LT",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596523,
+    "gn:latitude":55.08186,
+    "gn:longitude":22.13853,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Opstainys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abshtaynen",
+        "Opstaynis",
+        "Opstainys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596523
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0d431c5283915add5dbc46f1aa3504a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073623,
+            "locality_id":1225875437,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1225875437,
+    "wof:lastmodified":1537662121,
+    "wof:name":"Opstainys",
+    "wof:parent_id":102073623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13853,
+    55.08186,
+    22.13853,
+    55.08186
+],
+  "geometry": {"coordinates":[22.13853,55.08186],"type":"Point"}
+}

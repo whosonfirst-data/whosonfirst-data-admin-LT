@@ -1,0 +1,65 @@
+{
+  "id": 1209552403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45878,54.75842,24.45878,54.75842",
+    "geom:latitude":54.75842,
+    "geom:longitude":24.45878,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Naujoji Slabada",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310911,
+    "gn:latitude":54.75842,
+    "gn:longitude":24.45878,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Naujoji Slabada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Naujoji Slabada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310911
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9a9314890613312d19973f622ec10ed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209552403
+        }
+    ],
+    "wof:id":1209552403,
+    "wof:lastmodified":1537662952,
+    "wof:name":"Naujoji Slabada",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45878,
+    54.75842,
+    24.45878,
+    54.75842
+],
+  "geometry": {"coordinates":[24.45878,54.75842],"type":"Point"}
+}

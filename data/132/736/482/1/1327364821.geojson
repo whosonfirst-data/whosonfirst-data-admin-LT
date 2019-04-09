@@ -1,0 +1,71 @@
+{
+  "id": 1327364821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60554,55.55772,22.60554,55.55772",
+    "geom:latitude":55.55772,
+    "geom:longitude":22.60554,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Kasciukai",
+    "gn:country_code":"LT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598358,
+    "gn:latitude":55.55772,
+    "gn:longitude":22.60554,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kas\u010diukai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kas\u010diukai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598358
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9333dc94bd0cae213c8c97290b880b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1327364821,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1327364821,
+    "wof:lastmodified":1537662246,
+    "wof:name":"Kasciukai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60554,
+    55.55772,
+    22.60554,
+    55.55772
+],
+  "geometry": {"coordinates":[22.60554,55.55772],"type":"Point"}
+}

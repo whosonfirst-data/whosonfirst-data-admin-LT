@@ -1,0 +1,73 @@
+{
+  "id": 1309943095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22208,54.70312,24.22208,54.70312",
+    "geom:latitude":54.70312,
+    "geom:longitude":24.22208,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Vilunai",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593112,
+    "gn:latitude":54.70312,
+    "gn:longitude":24.22208,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vil\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vil\u016bn\u0173",
+        "Vilunay",
+        "Vil\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593112
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"46a4947c55058062d165f8e12f93caef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1309943095,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309943095,
+    "wof:lastmodified":1537661885,
+    "wof:name":"Vilunai",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22208,
+    54.70312,
+    24.22208,
+    54.70312
+],
+  "geometry": {"coordinates":[24.22208,54.70312],"type":"Point"}
+}

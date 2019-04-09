@@ -1,0 +1,74 @@
+{
+  "id": 1260219651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79262,54.12569,24.79262,54.12569",
+    "geom:latitude":54.12569,
+    "geom:longitude":24.79262,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Streziunai",
+    "gn:country_code":"LT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":621253,
+    "gn:latitude":54.12569,
+    "gn:longitude":24.79262,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Str\u0117\u017ei\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "Strazhuny"
+    ],
+    "name:lit_x_preferred":[
+        "Str\u0117\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":621253
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b38eab2d3b429629e0cbb71a99ec5a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1260219651,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1260219651,
+    "wof:lastmodified":1537662441,
+    "wof:name":"Streziunai",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79262,
+    54.12569000000001,
+    24.79262,
+    54.12569000000001
+],
+  "geometry": {"coordinates":[24.79262,54.12569000000001],"type":"Point"}
+}

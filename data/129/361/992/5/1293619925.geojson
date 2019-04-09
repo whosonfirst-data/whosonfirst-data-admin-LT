@@ -1,0 +1,73 @@
+{
+  "id": 1293619925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65397,55.56667,21.65397,55.56667",
+    "geom:latitude":55.56667,
+    "geom:longitude":21.65397,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Petraiciai",
+    "gn:country_code":"LT",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595821,
+    "gn:latitude":55.56667,
+    "gn:longitude":21.65397,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Petrai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petrai\u010di\u0173",
+        "Petraychey",
+        "Petrai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595821
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"78c21475c81f40eef43152cb91a24811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1293619925,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1293619925,
+    "wof:lastmodified":1537662068,
+    "wof:name":"Petraiciai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65397,
+    55.56667,
+    21.65397,
+    55.56667
+],
+  "geometry": {"coordinates":[21.65397,55.56667],"type":"Point"}
+}

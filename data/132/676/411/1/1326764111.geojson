@@ -1,0 +1,72 @@
+{
+  "id": 1326764111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63389,55.95968,21.63389,55.95968",
+    "geom:latitude":55.95968,
+    "geom:longitude":21.63389,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Papieviai",
+    "gn:country_code":"LT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596103,
+    "gn:latitude":55.95968,
+    "gn:longitude":21.63389,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Papieviai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pap\u2019evis",
+        "Papieviai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596103
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3a9fcb4c4cccf2ef69b76fee739825f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1326764111,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1326764111,
+    "wof:lastmodified":1537662089,
+    "wof:name":"Papieviai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63389,
+    55.95968000000001,
+    21.63389,
+    55.95968000000001
+],
+  "geometry": {"coordinates":[21.63389,55.95968000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276586295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.19477,55.85306,26.19477,55.85306",
+    "geom:latitude":55.85306,
+    "geom:longitude":26.19477,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Paupine",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595955,
+    "gn:latitude":55.85306,
+    "gn:longitude":26.19477,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Paupin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paupyn\u0117s",
+        "Paupin\u0117",
+        "Paupyn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595955
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"34fb2918c6308d5b9800f5c87246b558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276586295,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276586295,
+    "wof:lastmodified":1537662078,
+    "wof:name":"Paupine",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19477,
+    55.85306,
+    26.19477,
+    55.85306
+],
+  "geometry": {"coordinates":[26.19477,55.85306],"type":"Point"}
+}

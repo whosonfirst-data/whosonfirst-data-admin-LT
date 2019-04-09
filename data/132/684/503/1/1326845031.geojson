@@ -1,0 +1,75 @@
+{
+  "id": 1326845031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31536,56.19157,21.31536,56.19157",
+    "geom:latitude":56.19157,
+    "geom:longitude":21.31536,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lenkimai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597535,
+    "gn:latitude":56.19157,
+    "gn:longitude":21.31536,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Lenkimai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lenkimy",
+        "Lenkimay",
+        "Lenkim\u0173",
+        "Lenkimai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597535,
+        "wk:page":"Lenkimai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2321d03a481ad3884300c2a609028973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1326845031,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1326845031,
+    "wof:lastmodified":1537662191,
+    "wof:name":"Lenkimai",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31536,
+    56.19157,
+    21.31536,
+    56.19157
+],
+  "geometry": {"coordinates":[21.31536,56.19157],"type":"Point"}
+}

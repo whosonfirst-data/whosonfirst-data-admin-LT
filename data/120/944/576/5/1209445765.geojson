@@ -1,0 +1,65 @@
+{
+  "id": 1209445765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.64495,54.42142,24.64495,54.42142",
+    "geom:latitude":54.42142,
+    "geom:longitude":24.64495,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Radziunai",
+    "gn:country_code":"LT",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310732,
+    "gn:latitude":54.42142,
+    "gn:longitude":24.64495,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Rad\u017ei\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rad\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310732
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"130f3f889877ccef2e14f3c0c941a0a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209445765
+        }
+    ],
+    "wof:id":1209445765,
+    "wof:lastmodified":1537662949,
+    "wof:name":"Radziunai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.64495,
+    54.42142,
+    24.64495,
+    54.42142
+],
+  "geometry": {"coordinates":[24.64495,54.42142],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309936535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14122,54.28229,25.14122,54.28229",
+    "geom:latitude":54.28229,
+    "geom:longitude":25.14122,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Pasalis",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296955,
+    "gn:latitude":54.28229,
+    "gn:longitude":25.14122,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pasalis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pasalis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296955
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"525a8874f7ab4f84bb629dcaec8a94cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1309936535,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309936535,
+    "wof:lastmodified":1537662633,
+    "wof:name":"Pasalis",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14122,
+    54.28229,
+    25.14122,
+    54.28229
+],
+  "geometry": {"coordinates":[25.14122,54.28229],"type":"Point"}
+}

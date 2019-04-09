@@ -1,0 +1,71 @@
+{
+  "id": 1209950805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.036,56.15883,23.036,56.15883",
+    "geom:latitude":56.15883,
+    "geom:longitude":23.036,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"29.0",
+    "gn:asciiname":"Raudondvaris",
+    "gn:country_code":"LT",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864390,
+    "gn:latitude":56.15883,
+    "gn:longitude":23.036,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Raudondvaris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Raudondvaris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864390
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"50b29b652b1aed89ce59442ceb90c2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073703,
+            "locality_id":1209950805,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1209950805,
+    "wof:lastmodified":1537662441,
+    "wof:name":"Raudondvaris",
+    "wof:parent_id":102073703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.036,
+    56.15883,
+    23.036,
+    56.15883
+],
+  "geometry": {"coordinates":[23.036,56.15883],"type":"Point"}
+}

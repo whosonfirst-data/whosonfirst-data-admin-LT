@@ -1,0 +1,71 @@
+{
+  "id": 1193055209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85526,55.43999,22.85526,55.43999",
+    "geom:latitude":55.43999,
+    "geom:longitude":22.85526,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Pasesuvys",
+    "gn:country_code":"LT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596045,
+    "gn:latitude":55.43999,
+    "gn:longitude":22.85526,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u0161e\u0161uvys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u0161e\u0161uvys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596045
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ffa1435a5e273b2cabb3a1309bd70d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1193055209,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1193055209,
+    "wof:lastmodified":1537662084,
+    "wof:name":"Pasesuvys",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85526,
+    55.43999,
+    22.85526,
+    55.43999
+],
+  "geometry": {"coordinates":[22.85526,55.43999],"type":"Point"}
+}

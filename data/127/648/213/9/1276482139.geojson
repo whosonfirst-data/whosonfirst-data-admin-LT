@@ -1,0 +1,73 @@
+{
+  "id": 1276482139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70012,55.19273,23.70012,55.19273",
+    "geom:latitude":55.19273,
+    "geom:longitude":23.70012,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Saravai",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594947,
+    "gn:latitude":55.19273,
+    "gn:longitude":23.70012,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160aravai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharany",
+        "Sharavay",
+        "\u0160aravai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594947
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"09665ae5d42d2d2cbd759260abacc874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1276482139,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276482139,
+    "wof:lastmodified":1537662008,
+    "wof:name":"Saravai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70012,
+    55.19273000000001,
+    23.70012,
+    55.19273000000001
+],
+  "geometry": {"coordinates":[23.70012,55.19273000000001],"type":"Point"}
+}

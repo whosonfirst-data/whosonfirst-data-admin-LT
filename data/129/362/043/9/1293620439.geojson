@@ -1,0 +1,73 @@
+{
+  "id": 1293620439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83169,56.33168,22.83169,56.33168",
+    "geom:latitude":56.33168,
+    "geom:longitude":22.83169,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Alsiai",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601100,
+    "gn:latitude":56.33168,
+    "gn:longitude":22.83169,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Alsiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alsyay",
+        "Alsi\u0173",
+        "Alsiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601100
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9b621895547d340c86bbd44fba6dfeab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1293620439,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1293620439,
+    "wof:lastmodified":1537662433,
+    "wof:name":"Alsiai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83169,
+    56.33168000000001,
+    22.83169,
+    56.33168000000001
+],
+  "geometry": {"coordinates":[22.83169,56.33168000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293517961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25077,55.93732,22.25077,55.93732",
+    "geom:latitude":55.93732,
+    "geom:longitude":22.25077,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Judrenai",
+    "gn:country_code":"LT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598762,
+    "gn:latitude":55.93732,
+    "gn:longitude":22.25077,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Judr\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yudrenay",
+        "Judr\u0117n\u0173",
+        "Judr\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598762
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bc8d7a939302118dc4a79c58e2a82606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1293517961,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293517961,
+    "wof:lastmodified":1537662275,
+    "wof:name":"Judrenai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25077000000001,
+    55.93731999999999,
+    22.25077000000001,
+    55.93731999999999
+],
+  "geometry": {"coordinates":[22.25077000000001,55.93731999999999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327263215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73543,55.35653,22.73543,55.35653",
+    "geom:latitude":55.35653,
+    "geom:longitude":22.73543,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Paupynis",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595954,
+    "gn:latitude":55.35653,
+    "gn:longitude":22.73543,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Paupynis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poupine",
+        "Paupynis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595954
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"20b8354446b291542dc22dc25530a8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1327263215,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1327263215,
+    "wof:lastmodified":1537662078,
+    "wof:name":"Paupynis",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73543,
+    55.35653000000001,
+    22.73543,
+    55.35653000000001
+],
+  "geometry": {"coordinates":[22.73543,55.35653000000001],"type":"Point"}
+}

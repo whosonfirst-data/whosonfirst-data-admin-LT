@@ -1,0 +1,71 @@
+{
+  "id": 1276158131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52394,54.66856,23.52394,54.66856",
+    "geom:latitude":54.66856,
+    "geom:longitude":23.52394,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"58.0",
+    "gn:asciiname":"Gluskabude",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305251,
+    "gn:latitude":54.66856,
+    "gn:longitude":23.52394,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Glu\u0161kab\u016bd\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Glu\u0161kab\u016bd\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305251
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b9f32d30fd620a9e307a0cfe32ed3b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073607,
+            "locality_id":1276158131,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1276158131,
+    "wof:lastmodified":1537662845,
+    "wof:name":"Gluskabude",
+    "wof:parent_id":102073607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52394,
+    54.66856,
+    23.52394,
+    54.66856
+],
+  "geometry": {"coordinates":[23.52394,54.66856],"type":"Point"}
+}

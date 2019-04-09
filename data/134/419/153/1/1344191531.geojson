@@ -1,0 +1,73 @@
+{
+  "id": 1344191531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14912,55.66065,23.14912,55.66065",
+    "geom:latitude":55.66065,
+    "geom:longitude":23.14912,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Johampolis",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598845,
+    "gn:latitude":55.66065,
+    "gn:longitude":23.14912,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Johampolis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Johampol\u0117",
+        "Joni\u0161kis",
+        "Johampolis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598845
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"455772d1a0d87c791c7a8d63f9535f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1344191531,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1344191531,
+    "wof:lastmodified":1537662280,
+    "wof:name":"Johampolis",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14912,
+    55.66065,
+    23.14912,
+    55.66065
+],
+  "geometry": {"coordinates":[23.14912,55.66065],"type":"Point"}
+}

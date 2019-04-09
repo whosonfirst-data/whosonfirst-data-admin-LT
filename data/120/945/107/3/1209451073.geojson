@@ -1,0 +1,65 @@
+{
+  "id": 1209451073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98422,55.41371,25.98422,55.41371",
+    "geom:latitude":55.41371,
+    "geom:longitude":25.98422,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Skroblus II",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292506,
+    "gn:latitude":55.41371,
+    "gn:longitude":25.98422,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Skroblus II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Skroblus II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292506
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"275316b2cd43a82e14c7ede437ad269b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209451073
+        }
+    ],
+    "wof:id":1209451073,
+    "wof:lastmodified":1537662524,
+    "wof:name":"Skroblus II",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98422,
+    55.41371,
+    25.98422,
+    55.41371
+],
+  "geometry": {"coordinates":[25.98422,55.41371],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276265571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08182,54.03333,24.08182,54.03333",
+    "geom:latitude":54.03333,
+    "geom:longitude":24.08182,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Grutas",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599125,
+    "gn:latitude":54.03333,
+    "gn:longitude":24.08182,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gr\u016btas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gr\u016btas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599125
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b37f84b35f7b519000d9a04e56e90210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073579,
+            "locality_id":1276265571,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1276265571,
+    "wof:lastmodified":1537662298,
+    "wof:name":"Grutas",
+    "wof:parent_id":102073579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08182,
+    54.03333000000001,
+    24.08182,
+    54.03333000000001
+],
+  "geometry": {"coordinates":[24.08182,54.03333000000001],"type":"Point"}
+}

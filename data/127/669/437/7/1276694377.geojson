@@ -1,0 +1,71 @@
+{
+  "id": 1276694377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.08501,55.39021,25.08501,55.39021",
+    "geom:latitude":55.39021,
+    "geom:longitude":25.08501,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Didziakaimis",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599891,
+    "gn:latitude":55.39021,
+    "gn:longitude":25.08501,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Did\u017eiakaimis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Did\u017eiakaimis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599891
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a484ae790faeb18c55cf2923a124e844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1276694377,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276694377,
+    "wof:lastmodified":1537662349,
+    "wof:name":"Didziakaimis",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08501,
+    55.39021,
+    25.08501,
+    55.39021
+],
+  "geometry": {"coordinates":[25.08501,55.39021],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293820919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69235,56.09486,22.69235,56.09486",
+    "geom:latitude":56.09486,
+    "geom:longitude":22.69235,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Mickiske",
+    "gn:country_code":"LT",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597032,
+    "gn:latitude":56.09486,
+    "gn:longitude":22.69235,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Micki\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Micki\u0161k\u0117s",
+        "Micki\u0161k\u0117",
+        "Mickiszki",
+        "Mitskishkyay",
+        "Micki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597032
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"103d17f686ee5fe6e6015ec3a26c98b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1293820919,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293820919,
+    "wof:lastmodified":1537662158,
+    "wof:name":"Mickiske",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69235,
+    56.09486,
+    22.69235,
+    56.09486
+],
+  "geometry": {"coordinates":[22.69235,56.09486],"type":"Point"}
+}

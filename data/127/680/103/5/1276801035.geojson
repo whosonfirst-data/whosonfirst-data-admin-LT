@@ -1,0 +1,72 @@
+{
+  "id": 1276801035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79177,55.92647,24.79177,55.92647",
+    "geom:latitude":55.92647,
+    "geom:longitude":24.79177,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Gikonys",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599346,
+    "gn:latitude":55.92647,
+    "gn:longitude":24.79177,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gikonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gikany",
+        "Gikonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599346
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"354fa09a739cd623be487048b5cf4c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1276801035,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276801035,
+    "wof:lastmodified":1537662313,
+    "wof:name":"Gikonys",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79177,
+    55.92647,
+    24.79177,
+    55.92647
+],
+  "geometry": {"coordinates":[24.79177,55.92647],"type":"Point"}
+}

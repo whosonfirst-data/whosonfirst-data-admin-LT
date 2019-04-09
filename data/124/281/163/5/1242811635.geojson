@@ -1,0 +1,79 @@
+{
+  "id": 1242811635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62755,55.195,21.62755,55.195",
+    "geom:latitude":55.195,
+    "geom:longitude":21.62755,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Galzdonai",
+    "gn:country_code":"LT",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599518,
+    "gn:latitude":55.195,
+    "gn:longitude":21.62755,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Galzdonai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Galsdon-Joneiten"
+    ],
+    "name:lit_x_preferred":[
+        "Galzdonai"
+    ],
+    "name:und_x_variant":[
+        "Gal\u2019sdon-Yonayten",
+        "Galzdonay",
+        "Galsdonai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599518
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fb6db099796d65c00fa9696d06da0d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1242811635,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1242811635,
+    "wof:lastmodified":1537662324,
+    "wof:name":"Galzdonai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62755,
+    55.195,
+    21.62755,
+    55.195
+],
+  "geometry": {"coordinates":[21.62755,55.195],"type":"Point"}
+}

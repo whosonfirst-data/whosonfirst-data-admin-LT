@@ -1,0 +1,70 @@
+{
+  "id": 1309818299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18554,54.80218,25.18554,54.80218",
+    "geom:latitude":54.80218,
+    "geom:longitude":25.18554,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Aukstieji Rusokai",
+    "gn:country_code":"LT",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007259,
+    "gn:latitude":54.80218,
+    "gn:longitude":25.18554,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Auk\u0161tieji Rusokai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Auk\u0161tieji Rusokai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007259
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f4545b214b1bbf3d35a4561f09162d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1309818299,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309818299,
+    "wof:lastmodified":1537662449,
+    "wof:name":"Aukstieji Rusokai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18554,
+    54.80218000000001,
+    25.18554,
+    54.80218000000001
+],
+  "geometry": {"coordinates":[25.18554,54.80218000000001],"type":"Point"}
+}

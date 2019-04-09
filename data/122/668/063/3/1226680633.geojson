@@ -1,0 +1,71 @@
+{
+  "id": 1226680633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.49188,54.85415,24.49188,54.85415",
+    "geom:latitude":54.85415,
+    "geom:longitude":24.49188,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Kaisiadoreliai",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311280,
+    "gn:latitude":54.85415,
+    "gn:longitude":24.49188,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kai\u0161iador\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kai\u0161iador\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311280
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"987bf2bb68703eb3f6485b50cfb7a434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1226680633,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226680633,
+    "wof:lastmodified":1537662961,
+    "wof:name":"Kaisiadoreliai",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.49188,
+    54.85415,
+    24.49188,
+    54.85415
+],
+  "geometry": {"coordinates":[24.49188,54.85415],"type":"Point"}
+}

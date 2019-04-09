@@ -1,0 +1,77 @@
+{
+  "id": 1260220677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5576,54.39676,24.5576,54.39676",
+    "geom:latitude":54.39676,
+    "geom:longitude":24.5576,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Miguicionys",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597004,
+    "gn:latitude":54.39676,
+    "gn:longitude":24.5576,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Migui\u010dionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Migui\u010dionys"
+    ],
+    "name:und_x_variant":[
+        "Migu\u010dionio",
+        "Migutsyany",
+        "Migu\u010dioniai",
+        "Migu\u010dionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597004
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"85b9474d7e8c6350b3927de0ac907813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1260220677,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1260220677,
+    "wof:lastmodified":1537662155,
+    "wof:name":"Miguicionys",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5576,
+    54.39676,
+    24.5576,
+    54.39676
+],
+  "geometry": {"coordinates":[24.5576,54.39676],"type":"Point"}
+}

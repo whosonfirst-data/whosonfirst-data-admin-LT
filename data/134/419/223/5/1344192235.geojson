@@ -1,0 +1,71 @@
+{
+  "id": 1344192235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01529,55.95629,22.01529,55.95629",
+    "geom:latitude":55.95629,
+    "geom:longitude":22.01529,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Jonikai",
+    "gn:country_code":"LT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301499,
+    "gn:latitude":55.95629,
+    "gn:longitude":22.01529,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jonikai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jonikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301499
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4aaebbfabb72695522849678c86b825b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1344192235,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1344192235,
+    "wof:lastmodified":1537662761,
+    "wof:name":"Jonikai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01529,
+    55.95629,
+    22.01529,
+    55.95629
+],
+  "geometry": {"coordinates":[22.01529,55.95629],"type":"Point"}
+}

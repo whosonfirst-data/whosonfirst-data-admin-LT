@@ -1,0 +1,65 @@
+{
+  "id": 1209649331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09638,54.41149,23.09638,54.41149",
+    "geom:latitude":54.41149,
+    "geom:longitude":23.09638,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Akmenynai",
+    "gn:country_code":"LT",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601169,
+    "gn:latitude":54.41149,
+    "gn:longitude":23.09638,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Akmenynai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Akmenynai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601169
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1bbdfacab76cceee0e926d7f17a4bf88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209649331
+        }
+    ],
+    "wof:id":1209649331,
+    "wof:lastmodified":1537662437,
+    "wof:name":"Akmenynai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09638,
+    54.41149,
+    23.09638,
+    54.41149
+],
+  "geometry": {"coordinates":[23.09638,54.41149],"type":"Point"}
+}

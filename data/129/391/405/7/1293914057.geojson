@@ -1,0 +1,74 @@
+{
+  "id": 1293914057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04386,54.50019,23.04386,54.50019",
+    "geom:latitude":54.50019,
+    "geom:longitude":23.04386,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Kunigiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597832,
+    "gn:latitude":54.50019,
+    "gn:longitude":23.04386,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kunigi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunigi\u0161ki\u0173",
+        "Kunigishki-Bart",
+        "Kunigi\u0161kiai Pirmieji",
+        "Kunigi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597832
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"02c4e33bd345b7d227c984ec36675ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1293914057,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1293914057,
+    "wof:lastmodified":1537662211,
+    "wof:name":"Kunigiskiai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04386,
+    54.50019,
+    23.04386,
+    54.50019
+],
+  "geometry": {"coordinates":[23.04386,54.50019],"type":"Point"}
+}

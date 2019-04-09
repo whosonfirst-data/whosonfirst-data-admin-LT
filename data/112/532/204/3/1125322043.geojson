@@ -1,0 +1,82 @@
+{
+  "id": 1125322043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3635665,55.7297195,24.3635665,55.7297195",
+    "geom:latitude":55.72972,
+    "geom:longitude":24.363567,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":55.72972,
+    "lbl:longitude":24.363567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Panevezys",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Paneve\u017eio Apskritis",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":408,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1112131,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56044199,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Paneve\u017eio Apskritis",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56044199,
+        "qs_pg:id":1112131
+    },
+    "wof:country":"LT",
+    "wof:created":1497044588,
+    "wof:geomhash":"1ff8a031bedd2439b4215e551c594770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073677,
+            "localadmin_id":1125322043,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1125322043,
+    "wof:lastmodified":1509388138,
+    "wof:name":"Panevezys",
+    "wof:parent_id":102073677,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3635665,
+    55.7297195,
+    24.3635665,
+    55.7297195
+],
+  "geometry": {"coordinates":[24.3635665,55.7297195],"type":"Point"}
+}

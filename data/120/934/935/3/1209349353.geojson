@@ -1,0 +1,65 @@
+{
+  "id": 1209349353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03006,55.80081,23.03006,55.80081",
+    "geom:latitude":55.80081,
+    "geom:longitude":23.03006,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Jautmalke I",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304122,
+    "gn:latitude":55.80081,
+    "gn:longitude":23.03006,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jautmalk\u0117 I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jautmalk\u0117 I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304122
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1c437a2d0589f5028076f7ff503d021d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209349353
+        }
+    ],
+    "wof:id":1209349353,
+    "wof:lastmodified":1537662816,
+    "wof:name":"Jautmalke I",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03006,
+    55.80081,
+    23.03006,
+    55.80081
+],
+  "geometry": {"coordinates":[23.03006,55.80081],"type":"Point"}
+}

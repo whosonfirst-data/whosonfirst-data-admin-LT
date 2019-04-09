@@ -1,0 +1,72 @@
+{
+  "id": 1343297167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.39691,54.31705,24.39691,54.31705",
+    "geom:latitude":54.31705,
+    "geom:longitude":24.39691,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Padauge",
+    "gn:country_code":"LT",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596459,
+    "gn:latitude":54.31705,
+    "gn:longitude":24.39691,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Padaug\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podavgi",
+        "Padaug\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596459
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"218deec5b5a09f4967735bf03c5f06ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1343297167,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1343297167,
+    "wof:lastmodified":1537662116,
+    "wof:name":"Padauge",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.39691,
+    54.31705,
+    24.39691,
+    54.31705
+],
+  "geometry": {"coordinates":[24.39691,54.31705],"type":"Point"}
+}

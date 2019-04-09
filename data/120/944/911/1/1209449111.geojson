@@ -1,0 +1,66 @@
+{
+  "id": 1209449111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24073,55.83972,21.24073,55.83972",
+    "geom:latitude":55.83972,
+    "geom:longitude":21.24073,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Valenai",
+    "gn:country_code":"LT",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593448,
+    "gn:latitude":55.83972,
+    "gn:longitude":21.24073,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Val\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valenyay",
+        "Val\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593448
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dc52808cab2a99f4ed6f92d7a1b083a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209449111
+        }
+    ],
+    "wof:id":1209449111,
+    "wof:lastmodified":1537661905,
+    "wof:name":"Valenai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24073,
+    55.83971999999999,
+    21.24073,
+    55.83971999999999
+],
+  "geometry": {"coordinates":[21.24073,55.83971999999999],"type":"Point"}
+}

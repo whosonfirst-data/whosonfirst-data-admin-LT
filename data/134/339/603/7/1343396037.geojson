@@ -1,0 +1,72 @@
+{
+  "id": 1343396037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01195,55.65403,25.01195,55.65403",
+    "geom:latitude":55.65403,
+    "geom:longitude":25.01195,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Akmena",
+    "gn:country_code":"LT",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601193,
+    "gn:latitude":55.65403,
+    "gn:longitude":25.01195,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Akmena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okmyana",
+        "Akmena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601193
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7abbb127ef076b41532d11481f69b0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1343396037,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343396037,
+    "wof:lastmodified":1537662438,
+    "wof:name":"Akmena",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01195,
+    55.65403000000001,
+    25.01195,
+    55.65403000000001
+],
+  "geometry": {"coordinates":[25.01195,55.65403000000001],"type":"Point"}
+}

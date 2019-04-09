@@ -1,0 +1,75 @@
+{
+  "id": 1209752411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55041,55.28215,22.55041,55.28215",
+    "geom:latitude":55.28215,
+    "geom:longitude":22.55041,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Stiegvilai",
+    "gn:country_code":"LT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594258,
+    "gn:latitude":55.28215,
+    "gn:longitude":22.55041,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Stiegvilai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Stiegvilai"
+    ],
+    "name:und_x_variant":[
+        "Stegvily",
+        "Steigvilai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594258
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a0a7c3a012cb1d81b83f46c8f66a8e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1209752411,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1209752411,
+    "wof:lastmodified":1537661959,
+    "wof:name":"Stiegvilai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55041,
+    55.28215,
+    22.55041,
+    55.28215
+],
+  "geometry": {"coordinates":[22.55041,55.28215],"type":"Point"}
+}

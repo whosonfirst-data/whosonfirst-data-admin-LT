@@ -1,0 +1,71 @@
+{
+  "id": 1243588901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59613,54.92576,25.59613,54.92576",
+    "geom:latitude":54.92576,
+    "geom:longitude":25.59613,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Martisiunai",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295024,
+    "gn:latitude":54.92576,
+    "gn:longitude":25.59613,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Marti\u0161i\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Marti\u0161i\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295024
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"85d4a2f8aeafe4b7ef328d89836a11e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1243588901,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243588901,
+    "wof:lastmodified":1537662581,
+    "wof:name":"Martisiunai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59613,
+    54.92576,
+    25.59613,
+    54.92576
+],
+  "geometry": {"coordinates":[25.59613,54.92576],"type":"Point"}
+}

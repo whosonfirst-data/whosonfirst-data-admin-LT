@@ -1,0 +1,73 @@
+{
+  "id": 1360215661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27115,55.64697,26.27115,55.64697",
+    "geom:latitude":55.64697,
+    "geom:longitude":26.27115,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Rusteikiai",
+    "gn:country_code":"LT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595084,
+    "gn:latitude":55.64697,
+    "gn:longitude":26.27115,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"R\u016bsteikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rusteiki\u0173",
+        "Rusteykyay",
+        "R\u016bsteikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595084
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7a4780d3c4eaedf948b48c1fb0906f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1360215661,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1360215661,
+    "wof:lastmodified":1537662016,
+    "wof:name":"Rusteikiai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27115,
+    55.64697,
+    26.27115,
+    55.64697
+],
+  "geometry": {"coordinates":[26.27115,55.64697],"type":"Point"}
+}

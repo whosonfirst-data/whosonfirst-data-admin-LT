@@ -1,0 +1,71 @@
+{
+  "id": 1344090703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.76983,55.26158,26.76983,55.26158",
+    "geom:latitude":55.26158,
+    "geom:longitude":26.76983,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Pajuodupis",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290879,
+    "gn:latitude":55.26158,
+    "gn:longitude":26.76983,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pajuodupis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Minsk",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pajuodupis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290879
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ebdf336390b5914f639ae069870ed843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1344090703,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1344090703,
+    "wof:lastmodified":1537662480,
+    "wof:name":"Pajuodupis",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.76983,
+    55.26158,
+    26.76983,
+    55.26158
+],
+  "geometry": {"coordinates":[26.76983,55.26158],"type":"Point"}
+}

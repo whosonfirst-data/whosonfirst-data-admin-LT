@@ -1,0 +1,65 @@
+{
+  "id": 1209646717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.75999,55.84038,25.75999,55.84038",
+    "geom:latitude":55.84038,
+    "geom:longitude":25.75999,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Stravai",
+    "gn:country_code":"LT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293279,
+    "gn:latitude":55.84038,
+    "gn:longitude":25.75999,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Stravai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Stravai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293279
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b7ff836dff6492e68700e5fab6e3ca1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209646717
+        }
+    ],
+    "wof:id":1209646717,
+    "wof:lastmodified":1537662542,
+    "wof:name":"Stravai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75999,
+    55.84038,
+    25.75999,
+    55.84038
+],
+  "geometry": {"coordinates":[25.75999,55.84038],"type":"Point"}
+}

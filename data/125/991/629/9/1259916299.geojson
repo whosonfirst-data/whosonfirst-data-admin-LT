@@ -1,0 +1,74 @@
+{
+  "id": 1259916299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.77615,55.51402,25.77615,55.51402",
+    "geom:latitude":55.51402,
+    "geom:longitude":25.77615,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Spitrenai",
+    "gn:country_code":"LT",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594334,
+    "gn:latitude":55.51402,
+    "gn:longitude":25.77615,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Spitr\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spitrenay",
+        "Spitr\u0117n\u0173",
+        "Spytr\u0117n\u0173",
+        "Spitr\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594334
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e87fb8cfa24ebbace5087754294b1049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1259916299,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259916299,
+    "wof:lastmodified":1537661965,
+    "wof:name":"Spitrenai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.77615,
+    55.51402,
+    25.77615,
+    55.51402
+],
+  "geometry": {"coordinates":[25.77615,55.51402],"type":"Point"}
+}

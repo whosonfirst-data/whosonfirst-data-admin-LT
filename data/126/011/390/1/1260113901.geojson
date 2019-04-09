@@ -1,0 +1,71 @@
+{
+  "id": 1260113901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00155,54.83128,24.00155,54.83128",
+    "geom:latitude":54.83128,
+    "geom:longitude":24.00155,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Roku Misko Kelmynas",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309318,
+    "gn:latitude":54.83128,
+    "gn:longitude":24.00155,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Rok\u0173 Mi\u0161ko Kelmynas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rok\u0173 Mi\u0161ko Kelmynas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309318
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b839b691f81e32eaa34c7cc322d66a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1260113901,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260113901,
+    "wof:lastmodified":1537662920,
+    "wof:name":"Roku Misko Kelmynas",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00155,
+    54.83128000000001,
+    24.00155,
+    54.83128000000001
+],
+  "geometry": {"coordinates":[24.00155,54.83128000000001],"type":"Point"}
+}

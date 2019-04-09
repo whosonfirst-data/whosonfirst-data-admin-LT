@@ -1,0 +1,71 @@
+{
+  "id": 1277105349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93037,55.86789,21.93037,55.86789",
+    "geom:latitude":55.86789,
+    "geom:longitude":21.93037,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Jerubaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290136,
+    "gn:latitude":55.86789,
+    "gn:longitude":21.93037,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"J\u0117rubai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "J\u0117rubai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290136
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"32c2009bc0a6b305dd48e185dc4faecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1277105349,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1277105349,
+    "wof:lastmodified":1537662467,
+    "wof:name":"Jerubaiciai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93037,
+    55.86789,
+    21.93037,
+    55.86789
+],
+  "geometry": {"coordinates":[21.93037,55.86789],"type":"Point"}
+}

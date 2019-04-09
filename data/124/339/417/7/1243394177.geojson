@@ -1,0 +1,81 @@
+{
+  "id": 1243394177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20484,55.31093,23.20484,55.31093",
+    "geom:latitude":55.31093,
+    "geom:longitude":23.20484,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Girkalnis",
+    "gn:country_code":"LT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599271,
+    "gn:latitude":55.31093,
+    "gn:longitude":23.20484,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Girkalnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Girkalnis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0440\u043a\u0430\u043b\u044c\u043d\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Girtoko\u0142",
+        "Girtakol\u2019",
+        "Girkalnio",
+        "Girkalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599271,
+        "wk:page":"Girkalnis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f8b482ec383d8005788fcc0210f240e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1243394177,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1243394177,
+    "wof:lastmodified":1537662308,
+    "wof:name":"Girkalnis",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20484,
+    55.31093000000001,
+    23.20484,
+    55.31093000000001
+],
+  "geometry": {"coordinates":[23.20484,55.31093000000001],"type":"Point"}
+}

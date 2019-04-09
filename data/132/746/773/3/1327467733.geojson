@@ -1,0 +1,71 @@
+{
+  "id": 1327467733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7925,56.186,23.7925,56.186",
+    "geom:latitude":56.186,
+    "geom:longitude":23.7925,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Tubiniai",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308325,
+    "gn:latitude":56.186,
+    "gn:longitude":23.7925,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tubiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tubiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308325
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"744ac6369a9edea16962a068c0c45f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073723,
+            "locality_id":1327467733,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1327467733,
+    "wof:lastmodified":1537662901,
+    "wof:name":"Tubiniai",
+    "wof:parent_id":102073723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7925,
+    56.18600000000001,
+    23.7925,
+    56.18600000000001
+],
+  "geometry": {"coordinates":[23.7925,56.18600000000001],"type":"Point"}
+}

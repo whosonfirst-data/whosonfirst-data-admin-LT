@@ -1,0 +1,82 @@
+{
+  "id": 1293523339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45669,55.56596,22.45669,55.56596",
+    "geom:latitude":55.56596,
+    "geom:longitude":22.45669,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Kaltinenai",
+    "gn:country_code":"LT",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598513,
+    "gn:latitude":55.56596,
+    "gn:longitude":22.45669,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kaltin\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaltin\u0117nai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0442\u0438\u043d\u0435\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kaltinenay",
+        "Koltynyany",
+        "Ko\u0142tyniany",
+        "Kaltin\u0117n\u0173",
+        "Kaltin\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598513,
+        "wk:page":"Kaltin%C4%97nai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"032ed991d0e636c315c4d408e2182d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1293523339,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1293523339,
+    "wof:lastmodified":1537662257,
+    "wof:name":"Kaltinenai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45669,
+    55.56596,
+    22.45669,
+    55.56596
+],
+  "geometry": {"coordinates":[22.45669,55.56596],"type":"Point"}
+}

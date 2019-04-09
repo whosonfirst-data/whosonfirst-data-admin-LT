@@ -1,0 +1,71 @@
+{
+  "id": 1293134669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46232,54.44883,25.46232,54.44883",
+    "geom:latitude":54.44883,
+    "geom:longitude":25.46232,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Brestovas",
+    "gn:country_code":"LT",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298380,
+    "gn:latitude":54.44883,
+    "gn:longitude":25.46232,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Brestovas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Brestovas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298380
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6832a89ab9d8d7727d4a96809397dbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1293134669,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293134669,
+    "wof:lastmodified":1537662674,
+    "wof:name":"Brestovas",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46232,
+    54.44883000000001,
+    25.46232,
+    54.44883000000001
+],
+  "geometry": {"coordinates":[25.46232,54.44883000000001],"type":"Point"}
+}

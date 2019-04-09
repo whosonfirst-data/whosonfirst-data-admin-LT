@@ -1,0 +1,72 @@
+{
+  "id": 1292934683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5927,55.68444,21.5927,55.68444",
+    "geom:latitude":55.68444,
+    "geom:longitude":21.5927,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Kiaulakiai",
+    "gn:country_code":"LT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598196,
+    "gn:latitude":55.68444,
+    "gn:longitude":21.5927,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kiaulakiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyaulakey",
+        "Kiaulakiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598196
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7970c63733f15427829a0f9002665d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1292934683,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1292934683,
+    "wof:lastmodified":1537662236,
+    "wof:name":"Kiaulakiai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5927,
+    55.68444,
+    21.5927,
+    55.68444
+],
+  "geometry": {"coordinates":[21.5927,55.68444],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1309834651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6331,55.84844,23.6331,55.84844",
+    "geom:latitude":55.84844,
+    "geom:longitude":23.6331,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Aukstelkai",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600887,
+    "gn:latitude":55.84844,
+    "gn:longitude":23.6331,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Auk\u0161telkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Auk\u0161telkai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0443\u043a\u0448\u0442\u044f\u043b\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Aukshtelkyay",
+        "Auk\u0161telk\u0173",
+        "Aukshtekele",
+        "Auk\u0161tuoliai",
+        "Auk\u0161telkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600887
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d5220506cd75f1e1846f92674b1e96ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1309834651,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1309834651,
+    "wof:lastmodified":1537662421,
+    "wof:name":"Aukstelkai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6331,
+    55.84844,
+    23.6331,
+    55.84844
+],
+  "geometry": {"coordinates":[23.6331,55.84844],"type":"Point"}
+}

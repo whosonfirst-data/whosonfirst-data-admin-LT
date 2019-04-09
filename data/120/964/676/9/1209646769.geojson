@@ -1,0 +1,66 @@
+{
+  "id": 1209646769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80223,56.08073,24.80223,56.08073",
+    "geom:latitude":56.08073,
+    "geom:longitude":24.80223,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Zizonys",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":592732,
+    "gn:latitude":56.08073,
+    "gn:longitude":24.80223,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zizonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zizonyay",
+        "Zizonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":592732
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"66127608326c077951a7cfd498a4acf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209646769
+        }
+    ],
+    "wof:id":1209646769,
+    "wof:lastmodified":1537661860,
+    "wof:name":"Zizonys",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80223,
+    56.08073,
+    24.80223,
+    56.08073
+],
+  "geometry": {"coordinates":[24.80223,56.08073],"type":"Point"}
+}

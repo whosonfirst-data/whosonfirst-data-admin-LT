@@ -1,0 +1,76 @@
+{
+  "id": 1243587751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31292,56.20247,22.31292,56.20247",
+    "geom:latitude":56.20247,
+    "geom:longitude":22.31292,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Bruzai",
+    "gn:country_code":"LT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600370,
+    "gn:latitude":56.20247,
+    "gn:longitude":22.31292,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bru\u017eai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bruzhay",
+        "Bur\u017eiai",
+        "Bru\u017eiai",
+        "Bru\u017e\u0173",
+        "Bru\u017ce",
+        "Bru\u017eai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600370
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5c05f29a57293620231d9f51eee53f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1243587751,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1243587751,
+    "wof:lastmodified":1537662385,
+    "wof:name":"Bruzai",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31292,
+    56.20247,
+    22.31292,
+    56.20247
+],
+  "geometry": {"coordinates":[22.31292,56.20247],"type":"Point"}
+}

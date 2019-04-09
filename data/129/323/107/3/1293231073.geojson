@@ -1,0 +1,76 @@
+{
+  "id": 1293231073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91317,54.81021,22.91317,54.81021",
+    "geom:latitude":54.81021,
+    "geom:longitude":22.91317,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Bubleliai",
+    "gn:country_code":"LT",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600361,
+    "gn:latitude":54.81021,
+    "gn:longitude":22.91317,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"B\u016bbleliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "B\u016bbleliai"
+    ],
+    "name:und_x_variant":[
+        "Bublelyay",
+        "Bubteli\u0173",
+        "Bubleliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600361
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d0aa390d18da1e048d15e73228501fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1293231073,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1293231073,
+    "wof:lastmodified":1537662384,
+    "wof:name":"Bubleliai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91317,
+    54.81021,
+    22.91317,
+    54.81021
+],
+  "geometry": {"coordinates":[22.91317,54.81021],"type":"Point"}
+}

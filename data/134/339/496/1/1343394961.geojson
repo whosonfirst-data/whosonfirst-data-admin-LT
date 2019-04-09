@@ -1,0 +1,75 @@
+{
+  "id": 1343394961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29387,55.55376,22.29387,55.55376",
+    "geom:latitude":55.55376,
+    "geom:longitude":22.29387,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Payznys",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596347,
+    "gn:latitude":55.55376,
+    "gn:longitude":22.29387,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pay\u017enys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pay\u017enys"
+    ],
+    "name:und_x_variant":[
+        "Pai\u017enis Pirmasis",
+        "Pai\u017enis I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596347
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"27c3698a6c140290d7d91c5778e71938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1343394961,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1343394961,
+    "wof:lastmodified":1537662108,
+    "wof:name":"Payznys",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29387,
+    55.55376,
+    22.29387,
+    55.55376
+],
+  "geometry": {"coordinates":[22.29387,55.55376],"type":"Point"}
+}

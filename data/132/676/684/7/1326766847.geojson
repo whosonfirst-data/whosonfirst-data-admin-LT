@@ -1,0 +1,75 @@
+{
+  "id": 1326766847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71348,55.92892,23.71348,55.92892",
+    "geom:latitude":55.92892,
+    "geom:longitude":23.71348,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Pavezgiai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595930,
+    "gn:latitude":55.92892,
+    "gn:longitude":23.71348,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pav\u0117zgiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pav\u0117zgiai"
+    ],
+    "name:und_x_variant":[
+        "Pavezhgis",
+        "Pav\u0117\u017egiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595930
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c70e5650b32cf6b744302838ed549672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1326766847,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1326766847,
+    "wof:lastmodified":1537662076,
+    "wof:name":"Pavezgiai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71348,
+    55.92892,
+    23.71348,
+    55.92892
+],
+  "geometry": {"coordinates":[23.71348,55.92892],"type":"Point"}
+}

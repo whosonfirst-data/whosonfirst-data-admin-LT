@@ -1,0 +1,72 @@
+{
+  "id": 1243207297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.82724,55.97916,24.82724,55.97916",
+    "geom:latitude":55.97916,
+    "geom:longitude":24.82724,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Remeikiai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595314,
+    "gn:latitude":55.97916,
+    "gn:longitude":24.82724,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Remeikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Remeyki",
+        "Remeikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595314
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4e8c0dec9b31a1629d78faaba4c64ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1243207297,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243207297,
+    "wof:lastmodified":1537662032,
+    "wof:name":"Remeikiai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.82724,
+    55.97916,
+    24.82724,
+    55.97916
+],
+  "geometry": {"coordinates":[24.82724,55.97916],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293918473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.58936,54.75092,24.58936,54.75092",
+    "geom:latitude":54.75092,
+    "geom:longitude":24.58936,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Kareivonys",
+    "gn:country_code":"LT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598413,
+    "gn:latitude":54.75092,
+    "gn:longitude":24.58936,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kareivonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kareivoni\u0173",
+        "Koreyvyantsy",
+        "Kareivonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598413
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"77f812fa6681026eb17285307a02a845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1293918473,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1293918473,
+    "wof:lastmodified":1537662249,
+    "wof:name":"Kareivonys",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.58936,
+    54.75092,
+    24.58936,
+    54.75092
+],
+  "geometry": {"coordinates":[24.58936,54.75092],"type":"Point"}
+}

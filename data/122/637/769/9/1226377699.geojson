@@ -1,0 +1,71 @@
+{
+  "id": 1226377699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79291,54.01792,23.79291,54.01792",
+    "geom:latitude":54.01792,
+    "geom:longitude":23.79291,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Smaliske",
+    "gn:country_code":"LT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11306414,
+    "gn:latitude":54.01792,
+    "gn:longitude":23.79291,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Smali\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Smali\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11306414
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"03f7fb750b9f92e8fb659d5d71e994c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1226377699,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1226377699,
+    "wof:lastmodified":1537662869,
+    "wof:name":"Smaliske",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79291,
+    54.01792,
+    23.79291,
+    54.01792
+],
+  "geometry": {"coordinates":[23.79291,54.01792],"type":"Point"}
+}

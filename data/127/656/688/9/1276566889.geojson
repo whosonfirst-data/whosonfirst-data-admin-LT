@@ -1,0 +1,72 @@
+{
+  "id": 1276566889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.71667,55.61667,22.71667,55.61667",
+    "geom:latitude":55.61667,
+    "geom:longitude":22.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Obeline",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596541,
+    "gn:latitude":55.61667,
+    "gn:longitude":22.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Obelin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vobalina",
+        "Obelin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596541
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"384910ee26b22887162b124b063ad8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1276566889,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1276566889,
+    "wof:lastmodified":1537662122,
+    "wof:name":"Obeline",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.71667,
+    55.61666999999999,
+    22.71667,
+    55.61666999999999
+],
+  "geometry": {"coordinates":[22.71667,55.61666999999999],"type":"Point"}
+}

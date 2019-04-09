@@ -1,0 +1,73 @@
+{
+  "id": 1226473219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.60894,54.71049,24.60894,54.71049",
+    "geom:latitude":54.71049,
+    "geom:longitude":24.60894,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Vindziuliai",
+    "gn:country_code":"LT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593102,
+    "gn:latitude":54.71049,
+    "gn:longitude":24.60894,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vind\u017eiuliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vindzyuli",
+        "Vindziuli\u0173",
+        "Vind\u017eiuliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593102
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"aa7bf6eb14813a07d1ca79c6e74b35fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1226473219,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226473219,
+    "wof:lastmodified":1537661884,
+    "wof:name":"Vindziuliai",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.60894,
+    54.71049,
+    24.60894,
+    54.71049
+],
+  "geometry": {"coordinates":[24.60894,54.71049],"type":"Point"}
+}

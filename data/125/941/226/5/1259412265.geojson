@@ -1,0 +1,71 @@
+{
+  "id": 1259412265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16757,55.56911,22.16757,55.56911",
+    "geom:latitude":55.56911,
+    "geom:longitude":22.16757,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Kuodaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290858,
+    "gn:latitude":55.56911,
+    "gn:longitude":22.16757,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kuodai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kuodai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290858
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1c5d9c77f204d52a08896de95605451b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1259412265,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1259412265,
+    "wof:lastmodified":1537662479,
+    "wof:name":"Kuodaiciai",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16757,
+    55.56911,
+    22.16757,
+    55.56911
+],
+  "geometry": {"coordinates":[22.16757,55.56911],"type":"Point"}
+}

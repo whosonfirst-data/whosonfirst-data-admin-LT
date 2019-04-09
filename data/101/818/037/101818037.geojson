@@ -1,0 +1,105 @@
+{
+  "id": 101818037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":885983.930113,
+    "geom:bbox":"20.9934440679,55.2998066304,21.0122979881,55.3129669138",
+    "geom:latitude":55.30585,
+    "geom:longitude":21.002685,
+    "gn:population":1650,
+    "iso:country":"LT",
+    "lbl:latitude":55.304514,
+    "lbl:longitude":21.002042,
+    "mps:latitude":55.304514,
+    "mps:longitude":21.002042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30cb\u30c0"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0434\u0430"
+    ],
+    "name:sgs_x_preferred":[
+        "N\u0117da"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Neringa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u062f\u0627\u060c \u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u9054"
+    ],
+    "qs:a0":"Lietuva",
+    "qs:a1":"*Neringa",
+    "qs:a1r":"0Klaipeda",
+    "qs:adm0":"Lietuva",
+    "qs:id":0,
+    "qs:la":"Neringos",
+    "qs:la_lc":"*LT032399",
+    "qs:level":"locality",
+    "qs:loc":"Neringa (Nida)",
+    "qs:loc_alt":"Neringa (Nida)",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596643,
+        "gp:id":476797,
+        "qs:id":1165554,
+        "qs_pg:id":489828,
+        "wd:id":"Q1004306",
+        "wk:page":"Nida, Lithuania"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ec75526a48a45727b67c314e40733e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073645,
+            "locality_id":101818037,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":101818037,
+    "wof:lastmodified":1507750711,
+    "wof:name":"Neringa (Nida)",
+    "wof:parent_id":102073645,
+    "wof:placetype":"locality",
+    "wof:population":1650,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99344406793006,
+    55.29980663039203,
+    21.01229798809754,
+    55.31296691375445
+],
+  "geometry": {"coordinates":[[[21.01229798809754,55.31269313618634],[21.0115612010635,55.31003374856584],[21.01000339573966,55.3101706365926],[21.00803946976083,55.30307888421208],[21.01115453675487,55.30280514417183],[21.01090903782966,55.30191867952226],[21.00779403754439,55.30219241266383],[21.00754861833093,55.30130594055976],[21.00599113675611,55.30144277490257],[21.00574576389772,55.30055629879439],[21.00418830582089,55.30069311050335],[21.00394297931314,55.29980663039203],[20.99927064603003,55.30021694006285],[20.99951587247898,55.30110343051456],[20.99484335049647,55.30151357784865],[20.99508848986841,55.30240007808237],[20.99664604040049,55.30226337804584],[20.99787209892986,55.30669585367241],[20.99475665438968,55.30696926901254],[20.9950018383426,55.30785576936654],[20.99344406793006,55.30799245169726],[20.99442480019326,55.31153846135629],[20.99754059815336,55.31126504993642],[20.99705007253573,55.30949205999929],[21.00639682942523,55.30867140651458],[21.00664228595929,55.30955788107252],[21.00820007763997,55.30942103487627],[21.00918216735533,55.31296691375445],[21.01229798809754,55.31269313618634]]],"type":"Polygon"}
+}

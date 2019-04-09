@@ -1,0 +1,71 @@
+{
+  "id": 1259614133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53886,55.30251,25.53886,55.30251",
+    "geom:latitude":55.30251,
+    "geom:longitude":25.53886,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Sanklodiskes",
+    "gn:country_code":"LT",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296721,
+    "gn:latitude":55.30251,
+    "gn:longitude":25.53886,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sanklodi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sanklodi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296721
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"da9c5fba4aad234b4a9bb64a9a3fc2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1259614133,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259614133,
+    "wof:lastmodified":1537662627,
+    "wof:name":"Sanklodiskes",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53886,
+    55.30251,
+    25.53886,
+    55.30251
+],
+  "geometry": {"coordinates":[25.53886,55.30251],"type":"Point"}
+}

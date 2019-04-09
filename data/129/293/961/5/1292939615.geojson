@@ -1,0 +1,69 @@
+{
+  "id": 1292939615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.24682,55.3755,26.24682,55.3755",
+    "geom:latitude":55.3755,
+    "geom:longitude":26.24682,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Maksimonys",
+    "gn:country_code":"LT",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597294,
+    "gn:latitude":55.3755,
+    "gn:longitude":26.24682,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Maksimonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597294,
+        "wk:page":"Maksimonys_%28Var%C4%97na%29"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7ccc7905b687b95b99bd10762fbf7b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1292939615,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1292939615,
+    "wof:lastmodified":1537568082,
+    "wof:name":"Maksimonys",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.24682,
+    55.3755,
+    26.24682,
+    55.3755
+],
+  "geometry": {"coordinates":[26.24682,55.3755],"type":"Point"}
+}

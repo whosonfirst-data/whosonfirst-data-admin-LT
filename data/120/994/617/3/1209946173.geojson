@@ -1,0 +1,71 @@
+{
+  "id": 1209946173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6785,54.61738,24.6785,54.61738",
+    "geom:latitude":54.61738,
+    "geom:longitude":24.6785,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Dulkiske",
+    "gn:country_code":"LT",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311193,
+    "gn:latitude":54.61738,
+    "gn:longitude":24.6785,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dulki\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dulki\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311193
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"786ede8750a86a33c25bc3340ab356d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1209946173,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1209946173,
+    "wof:lastmodified":1537662959,
+    "wof:name":"Dulkiske",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6785,
+    54.61738,
+    24.6785,
+    54.61738
+],
+  "geometry": {"coordinates":[24.6785,54.61738],"type":"Point"}
+}

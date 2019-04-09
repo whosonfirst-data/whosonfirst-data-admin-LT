@@ -1,0 +1,71 @@
+{
+  "id": 1226079209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.42055,55.54606,26.42055,55.54606",
+    "geom:latitude":55.54606,
+    "geom:longitude":26.42055,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Stasionys",
+    "gn:country_code":"LT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291035,
+    "gn:latitude":55.54606,
+    "gn:longitude":26.42055,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sta\u0161ionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sta\u0161ionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291035
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b0617f0b564b135c106ff451cb6def1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1226079209,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226079209,
+    "wof:lastmodified":1537662484,
+    "wof:name":"Stasionys",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42055,
+    55.54606,
+    26.42055,
+    55.54606
+],
+  "geometry": {"coordinates":[26.42055,55.54606],"type":"Point"}
+}

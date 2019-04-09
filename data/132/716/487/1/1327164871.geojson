@@ -1,0 +1,83 @@
+{
+  "id": 1327164871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98951,55.68878,24.98951,55.68878",
+    "geom:latitude":55.68878,
+    "geom:longitude":24.98951,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Viesintos",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593205,
+    "gn:latitude":55.68878,
+    "gn:longitude":24.98951,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vie\u0161intos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vie\u0161intos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0448\u0438\u043d\u0442\u043e\u0441"
+    ],
+    "name:und_x_variant":[
+        "Veshintos",
+        "Viyeshintos",
+        "Vie\u0161int\u0173",
+        "Veshinty",
+        "Wieszynty",
+        "Vie\u0161intos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593205,
+        "wk:page":"Vie%C5%A1intos"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3b6cc9d74bc614ef750e9a689ade8413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1327164871,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1327164871,
+    "wof:lastmodified":1537661890,
+    "wof:name":"Viesintos",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98951,
+    55.68878,
+    24.98951,
+    55.68878
+],
+  "geometry": {"coordinates":[24.98951,55.68878],"type":"Point"}
+}

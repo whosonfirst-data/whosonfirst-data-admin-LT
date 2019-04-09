@@ -1,0 +1,71 @@
+{
+  "id": 1343696609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68652,55.69506,25.68652,55.69506",
+    "geom:latitude":55.69506,
+    "geom:longitude":25.68652,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Likanciai",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293976,
+    "gn:latitude":55.69506,
+    "gn:longitude":25.68652,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Likan\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Likan\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293976
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9baa2c486469f30267e8b0e5d53d3484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1343696609,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343696609,
+    "wof:lastmodified":1537662557,
+    "wof:name":"Likanciai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68652,
+    55.69506,
+    25.68652,
+    55.69506
+],
+  "geometry": {"coordinates":[25.68652,55.69506],"type":"Point"}
+}

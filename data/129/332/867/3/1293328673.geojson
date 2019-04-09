@@ -1,0 +1,75 @@
+{
+  "id": 1293328673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0269,55.69572,22.0269,55.69572",
+    "geom:latitude":55.69572,
+    "geom:longitude":22.0269,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Pjaules",
+    "gn:country_code":"LT",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595800,
+    "gn:latitude":55.69572,
+    "gn:longitude":22.0269,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pjaul\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pjaul\u0117s"
+    ],
+    "name:und_x_variant":[
+        "Pavlyay",
+        "Piaul\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595800
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c1b0036983b958d190cb83a84d7d47f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1293328673,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293328673,
+    "wof:lastmodified":1537662066,
+    "wof:name":"Pjaules",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0269,
+    55.69572,
+    22.0269,
+    55.69572
+],
+  "geometry": {"coordinates":[22.0269,55.69572],"type":"Point"}
+}

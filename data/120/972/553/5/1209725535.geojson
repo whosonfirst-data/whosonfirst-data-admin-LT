@@ -1,0 +1,72 @@
+{
+  "id": 1209725535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.1,55.65,23.1,55.65",
+    "geom:latitude":55.65,
+    "geom:longitude":23.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pusdvaris",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595509,
+    "gn:latitude":55.65,
+    "gn:longitude":23.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"P\u016bsdvaris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Podvorishki",
+        "P\u016bsdvaris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595509
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"becd7ce84dd3e4987274c4e85ea796d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1209725535,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1209725535,
+    "wof:lastmodified":1537662045,
+    "wof:name":"Pusdvaris",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.1,
+    55.65,
+    23.1,
+    55.65
+],
+  "geometry": {"coordinates":[23.1,55.65],"type":"Point"}
+}

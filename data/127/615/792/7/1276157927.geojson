@@ -1,0 +1,71 @@
+{
+  "id": 1276157927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51773,54.34,24.51773,54.34",
+    "geom:latitude":54.34,
+    "geom:longitude":24.51773,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Kirklionys",
+    "gn:country_code":"LT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310548,
+    "gn:latitude":54.34,
+    "gn:longitude":24.51773,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kirklionys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kirklionys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310548
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b6029ae80b485e2e21d2b2c2a4bd0192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1276157927,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1276157927,
+    "wof:lastmodified":1537662945,
+    "wof:name":"Kirklionys",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51773,
+    54.34,
+    24.51773,
+    54.34
+],
+  "geometry": {"coordinates":[24.51773,54.34],"type":"Point"}
+}

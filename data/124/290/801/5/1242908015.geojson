@@ -1,0 +1,71 @@
+{
+  "id": 1242908015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14688,55.35624,25.14688,55.35624",
+    "geom:latitude":55.35624,
+    "geom:longitude":25.14688,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Vengriai",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299628,
+    "gn:latitude":55.35624,
+    "gn:longitude":25.14688,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vengriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vengriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299628
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b68e2bcba9815562ee5d3207bf0e4107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1242908015,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1242908015,
+    "wof:lastmodified":1537662708,
+    "wof:name":"Vengriai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14688,
+    55.35624,
+    25.14688,
+    55.35624
+],
+  "geometry": {"coordinates":[25.14688,55.35624],"type":"Point"}
+}

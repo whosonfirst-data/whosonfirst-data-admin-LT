@@ -1,0 +1,66 @@
+{
+  "id": 1209136715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48286,55.35649,24.48286,55.35649",
+    "geom:latitude":55.35649,
+    "geom:longitude":24.48286,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Kirkuciai",
+    "gn:country_code":"LT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598126,
+    "gn:latitude":55.35649,
+    "gn:longitude":24.48286,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kirku\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirkutse",
+        "Kirku\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598126
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"be405029a39827e282588c04b502d24a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209136715
+        }
+    ],
+    "wof:id":1209136715,
+    "wof:lastmodified":1537662231,
+    "wof:name":"Kirkuciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48286,
+    55.35649,
+    24.48286,
+    55.35649
+],
+  "geometry": {"coordinates":[24.48286,55.35649],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259419899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2301,54.98147,25.2301,54.98147",
+    "geom:latitude":54.98147,
+    "geom:longitude":25.2301,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Glitiskes",
+    "gn:country_code":"LT",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599243,
+    "gn:latitude":54.98147,
+    "gn:longitude":25.2301,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gliti\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gliti\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599243,
+        "wk:page":"Gliti%C5%A1k%C4%97s"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1c653b04ca4e255be6deb79662444c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1259419899,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259419899,
+    "wof:lastmodified":1537662306,
+    "wof:name":"Glitiskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2301,
+    54.98147,
+    25.2301,
+    54.98147
+],
+  "geometry": {"coordinates":[25.2301,54.98147],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293329119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19904,55.92748,22.19904,55.92748",
+    "geom:latitude":55.92748,
+    "geom:longitude":22.19904,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Rubezaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595191,
+    "gn:latitude":55.92748,
+    "gn:longitude":22.19904,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rube\u017eai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rubezhaychyay",
+        "Rube\u017eai\u010di\u0173",
+        "Rube\u017eai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595191
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"85b69c57fc27ddbfa161b640afd10416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1293329119,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293329119,
+    "wof:lastmodified":1537662024,
+    "wof:name":"Rubezaiciai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19904,
+    55.92748,
+    22.19904,
+    55.92748
+],
+  "geometry": {"coordinates":[22.19904,55.92748],"type":"Point"}
+}

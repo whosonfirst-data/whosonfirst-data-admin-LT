@@ -1,0 +1,72 @@
+{
+  "id": 1326866039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05043,54.26101,24.05043,54.26101",
+    "geom:latitude":54.26101,
+    "geom:longitude":24.05043,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Noskunai",
+    "gn:country_code":"LT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308547,
+    "gn:latitude":54.26101,
+    "gn:longitude":24.05043,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"No\u0161k\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "No\u0161k\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308547
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0bf623ea143e40dcbaa18b8dad306f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1326866039,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1326866039,
+    "wof:lastmodified":1537662904,
+    "wof:name":"Noskunai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05043,
+    54.26101,
+    24.05043,
+    54.26101
+],
+  "geometry": {"coordinates":[24.05043,54.26101],"type":"Point"}
+}

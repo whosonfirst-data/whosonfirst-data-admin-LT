@@ -1,0 +1,72 @@
+{
+  "id": 1344166933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1,55.93333,24.1,55.93333",
+    "geom:latitude":55.93333,
+    "geom:longitude":24.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Sniurai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594383,
+    "gn:latitude":55.93333,
+    "gn:longitude":24.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u0160ni\u016brai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shnureli",
+        "\u0160ni\u016brai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594383
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"62d14d62803485d6f8f00d997d202719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1344166933,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1344166933,
+    "wof:lastmodified":1537661968,
+    "wof:name":"Sniurai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1,
+    55.93333000000001,
+    24.1,
+    55.93333000000001
+],
+  "geometry": {"coordinates":[24.1,55.93333000000001],"type":"Point"}
+}

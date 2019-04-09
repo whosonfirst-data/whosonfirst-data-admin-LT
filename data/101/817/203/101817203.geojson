@@ -1,0 +1,120 @@
+{
+  "id": 101817203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000294,
+    "geom:area_square_m":2030477.349835,
+    "geom:bbox":"21.0706571696,56.0147982499,21.0903226535,56.0398335814",
+    "geom:latitude":56.026229,
+    "geom:longitude":21.080979,
+    "gn:population":2000,
+    "iso:country":"LT",
+    "lbl:latitude":56.026241,
+    "lbl:longitude":21.081775,
+    "mps:latitude":56.026241,
+    "mps:longitude":21.081775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "\u0160ventoji"
+    ],
+    "name:ces_x_preferred":[
+        "\u0160ventoji"
+    ],
+    "name:csb_x_preferred":[
+        "\u0160ventoji"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160ventoji"
+    ],
+    "name:epo_x_preferred":[
+        "\u0160ventoji"
+    ],
+    "name:est_x_preferred":[
+        "\u0160ventoji"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160ventoji"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d5\u10d4\u10dc\u10e2\u10dd\u10d8\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ventoji"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0432\u0435\u043d\u0442\u043e\u0439\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160ventoji"
+    ],
+    "name:unk_x_variant":[
+        "Schibbe"
+    ],
+    "qs:a0":"Lietuva",
+    "qs:a1":"*Palanga",
+    "qs:a1r":"0Klaipeda",
+    "qs:adm0":"Lietuva",
+    "qs:la":"Palangos",
+    "qs:la_lc":"*LT032500",
+    "qs:level":"locality",
+    "qs:loc":"\u0160ventoji",
+    "qs:loc_alt":"Sventoji",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":308,
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594050,
+        "gp:id":477139,
+        "qs:id":125943,
+        "qs_pg:id":125943,
+        "wd:id":"Q392757",
+        "wk:page":"\u0160ventoji, Lithuania"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1dd982c1979679468f361baa98dd9638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073675,
+            "locality_id":101817203,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":101817203,
+    "wof:lastmodified":1527642453,
+    "wof:name":"\u0160ventoji",
+    "wof:parent_id":102073675,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07065716958255,
+    56.01479824994021,
+    21.09032265349464,
+    56.03983358135633
+],
+  "geometry": {"coordinates":[[[21.08245356485651,56.03676034096156],[21.08169305061023,56.03410139837314],[21.0864511480417,56.03368698366529],[21.08619756624415,56.03280067909191],[21.08778354306958,56.03266250526002],[21.08727635096938,56.03088990163155],[21.08886224774716,56.03075171535346],[21.08860863744837,56.02986541629838],[21.09019448899767,56.02972721400801],[21.08791229986076,56.02175053036802],[21.08949782778166,56.02161234060065],[21.08873724035448,56.01895344705088],[21.09032265349464,56.01881524840758],[21.08981559413888,56.01704265714358],[21.08664489659168,56.01731902059555],[21.08613803116083,56.01554641291409],[21.08455273634274,56.01568455815334],[21.08429935894884,56.01479824994021],[21.08112880766703,56.01507447457806],[21.08163543701545,56.0168471047192],[21.07370852897384,56.01753735942987],[21.07472125612952,56.02108268449859],[21.07313570415567,56.02122069096527],[21.07490825995438,56.02742501408187],[21.07332245395406,56.02756302590359],[21.07357569615266,56.02844935919103],[21.07198984493857,56.02858735499586],[21.07224306601273,56.02947369130828],[21.07065716958255,56.02961167109504],[21.07091036952909,56.03049801043238],[21.07249630077587,56.0303600270841],[21.07426932750025,56.03656436248633],[21.07744164629702,56.03628828716319],[21.07845538440506,56.03983358135633],[21.0800416675101,56.03969550005957],[21.07953470138449,56.03792286116771],[21.08112090440977,56.03778476741707],[21.08086740707574,56.03689845073052],[21.08245356485651,56.03676034096156]]],"type":"Polygon"}
+}

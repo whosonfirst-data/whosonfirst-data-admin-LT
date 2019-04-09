@@ -1,0 +1,66 @@
+{
+  "id": 1209137149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14635,55.74713,23.14635,55.74713",
+    "geom:latitude":55.74713,
+    "geom:longitude":23.14635,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Rimsiai",
+    "gn:country_code":"LT",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595265,
+    "gn:latitude":55.74713,
+    "gn:longitude":23.14635,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rim\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rymshyay",
+        "Rim\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595265
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e7a9bc1d5c1e92919b42d5ff9e0b2201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209137149
+        }
+    ],
+    "wof:id":1209137149,
+    "wof:lastmodified":1537662029,
+    "wof:name":"Rimsiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14635,
+    55.74713000000001,
+    23.14635,
+    55.74713000000001
+],
+  "geometry": {"coordinates":[23.14635,55.74713000000001],"type":"Point"}
+}

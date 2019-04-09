@@ -1,0 +1,72 @@
+{
+  "id": 1310039907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.54222,55.57407,21.54222,55.57407",
+    "geom:latitude":55.57407,
+    "geom:longitude":21.54222,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Mockaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596877,
+    "gn:latitude":55.57407,
+    "gn:longitude":21.54222,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mockai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Motskaychey",
+        "Mockai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596877
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ce7f5bb252a158587ae21b7d344bef8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1310039907,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1310039907,
+    "wof:lastmodified":1537662146,
+    "wof:name":"Mockaiciai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.54222,
+    55.57406999999999,
+    21.54222,
+    55.57406999999999
+],
+  "geometry": {"coordinates":[21.54222,55.57406999999999],"type":"Point"}
+}

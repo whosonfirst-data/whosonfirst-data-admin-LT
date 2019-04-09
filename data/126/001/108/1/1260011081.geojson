@@ -1,0 +1,80 @@
+{
+  "id": 1260011081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2475,54.20582,24.2475,54.20582",
+    "geom:latitude":54.20582,
+    "geom:longitude":24.2475,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Gudakiemis",
+    "gn:country_code":"LT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599097,
+    "gn:latitude":54.20582,
+    "gn:longitude":24.2475,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gudakiemis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gudakiemis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0434\u0430\u043a\u0435\u043c\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Russkaya-Ves\u2019",
+        "Gudakiemio",
+        "Gudakiemis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599097,
+        "wk:page":"Gudakiemis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"041c9080c763c897561884320a1fdd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1260011081,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1260011081,
+    "wof:lastmodified":1537662296,
+    "wof:name":"Gudakiemis",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2475,
+    54.20582,
+    24.2475,
+    54.20582
+],
+  "geometry": {"coordinates":[24.2475,54.20582],"type":"Point"}
+}

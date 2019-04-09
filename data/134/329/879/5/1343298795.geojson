@@ -1,0 +1,71 @@
+{
+  "id": 1343298795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.71213,55.46619,21.71213,55.46619",
+    "geom:latitude":55.46619,
+    "geom:longitude":21.71213,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Bliudsukiai",
+    "gn:country_code":"LT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289898,
+    "gn:latitude":55.46619,
+    "gn:longitude":21.71213,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bli\u016bdsukiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Bli\u016bdsukiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289898
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"63c1025ab4c5c124850c021fdacc3b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1343298795,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1343298795,
+    "wof:lastmodified":1537662464,
+    "wof:name":"Bliudsukiai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.71213,
+    55.46619000000001,
+    21.71213,
+    55.46619000000001
+],
+  "geometry": {"coordinates":[21.71213,55.46619000000001],"type":"Point"}
+}

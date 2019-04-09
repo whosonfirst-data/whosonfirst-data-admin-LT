@@ -1,0 +1,73 @@
+{
+  "id": 1209752171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75447,55.70408,21.75447,55.70408",
+    "geom:latitude":55.70408,
+    "geom:longitude":21.75447,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Kapstatai",
+    "gn:country_code":"LT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598440,
+    "gn:latitude":55.70408,
+    "gn:longitude":21.75447,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kapstatai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapstot\u0173",
+        "Kapstatay",
+        "Kapstatai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598440
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0ff8b58734ffba6709132088985d990d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1209752171,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1209752171,
+    "wof:lastmodified":1537662251,
+    "wof:name":"Kapstatai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75447,
+    55.70408000000001,
+    21.75447,
+    55.70408000000001
+],
+  "geometry": {"coordinates":[21.75447,55.70408000000001],"type":"Point"}
+}

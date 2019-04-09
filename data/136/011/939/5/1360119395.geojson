@@ -1,0 +1,85 @@
+{
+  "id": 1360119395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66341,54.66466,24.66341,54.66466",
+    "geom:latitude":54.66466,
+    "geom:longitude":24.66341,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Semeliskes",
+    "gn:country_code":"LT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594832,
+    "gn:latitude":54.66466,
+    "gn:longitude":24.66341,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Semeli\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Semeli\u0161k\u0117s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044f\u043c\u044f\u043b\u0438\u0448\u043a\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Semeli\u0161ki\u0173",
+        "Semelishkis",
+        "Semelishkes",
+        "Sameli\u0161k\u0117s",
+        "Sumelishki",
+        "Sumiliszki",
+        "Sumilishki",
+        "Semeli\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594832,
+        "wk:page":"Semeli%C5%A1k%C4%97s"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"55a1e0be9b9b83e5a2e07d00a35cf93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1360119395,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1360119395,
+    "wof:lastmodified":1537662000,
+    "wof:name":"Semeliskes",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66341,
+    54.66466,
+    24.66341,
+    54.66466
+],
+  "geometry": {"coordinates":[24.66341,54.66466],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276160097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48683,54.22966,24.48683,54.22966",
+    "geom:latitude":54.22966,
+    "geom:longitude":24.48683,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Moliadugnis",
+    "gn:country_code":"LT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310496,
+    "gn:latitude":54.22966,
+    "gn:longitude":24.48683,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Moliadugnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Moliadugnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310496
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b5eee98bc523e39bc55a639c507137de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1276160097,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1276160097,
+    "wof:lastmodified":1537662945,
+    "wof:name":"Moliadugnis",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48683,
+    54.22966,
+    24.48683,
+    54.22966
+],
+  "geometry": {"coordinates":[24.48683,54.22966],"type":"Point"}
+}

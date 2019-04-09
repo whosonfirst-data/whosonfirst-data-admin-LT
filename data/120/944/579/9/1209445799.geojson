@@ -1,0 +1,66 @@
+{
+  "id": 1209445799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.38168,55.8233,21.38168,55.8233",
+    "geom:latitude":55.8233,
+    "geom:longitude":21.38168,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Sasaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594921,
+    "gn:latitude":55.8233,
+    "gn:longitude":21.38168,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160a\u0161ai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shashaychey",
+        "\u0160a\u0161ai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594921
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5952b8435c3b9bf2bfb1f95a571b0f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209445799
+        }
+    ],
+    "wof:id":1209445799,
+    "wof:lastmodified":1537662007,
+    "wof:name":"Sasaiciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.38168,
+    55.8233,
+    21.38168,
+    55.8233
+],
+  "geometry": {"coordinates":[21.38168,55.8233],"type":"Point"}
+}

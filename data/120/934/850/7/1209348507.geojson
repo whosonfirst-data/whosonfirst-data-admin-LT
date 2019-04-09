@@ -1,0 +1,65 @@
+{
+  "id": 1209348507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43131,56.01625,24.43131,56.01625",
+    "geom:latitude":56.01625,
+    "geom:longitude":24.43131,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Zadeikeliai",
+    "gn:country_code":"LT",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301143,
+    "gn:latitude":56.01625,
+    "gn:longitude":24.43131,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u017dadeik\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017dadeik\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301143
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2ddc0738dbc0b51ae433e8cefd096fe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209348507
+        }
+    ],
+    "wof:id":1209348507,
+    "wof:lastmodified":1537662753,
+    "wof:name":"Zadeikeliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43131,
+    56.01625,
+    24.43131,
+    56.01625
+],
+  "geometry": {"coordinates":[24.43131,56.01625],"type":"Point"}
+}

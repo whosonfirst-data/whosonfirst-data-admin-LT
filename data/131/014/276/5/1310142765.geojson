@@ -1,0 +1,81 @@
+{
+  "id": 1310142765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.96358,56.04123,24.96358,56.04123",
+    "geom:latitude":56.04123,
+    "geom:longitude":24.96358,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Kupreliskis",
+    "gn:country_code":"LT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597804,
+    "gn:latitude":56.04123,
+    "gn:longitude":24.96358,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kupreli\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kupreli\u0161kis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043f\u0440\u044f\u043b\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Kuprelishkis",
+        "Kupreli\u0161kio",
+        "Kupryalishkis",
+        "Kupreli\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597804,
+        "wk:page":"Kupreli%C5%A1kis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fd3ae0ab8845fa09bc4be3476bff3094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1310142765,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310142765,
+    "wof:lastmodified":1537662210,
+    "wof:name":"Kupreliskis",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.96358,
+    56.04123000000001,
+    24.96358,
+    56.04123000000001
+],
+  "geometry": {"coordinates":[24.96358,56.04123000000001],"type":"Point"}
+}

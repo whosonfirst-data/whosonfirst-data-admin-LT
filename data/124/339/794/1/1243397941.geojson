@@ -1,0 +1,80 @@
+{
+  "id": 1243397941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33573,54.3741,23.33573,54.3741",
+    "geom:latitude":54.3741,
+    "geom:longitude":23.33573,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Susninkai",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594101,
+    "gn:latitude":54.3741,
+    "gn:longitude":23.33573,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"S\u016bsninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "S\u016bsnikai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0441\u043d\u0438\u043d\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Susniki",
+        "S\u016bsninkai",
+        "Susnink\u0173",
+        "S\u016bsnikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594101
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"47634450e176b6cf2a4e3f22ab54c87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073585,
+            "locality_id":1243397941,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1243397941,
+    "wof:lastmodified":1537661948,
+    "wof:name":"Susninkai",
+    "wof:parent_id":102073585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33573,
+    54.3741,
+    23.33573,
+    54.3741
+],
+  "geometry": {"coordinates":[23.33573,54.3741],"type":"Point"}
+}

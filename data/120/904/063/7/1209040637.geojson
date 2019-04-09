@@ -1,0 +1,65 @@
+{
+  "id": 1209040637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66136,54.82522,23.66136,54.82522",
+    "geom:latitude":54.82522,
+    "geom:longitude":23.66136,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Kujagalviai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307261,
+    "gn:latitude":54.82522,
+    "gn:longitude":23.66136,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"K\u016bjagalviai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "K\u016bjagalviai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307261
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dcffc3e8491bf5741a290cfe5b608bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209040637
+        }
+    ],
+    "wof:id":1209040637,
+    "wof:lastmodified":1537662887,
+    "wof:name":"Kujagalviai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66136,
+    54.82522,
+    23.66136,
+    54.82522
+],
+  "geometry": {"coordinates":[23.66136,54.82522],"type":"Point"}
+}

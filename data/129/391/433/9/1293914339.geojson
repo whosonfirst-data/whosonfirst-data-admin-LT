@@ -1,0 +1,71 @@
+{
+  "id": 1293914339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98849,55.96873,24.98849,55.96873",
+    "geom:latitude":55.96873,
+    "geom:longitude":24.98849,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Petrosiskis",
+    "gn:country_code":"LT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298669,
+    "gn:latitude":55.96873,
+    "gn:longitude":24.98849,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Petro\u0161i\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Petro\u0161i\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298669
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f7cc34297f6b74d0afa0f5c6f943ceb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1293914339,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293914339,
+    "wof:lastmodified":1537662682,
+    "wof:name":"Petrosiskis",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98849,
+    55.96873000000001,
+    24.98849,
+    55.96873000000001
+],
+  "geometry": {"coordinates":[24.98849,55.96873000000001],"type":"Point"}
+}

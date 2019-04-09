@@ -1,0 +1,72 @@
+{
+  "id": 1243298755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28106,54.65896,23.28106,54.65896",
+    "geom:latitude":54.65896,
+    "geom:longitude":23.28106,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Vladiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593032,
+    "gn:latitude":54.65896,
+    "gn:longitude":23.28106,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vladi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vladyshki",
+        "Vladi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593032
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c0bfcbcf9a334ca1da9eaec9433fec86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1243298755,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1243298755,
+    "wof:lastmodified":1537661880,
+    "wof:name":"Vladiskiai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28106,
+    54.65896,
+    23.28106,
+    54.65896
+],
+  "geometry": {"coordinates":[23.28106,54.65896],"type":"Point"}
+}

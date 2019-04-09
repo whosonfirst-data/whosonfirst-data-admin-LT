@@ -1,0 +1,74 @@
+{
+  "id": 1310041839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66674,56.30084,24.66674,56.30084",
+    "geom:latitude":56.30084,
+    "geom:longitude":24.66674,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Legailiai",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597580,
+    "gn:latitude":56.30084,
+    "gn:longitude":24.66674,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Legailiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Legaili\u0173",
+        "Legalyay",
+        "Legaylyay",
+        "Legailiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597580
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2914dcea015cdfd8117296a3892ea57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1310041839,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310041839,
+    "wof:lastmodified":1537662194,
+    "wof:name":"Legailiai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66674,
+    56.30084,
+    24.66674,
+    56.30084
+],
+  "geometry": {"coordinates":[24.66674,56.30084],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209446051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.57242,55.66357,24.57242,55.66357",
+    "geom:latitude":55.66357,
+    "geom:longitude":24.57242,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Kerblonys",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311927,
+    "gn:latitude":55.66357,
+    "gn:longitude":24.57242,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kerblonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kerblonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311927
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c6c7fb75dd96789b88fdd36f549f900c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209446051
+        }
+    ],
+    "wof:id":1209446051,
+    "wof:lastmodified":1537662979,
+    "wof:name":"Kerblonys",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.57242,
+    55.66356999999999,
+    24.57242,
+    55.66356999999999
+],
+  "geometry": {"coordinates":[24.57242,55.66356999999999],"type":"Point"}
+}

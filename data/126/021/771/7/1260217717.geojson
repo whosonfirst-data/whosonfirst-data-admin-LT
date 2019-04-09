@@ -1,0 +1,71 @@
+{
+  "id": 1260217717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84218,56.25722,21.84218,56.25722",
+    "geom:latitude":56.25722,
+    "geom:longitude":21.84218,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Paluobe",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290446,
+    "gn:latitude":56.25722,
+    "gn:longitude":21.84218,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paluob\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paluob\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290446
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c06fa719a52d15c1fca614d11eb0698e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1260217717,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1260217717,
+    "wof:lastmodified":1537662471,
+    "wof:name":"Paluobe",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84218,
+    56.25722,
+    21.84218,
+    56.25722
+],
+  "geometry": {"coordinates":[21.84218,56.25722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310535319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98055,54.98622,22.98055,54.98622",
+    "geom:latitude":54.98622,
+    "geom:longitude":22.98055,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Zirniai",
+    "gn:country_code":"LT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303353,
+    "gn:latitude":54.98622,
+    "gn:longitude":22.98055,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u017dirniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017dirniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303353
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"91f1793ec4fc02abb71c1a67dd5e8dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1310535319,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1310535319,
+    "wof:lastmodified":1537662800,
+    "wof:name":"Zirniai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98055,
+    54.98622,
+    22.98055,
+    54.98622
+],
+  "geometry": {"coordinates":[22.98055,54.98622],"type":"Point"}
+}

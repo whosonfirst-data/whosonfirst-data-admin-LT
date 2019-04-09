@@ -1,0 +1,74 @@
+{
+  "id": 1209733799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36806,55.87969,22.36806,55.87969",
+    "geom:latitude":55.87969,
+    "geom:longitude":22.36806,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pakauskiai",
+    "gn:country_code":"LT",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596254,
+    "gn:latitude":55.87969,
+    "gn:longitude":22.36806,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Pakauskiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pakauskiai"
+    ],
+    "name:und_x_variant":[
+        "Pokal\u2019nishki",
+        "Pakulni\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596254
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e1c0fcd9bfab27add12d905964f249cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1209733799,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1209733799,
+    "wof:lastmodified":1537662100,
+    "wof:name":"Pakauskiai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36806,
+    55.87969,
+    22.36806,
+    55.87969
+],
+  "geometry": {"coordinates":[22.36806,55.87969],"type":"Point"}
+}

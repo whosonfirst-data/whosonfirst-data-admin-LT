@@ -1,0 +1,68 @@
+{
+  "id": 1209243581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81697,56.22595,24.81697,56.22595",
+    "geom:latitude":56.22595,
+    "geom:longitude":24.81697,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Stackunai",
+    "gn:country_code":"LT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594310,
+    "gn:latitude":56.22595,
+    "gn:longitude":24.81697,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sta\u010dk\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stochkunay",
+        "Stachkunay",
+        "Stochkunai",
+        "Sta\u010dk\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594310
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b39b8493f23b7fdfd670651fdf3a6cf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209243581
+        }
+    ],
+    "wof:id":1209243581,
+    "wof:lastmodified":1537661963,
+    "wof:name":"Stackunai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81697,
+    56.22595,
+    24.81697,
+    56.22595
+],
+  "geometry": {"coordinates":[24.81697,56.22595],"type":"Point"}
+}

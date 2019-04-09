@@ -1,0 +1,71 @@
+{
+  "id": 1310439005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5889,55.86475,24.5889,55.86475",
+    "geom:latitude":55.86475,
+    "geom:longitude":24.5889,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Masiuliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312209,
+    "gn:latitude":55.86475,
+    "gn:longitude":24.5889,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Masiuli\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Masiuli\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312209
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a1f67a0345476cc28da148788080f27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1310439005,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310439005,
+    "wof:lastmodified":1537662987,
+    "wof:name":"Masiuliskiai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5889,
+    55.86475,
+    24.5889,
+    55.86475
+],
+  "geometry": {"coordinates":[24.5889,55.86475],"type":"Point"}
+}

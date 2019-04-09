@@ -1,0 +1,76 @@
+{
+  "id": 1326964053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93679,56.28689,21.93679,56.28689",
+    "geom:latitude":56.28689,
+    "geom:longitude":21.93679,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Viliotes Uzpelkis",
+    "gn:country_code":"LT",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593621,
+    "gn:latitude":56.28689,
+    "gn:longitude":21.93679,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Viliot\u0117s U\u017epelkis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Viliot\u0117s U\u017epelkis"
+    ],
+    "name:und_x_variant":[
+        "U\u017epelk\u0117s",
+        "Uzhpelke",
+        "U\u017epelk\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593621
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5dcdc906493d3af6d5fb7bbf9ca3fbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1326964053,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1326964053,
+    "wof:lastmodified":1537661918,
+    "wof:name":"Viliotes Uzpelkis",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93679,
+    56.28689,
+    21.93679,
+    56.28689
+],
+  "geometry": {"coordinates":[21.93679,56.28689],"type":"Point"}
+}

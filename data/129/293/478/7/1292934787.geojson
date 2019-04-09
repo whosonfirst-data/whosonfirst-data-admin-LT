@@ -1,0 +1,80 @@
+{
+  "id": 1292934787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58018,55.40708,22.58018,55.40708",
+    "geom:latitude":55.40708,
+    "geom:longitude":22.58018,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Skaudvile",
+    "gn:country_code":"LT",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594563,
+    "gn:latitude":55.40708,
+    "gn:longitude":22.58018,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Skaudvil\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Skaudvil\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u0443\u0434\u0432\u0438\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Skaudvil\u0117s",
+        "Skoudvile",
+        "Skaudvil\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594563,
+        "wk:page":"Skaudvil%C4%97"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5c9eaaf145a9a2c1f84530a54e61fc11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1292934787,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1292934787,
+    "wof:lastmodified":1537661981,
+    "wof:name":"Skaudvile",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58018,
+    55.40708000000001,
+    22.58018,
+    55.40708000000001
+],
+  "geometry": {"coordinates":[22.58018,55.40708000000001],"type":"Point"}
+}

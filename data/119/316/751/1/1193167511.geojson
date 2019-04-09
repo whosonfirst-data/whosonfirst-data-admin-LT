@@ -1,0 +1,71 @@
+{
+  "id": 1193167511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23554,54.38584,23.23554,54.38584",
+    "geom:latitude":54.38584,
+    "geom:longitude":23.23554,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Orija",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304982,
+    "gn:latitude":54.38584,
+    "gn:longitude":23.23554,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Orija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Orija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304982
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cf55376e6e9b47b705c46fea50cb1f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073585,
+            "locality_id":1193167511,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1193167511,
+    "wof:lastmodified":1537662836,
+    "wof:name":"Orija",
+    "wof:parent_id":102073585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23554,
+    54.38584,
+    23.23554,
+    54.38584
+],
+  "geometry": {"coordinates":[23.23554,54.38584],"type":"Point"}
+}

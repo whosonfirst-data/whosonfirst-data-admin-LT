@@ -1,0 +1,71 @@
+{
+  "id": 1276481095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35277,54.8356,23.35277,54.8356",
+    "geom:latitude":54.8356,
+    "geom:longitude":23.35277,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"58.0",
+    "gn:asciiname":"Dambava",
+    "gn:country_code":"LT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305366,
+    "gn:latitude":54.8356,
+    "gn:longitude":23.35277,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dambava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dambava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305366
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"458d933cd132af8b72b44c95599cca02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073607,
+            "locality_id":1276481095,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1276481095,
+    "wof:lastmodified":1537662848,
+    "wof:name":"Dambava",
+    "wof:parent_id":102073607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35277,
+    54.8356,
+    23.35277,
+    54.8356
+],
+  "geometry": {"coordinates":[23.35277,54.8356],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310436097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07306,55.63132,25.07306,55.63132",
+    "geom:latitude":55.63132,
+    "geom:longitude":25.07306,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Pasventys",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299312,
+    "gn:latitude":55.63132,
+    "gn:longitude":25.07306,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pa\u0161ventys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u0161ventys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299312
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"83c41b1d27713476268d4ab78d854843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1310436097,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310436097,
+    "wof:lastmodified":1537662698,
+    "wof:name":"Pasventys",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07306,
+    55.63132,
+    25.07306,
+    55.63132
+],
+  "geometry": {"coordinates":[25.07306,55.63132],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293237179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62667,56.3015,24.62667,56.3015",
+    "geom:latitude":56.3015,
+    "geom:longitude":24.62667,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Juostavieciai",
+    "gn:country_code":"LT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598665,
+    "gn:latitude":56.3015,
+    "gn:longitude":24.62667,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Juostavie\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuostavechay",
+        "Juostave\u010diai",
+        "Juostavie\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598665
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5d56c908e996e2352c410ec8f97b5d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1293237179,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293237179,
+    "wof:lastmodified":1537662268,
+    "wof:name":"Juostavieciai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62667,
+    56.3015,
+    24.62667,
+    56.3015
+],
+  "geometry": {"coordinates":[24.62667,56.3015],"type":"Point"}
+}

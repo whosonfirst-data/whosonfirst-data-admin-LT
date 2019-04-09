@@ -1,0 +1,75 @@
+{
+  "id": 1293237205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08291,55.7088,24.08291,55.7088",
+    "geom:latitude":55.7088,
+    "geom:longitude":24.08291,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Sidziunai",
+    "gn:country_code":"LT",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594720,
+    "gn:latitude":55.7088,
+    "gn:longitude":24.08291,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sidzi\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sidzi\u016bnai"
+    ],
+    "name:und_x_variant":[
+        "Sidzyuny",
+        "Sid\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594720
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"59b6af188a5ca3454e648429c97e1adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1293237205,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293237205,
+    "wof:lastmodified":1537661991,
+    "wof:name":"Sidziunai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08291,
+    55.7088,
+    24.08291,
+    55.7088
+],
+  "geometry": {"coordinates":[24.08291,55.7088],"type":"Point"}
+}

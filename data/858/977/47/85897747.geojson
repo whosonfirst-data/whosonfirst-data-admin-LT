@@ -1,0 +1,137 @@
+{
+  "id": 85897747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":24162722.337414,
+    "geom:bbox":"25.411303,54.692957,25.411303,54.692957",
+    "geom:latitude":54.692957,
+    "geom:longitude":25.411303,
+    "iso:country":"LT",
+    "lbl:latitude":54.692957,
+    "lbl:longitude":25.411303,
+    "mps:latitude":54.691285,
+    "mps:longitude":25.383949,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:dan_x_preferred":[
+        "Naujoji Vilnia"
+    ],
+    "name:deu_x_preferred":[
+        "Naujoji Vilnia"
+    ],
+    "name:eng_x_preferred":[
+        "Naujoji Vilnia"
+    ],
+    "name:lav_x_preferred":[
+        "Naujoji Vi\u013c\u0146a"
+    ],
+    "name:lit_x_preferred":[
+        "Naujoji Vilnia"
+    ],
+    "name:pol_x_preferred":[
+        "Nowa Wilejka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u0439\u043e\u0439\u0438-\u0412\u0438\u043b\u044c\u043d\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u043e\u0432\u0438\u043b\u044c\u043d\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Naujoji Vilnia"
+    ],
+    "name:unk_x_variant":[
+        "Vileika",
+        "Naujoji Vilnia"
+    ],
+    "qs:gn_adm0_cc":"LT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":593116,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Naujoji Vilnia",
+    "qs:local_max":12571,
+    "qs:local_sum":23762,
+    "qs:localhoods":20,
+    "qs:name":"Naujoji Vilnia",
+    "qs:name_adm0":"Lietuva",
+    "qs:name_adm1":"Vilniaus Apskritis",
+    "qs:name_adm2":"Vilniaus Miesto Savivaldybe",
+    "qs:name_lau":"Vilnius",
+    "qs:name_local":"Vilnius",
+    "qs:photo_max":33,
+    "qs:photo_sum":133,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":34,
+    "qs:woe_adm0":23424875,
+    "qs:woe_adm1":55848083,
+    "qs:woe_adm2":2346097,
+    "qs:woe_lau":56044000,
+    "qs:woe_local":479616,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":274,
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        101753031,
+        102073615,
+        85685759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596713,
+        "gp:id":476743,
+        "qs:id":475575,
+        "qs_pg:id":475575,
+        "wd:id":"Q937667",
+        "wk:page":"Naujoji Vilnia"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b2c9ff0cfde2967a133c3925eb8b1e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":85897747,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":85897747,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531931931,
+    "wof:name":"Naujoji Vilnia",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.411303,
+    54.692957,
+    25.411303,
+    54.692957
+],
+  "geometry": {"coordinates":[25.411303,54.692957],"type":"Point"}
+}

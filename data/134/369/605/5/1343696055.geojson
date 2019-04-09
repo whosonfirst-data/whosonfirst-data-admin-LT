@@ -1,0 +1,73 @@
+{
+  "id": 1343696055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14708,55.86498,22.14708,55.86498",
+    "geom:latitude":55.86498,
+    "geom:longitude":22.14708,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Sausilis",
+    "gn:country_code":"LT",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594880,
+    "gn:latitude":55.86498,
+    "gn:longitude":22.14708,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sau\u0161ilis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sau\u0161il\u0117",
+        "Saushile",
+        "Sau\u0161ilis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594880
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"72363554060ed1f969ded88dea69b3f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1343696055,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1343696055,
+    "wof:lastmodified":1537662003,
+    "wof:name":"Sausilis",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14708,
+    55.86498,
+    22.14708,
+    55.86498
+],
+  "geometry": {"coordinates":[22.14708,55.86498],"type":"Point"}
+}

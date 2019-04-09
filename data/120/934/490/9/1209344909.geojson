@@ -1,0 +1,65 @@
+{
+  "id": 1209344909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14975,56.12559,25.14975,56.12559",
+    "geom:latitude":56.12559,
+    "geom:longitude":25.14975,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Roviskiai",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298811,
+    "gn:latitude":56.12559,
+    "gn:longitude":25.14975,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Rovi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rovi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298811
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3b66b1c96e3cf93c8aa5d0194eeeffd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209344909
+        }
+    ],
+    "wof:id":1209344909,
+    "wof:lastmodified":1537662686,
+    "wof:name":"Roviskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14975,
+    56.12559,
+    25.14975,
+    56.12559
+],
+  "geometry": {"coordinates":[25.14975,56.12559],"type":"Point"}
+}

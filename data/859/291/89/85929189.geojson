@@ -1,0 +1,165 @@
+{
+  "id": 85929189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":33493432.423353,
+    "geom:bbox":"25.174049,54.629101,25.174049,54.629101",
+    "geom:latitude":54.629101,
+    "geom:longitude":25.174049,
+    "gn:latitude":54.78333,
+    "gn:longitude":24.91667,
+    "iso:country":"LT",
+    "lbl:latitude":54.629101,
+    "lbl:longitude":25.174049,
+    "mps:latitude":54.64633,
+    "mps:longitude":25.117451,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:dan_x_preferred":[
+        "Paneriai"
+    ],
+    "name:deu_x_preferred":[
+        "Auk\u0161tieji Paneriai"
+    ],
+    "name:dut_x_preferred":[
+        "Paneriai"
+    ],
+    "name:eng_x_preferred":[
+        "Paneriai"
+    ],
+    "name:est_x_preferred":[
+        "Paneriai"
+    ],
+    "name:fre_x_preferred":[
+        "Paneriai"
+    ],
+    "name:ger_x_preferred":[
+        "Paneriai"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d0\u05e8"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30cd\u30ea\u30a2\u30a4"
+    ],
+    "name:lav_x_preferred":[
+        "Paneri"
+    ],
+    "name:lit_x_preferred":[
+        "Auk\u0161tieji Paneriai"
+    ],
+    "name:lit_x_variant":[
+        "Paneriai",
+        "Paneri\u0173 seni\u016bnija"
+    ],
+    "name:pol_x_preferred":[
+        "Ponary"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0443\u043a\u0448\u0442\u0435\u0439\u0438-\u041f\u0430\u043d\u044f\u0440\u044f\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Paneriai"
+    ],
+    "name:und_x_preferred":[
+        "Paneriai"
+    ],
+    "name:unk_x_variant":[
+        "Dvaras Paneriai",
+        "Paneriai"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e4\u05d0\u05e0\u05d0\u05e8"
+    ],
+    "qs:gn_adm0_cc":"LT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":593116,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Paneriai",
+    "qs:local_max":12571,
+    "qs:local_sum":23762,
+    "qs:localhoods":20,
+    "qs:name":"Paneriai",
+    "qs:name_adm0":"Lietuva",
+    "qs:name_adm1":"Vilniaus Apskritis",
+    "qs:name_adm2":"Vilniaus Miesto Savivaldybe",
+    "qs:name_lau":"Vilnius",
+    "qs:name_local":"Vilnius",
+    "qs:photo_max":41,
+    "qs:photo_sum":164,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":25,
+    "qs:woe_adm0":23424875,
+    "qs:woe_adm1":55848083,
+    "qs:woe_adm2":2346097,
+    "qs:woe_lau":56044000,
+    "qs:woe_local":479616,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:latitude":54.6356,
+    "wd:longitude":25.1917,
+    "wd:wordcount":558,
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        101753031,
+        102073615,
+        85685759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596134,
+        "gp:id":55848096,
+        "qs:id":233568,
+        "qs_pg:id":233568,
+        "wd:id":"Q708092"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"86734aa70903e01f54eac59129c16edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":85929189,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":85929189,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531939114,
+    "wof:name":"Aukstieji Paneriai",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.174049,
+    54.629101,
+    25.174049,
+    54.629101
+],
+  "geometry": {"coordinates":[25.174049,54.629101],"type":"Point"}
+}

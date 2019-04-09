@@ -1,0 +1,82 @@
+{
+  "id": 1243009087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.77339,55.50933,23.77339,55.50933",
+    "geom:latitude":55.50933,
+    "geom:longitude":23.77339,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Gudziunai",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599061,
+    "gn:latitude":55.50933,
+    "gn:longitude":23.77339,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gud\u017ei\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gud\u017ei\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0434\u0436\u044e\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Gudzyuny",
+        "Gud\u017ei\u016bn\u0173",
+        "Gudzhyunay",
+        "God\u017ei\u016bnai",
+        "Gud\u017ei\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599061,
+        "wk:page":"Gud%C5%BEi%C5%ABnai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"20cd60161d2e328aacec28406cc268fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1243009087,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1243009087,
+    "wof:lastmodified":1537662293,
+    "wof:name":"Gudziunai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.77339,
+    55.50933000000001,
+    23.77339,
+    55.50933000000001
+],
+  "geometry": {"coordinates":[23.77339,55.50933000000001],"type":"Point"}
+}

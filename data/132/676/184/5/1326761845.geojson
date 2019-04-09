@@ -1,0 +1,74 @@
+{
+  "id": 1326761845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80431,54.99606,24.80431,54.99606",
+    "geom:latitude":54.99606,
+    "geom:longitude":24.80431,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"89.0",
+    "gn:asciiname":"Vindeikiai",
+    "gn:country_code":"LT",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593104,
+    "gn:latitude":54.99606,
+    "gn:longitude":24.80431,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vindeikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vindeyki",
+        "Vindeykyay",
+        "Vindeiki\u0173",
+        "Vindeikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593104
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9859c5b52569cd31cade35d3a1877789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073633,
+            "locality_id":1326761845,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1326761845,
+    "wof:lastmodified":1537661884,
+    "wof:name":"Vindeikiai",
+    "wof:parent_id":102073633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80431,
+    54.99606,
+    24.80431,
+    54.99606
+],
+  "geometry": {"coordinates":[24.80431,54.99606],"type":"Point"}
+}

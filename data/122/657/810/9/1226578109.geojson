@@ -1,0 +1,72 @@
+{
+  "id": 1226578109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26475,55.04776,24.26475,55.04776",
+    "geom:latitude":55.04776,
+    "geom:longitude":24.26475,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Sveicarija",
+    "gn:country_code":"LT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594073,
+    "gn:latitude":55.04776,
+    "gn:longitude":24.26475,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160veicarija",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160veicarija"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594073,
+        "wk:page":"%C5%A0veicarija"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e48411415fd700affb91087278077570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1226578109,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226578109,
+    "wof:lastmodified":1537661946,
+    "wof:name":"Sveicarija",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26475,
+    55.04776,
+    24.26475,
+    55.04776
+],
+  "geometry": {"coordinates":[24.26475,55.04776],"type":"Point"}
+}

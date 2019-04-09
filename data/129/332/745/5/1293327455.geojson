@@ -1,0 +1,71 @@
+{
+  "id": 1293327455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63127,55.90938,25.63127,55.90938",
+    "geom:latitude":55.90938,
+    "geom:longitude":25.63127,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Laibgaliai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597702,
+    "gn:latitude":55.90938,
+    "gn:longitude":25.63127,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Laibgaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Laibgaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597702
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cdf1caac523a50e370cd34c77f4ecfb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1293327455,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293327455,
+    "wof:lastmodified":1537662203,
+    "wof:name":"Laibgaliai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63127,
+    55.90938000000001,
+    25.63127,
+    55.90938000000001
+],
+  "geometry": {"coordinates":[25.63127,55.90938000000001],"type":"Point"}
+}

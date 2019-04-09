@@ -1,0 +1,74 @@
+{
+  "id": 1276909649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.11519,55.77491,26.11519,55.77491",
+    "geom:latitude":55.77491,
+    "geom:longitude":26.11519,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Imbradas",
+    "gn:country_code":"LT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598974,
+    "gn:latitude":55.77491,
+    "gn:longitude":26.11519,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Imbradas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imbrado",
+        "Imbrodas",
+        "Imbrad\u0173",
+        "Imbradas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598974
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"70e830586a913afd55fdd2dbdbacf6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276909649,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276909649,
+    "wof:lastmodified":1537662288,
+    "wof:name":"Imbradas",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.11519,
+    55.77491,
+    26.11519,
+    55.77491
+],
+  "geometry": {"coordinates":[26.11519,55.77491],"type":"Point"}
+}

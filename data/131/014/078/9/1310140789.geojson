@@ -1,0 +1,74 @@
+{
+  "id": 1310140789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49515,55.16944,23.49515,55.16944",
+    "geom:latitude":55.16944,
+    "geom:longitude":23.49515,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Besmerciai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596230,
+    "gn:latitude":55.16944,
+    "gn:longitude":23.49515,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Besmer\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Besmerchyay",
+        "Besmer\u010diai",
+        "Bezsmertse",
+        "Palazd\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596230
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c6ab3c5ece285294fda76d094c7cb1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1310140789,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310140789,
+    "wof:lastmodified":1537662099,
+    "wof:name":"Besmerciai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49515,
+    55.16944,
+    23.49515,
+    55.16944
+],
+  "geometry": {"coordinates":[23.49515,55.16944],"type":"Point"}
+}

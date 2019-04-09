@@ -1,0 +1,72 @@
+{
+  "id": 1243098085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61763,55.68814,22.61763,55.68814",
+    "geom:latitude":55.68814,
+    "geom:longitude":22.61763,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Saltropiai",
+    "gn:country_code":"LT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594987,
+    "gn:latitude":55.68814,
+    "gn:longitude":22.61763,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160altropiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaltropis",
+        "\u0160altropiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594987
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3c3acb56e734ab71167c26d4009e8077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1243098085,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1243098085,
+    "wof:lastmodified":1537662011,
+    "wof:name":"Saltropiai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61763,
+    55.68814,
+    22.61763,
+    55.68814
+],
+  "geometry": {"coordinates":[22.61763,55.68814],"type":"Point"}
+}

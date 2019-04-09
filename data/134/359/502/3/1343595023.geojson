@@ -1,0 +1,71 @@
+{
+  "id": 1343595023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75908,55.6151,21.75908,55.6151",
+    "geom:latitude":55.6151,
+    "geom:longitude":21.75908,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Dauskiai",
+    "gn:country_code":"LT",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289876,
+    "gn:latitude":55.6151,
+    "gn:longitude":21.75908,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dauskiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dauskiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289876
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e2e1861288364b69d6a21dc66e737fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1343595023,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1343595023,
+    "wof:lastmodified":1537662463,
+    "wof:name":"Dauskiai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75908,
+    55.6151,
+    21.75908,
+    55.6151
+],
+  "geometry": {"coordinates":[21.75908,55.6151],"type":"Point"}
+}

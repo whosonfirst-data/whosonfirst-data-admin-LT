@@ -1,0 +1,71 @@
+{
+  "id": 1326666457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01157,55.6288,23.01157,55.6288",
+    "geom:latitude":55.6288,
+    "geom:longitude":23.01157,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Saupelkis",
+    "gn:country_code":"LT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303908,
+    "gn:latitude":55.6288,
+    "gn:longitude":23.01157,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160aupelkis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160aupelkis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303908
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"edf5a5bbd556b940b265b6e1045a8b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1326666457,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1326666457,
+    "wof:lastmodified":1537662812,
+    "wof:name":"Saupelkis",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01157000000001,
+    55.6288,
+    23.01157000000001,
+    55.6288
+],
+  "geometry": {"coordinates":[23.01157000000001,55.6288],"type":"Point"}
+}

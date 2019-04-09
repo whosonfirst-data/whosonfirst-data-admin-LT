@@ -1,0 +1,65 @@
+{
+  "id": 1209140695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03232,55.37481,25.03232,55.37481",
+    "geom:latitude":55.37481,
+    "geom:longitude":25.03232,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Staskuniskis",
+    "gn:country_code":"LT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299638,
+    "gn:latitude":55.37481,
+    "gn:longitude":25.03232,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sta\u0161k\u016bni\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sta\u0161k\u016bni\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299638
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8ccf8873c5787af890f1f2c16f84f3f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209140695
+        }
+    ],
+    "wof:id":1209140695,
+    "wof:lastmodified":1537662709,
+    "wof:name":"Staskuniskis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03232,
+    55.37481,
+    25.03232,
+    55.37481
+],
+  "geometry": {"coordinates":[25.03232,55.37481],"type":"Point"}
+}

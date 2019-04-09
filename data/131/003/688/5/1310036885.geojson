@@ -1,0 +1,72 @@
+{
+  "id": 1310036885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.08204,56.30919,23.08204,56.30919",
+    "geom:latitude":56.30919,
+    "geom:longitude":23.08204,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Minkiai",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864434,
+    "gn:latitude":56.30919,
+    "gn:longitude":23.08204,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Minkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minkyay",
+        "Minkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864434
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"22185fb7442f4071fe898ad14ea10f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1310036885,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310036885,
+    "wof:lastmodified":1537662444,
+    "wof:name":"Minkiai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.08204,
+    56.30919,
+    23.08204,
+    56.30919
+],
+  "geometry": {"coordinates":[23.08204,56.30919],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326866637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.24053,55.22416,26.24053,55.22416",
+    "geom:latitude":55.22416,
+    "geom:longitude":26.24053,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Kaceniske",
+    "gn:country_code":"LT",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292837,
+    "gn:latitude":55.22416,
+    "gn:longitude":26.24053,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ka\u010d\u0117ni\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ka\u010d\u0117ni\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292837
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"beb31a7352bde9b78de50f47d6dc0a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1326866637,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1326866637,
+    "wof:lastmodified":1537662533,
+    "wof:name":"Kaceniske",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.24053,
+    55.22416,
+    26.24053,
+    55.22416
+],
+  "geometry": {"coordinates":[26.24053,55.22416],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293134799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.07315,55.49318,26.07315,55.49318",
+    "geom:latitude":55.49318,
+    "geom:longitude":26.07315,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Svedriske",
+    "gn:country_code":"LT",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594075,
+    "gn:latitude":55.49318,
+    "gn:longitude":26.07315,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160vedri\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garpshe",
+        "\u0160v\u0117di\u0161k\u0117",
+        "\u0160vedri\u0161k\u0117s",
+        "\u0160vedi\u0161ki\u0173",
+        "\u0160vedri\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594075
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7b37508af5f91e964e997efd9cde290c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1293134799,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1293134799,
+    "wof:lastmodified":1537661946,
+    "wof:name":"Svedriske",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.07315,
+    55.49318,
+    26.07315,
+    55.49318
+],
+  "geometry": {"coordinates":[26.07315,55.49318],"type":"Point"}
+}

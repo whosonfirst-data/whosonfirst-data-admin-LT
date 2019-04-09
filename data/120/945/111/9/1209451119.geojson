@@ -1,0 +1,65 @@
+{
+  "id": 1209451119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48391,55.53863,25.48391,55.53863",
+    "geom:latitude":55.53863,
+    "geom:longitude":25.48391,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Guciaviete",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296163,
+    "gn:latitude":55.53863,
+    "gn:longitude":25.48391,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gu\u010diaviet\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gu\u010diaviet\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296163
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9c1c2c0c5ec1a4256225215a0c91b2df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209451119
+        }
+    ],
+    "wof:id":1209451119,
+    "wof:lastmodified":1537662611,
+    "wof:name":"Guciaviete",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48391,
+    55.53863000000001,
+    25.48391,
+    55.53863000000001
+],
+  "geometry": {"coordinates":[25.48391,55.53863000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293010747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7427,55.14849,23.7427,55.14849",
+    "geom:latitude":55.14849,
+    "geom:longitude":23.7427,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Gaizuvele-Pastriune",
+    "gn:country_code":"LT",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599530,
+    "gn:latitude":55.14849,
+    "gn:longitude":23.7427,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gai\u017euv\u0117l\u0117-Pastri\u016bn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goyzhevka Podstrune",
+        "Gai\u017euv\u0117l\u0117-Pastri\u016bn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599530
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4e91d9b639152807678e3889622acd04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1293010747,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293010747,
+    "wof:lastmodified":1537662325,
+    "wof:name":"Gaizuvele-Pastriune",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7427,
+    55.14849,
+    23.7427,
+    55.14849
+],
+  "geometry": {"coordinates":[23.7427,55.14849],"type":"Point"}
+}

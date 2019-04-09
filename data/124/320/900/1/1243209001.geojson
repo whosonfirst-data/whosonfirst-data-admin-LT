@@ -1,0 +1,74 @@
+{
+  "id": 1243209001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21641,54.72368,24.21641,54.72368",
+    "geom:latitude":54.72368,
+    "geom:longitude":24.21641,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Migonys",
+    "gn:country_code":"LT",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597006,
+    "gn:latitude":54.72368,
+    "gn:longitude":24.21641,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Migonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Migany",
+        "Migonio",
+        "Migoni\u0173",
+        "Migonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597006
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d22249a83454a55f9a7ba66ee58fef96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1243209001,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1243209001,
+    "wof:lastmodified":1537662155,
+    "wof:name":"Migonys",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21641,
+    54.72368,
+    24.21641,
+    54.72368
+],
+  "geometry": {"coordinates":[24.21641,54.72368],"type":"Point"}
+}

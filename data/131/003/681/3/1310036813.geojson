@@ -1,0 +1,73 @@
+{
+  "id": 1310036813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51868,55.14086,23.51868,55.14086",
+    "geom:latitude":55.14086,
+    "geom:longitude":23.51868,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Eiksciai",
+    "gn:country_code":"LT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599626,
+    "gn:latitude":55.14086,
+    "gn:longitude":23.51868,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Eik\u0161\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aktsyay",
+        "Ekstse",
+        "Eik\u0161\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599626
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"95199d3d2560b61f36ef2fc3fc148923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1310036813,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310036813,
+    "wof:lastmodified":1537662332,
+    "wof:name":"Eiksciai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51868,
+    55.14086,
+    23.51868,
+    55.14086
+],
+  "geometry": {"coordinates":[23.51868,55.14086],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326459877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34135,55.54919,24.34135,55.54919",
+    "geom:latitude":55.54919,
+    "geom:longitude":24.34135,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Prapersa",
+    "gn:country_code":"LT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309894,
+    "gn:latitude":55.54919,
+    "gn:longitude":24.34135,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Praper\u0161a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Praper\u0161a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309894
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a7c4206c794921dbc3f336cc82643aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1326459877,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1326459877,
+    "wof:lastmodified":1537662932,
+    "wof:name":"Prapersa",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34135,
+    55.54919,
+    24.34135,
+    55.54919
+],
+  "geometry": {"coordinates":[24.34135,55.54919],"type":"Point"}
+}

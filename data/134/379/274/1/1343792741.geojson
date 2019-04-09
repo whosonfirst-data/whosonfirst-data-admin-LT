@@ -1,0 +1,72 @@
+{
+  "id": 1343792741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.10187,55.79412,21.10187,55.79412",
+    "geom:latitude":55.79412,
+    "geom:longitude":21.10187,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"21.0",
+    "gn:asciiname":"Bendikai",
+    "gn:country_code":"LT",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600540,
+    "gn:latitude":55.79412,
+    "gn:longitude":21.10187,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bendikai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rund-Gerge",
+        "Bendikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600540
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"34d22179efe6ba9d0cb6f6b2e0733ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073667,
+            "locality_id":1343792741,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1343792741,
+    "wof:lastmodified":1537662396,
+    "wof:name":"Bendikai",
+    "wof:parent_id":102073667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.10187,
+    55.79411999999999,
+    21.10187,
+    55.79411999999999
+],
+  "geometry": {"coordinates":[21.10187,55.79411999999999],"type":"Point"}
+}

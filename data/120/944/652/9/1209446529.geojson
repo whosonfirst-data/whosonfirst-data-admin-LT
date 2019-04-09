@@ -1,0 +1,65 @@
+{
+  "id": 1209446529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34029,55.63183,26.34029,55.63183",
+    "geom:latitude":55.63183,
+    "geom:longitude":26.34029,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Santupiai",
+    "gn:country_code":"LT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292045,
+    "gn:latitude":55.63183,
+    "gn:longitude":26.34029,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Santupiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Santupiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292045
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0ed7f0d483767944b4e64a6fc9e237cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209446529
+        }
+    ],
+    "wof:id":1209446529,
+    "wof:lastmodified":1537662512,
+    "wof:name":"Santupiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34029,
+    55.63183000000001,
+    26.34029,
+    55.63183000000001
+],
+  "geometry": {"coordinates":[26.34029,55.63183000000001],"type":"Point"}
+}

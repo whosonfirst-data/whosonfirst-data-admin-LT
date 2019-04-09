@@ -1,0 +1,71 @@
+{
+  "id": 1309748737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.51162,55.28481,26.51162,55.28481",
+    "geom:latitude":55.28481,
+    "geom:longitude":26.51162,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Ryziske",
+    "gn:country_code":"LT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291206,
+    "gn:latitude":55.28481,
+    "gn:longitude":26.51162,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ry\u017ei\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ry\u017ei\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291206
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6a05226b5529431b7f46c872cee0b6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1309748737,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1309748737,
+    "wof:lastmodified":1537662489,
+    "wof:name":"Ryziske",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51162,
+    55.28481,
+    26.51162,
+    55.28481
+],
+  "geometry": {"coordinates":[26.51162,55.28481],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209450175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43011,55.63869,24.43011,55.63869",
+    "geom:latitude":55.63869,
+    "geom:longitude":24.43011,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Marijonava",
+    "gn:country_code":"LT",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311946,
+    "gn:latitude":55.63869,
+    "gn:longitude":24.43011,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Marijonava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Marijonava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311946
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"53c4160c366bb233315fca8445c78ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209450175
+        }
+    ],
+    "wof:id":1209450175,
+    "wof:lastmodified":1537662980,
+    "wof:name":"Marijonava",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43011,
+    55.63869,
+    24.43011,
+    55.63869
+],
+  "geometry": {"coordinates":[24.43011,55.63869],"type":"Point"}
+}

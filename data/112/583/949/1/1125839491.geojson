@@ -1,0 +1,108 @@
+{
+  "id": 1125839491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57972,55.07556,22.57972,55.07556",
+    "geom:latitude":55.07556,
+    "geom:longitude":22.57972,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":599,
+    "gn:population":599,
+    "iso:country":"LT",
+    "lbl:latitude":55.07556,
+    "lbl:longitude":22.57972,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0627\u0644\u064a\u0646\u064a\u0646\u0643\u0627\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u043c\u0430\u043b\u0456\u043d\u0456\u043d\u043a\u0430\u0439"
+    ],
+    "name:deu_x_preferred":[
+        "Schmalleningken"
+    ],
+    "name:eng_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0645\u0627\u0644\u06cc\u0646\u06cc\u0646\u06a9\u0627\u06cc"
+    ],
+    "name:lav_x_preferred":[
+        "Smalininki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u0430\u043b\u0438\u043d\u0438\u043d\u043a\u0430\u0439"
+    ],
+    "name:sgs_x_preferred":[
+        "Smal\u0117nink\u0101"
+    ],
+    "name:unk_x_variant":[
+        "Smolniki"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u99ac\u5229\u5be7\u51f1"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":594429,
+    "qs_pg:gn_pop":599,
+    "qs_pg:name":"Smalininkai",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":81115,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594429,
+        "qs_pg:id":81115
+    },
+    "wof:country":"LT",
+    "wof:created":1497292870,
+    "wof:geomhash":"01f4410b4dffb9f075c52ddd059285a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1125839491,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1125839491,
+    "wof:lastmodified":1509395194,
+    "wof:name":"Smalininkai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:population":599,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57972,
+    55.07556,
+    22.57972,
+    55.07556
+],
+  "geometry": {"coordinates":[22.57972,55.07556],"type":"Point"}
+}

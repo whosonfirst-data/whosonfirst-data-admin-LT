@@ -1,0 +1,71 @@
+{
+  "id": 1276159703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52565,55.86337,22.52565,55.86337",
+    "geom:latitude":55.86337,
+    "geom:longitude":22.52565,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Traulenai",
+    "gn:country_code":"LT",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302723,
+    "gn:latitude":55.86337,
+    "gn:longitude":22.52565,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Traul\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Traul\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302723
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"961b024cd7bb81013986958448c63123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1276159703,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1276159703,
+    "wof:lastmodified":1537662785,
+    "wof:name":"Traulenai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52565,
+    55.86337,
+    22.52565,
+    55.86337
+],
+  "geometry": {"coordinates":[22.52565,55.86337],"type":"Point"}
+}

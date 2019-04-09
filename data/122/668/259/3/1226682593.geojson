@@ -1,0 +1,71 @@
+{
+  "id": 1226682593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33933,55.72335,25.33933,55.72335",
+    "geom:latitude":55.72335,
+    "geom:longitude":25.33933,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Miskiniai",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295752,
+    "gn:latitude":55.72335,
+    "gn:longitude":25.33933,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mi\u0161kiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mi\u0161kiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295752
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"04ffe83ea706a25c1a8adfd7bc68332d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1226682593,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226682593,
+    "wof:lastmodified":1537662600,
+    "wof:name":"Miskiniai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33933,
+    55.72335,
+    25.33933,
+    55.72335
+],
+  "geometry": {"coordinates":[25.33933,55.72335],"type":"Point"}
+}

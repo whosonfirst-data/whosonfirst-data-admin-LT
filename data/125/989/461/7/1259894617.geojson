@@ -1,0 +1,77 @@
+{
+  "id": 1259894617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44361,55.48167,21.44361,55.48167",
+    "geom:latitude":55.48167,
+    "geom:longitude":21.44361,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Laugaliai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597641,
+    "gn:latitude":55.48167,
+    "gn:longitude":21.44361,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Laugaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Laugallen"
+    ],
+    "name:und_x_variant":[
+        "Laugalis",
+        "Laugalyay",
+        "Laugaliai",
+        "Laugallen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597641
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9d5559d498298c0030cd47dc7185e174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1259894617,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1259894617,
+    "wof:lastmodified":1537662198,
+    "wof:name":"Laugaliai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44361,
+    55.48167,
+    21.44361,
+    55.48167
+],
+  "geometry": {"coordinates":[21.44361,55.48167],"type":"Point"}
+}

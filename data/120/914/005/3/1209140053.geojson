@@ -1,0 +1,65 @@
+{
+  "id": 1209140053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32934,55.44819,25.32934,55.44819",
+    "geom:latitude":55.44819,
+    "geom:longitude":25.32934,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Trakiniai",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296610,
+    "gn:latitude":55.44819,
+    "gn:longitude":25.32934,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Trakiniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Trakiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296610
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"41e216aab063a41168fcc03332eff6ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209140053
+        }
+    ],
+    "wof:id":1209140053,
+    "wof:lastmodified":1537662623,
+    "wof:name":"Trakiniai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32934,
+    55.44819,
+    25.32934,
+    55.44819
+],
+  "geometry": {"coordinates":[25.32934,55.44819],"type":"Point"}
+}

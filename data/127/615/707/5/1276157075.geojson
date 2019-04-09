@@ -1,0 +1,76 @@
+{
+  "id": 1276157075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93723,55.45126,23.93723,55.45126",
+    "geom:latitude":55.45126,
+    "geom:longitude":23.93723,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Naujieji Bakainiai",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600745,
+    "gn:latitude":55.45126,
+    "gn:longitude":23.93723,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Naujieji Bakainiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Naujieji Bakainiai"
+    ],
+    "name:und_x_variant":[
+        "Novyye Bokayni",
+        "Novyy Bakaynyay",
+        "Bakainiai Naujieji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600745
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a519a84b59f5dd4023ede8ff2b8864e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1276157075,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1276157075,
+    "wof:lastmodified":1537662411,
+    "wof:name":"Naujieji Bakainiai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93723,
+    55.45126,
+    23.93723,
+    55.45126
+],
+  "geometry": {"coordinates":[23.93723,55.45126],"type":"Point"}
+}

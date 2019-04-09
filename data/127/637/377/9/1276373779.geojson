@@ -1,0 +1,71 @@
+{
+  "id": 1276373779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.80288,56.10816,21.80288,56.10816",
+    "geom:latitude":56.10816,
+    "geom:longitude":21.80288,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Dvarvieciai",
+    "gn:country_code":"LT",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290319,
+    "gn:latitude":56.10816,
+    "gn:longitude":21.80288,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dvarvie\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dvarvie\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290319
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"29da786c7cad8742789a9292a1608954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1276373779,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1276373779,
+    "wof:lastmodified":1537662469,
+    "wof:name":"Dvarvieciai",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.80288,
+    56.10816,
+    21.80288,
+    56.10816
+],
+  "geometry": {"coordinates":[21.80288,56.10816],"type":"Point"}
+}

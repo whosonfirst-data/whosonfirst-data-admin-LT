@@ -1,0 +1,65 @@
+{
+  "id": 1209249377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90675,55.6208,24.90675,55.6208",
+    "geom:latitude":55.6208,
+    "geom:longitude":24.90675,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Briendine",
+    "gn:country_code":"LT",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299150,
+    "gn:latitude":55.6208,
+    "gn:longitude":24.90675,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Briendin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Briendin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299150
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"144c0e4d115350ae8920558b2ff4a011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249377
+        }
+    ],
+    "wof:id":1209249377,
+    "wof:lastmodified":1537662694,
+    "wof:name":"Briendine",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90675,
+    55.6208,
+    24.90675,
+    55.6208
+],
+  "geometry": {"coordinates":[24.90675,55.6208],"type":"Point"}
+}

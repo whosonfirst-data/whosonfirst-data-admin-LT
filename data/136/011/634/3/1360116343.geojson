@@ -1,0 +1,71 @@
+{
+  "id": 1360116343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52468,54.40403,25.52468,54.40403",
+    "geom:latitude":54.40403,
+    "geom:longitude":25.52468,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Rimsiskes",
+    "gn:country_code":"LT",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298424,
+    "gn:latitude":54.40403,
+    "gn:longitude":25.52468,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Rim\u0161i\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rim\u0161i\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298424
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bc38c22e62e31a70e6f73252f1b9b086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1360116343,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1360116343,
+    "wof:lastmodified":1537662676,
+    "wof:name":"Rimsiskes",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52468,
+    54.40403000000001,
+    25.52468,
+    54.40403000000001
+],
+  "geometry": {"coordinates":[25.52468,54.40403000000001],"type":"Point"}
+}

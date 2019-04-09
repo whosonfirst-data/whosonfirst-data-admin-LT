@@ -1,0 +1,65 @@
+{
+  "id": 1209244463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60016,54.99089,23.60016,54.99089",
+    "geom:latitude":54.99089,
+    "geom:longitude":23.60016,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Pastuva",
+    "gn:country_code":"LT",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305477,
+    "gn:latitude":54.99089,
+    "gn:longitude":23.60016,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pa\u0161tuva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u0161tuva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305477
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"030b88d3de2887e98b6a4e9b4aee0dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209244463
+        }
+    ],
+    "wof:id":1209244463,
+    "wof:lastmodified":1537662850,
+    "wof:name":"Pastuva",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60016,
+    54.99089,
+    23.60016,
+    54.99089
+],
+  "geometry": {"coordinates":[23.60016,54.99089],"type":"Point"}
+}

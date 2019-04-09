@@ -1,0 +1,71 @@
+{
+  "id": 1344093025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4285,54.82751,24.4285,54.82751",
+    "geom:latitude":54.82751,
+    "geom:longitude":24.4285,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Aviliai",
+    "gn:country_code":"LT",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311294,
+    "gn:latitude":54.82751,
+    "gn:longitude":24.4285,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Aviliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Aviliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311294
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a140ebe36d4f8793c18c4baa61d2ec1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1344093025,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1344093025,
+    "wof:lastmodified":1537662962,
+    "wof:name":"Aviliai",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4285,
+    54.82751,
+    24.4285,
+    54.82751
+],
+  "geometry": {"coordinates":[24.4285,54.82751],"type":"Point"}
+}

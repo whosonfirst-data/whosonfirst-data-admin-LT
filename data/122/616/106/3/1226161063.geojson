@@ -1,0 +1,72 @@
+{
+  "id": 1226161063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8,55.48333,23.8,55.48333",
+    "geom:latitude":55.48333,
+    "geom:longitude":23.8,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Naujaupis",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596736,
+    "gn:latitude":55.48333,
+    "gn:longitude":23.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Naujaupis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novaya Ves\u2019",
+        "Naujaupis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596736
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"638a92e2c2cd6590c857821ba07c1dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1226161063,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1226161063,
+    "wof:lastmodified":1537662136,
+    "wof:name":"Naujaupis",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8,
+    55.48333,
+    23.8,
+    55.48333
+],
+  "geometry": {"coordinates":[23.8,55.48333],"type":"Point"}
+}

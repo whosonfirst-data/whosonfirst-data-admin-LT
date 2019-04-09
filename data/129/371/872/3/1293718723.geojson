@@ -1,0 +1,76 @@
+{
+  "id": 1293718723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73084,54.81565,23.73084,54.81565",
+    "geom:latitude":54.81565,
+    "geom:longitude":23.73084,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Pazerai",
+    "gn:country_code":"LT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595905,
+    "gn:latitude":54.81565,
+    "gn:longitude":23.73084,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u017e\u0117rai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u017eeriai",
+        "Po\u017e\u0117rai",
+        "Pazheray",
+        "Pa\u017eeri\u0173",
+        "Pozhery",
+        "Pa\u017e\u0117rai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595905
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e635cdc176272dc91535322a07665403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1293718723,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293718723,
+    "wof:lastmodified":1537662074,
+    "wof:name":"Pazerai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73084,
+    54.81565,
+    23.73084,
+    54.81565
+],
+  "geometry": {"coordinates":[23.73084,54.81565],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327168257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25557,55.03681,25.25557,55.03681",
+    "geom:latitude":55.03681,
+    "geom:longitude":25.25557,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Pustilta",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297168,
+    "gn:latitude":55.03681,
+    "gn:longitude":25.25557,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pustilta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pustilta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297168
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"183b13f192c0a173ae889d8a5c802cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1327168257,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1327168257,
+    "wof:lastmodified":1537662639,
+    "wof:name":"Pustilta",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25557,
+    55.03681,
+    25.25557,
+    55.03681
+],
+  "geometry": {"coordinates":[25.25557,55.03681],"type":"Point"}
+}

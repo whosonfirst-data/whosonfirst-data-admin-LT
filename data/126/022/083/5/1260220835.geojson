@@ -1,0 +1,72 @@
+{
+  "id": 1260220835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.89439,55.37619,23.89439,55.37619",
+    "geom:latitude":55.37619,
+    "geom:longitude":23.89439,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Gelainiai",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599426,
+    "gn:latitude":55.37619,
+    "gn:longitude":23.89439,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"G\u0117lainiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giloyne",
+        "G\u0117lainiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599426
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fdda6f545974d3083ee8a93cf4a4aef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1260220835,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260220835,
+    "wof:lastmodified":1537662318,
+    "wof:name":"Gelainiai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89439,
+    55.37619,
+    23.89439,
+    55.37619
+],
+  "geometry": {"coordinates":[23.89439,55.37619],"type":"Point"}
+}

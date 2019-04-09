@@ -1,0 +1,71 @@
+{
+  "id": 1343693011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01585,56.34659,22.01585,56.34659",
+    "geom:latitude":56.34659,
+    "geom:longitude":22.01585,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Senmieste",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594808,
+    "gn:latitude":56.34659,
+    "gn:longitude":22.01585,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Senmiest\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Senmiest\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594808
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"dfbc3b9011e2c1536c838e8d61c8e8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1343693011,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1343693011,
+    "wof:lastmodified":1537661998,
+    "wof:name":"Senmieste",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01585,
+    56.34659,
+    22.01585,
+    56.34659
+],
+  "geometry": {"coordinates":[22.01585,56.34659],"type":"Point"}
+}

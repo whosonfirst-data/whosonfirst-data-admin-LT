@@ -1,0 +1,72 @@
+{
+  "id": 1343490319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98803,56.30392,23.98803,56.30392",
+    "geom:latitude":56.30392,
+    "geom:longitude":23.98803,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Baltausiai",
+    "gn:country_code":"LT",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600695,
+    "gn:latitude":56.30392,
+    "gn:longitude":23.98803,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baltausiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baltausyay",
+        "Baltausiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600695
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6c22a1a72b0c1cb56484cfe7d07336a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1343490319,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343490319,
+    "wof:lastmodified":1537662407,
+    "wof:name":"Baltausiai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98803,
+    56.30392,
+    23.98803,
+    56.30392
+],
+  "geometry": {"coordinates":[23.98803,56.30392],"type":"Point"}
+}

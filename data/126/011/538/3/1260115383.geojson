@@ -1,0 +1,79 @@
+{
+  "id": 1260115383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.79624,54.87019,25.79624,54.87019",
+    "geom:latitude":54.87019,
+    "geom:longitude":25.79624,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Prienai",
+    "gn:country_code":"LT",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595595,
+    "gn:latitude":54.87019,
+    "gn:longitude":25.79624,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Prienai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Prienai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Preny",
+        "Prenay",
+        "Prienai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595595
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"eacda4a25b3a027484ad0cfa00ca7a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1260115383,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260115383,
+    "wof:lastmodified":1537662052,
+    "wof:name":"Prienai",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.79624,
+    54.87019,
+    25.79624,
+    54.87019
+],
+  "geometry": {"coordinates":[25.79624,54.87019],"type":"Point"}
+}

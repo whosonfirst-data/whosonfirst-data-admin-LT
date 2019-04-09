@@ -1,0 +1,80 @@
+{
+  "id": 1260214941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69812,55.30577,25.69812,55.30577",
+    "geom:latitude":55.30577,
+    "geom:longitude":25.69812,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Paseksciai",
+    "gn:country_code":"LT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596048,
+    "gn:latitude":55.30577,
+    "gn:longitude":25.69812,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u0161ek\u0161\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pa\u0161ek\u0161\u010diai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u0435\u043a\u0448\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pashekshchyay",
+        "Pa\u0161ek\u0161\u010di\u0173",
+        "Pashekshgyay",
+        "Pa\u0161ek\u0161\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596048
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"66e1ae36e685fd2f38d7c0db8bfecc9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1260214941,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1260214941,
+    "wof:lastmodified":1537662085,
+    "wof:name":"Paseksciai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69812,
+    55.30577,
+    25.69812,
+    55.30577
+],
+  "geometry": {"coordinates":[25.69812,55.30577],"type":"Point"}
+}

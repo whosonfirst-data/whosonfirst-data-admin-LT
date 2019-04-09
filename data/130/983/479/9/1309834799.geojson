@@ -1,0 +1,74 @@
+{
+  "id": 1309834799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8225,55.64504,23.8225,55.64504",
+    "geom:latitude":55.64504,
+    "geom:longitude":23.8225,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Palonai",
+    "gn:country_code":"LT",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596188,
+    "gn:latitude":55.64504,
+    "gn:longitude":23.8225,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Palonai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polany",
+        "Palon\u0173",
+        "Palonai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596188,
+        "wk:page":"Palonai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f4bfd148fd7a74317a38056163c5a57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1309834799,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1309834799,
+    "wof:lastmodified":1537662096,
+    "wof:name":"Palonai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8225,
+    55.64504,
+    23.8225,
+    55.64504
+],
+  "geometry": {"coordinates":[23.8225,55.64504],"type":"Point"}
+}

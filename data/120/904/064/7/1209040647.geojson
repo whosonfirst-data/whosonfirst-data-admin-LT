@@ -1,0 +1,66 @@
+{
+  "id": 1209040647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45945,55.07208,24.45945,55.07208",
+    "geom:latitude":55.07208,
+    "geom:longitude":24.45945,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Vareikiai",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593410,
+    "gn:latitude":55.07208,
+    "gn:longitude":24.45945,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vareikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vareykyay",
+        "Vareikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593410
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"80a4f35b21cf1bd70f1df6f5d2e7b527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209040647
+        }
+    ],
+    "wof:id":1209040647,
+    "wof:lastmodified":1537661902,
+    "wof:name":"Vareikiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45945,
+    55.07208000000001,
+    24.45945,
+    55.07208000000001
+],
+  "geometry": {"coordinates":[24.45945,55.07208000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293328923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3031,55.93219,21.3031,55.93219",
+    "geom:latitude":55.93219,
+    "geom:longitude":21.3031,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Traidziai",
+    "gn:country_code":"LT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289514,
+    "gn:latitude":55.93219,
+    "gn:longitude":21.3031,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Traid\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Traid\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289514
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"adffa7ce4827268cc310c3e27b4d4ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":1293328923,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1293328923,
+    "wof:lastmodified":1537662457,
+    "wof:name":"Traidziai",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3031,
+    55.93219000000001,
+    21.3031,
+    55.93219000000001
+],
+  "geometry": {"coordinates":[21.3031,55.93219000000001],"type":"Point"}
+}

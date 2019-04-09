@@ -1,0 +1,71 @@
+{
+  "id": 1225981743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15376,55.46416,24.15376,55.46416",
+    "geom:latitude":55.46416,
+    "geom:longitude":24.15376,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Linkauciai",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597445,
+    "gn:latitude":55.46416,
+    "gn:longitude":24.15376,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Linkau\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Linkau\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597445
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8312055b58b0eee41b3e45d53feada98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1225981743,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1225981743,
+    "wof:lastmodified":1537662185,
+    "wof:name":"Linkauciai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15376,
+    55.46416,
+    24.15376,
+    55.46416
+],
+  "geometry": {"coordinates":[24.15376,55.46416],"type":"Point"}
+}

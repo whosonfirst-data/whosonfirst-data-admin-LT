@@ -1,0 +1,73 @@
+{
+  "id": 1293137535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59953,55.13174,23.59953,55.13174",
+    "geom:latitude":55.13174,
+    "geom:longitude":23.59953,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Lelerviskiai",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597560,
+    "gn:latitude":55.13174,
+    "gn:longitude":23.59953,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lelervi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lelyarvishki",
+        "Lelyarvay",
+        "Lelervi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597560
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"176697808f2902612c0cc8d68555f51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1293137535,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293137535,
+    "wof:lastmodified":1537662192,
+    "wof:name":"Lelerviskiai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59953,
+    55.13174,
+    23.59953,
+    55.13174
+],
+  "geometry": {"coordinates":[23.59953,55.13174],"type":"Point"}
+}

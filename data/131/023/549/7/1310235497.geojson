@@ -1,0 +1,71 @@
+{
+  "id": 1310235497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34002,55.31166,26.34002,55.31166",
+    "geom:latitude":55.31166,
+    "geom:longitude":26.34002,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Ciceniske",
+    "gn:country_code":"LT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292395,
+    "gn:latitude":55.31166,
+    "gn:longitude":26.34002,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Cic\u0117ni\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Cic\u0117ni\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292395
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f24f8e7bc1feb45395360e31cd805571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1310235497,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1310235497,
+    "wof:lastmodified":1537662521,
+    "wof:name":"Ciceniske",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34002000000001,
+    55.31166,
+    26.34002000000001,
+    55.31166
+],
+  "geometry": {"coordinates":[26.34002000000001,55.31166],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209945529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68086,55.71425,25.68086,55.71425",
+    "geom:latitude":55.71425,
+    "geom:longitude":25.68086,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Levizarai",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293163,
+    "gn:latitude":55.71425,
+    "gn:longitude":25.68086,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Levizarai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Levizarai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293163
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f53927adc955e1e0e6de6181534cc23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1209945529,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1209945529,
+    "wof:lastmodified":1537662540,
+    "wof:name":"Levizarai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68086,
+    55.71425,
+    25.68086,
+    55.71425
+],
+  "geometry": {"coordinates":[25.68086,55.71425],"type":"Point"}
+}

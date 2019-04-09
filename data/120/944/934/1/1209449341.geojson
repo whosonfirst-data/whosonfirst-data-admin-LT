@@ -1,0 +1,65 @@
+{
+  "id": 1209449341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97517,55.74746,25.97517,55.74746",
+    "geom:latitude":55.74746,
+    "geom:longitude":25.97517,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Kalveliai",
+    "gn:country_code":"LT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293412,
+    "gn:latitude":55.74746,
+    "gn:longitude":25.97517,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kalveliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kalveliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293412
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"efaebba55cfa36a92660a6bd300a968c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209449341
+        }
+    ],
+    "wof:id":1209449341,
+    "wof:lastmodified":1537662545,
+    "wof:name":"Kalveliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97517,
+    55.74746,
+    25.97517,
+    55.74746
+],
+  "geometry": {"coordinates":[25.97517,55.74746],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310535561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.77368,56.36475,24.77368,56.36475",
+    "geom:latitude":56.36475,
+    "geom:longitude":24.77368,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Nausedziai",
+    "gn:country_code":"LT",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596694,
+    "gn:latitude":56.36475,
+    "gn:longitude":24.77368,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Naus\u0117d\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naus\u0117d\u017ei\u0173",
+        "Nausedzhyay",
+        "Naus\u0117d\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596694
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9bbb83d0c6422df82062e23ab74d59a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1310535561,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310535561,
+    "wof:lastmodified":1537662133,
+    "wof:name":"Nausedziai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.77368,
+    56.36475,
+    24.77368,
+    56.36475
+],
+  "geometry": {"coordinates":[24.77368,56.36475],"type":"Point"}
+}

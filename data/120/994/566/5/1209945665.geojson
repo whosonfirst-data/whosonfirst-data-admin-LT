@@ -1,0 +1,71 @@
+{
+  "id": 1209945665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53575,55.21918,24.53575,55.21918",
+    "geom:latitude":55.21918,
+    "geom:longitude":24.53575,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Viliukai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311597,
+    "gn:latitude":55.21918,
+    "gn:longitude":24.53575,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Viliukai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Viliukai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311597
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8431aab7d01ac927b8fc6e3edd9d87d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073663,
+            "locality_id":1209945665,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1209945665,
+    "wof:lastmodified":1537662970,
+    "wof:name":"Viliukai",
+    "wof:parent_id":102073663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53575,
+    55.21918,
+    24.53575,
+    55.21918
+],
+  "geometry": {"coordinates":[24.53575,55.21918],"type":"Point"}
+}

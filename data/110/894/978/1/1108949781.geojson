@@ -1,0 +1,66 @@
+{
+  "id": 1108949781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2960590927,54.7095963048,25.2960590927,54.7095963048",
+    "geom:latitude":54.709596,
+    "geom:longitude":25.296059,
+    "iso:country":"LT",
+    "lbl:latitude":54.709596,
+    "lbl:longitude":25.296059,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:lit_x_preferred":[
+        "\u0160iaur\u0117s miestelis"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85685759,
+        102191581,
+        85633269,
+        101753031,
+        102073615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367898,
+    "wof:geomhash":"f671c4591541834c2e7c8ef4bfdc4592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":1108949781,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949781,
+    "wof:lastmodified":1497292361,
+    "wof:name":"Siaures miestelis",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29605909265645,
+    54.70959630478963,
+    25.29605909265645,
+    54.70959630478963
+],
+  "geometry": {"coordinates":[25.29605909265645,54.70959630478963],"type":"Point"}
+}

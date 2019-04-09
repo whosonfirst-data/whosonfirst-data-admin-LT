@@ -1,0 +1,65 @@
+{
+  "id": 1209550519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4651,55.26507,22.4651,55.26507",
+    "geom:latitude":55.26507,
+    "geom:longitude":22.4651,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Ziburiai",
+    "gn:country_code":"LT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302296,
+    "gn:latitude":55.26507,
+    "gn:longitude":22.4651,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u017diburiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u017diburiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302296
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"656567b6536a9cd1993ee3046e8bac50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209550519
+        }
+    ],
+    "wof:id":1209550519,
+    "wof:lastmodified":1537662775,
+    "wof:name":"Ziburiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4651,
+    55.26507,
+    22.4651,
+    55.26507
+],
+  "geometry": {"coordinates":[22.4651,55.26507],"type":"Point"}
+}

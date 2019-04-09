@@ -1,0 +1,80 @@
+{
+  "id": 1243399783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03835,55.68216,22.03835,55.68216",
+    "geom:latitude":55.68216,
+    "geom:longitude":22.03835,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Labardziai",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597714,
+    "gn:latitude":55.68216,
+    "gn:longitude":22.03835,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Labard\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Labard\u017eiai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0431\u0430\u0440\u0434\u0436\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Labard\u017ei\u0173",
+        "Labardzhyay",
+        "Labardi",
+        "Labard\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597714
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"33a3ccee3dce4d73f3bf0e667022343a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1243399783,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1243399783,
+    "wof:lastmodified":1537662204,
+    "wof:name":"Labardziai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03835,
+    55.68216,
+    22.03835,
+    55.68216
+],
+  "geometry": {"coordinates":[22.03835,55.68216],"type":"Point"}
+}

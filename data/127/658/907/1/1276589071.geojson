@@ -1,0 +1,71 @@
+{
+  "id": 1276589071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13366,55.83573,25.13366,55.83573",
+    "geom:latitude":55.83573,
+    "geom:longitude":25.13366,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Civonys",
+    "gn:country_code":"LT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299086,
+    "gn:latitude":55.83573,
+    "gn:longitude":25.13366,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u010civonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u010civonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299086
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8ac879aa4e49fddb08f44630a503dead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1276589071,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276589071,
+    "wof:lastmodified":1537662692,
+    "wof:name":"Civonys",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13366,
+    55.83573000000001,
+    25.13366,
+    55.83573000000001
+],
+  "geometry": {"coordinates":[25.13366,55.83573000000001],"type":"Point"}
+}

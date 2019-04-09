@@ -1,0 +1,71 @@
+{
+  "id": 1326959657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55704,54.48163,23.55704,54.48163",
+    "geom:latitude":54.48163,
+    "geom:longitude":23.55704,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Liuliskis",
+    "gn:country_code":"LT",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597414,
+    "gn:latitude":54.48163,
+    "gn:longitude":23.55704,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Li\u016bli\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Li\u016bli\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597414
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"77eed67b9e69c54abe2e5618c690a5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073595,
+            "locality_id":1326959657,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1326959657,
+    "wof:lastmodified":1537662182,
+    "wof:name":"Liuliskis",
+    "wof:parent_id":102073595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55704,
+    54.48163,
+    23.55704,
+    54.48163
+],
+  "geometry": {"coordinates":[23.55704,54.48163],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260015501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78076,54.93606,25.78076,54.93606",
+    "geom:latitude":54.93606,
+    "geom:longitude":25.78076,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Klociunai",
+    "gn:country_code":"LT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598057,
+    "gn:latitude":54.93606,
+    "gn:longitude":25.78076,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Klo\u010di\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Klo\u010di\u016bnai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0430\u0447\u044e\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Klachuny",
+        "Klachyunay",
+        "Klo\u010di\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598057
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c19d46588f18d0e3be6eae7cea344ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1260015501,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1260015501,
+    "wof:lastmodified":1537662227,
+    "wof:name":"Klociunai",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78076,
+    54.93606,
+    25.78076,
+    54.93606
+],
+  "geometry": {"coordinates":[25.78076,54.93606],"type":"Point"}
+}

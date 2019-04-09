@@ -1,0 +1,71 @@
+{
+  "id": 1344193267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86863,55.12667,25.86863,55.12667",
+    "geom:latitude":55.12667,
+    "geom:longitude":25.86863,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Lamanina",
+    "gn:country_code":"LT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294780,
+    "gn:latitude":55.12667,
+    "gn:longitude":25.86863,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lamanina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lamanina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294780
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d194fba37a0f87e3b98d9ce6b6ee6761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1344193267,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1344193267,
+    "wof:lastmodified":1537662575,
+    "wof:name":"Lamanina",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86863,
+    55.12667,
+    25.86863,
+    55.12667
+],
+  "geometry": {"coordinates":[25.86863,55.12667],"type":"Point"}
+}

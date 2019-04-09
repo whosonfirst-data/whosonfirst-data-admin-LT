@@ -1,0 +1,71 @@
+{
+  "id": 1309940639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.70395,55.57622,22.70395,55.57622",
+    "geom:latitude":55.57622,
+    "geom:longitude":22.70395,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Jautakiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302480,
+    "gn:latitude":55.57622,
+    "gn:longitude":22.70395,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jautaki\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jautaki\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302480
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0d6db4fd39b744874b59112c635bcdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1309940639,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1309940639,
+    "wof:lastmodified":1537662778,
+    "wof:name":"Jautakiskiai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.70395,
+    55.57621999999999,
+    22.70395,
+    55.57621999999999
+],
+  "geometry": {"coordinates":[22.70395,55.57621999999999],"type":"Point"}
+}

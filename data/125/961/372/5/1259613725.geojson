@@ -1,0 +1,71 @@
+{
+  "id": 1259613725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14137,54.46934,23.14137,54.46934",
+    "geom:latitude":54.46934,
+    "geom:longitude":23.14137,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Naujienele I",
+    "gn:country_code":"LT",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303007,
+    "gn:latitude":54.46934,
+    "gn:longitude":23.14137,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Naujien\u0117l\u0117 I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Naujien\u0117l\u0117 I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303007
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a7962eae09d1db04a8998a7988703a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073585,
+            "locality_id":1259613725,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1259613725,
+    "wof:lastmodified":1537662790,
+    "wof:name":"Naujienele I",
+    "wof:parent_id":102073585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14137,
+    54.46934,
+    23.14137,
+    54.46934
+],
+  "geometry": {"coordinates":[23.14137,54.46934],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209451899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16115,56.32632,23.16115,56.32632",
+    "geom:latitude":56.32632,
+    "geom:longitude":23.16115,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"47.0",
+    "gn:asciiname":"Puikiai",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304617,
+    "gn:latitude":56.32632,
+    "gn:longitude":23.16115,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Puikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Puikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304617
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3d0f5fef980d2d572fc7d7fb2db2e28a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209451899
+        }
+    ],
+    "wof:id":1209451899,
+    "wof:lastmodified":1537662828,
+    "wof:name":"Puikiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16115,
+    56.32632,
+    23.16115,
+    56.32632
+],
+  "geometry": {"coordinates":[23.16115,56.32632],"type":"Point"}
+}

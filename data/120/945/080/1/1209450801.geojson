@@ -1,0 +1,70 @@
+{
+  "id": 1209450801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.79596,56.02318,23.79596,56.02318",
+    "geom:latitude":56.02318,
+    "geom:longitude":23.79596,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Daugsigaliai",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599993,
+    "gn:latitude":56.02318,
+    "gn:longitude":23.79596,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Daug\u0161igaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Daug\u0161igaliai"
+    ],
+    "name:und_x_variant":[
+        "Daukshigalyay",
+        "Daukshigolyay",
+        "Dauk\u0161igaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599993
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4dcffc9fd7a26c4c0d61564737f6b81e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209450801
+        }
+    ],
+    "wof:id":1209450801,
+    "wof:lastmodified":1537662355,
+    "wof:name":"Daugsigaliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.79596,
+    56.02318,
+    23.79596,
+    56.02318
+],
+  "geometry": {"coordinates":[23.79596,56.02318],"type":"Point"}
+}

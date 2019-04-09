@@ -1,0 +1,71 @@
+{
+  "id": 1276803581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.453,55.76091,22.453,55.76091",
+    "geom:latitude":55.76091,
+    "geom:longitude":22.453,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Paezeris",
+    "gn:country_code":"LT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302682,
+    "gn:latitude":55.76091,
+    "gn:longitude":22.453,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pae\u017eeris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pae\u017eeris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302682
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2ebe16673a16f811a61b4b62c5ec2d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1276803581,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1276803581,
+    "wof:lastmodified":1537662784,
+    "wof:name":"Paezeris",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45300000000001,
+    55.76091,
+    22.45300000000001,
+    55.76091
+],
+  "geometry": {"coordinates":[22.45300000000001,55.76091],"type":"Point"}
+}

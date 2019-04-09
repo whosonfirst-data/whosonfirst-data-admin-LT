@@ -1,0 +1,71 @@
+{
+  "id": 1243490405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.54402,54.70226,23.54402,54.70226",
+    "geom:latitude":54.70226,
+    "geom:longitude":23.54402,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"58.0",
+    "gn:asciiname":"Didzioji Zariske",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305146,
+    "gn:latitude":54.70226,
+    "gn:longitude":23.54402,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Did\u017eioji Zari\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Did\u017eioji Zari\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305146
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f4ebb5e07775afd0ceb5d1351244a7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073607,
+            "locality_id":1243490405,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1243490405,
+    "wof:lastmodified":1537662841,
+    "wof:name":"Didzioji Zariske",
+    "wof:parent_id":102073607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.54402,
+    54.70226,
+    23.54402,
+    54.70226
+],
+  "geometry": {"coordinates":[23.54402,54.70226],"type":"Point"}
+}

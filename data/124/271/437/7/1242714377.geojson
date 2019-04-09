@@ -1,0 +1,76 @@
+{
+  "id": 1242714377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78259,56.31041,21.78259,56.31041",
+    "geom:latitude":56.31041,
+    "geom:longitude":21.78259,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Gesalai",
+    "gn:country_code":"LT",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599363,
+    "gn:latitude":56.31041,
+    "gn:longitude":21.78259,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"G\u0117salai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "G\u0117salai"
+    ],
+    "name:und_x_variant":[
+        "G\u0117sali\u0173",
+        "Gesalay",
+        "Gesalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599363
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f4bbde61e4bc23ef84ba23e446ea6187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1242714377,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1242714377,
+    "wof:lastmodified":1537662314,
+    "wof:name":"Gesalai",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78259,
+    56.31041,
+    21.78259,
+    56.31041
+],
+  "geometry": {"coordinates":[21.78259,56.31041],"type":"Point"}
+}

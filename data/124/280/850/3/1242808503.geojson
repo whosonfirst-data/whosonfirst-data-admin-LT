@@ -1,0 +1,71 @@
+{
+  "id": 1242808503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05972,55.53706,22.05972,55.53706",
+    "geom:latitude":55.53706,
+    "geom:longitude":22.05972,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Uzsienis",
+    "gn:country_code":"LT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290771,
+    "gn:latitude":55.53706,
+    "gn:longitude":22.05972,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"U\u017esienis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "U\u017esienis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290771
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"44b25fbb23b06b6c36428989ebb6c171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073655,
+            "locality_id":1242808503,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1242808503,
+    "wof:lastmodified":1537662476,
+    "wof:name":"Uzsienis",
+    "wof:parent_id":102073655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05972,
+    55.53706,
+    22.05972,
+    55.53706
+],
+  "geometry": {"coordinates":[22.05972,55.53706],"type":"Point"}
+}

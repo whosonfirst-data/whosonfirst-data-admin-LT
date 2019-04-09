@@ -1,0 +1,71 @@
+{
+  "id": 1225979185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64642,55.76871,22.64642,55.76871",
+    "geom:latitude":55.76871,
+    "geom:longitude":22.64642,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Rezgalis",
+    "gn:country_code":"LT",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302699,
+    "gn:latitude":55.76871,
+    "gn:longitude":22.64642,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"R\u0117\u017egalis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "R\u0117\u017egalis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302699
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"51a7db5f57f38d43618a593f223f32dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1225979185,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1225979185,
+    "wof:lastmodified":1537662784,
+    "wof:name":"Rezgalis",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64642000000001,
+    55.76871,
+    22.64642000000001,
+    55.76871
+],
+  "geometry": {"coordinates":[22.64642000000001,55.76871],"type":"Point"}
+}

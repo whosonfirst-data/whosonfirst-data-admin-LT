@@ -1,0 +1,97 @@
+{
+  "id": 1125805697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.96667,54.83333,24.96667,54.83333",
+    "geom:latitude":54.83333,
+    "geom:longitude":24.96667,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"LT",
+    "lbl:latitude":54.83333,
+    "lbl:longitude":24.96667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "D\u016bk\u0161tos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043a\u0448\u0442\u043e\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Dukszty"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":599725,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"D\u016bk\u0161tos",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Vilniaus Apskritis",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165548,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":474325,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Vilniaus Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599725,
+        "gp:id":474325,
+        "qs_pg:id":1165548
+    },
+    "wof:country":"LT",
+    "wof:created":1497291453,
+    "wof:geomhash":"346978edb21270362142051880d0eeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1125805697,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1125805697,
+    "wof:lastmodified":1509393281,
+    "wof:name":"D\u016bk\u0161tos",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.96667,
+    54.83333,
+    24.96667,
+    54.83333
+],
+  "geometry": {"coordinates":[24.96667,54.83333],"type":"Point"}
+}

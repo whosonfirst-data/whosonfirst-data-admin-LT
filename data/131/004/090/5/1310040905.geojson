@@ -1,0 +1,72 @@
+{
+  "id": 1310040905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.89947,56.0091,23.89947,56.0091",
+    "geom:latitude":56.0091,
+    "geom:longitude":23.89947,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"65.0",
+    "gn:asciiname":"Kvedarai",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864418,
+    "gn:latitude":56.0091,
+    "gn:longitude":23.89947,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kvedarai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kvyadaray",
+        "Kvedarai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864418
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b1cb0c73be386620cf75238049616b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073717,
+            "locality_id":1310040905,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310040905,
+    "wof:lastmodified":1537662443,
+    "wof:name":"Kvedarai",
+    "wof:parent_id":102073717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89947,
+    56.0091,
+    23.89947,
+    56.0091
+],
+  "geometry": {"coordinates":[23.89947,56.0091],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1343888449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44545,54.35842,23.44545,54.35842",
+    "geom:latitude":54.35842,
+    "geom:longitude":23.44545,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Sestokai",
+    "gn:country_code":"LT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594776,
+    "gn:latitude":54.35842,
+    "gn:longitude":23.44545,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160e\u0161tokai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u0160e\u0161tokai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0448\u0442\u043e\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Shostakov",
+        "Shostakuv",
+        "Sheshtokay",
+        "Shestakov-Ostatni",
+        "\u0160e\u0161tok\u0173",
+        "Szostak\u00f3w",
+        "\u0160e\u0161tokai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594776,
+        "wk:page":"%C5%A0e%C5%A1tokai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d9376427d6220285959525ab121d7947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073583,
+            "locality_id":1343888449,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1343888449,
+    "wof:lastmodified":1537661995,
+    "wof:name":"Sestokai",
+    "wof:parent_id":102073583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44545,
+    54.35842,
+    23.44545,
+    54.35842
+],
+  "geometry": {"coordinates":[23.44545,54.35842],"type":"Point"}
+}

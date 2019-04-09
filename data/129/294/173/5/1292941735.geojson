@@ -1,0 +1,71 @@
+{
+  "id": 1292941735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39878,55.97457,25.39878,55.97457",
+    "geom:latitude":55.97457,
+    "geom:longitude":25.39878,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Ilgalaukiai",
+    "gn:country_code":"LT",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295510,
+    "gn:latitude":55.97457,
+    "gn:longitude":25.39878,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ilgalaukiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ilgalaukiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295510
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"1aa4d2d5e7eb899e867eca4486c63762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1292941735,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1292941735,
+    "wof:lastmodified":1537662595,
+    "wof:name":"Ilgalaukiai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39878,
+    55.97456999999999,
+    25.39878,
+    55.97456999999999
+],
+  "geometry": {"coordinates":[25.39878,55.97456999999999],"type":"Point"}
+}

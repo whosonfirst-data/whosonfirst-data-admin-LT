@@ -1,0 +1,74 @@
+{
+  "id": 1327165413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.70654,56.0982,21.70654,56.0982",
+    "geom:latitude":56.0982,
+    "geom:longitude":21.70654,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Notenai",
+    "gn:country_code":"LT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596562,
+    "gn:latitude":56.0982,
+    "gn:longitude":21.70654,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Not\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naciany",
+        "Not\u0117n\u0173",
+        "Notenay",
+        "Not\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596562
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f9c07a342272ea1824041b30651f89e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1327165413,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1327165413,
+    "wof:lastmodified":1537662123,
+    "wof:name":"Notenai",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.70654,
+    56.0982,
+    21.70654,
+    56.0982
+],
+  "geometry": {"coordinates":[21.70654,56.0982],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226376221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.0992,55.37797,25.0992,55.37797",
+    "geom:latitude":55.37797,
+    "geom:longitude":25.0992,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Kryzokai",
+    "gn:country_code":"LT",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299639,
+    "gn:latitude":55.37797,
+    "gn:longitude":25.0992,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kry\u017eokai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kry\u017eokai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299639
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ad679ed78637b26a80d22ee2b56bc0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1226376221,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1226376221,
+    "wof:lastmodified":1537662709,
+    "wof:name":"Kryzokai",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0992,
+    55.37797,
+    25.0992,
+    55.37797
+],
+  "geometry": {"coordinates":[25.0992,55.37797],"type":"Point"}
+}

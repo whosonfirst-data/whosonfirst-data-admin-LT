@@ -1,0 +1,73 @@
+{
+  "id": 1209850135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83893,55.68157,23.83893,55.68157",
+    "geom:latitude":55.68157,
+    "geom:longitude":23.83893,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Moniunai",
+    "gn:country_code":"LT",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596856,
+    "gn:latitude":55.68157,
+    "gn:longitude":23.83893,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Moni\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manyunay",
+        "A\u0161men\u0117l\u0117",
+        "Moni\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596856
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4e6cf67547f462a6792ef797f3bf10ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1209850135,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1209850135,
+    "wof:lastmodified":1537662145,
+    "wof:name":"Moniunai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83893,
+    55.68157,
+    23.83893,
+    55.68157
+],
+  "geometry": {"coordinates":[23.83893,55.68157],"type":"Point"}
+}

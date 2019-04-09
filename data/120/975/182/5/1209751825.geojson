@@ -1,0 +1,82 @@
+{
+  "id": 1209751825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01499,53.99914,24.01499,53.99914",
+    "geom:latitude":53.99914,
+    "geom:longitude":24.01499,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"15.0",
+    "gn:asciiname":"Ratnycia",
+    "gn:country_code":"LT",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595370,
+    "gn:latitude":53.99914,
+    "gn:longitude":24.01499,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ratny\u010dia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ratny\u010dia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u043d\u0438\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ratny\u010diai",
+        "Rotnitsa",
+        "Rotnica",
+        "Ratnicha",
+        "Ratnica",
+        "Ratny\u010dia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595370
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d04079c45f5822047eeda3df07d7ff37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073579,
+            "locality_id":1209751825,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1209751825,
+    "wof:lastmodified":1537662036,
+    "wof:name":"Ratnycia",
+    "wof:parent_id":102073579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01499,
+    53.99914,
+    24.01499,
+    53.99914
+],
+  "geometry": {"coordinates":[24.01499,53.99914],"type":"Point"}
+}

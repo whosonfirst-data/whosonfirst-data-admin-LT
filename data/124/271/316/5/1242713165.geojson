@@ -1,0 +1,82 @@
+{
+  "id": 1242713165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.58816,55.15923,26.58816,55.15923",
+    "geom:latitude":55.15923,
+    "geom:longitude":26.58816,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Adutiskis",
+    "gn:country_code":"LT",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601224,
+    "gn:latitude":55.15923,
+    "gn:longitude":26.58816,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Aduti\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aduti\u0161kis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0443\u0442\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Khodutsishki",
+        "Adutishkis",
+        "Godutishki",
+        "Hoduciszki",
+        "Aduti\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601224,
+        "wk:page":"Aduti%C5%A1kis"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"62785f475891d5a337f7256338d04b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1242713165,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1242713165,
+    "wof:lastmodified":1537662439,
+    "wof:name":"Adutiskis",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.58816,
+    55.15923000000001,
+    26.58816,
+    55.15923000000001
+],
+  "geometry": {"coordinates":[26.58816,55.15923000000001],"type":"Point"}
+}

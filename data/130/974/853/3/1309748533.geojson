@@ -1,0 +1,72 @@
+{
+  "id": 1309748533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.64152,55.04177,23.64152,55.04177",
+    "geom:latitude":55.04177,
+    "geom:longitude":23.64152,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Jagminiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598929,
+    "gn:latitude":55.04177,
+    "gn:longitude":23.64152,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jagmini\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yagminay",
+        "Jagmini\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598929
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4a467287c4c6e28acf3c250990eb32a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1309748533,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309748533,
+    "wof:lastmodified":1537662286,
+    "wof:name":"Jagminiskiai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.64152,
+    55.04176999999999,
+    23.64152,
+    55.04176999999999
+],
+  "geometry": {"coordinates":[23.64152,55.04176999999999],"type":"Point"}
+}

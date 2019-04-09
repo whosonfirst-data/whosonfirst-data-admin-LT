@@ -1,0 +1,71 @@
+{
+  "id": 1293517993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44472,54.65004,23.44472,54.65004",
+    "geom:latitude":54.65004,
+    "geom:longitude":23.44472,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Kleviniai",
+    "gn:country_code":"LT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305247,
+    "gn:latitude":54.65004,
+    "gn:longitude":23.44472,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kleviniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kleviniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305247
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a2f3dbe10faff858124a7a42b84f47cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073595,
+            "locality_id":1293517993,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1293517993,
+    "wof:lastmodified":1537662844,
+    "wof:name":"Kleviniai",
+    "wof:parent_id":102073595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44472,
+    54.65004,
+    23.44472,
+    54.65004
+],
+  "geometry": {"coordinates":[23.44472,54.65004],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343296013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43212,55.49653,25.43212,55.49653",
+    "geom:latitude":55.49653,
+    "geom:longitude":25.43212,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"82.0",
+    "gn:asciiname":"Sabelkai",
+    "gn:country_code":"LT",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11296205,
+    "gn:latitude":55.49653,
+    "gn:longitude":25.43212,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sabelkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sabelkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11296205
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"943c82f0a3aabf64e39fad1ba8e10075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073693,
+            "locality_id":1343296013,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1343296013,
+    "wof:lastmodified":1537662613,
+    "wof:name":"Sabelkai",
+    "wof:parent_id":102073693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43212,
+    55.49653000000001,
+    25.43212,
+    55.49653000000001
+],
+  "geometry": {"coordinates":[25.43212,55.49653000000001],"type":"Point"}
+}

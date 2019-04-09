@@ -1,0 +1,71 @@
+{
+  "id": 1343988249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56557,55.90595,21.56557,55.90595",
+    "geom:latitude":55.90595,
+    "geom:longitude":21.56557,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Kupsiai",
+    "gn:country_code":"LT",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289393,
+    "gn:latitude":55.90595,
+    "gn:longitude":21.56557,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kup\u0161iai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kup\u0161iai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289393
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"81c0abb3be0057795d3a91177bf5bc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":1343988249,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1343988249,
+    "wof:lastmodified":1537662456,
+    "wof:name":"Kupsiai",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56557,
+    55.90595,
+    21.56557,
+    55.90595
+],
+  "geometry": {"coordinates":[21.56557,55.90595],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259519277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08093,55.9565,24.08093,55.9565",
+    "geom:latitude":55.9565,
+    "geom:longitude":24.08093,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Senkoniai",
+    "gn:country_code":"LT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594810,
+    "gn:latitude":55.9565,
+    "gn:longitude":24.08093,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Senkoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Senkoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594810
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4148b8d909aa9c56db07f94d80d749d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1259519277,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1259519277,
+    "wof:lastmodified":1537661998,
+    "wof:name":"Senkoniai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08093,
+    55.9565,
+    24.08093,
+    55.9565
+],
+  "geometry": {"coordinates":[24.08093,55.9565],"type":"Point"}
+}

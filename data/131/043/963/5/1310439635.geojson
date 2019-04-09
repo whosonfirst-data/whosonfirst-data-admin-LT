@@ -1,0 +1,79 @@
+{
+  "id": 1310439635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81187,55.89107,21.81187,55.89107",
+    "geom:latitude":55.89107,
+    "geom:longitude":21.81187,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Varkaliai",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593396,
+    "gn:latitude":55.89107,
+    "gn:longitude":21.81187,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Varkaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Varkaliai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043a\u0430\u043b\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Varkaley",
+        "Varkali\u0173",
+        "Varkaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593396
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"346dcba04c3133559e476c47bf0641f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1310439635,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1310439635,
+    "wof:lastmodified":1537661901,
+    "wof:name":"Varkaliai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81187000000001,
+    55.89106999999999,
+    21.81187000000001,
+    55.89106999999999
+],
+  "geometry": {"coordinates":[21.81187000000001,55.89106999999999],"type":"Point"}
+}

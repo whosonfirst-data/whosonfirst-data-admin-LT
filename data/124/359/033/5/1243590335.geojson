@@ -1,0 +1,72 @@
+{
+  "id": 1243590335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45506,54.37015,25.45506,54.37015",
+    "geom:latitude":54.37015,
+    "geom:longitude":25.45506,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Mistautonys",
+    "gn:country_code":"LT",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596900,
+    "gn:latitude":54.37015,
+    "gn:longitude":25.45506,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mi\u0161tautonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mishtoltany",
+        "Mi\u0161tautonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596900
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"43aa4b84283d728e74d30831a3fb924a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1243590335,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243590335,
+    "wof:lastmodified":1537662147,
+    "wof:name":"Mistautonys",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45506,
+    54.37015,
+    25.45506,
+    54.37015
+],
+  "geometry": {"coordinates":[25.45506,54.37015],"type":"Point"}
+}

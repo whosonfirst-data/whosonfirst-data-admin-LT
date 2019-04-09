@@ -1,0 +1,71 @@
+{
+  "id": 1343292763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24575,55.60094,23.24575,55.60094",
+    "geom:latitude":55.60094,
+    "geom:longitude":23.24575,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Leosina",
+    "gn:country_code":"LT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11306003,
+    "gn:latitude":55.60094,
+    "gn:longitude":23.24575,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Leo\u0161ina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Leo\u0161ina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11306003
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3293e32fa98779c1ce8199765994131c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1343292763,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1343292763,
+    "wof:lastmodified":1537662860,
+    "wof:name":"Leosina",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24575,
+    55.60094,
+    23.24575,
+    55.60094
+],
+  "geometry": {"coordinates":[23.24575,55.60094],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344087617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57666,54.91293,25.57666,54.91293",
+    "geom:latitude":54.91293,
+    "geom:longitude":25.57666,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Skleriskes",
+    "gn:country_code":"LT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594525,
+    "gn:latitude":54.91293,
+    "gn:longitude":25.57666,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Skl\u0117ri\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Skl\u0117ri\u0161k\u0117s"
+    ],
+    "name:und_x_variant":[
+        "Sklerishki",
+        "Skl\u0117ri\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594525
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b091b2e3ff09c8937b43cfb1a0a03f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1344087617,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1344087617,
+    "wof:lastmodified":1537661978,
+    "wof:name":"Skleriskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57666,
+    54.91293,
+    25.57666,
+    54.91293
+],
+  "geometry": {"coordinates":[25.57666,54.91293],"type":"Point"}
+}

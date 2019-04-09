@@ -1,0 +1,73 @@
+{
+  "id": 1276159553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02593,55.24284,23.02593,55.24284",
+    "geom:latitude":55.24284,
+    "geom:longitude":23.02593,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Silisninkai",
+    "gn:country_code":"LT",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594665,
+    "gn:latitude":55.24284,
+    "gn:longitude":23.02593,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160ili\u0161ninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shilishki",
+        "Shilishkyay",
+        "\u0160ili\u0161ninkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594665
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e4716dd6e69b10657a5fd2d3cfefbd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1276159553,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1276159553,
+    "wof:lastmodified":1537661987,
+    "wof:name":"Silisninkai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02593,
+    55.24284,
+    23.02593,
+    55.24284
+],
+  "geometry": {"coordinates":[23.02593,55.24284],"type":"Point"}
+}

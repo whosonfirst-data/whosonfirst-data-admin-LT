@@ -1,0 +1,81 @@
+{
+  "id": 1243398017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28006,55.3406,26.28006,55.3406",
+    "geom:latitude":55.3406,
+    "geom:longitude":26.28006,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Senasis Daugeliskis",
+    "gn:country_code":"LT",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594827,
+    "gn:latitude":55.3406,
+    "gn:longitude":26.28006,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Senasis Daug\u0117li\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Senasis Daug\u0117li\u0161kis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u044f\u0441\u0438\u0441-\u0414\u0430\u0443\u0433\u0435\u043b\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Daug\u0117li\u0161kis",
+        "Senasis-Daugelishkis",
+        "Daugieliszki Stare",
+        "Staryye Daugelishki",
+        "Senasis Daug\u0117li\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594827
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f2c569e39dca96c56a7ed4933eec8ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1243398017,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1243398017,
+    "wof:lastmodified":1537661999,
+    "wof:name":"Senasis Daugeliskis",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28006,
+    55.3406,
+    26.28006,
+    55.3406
+],
+  "geometry": {"coordinates":[26.28006,55.3406],"type":"Point"}
+}

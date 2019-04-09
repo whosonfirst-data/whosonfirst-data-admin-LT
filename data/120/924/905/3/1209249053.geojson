@@ -1,0 +1,65 @@
+{
+  "id": 1209249053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56993,55.38439,24.56993,55.38439",
+    "geom:latitude":55.38439,
+    "geom:longitude":24.56993,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"81.0",
+    "gn:asciiname":"Keruciai",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311760,
+    "gn:latitude":55.38439,
+    "gn:longitude":24.56993,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Keru\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Keru\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311760
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b5c9f8625677aaa13d5a4e37bb2d81ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249053
+        }
+    ],
+    "wof:id":1209249053,
+    "wof:lastmodified":1537662975,
+    "wof:name":"Keruciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56993,
+    55.38439,
+    24.56993,
+    55.38439
+],
+  "geometry": {"coordinates":[24.56993,55.38439],"type":"Point"}
+}

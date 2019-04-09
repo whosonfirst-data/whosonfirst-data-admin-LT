@@ -1,0 +1,65 @@
+{
+  "id": 1209249191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91629,55.8674,25.91629,55.8674",
+    "geom:latitude":55.8674,
+    "geom:longitude":25.91629,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Lingava",
+    "gn:country_code":"LT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293262,
+    "gn:latitude":55.8674,
+    "gn:longitude":25.91629,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lingava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lingava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293262
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"365bb71c1bc086f5b021ae096a1aad83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249191
+        }
+    ],
+    "wof:id":1209249191,
+    "wof:lastmodified":1537662542,
+    "wof:name":"Lingava",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91629,
+    55.8674,
+    25.91629,
+    55.8674
+],
+  "geometry": {"coordinates":[25.91629,55.8674],"type":"Point"}
+}

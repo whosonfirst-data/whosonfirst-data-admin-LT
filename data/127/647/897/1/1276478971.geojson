@@ -1,0 +1,74 @@
+{
+  "id": 1276478971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70389,56.17139,24.70389,56.17139",
+    "geom:latitude":56.17139,
+    "geom:longitude":24.70389,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Klausuciai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598084,
+    "gn:latitude":56.17139,
+    "gn:longitude":24.70389,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Klausu\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Klausuchay",
+        "Klausu\u010di\u0173",
+        "Klausuchyay",
+        "Klausu\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598084
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f5e5247a18000bc52e00c5e03159a37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1276478971,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1276478971,
+    "wof:lastmodified":1537662229,
+    "wof:name":"Klausuciai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70389,
+    56.17139,
+    24.70389,
+    56.17139
+],
+  "geometry": {"coordinates":[24.70389,56.17139],"type":"Point"}
+}

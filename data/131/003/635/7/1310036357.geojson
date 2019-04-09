@@ -1,0 +1,75 @@
+{
+  "id": 1310036357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.39356,54.56982,24.39356,54.56982",
+    "geom:latitude":54.56982,
+    "geom:longitude":24.39356,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"69.0",
+    "gn:asciiname":"Kristapiskes",
+    "gn:country_code":"LT",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597961,
+    "gn:latitude":54.56982,
+    "gn:longitude":24.39356,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kri\u0161tapi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kri\u0161tapi\u0161k\u0117s"
+    ],
+    "name:und_x_variant":[
+        "Kristapishkes",
+        "Krishtofishki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597961
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b44216804771cdc3647e43316ee256e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073603,
+            "locality_id":1310036357,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310036357,
+    "wof:lastmodified":1537662220,
+    "wof:name":"Kristapiskes",
+    "wof:parent_id":102073603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.39356,
+    54.56981999999999,
+    24.39356,
+    54.56981999999999
+],
+  "geometry": {"coordinates":[24.39356,54.56981999999999],"type":"Point"}
+}

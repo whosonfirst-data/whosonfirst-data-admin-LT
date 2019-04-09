@@ -1,0 +1,71 @@
+{
+  "id": 1309939547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61979,55.5167,24.61979,55.5167",
+    "geom:latitude":55.5167,
+    "geom:longitude":24.61979,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Dudelenai",
+    "gn:country_code":"LT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311982,
+    "gn:latitude":55.5167,
+    "gn:longitude":24.61979,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"D\u016bdel\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "D\u016bdel\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311982
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"47472b1bee2a0e07458ddfb8378b751f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1309939547,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1309939547,
+    "wof:lastmodified":1537662980,
+    "wof:name":"Dudelenai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61979,
+    55.5167,
+    24.61979,
+    55.5167
+],
+  "geometry": {"coordinates":[24.61979,55.5167],"type":"Point"}
+}

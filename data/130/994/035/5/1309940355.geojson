@@ -1,0 +1,71 @@
+{
+  "id": 1309940355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.09141,55.82805,26.09141,55.82805",
+    "geom:latitude":55.82805,
+    "geom:longitude":26.09141,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Rudines",
+    "gn:country_code":"LT",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11291407,
+    "gn:latitude":55.82805,
+    "gn:longitude":26.09141,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Rudin\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rudin\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11291407
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a92b01a6f06a02fe25a465cda29c6775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1309940355,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1309940355,
+    "wof:lastmodified":1537662494,
+    "wof:name":"Rudines",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.09141,
+    55.82805,
+    26.09141,
+    55.82805
+],
+  "geometry": {"coordinates":[26.09141,55.82805],"type":"Point"}
+}

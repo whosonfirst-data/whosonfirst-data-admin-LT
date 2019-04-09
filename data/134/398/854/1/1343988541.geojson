@@ -1,0 +1,71 @@
+{
+  "id": 1343988541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.61398,54.18126,25.61398,54.18126",
+    "geom:latitude":54.18126,
+    "geom:longitude":25.61398,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Avietine",
+    "gn:country_code":"LT",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295368,
+    "gn:latitude":54.18126,
+    "gn:longitude":25.61398,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Avietin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Avietin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295368
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"98e83fd4f4225d9e8e850fc399eb8a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1343988541,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343988541,
+    "wof:lastmodified":1537662591,
+    "wof:name":"Avietine",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.61398,
+    54.18126,
+    25.61398,
+    54.18126
+],
+  "geometry": {"coordinates":[25.61398,54.18126],"type":"Point"}
+}

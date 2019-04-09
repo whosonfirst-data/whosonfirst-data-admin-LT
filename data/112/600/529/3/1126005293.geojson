@@ -1,0 +1,121 @@
+{
+  "id": 1126005293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.45,55.7,26.45,55.7",
+    "geom:latitude":55.7,
+    "geom:longitude":26.45,
+    "gn:gn_country":"LT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":282,
+    "gn:population":282,
+    "iso:country":"LT",
+    "lbl:latitude":55.7,
+    "lbl:longitude":26.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Turmantas"
+    ],
+    "name:eng_x_preferred":[
+        "Turmantas"
+    ],
+    "name:lav_x_preferred":[
+        "Turmanta"
+    ],
+    "name:lit_x_preferred":[
+        "Turmantas"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0631\u0645\u0627\u0646\u062a\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Turmont"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043c\u0430\u043d\u0442\u0430\u0441"
+    ],
+    "name:sgs_x_preferred":[
+        "Tormants"
+    ],
+    "name:unk_x_variant":[
+        "Turmuntas"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u0645\u0646\u062a\u0627\u0633"
+    ],
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":"LT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":593776,
+    "qs_pg:gn_pop":282,
+    "qs_pg:name":"Turmantas",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Utenos Apskritis",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":1010462,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":479117,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Utenos Apskritis",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593776,
+        "gp:id":479117,
+        "qs_pg:id":1010462,
+        "wd:id":"Q5731454"
+    },
+    "wof:country":"LT",
+    "wof:created":1497299907,
+    "wof:geomhash":"8918d2309b8bd089080634d96e19ac81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1126005293,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1126005293,
+    "wof:lastmodified":1514483812,
+    "wof:name":"Turmantas",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:population":282,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.45,
+    55.7,
+    26.45,
+    55.7
+],
+  "geometry": {"coordinates":[26.45,55.7],"type":"Point"}
+}

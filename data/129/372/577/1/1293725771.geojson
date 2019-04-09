@@ -1,0 +1,71 @@
+{
+  "id": 1293725771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17764,56.14049,22.17764,56.14049",
+    "geom:latitude":56.14049,
+    "geom:longitude":22.17764,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Plinkses",
+    "gn:country_code":"LT",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595699,
+    "gn:latitude":56.14049,
+    "gn:longitude":22.17764,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Plink\u0161\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Plink\u0161\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595699
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2379cc63a969a2670ee34f4e108caf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1293725771,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293725771,
+    "wof:lastmodified":1537662058,
+    "wof:name":"Plinkses",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17764,
+    56.14049,
+    22.17764,
+    56.14049
+],
+  "geometry": {"coordinates":[22.17764,56.14049],"type":"Point"}
+}

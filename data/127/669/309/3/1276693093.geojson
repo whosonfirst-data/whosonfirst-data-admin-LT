@@ -1,0 +1,71 @@
+{
+  "id": 1276693093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95032,55.60083,25.95032,55.60083",
+    "geom:latitude":55.60083,
+    "geom:longitude":25.95032,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Kloviskiai",
+    "gn:country_code":"LT",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293887,
+    "gn:latitude":55.60083,
+    "gn:longitude":25.95032,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Klovi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Klovi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293887
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3cc7f43e662f79e0bc76626ef5fd1773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1276693093,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1276693093,
+    "wof:lastmodified":1537662555,
+    "wof:name":"Kloviskiai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95032,
+    55.60083,
+    25.95032,
+    55.60083
+],
+  "geometry": {"coordinates":[25.95032,55.60083],"type":"Point"}
+}

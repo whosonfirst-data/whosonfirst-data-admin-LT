@@ -1,0 +1,82 @@
+{
+  "id": 1125305151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.942084,54.840393,23.942084,54.840393",
+    "geom:latitude":54.840393,
+    "geom:longitude":23.942084,
+    "gn:gn_country":null,
+    "iso:country":"LT",
+    "lbl:latitude":54.840393,
+    "lbl:longitude":23.942084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LT",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Garliavos Seniunija",
+    "qs_pg:name_adm0":"Lietuva",
+    "qs_pg:name_adm1":"Kauno Apskritis",
+    "qs_pg:photos":29,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":199,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1191356,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424875,
+    "qs_pg:woe_id":56043827,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424875,
+    "woe:name_adm0":"Lietuva",
+    "woe:name_adm1":"Kauno Apskritis",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043827,
+        "qs_pg:id":1191356
+    },
+    "wof:country":"LT",
+    "wof:created":1497043646,
+    "wof:geomhash":"adf9bdc4a38013a456c765b14d1dc067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073611,
+            "localadmin_id":1125305151,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1125305151,
+    "wof:lastmodified":1509387790,
+    "wof:name":"Garliavos Seniunija",
+    "wof:parent_id":102073611,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.942084,
+    54.840393,
+    23.942084,
+    54.840393
+],
+  "geometry": {"coordinates":[23.942084,54.840393],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276481229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.37406,56.19387,21.37406,56.19387",
+    "geom:latitude":56.19387,
+    "geom:longitude":21.37406,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Kalviai",
+    "gn:country_code":"LT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289679,
+    "gn:latitude":56.19387,
+    "gn:longitude":21.37406,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kalviai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kalviai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289679
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9f3a8d9b05f720c14589775b6c5743b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1276481229,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1276481229,
+    "wof:lastmodified":1537662460,
+    "wof:name":"Kalviai",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.37406,
+    56.19387,
+    21.37406,
+    56.19387
+],
+  "geometry": {"coordinates":[21.37406,56.19387],"type":"Point"}
+}

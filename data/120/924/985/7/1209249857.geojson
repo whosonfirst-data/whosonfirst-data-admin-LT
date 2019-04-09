@@ -1,0 +1,65 @@
+{
+  "id": 1209249857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37071,54.86666,24.37071,54.86666",
+    "geom:latitude":54.86666,
+    "geom:longitude":24.37071,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Pagiriai",
+    "gn:country_code":"LT",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596382,
+    "gn:latitude":54.86666,
+    "gn:longitude":24.37071,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pagiriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pagiriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596382
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d34219f64b6d6daf586da6620d1d0766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249857
+        }
+    ],
+    "wof:id":1209249857,
+    "wof:lastmodified":1537662110,
+    "wof:name":"Pagiriai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37071,
+    54.86666,
+    24.37071,
+    54.86666
+],
+  "geometry": {"coordinates":[24.37071,54.86666],"type":"Point"}
+}

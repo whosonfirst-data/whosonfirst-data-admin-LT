@@ -1,0 +1,73 @@
+{
+  "id": 1293920411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.09028,55.18571,24.09028,55.18571",
+    "geom:latitude":55.18571,
+    "geom:longitude":24.09028,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Kuigaliai",
+    "gn:country_code":"LT",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597898,
+    "gn:latitude":55.18571,
+    "gn:longitude":24.09028,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kuigaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuygalyay",
+        "Kuigaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597898,
+        "wk:page":"Kuigaliai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e47ec9c359f398ecb860a85f4c0d63e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1293920411,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1293920411,
+    "wof:lastmodified":1537662215,
+    "wof:name":"Kuigaliai",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.09028,
+    55.18571,
+    24.09028,
+    55.18571
+],
+  "geometry": {"coordinates":[24.09028,55.18571],"type":"Point"}
+}

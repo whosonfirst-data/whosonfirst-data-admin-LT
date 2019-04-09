@@ -1,0 +1,65 @@
+{
+  "id": 1209649819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.77254,55.19049,25.77254,55.19049",
+    "geom:latitude":55.19049,
+    "geom:longitude":25.77254,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Pabaldakis",
+    "gn:country_code":"LT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11294819,
+    "gn:latitude":55.19049,
+    "gn:longitude":25.77254,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pabaldakis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pabaldakis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11294819
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5c4ad464c04e72f5c4604b921d9448cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209649819
+        }
+    ],
+    "wof:id":1209649819,
+    "wof:lastmodified":1537662576,
+    "wof:name":"Pabaldakis",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.77254,
+    55.19049,
+    25.77254,
+    55.19049
+],
+  "geometry": {"coordinates":[25.77254,55.19049],"type":"Point"}
+}

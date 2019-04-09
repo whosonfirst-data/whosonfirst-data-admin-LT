@@ -1,0 +1,71 @@
+{
+  "id": 1260013219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24569,54.89096,24.24569,54.89096",
+    "geom:latitude":54.89096,
+    "geom:longitude":24.24569,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Jurgiskes",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11309342,
+    "gn:latitude":54.89096,
+    "gn:longitude":24.24569,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jurgi\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jurgi\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11309342
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b1a8c9979ae7c9ff915fbd5e1ecadbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1260013219,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1260013219,
+    "wof:lastmodified":1537662921,
+    "wof:name":"Jurgiskes",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24569,
+    54.89096,
+    24.24569,
+    54.89096
+],
+  "geometry": {"coordinates":[24.24569,54.89096],"type":"Point"}
+}

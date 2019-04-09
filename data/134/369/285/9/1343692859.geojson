@@ -1,0 +1,72 @@
+{
+  "id": 1343692859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5789,55.28503,22.5789,55.28503",
+    "geom:latitude":55.28503,
+    "geom:longitude":22.5789,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"94.0",
+    "gn:asciiname":"Varnaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593387,
+    "gn:latitude":55.28503,
+    "gn:longitude":22.5789,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Varnai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varnaytsy",
+        "Varnai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593387
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"17a167d371716c66e95ae0f439a8416b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073631,
+            "locality_id":1343692859,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1343692859,
+    "wof:lastmodified":1537661901,
+    "wof:name":"Varnaiciai",
+    "wof:parent_id":102073631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5789,
+    55.28503000000001,
+    22.5789,
+    55.28503000000001
+],
+  "geometry": {"coordinates":[22.5789,55.28503000000001],"type":"Point"}
+}

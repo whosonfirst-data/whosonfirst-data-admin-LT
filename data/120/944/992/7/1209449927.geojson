@@ -1,0 +1,65 @@
+{
+  "id": 1209449927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52553,55.41633,22.52553,55.41633",
+    "geom:latitude":55.41633,
+    "geom:longitude":22.52553,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Leliske",
+    "gn:country_code":"LT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302231,
+    "gn:latitude":55.41633,
+    "gn:longitude":22.52553,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Leli\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Leli\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302231
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c90f6f9d10350c523e8f02ba81099d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209449927
+        }
+    ],
+    "wof:id":1209449927,
+    "wof:lastmodified":1537662772,
+    "wof:name":"Leliske",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52553,
+    55.41633,
+    22.52553,
+    55.41633
+],
+  "geometry": {"coordinates":[22.52553,55.41633],"type":"Point"}
+}

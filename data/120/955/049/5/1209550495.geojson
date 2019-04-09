@@ -1,0 +1,73 @@
+{
+  "id": 1209550495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07394,55.4198,23.07394,55.4198",
+    "geom:latitude":55.4198,
+    "geom:longitude":23.07394,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Unikiai",
+    "gn:country_code":"LT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593724,
+    "gn:latitude":55.4198,
+    "gn:longitude":23.07394,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u016anikiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u016anikiai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043d\u0438\u043a\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Upninkay",
+        "Upiki",
+        "\u016anikiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593724
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"60654526dbaf2de1f4294d7b99f6190e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209550495
+        }
+    ],
+    "wof:id":1209550495,
+    "wof:lastmodified":1537661924,
+    "wof:name":"Unikiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07394,
+    55.4198,
+    23.07394,
+    55.4198
+],
+  "geometry": {"coordinates":[23.07394,55.4198],"type":"Point"}
+}

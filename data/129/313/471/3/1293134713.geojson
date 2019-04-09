@@ -1,0 +1,71 @@
+{
+  "id": 1293134713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98342,55.7493,21.98342,55.7493",
+    "geom:latitude":55.7493,
+    "geom:longitude":21.98342,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Lozoriai",
+    "gn:country_code":"LT",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290139,
+    "gn:latitude":55.7493,
+    "gn:longitude":21.98342,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lozoriai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lozoriai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290139
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3b71c3251e1e59e2ce95b0ce57310999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1293134713,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1293134713,
+    "wof:lastmodified":1537662467,
+    "wof:name":"Lozoriai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98342,
+    55.7493,
+    21.98342,
+    55.7493
+],
+  "geometry": {"coordinates":[21.98342,55.7493],"type":"Point"}
+}

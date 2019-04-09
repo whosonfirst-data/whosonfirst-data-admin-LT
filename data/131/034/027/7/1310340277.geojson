@@ -1,0 +1,72 @@
+{
+  "id": 1310340277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.09643,54.5179,24.09643,54.5179",
+    "geom:latitude":54.5179,
+    "geom:longitude":24.09643,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"11.0",
+    "gn:asciiname":"Strazdine",
+    "gn:country_code":"LT",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11308752,
+    "gn:latitude":54.5179,
+    "gn:longitude":24.09643,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Strazdin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Strazdin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11308752
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4d82b47f164ea1d1b3c9dec8d3f88507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1310340277,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1310340277,
+    "wof:lastmodified":1537662908,
+    "wof:name":"Strazdine",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.09643,
+    54.5179,
+    24.09643,
+    54.5179
+],
+  "geometry": {"coordinates":[24.09643,54.5179],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309741175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61965,54.93046,24.61965,54.93046",
+    "geom:latitude":54.93046,
+    "geom:longitude":24.61965,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Vilkakiemis",
+    "gn:country_code":"LT",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593158,
+    "gn:latitude":54.93046,
+    "gn:longitude":24.61965,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vilkakiemis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Volgokeny",
+        "Vilkakiemis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593158
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"db2e8f77d9f9a73494d8c6a20d777f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1309741175,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1309741175,
+    "wof:lastmodified":1537661887,
+    "wof:name":"Vilkakiemis",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61965,
+    54.93046,
+    24.61965,
+    54.93046
+],
+  "geometry": {"coordinates":[24.61965,54.93046],"type":"Point"}
+}

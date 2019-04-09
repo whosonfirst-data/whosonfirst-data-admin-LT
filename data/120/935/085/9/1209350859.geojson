@@ -1,0 +1,68 @@
+{
+  "id": 1209350859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66868,55.91446,21.66868,55.91446",
+    "geom:latitude":55.91446,
+    "geom:longitude":21.66868,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Pakutuvenai",
+    "gn:country_code":"LT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596246,
+    "gn:latitude":55.91446,
+    "gn:longitude":21.66868,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pakutuv\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakutuven\u0173",
+        "Pakutavenay",
+        "Pakutav\u0117n\u0173",
+        "Pakutuv\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596246
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"751d600301d50190bac1f8d6710c8373",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209350859
+        }
+    ],
+    "wof:id":1209350859,
+    "wof:lastmodified":1537662099,
+    "wof:name":"Pakutuvenai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66868,
+    55.91446,
+    21.66868,
+    55.91446
+],
+  "geometry": {"coordinates":[21.66868,55.91446],"type":"Point"}
+}

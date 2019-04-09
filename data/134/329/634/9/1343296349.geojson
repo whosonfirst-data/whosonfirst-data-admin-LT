@@ -1,0 +1,71 @@
+{
+  "id": 1343296349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47818,55.1501,24.47818,55.1501",
+    "geom:latitude":55.1501,
+    "geom:longitude":24.47818,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"46.0",
+    "gn:asciiname":"Aklasis Ezeras",
+    "gn:country_code":"LT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311500,
+    "gn:latitude":55.1501,
+    "gn:longitude":24.47818,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Aklasis E\u017eeras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Aklasis E\u017eeras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311500
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8c50362ef08aaacfd8e2d5e64468414a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073639,
+            "locality_id":1343296349,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343296349,
+    "wof:lastmodified":1537662968,
+    "wof:name":"Aklasis Ezeras",
+    "wof:parent_id":102073639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47818,
+    55.1501,
+    24.47818,
+    55.1501
+],
+  "geometry": {"coordinates":[24.47818,55.1501],"type":"Point"}
+}

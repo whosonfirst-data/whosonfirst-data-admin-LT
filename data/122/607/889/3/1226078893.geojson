@@ -1,0 +1,71 @@
+{
+  "id": 1226078893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.00524,54.46948,25.00524,54.46948",
+    "geom:latitude":54.46948,
+    "geom:longitude":25.00524,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"79.0",
+    "gn:asciiname":"Mamavys",
+    "gn:country_code":"LT",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597279,
+    "gn:latitude":54.46948,
+    "gn:longitude":25.00524,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mamavys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mamavys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597279
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b76ebff54becb40570e1ae4463f4abb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073605,
+            "locality_id":1226078893,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1226078893,
+    "wof:lastmodified":1537662174,
+    "wof:name":"Mamavys",
+    "wof:parent_id":102073605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.00524,
+    54.46948,
+    25.00524,
+    54.46948
+],
+  "geometry": {"coordinates":[25.00524,54.46948],"type":"Point"}
+}

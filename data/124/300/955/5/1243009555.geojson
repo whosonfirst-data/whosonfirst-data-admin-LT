@@ -1,0 +1,75 @@
+{
+  "id": 1243009555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.28912,56.00784,24.28912,56.00784",
+    "geom:latitude":56.00784,
+    "geom:longitude":24.28912,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Pazasai",
+    "gn:country_code":"LT",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595909,
+    "gn:latitude":56.00784,
+    "gn:longitude":24.28912,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pa\u017e\u0105sai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pa\u017e\u0105sai"
+    ],
+    "name:und_x_variant":[
+        "Pazhasyay",
+        "Pa\u017easiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595909
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"336ccef9f110888a281088aef59c9872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1243009555,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1243009555,
+    "wof:lastmodified":1537662074,
+    "wof:name":"Pazasai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28912,
+    56.00784,
+    24.28912,
+    56.00784
+],
+  "geometry": {"coordinates":[24.28912,56.00784],"type":"Point"}
+}

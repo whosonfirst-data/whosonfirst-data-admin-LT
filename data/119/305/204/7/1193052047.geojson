@@ -1,0 +1,77 @@
+{
+  "id": 1193052047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.19861,55.50422,26.19861,55.50422",
+    "geom:latitude":55.50422,
+    "geom:longitude":26.19861,
+    "gn:admin1_code":"64.0",
+    "gn:admin2_code":"45.0",
+    "gn:asciiname":"Rainiai",
+    "gn:country_code":"LT",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595332,
+    "gn:latitude":55.50422,
+    "gn:longitude":26.19861,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rainiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rainiai"
+    ],
+    "name:und_x_variant":[
+        "Reini\u0173",
+        "Ranenay",
+        "Reynyay",
+        "Reiniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595332
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"698bed2e8f99e55ec5ecad7e7de86831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073685,
+            "locality_id":1193052047,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1193052047,
+    "wof:lastmodified":1537662034,
+    "wof:name":"Rainiai",
+    "wof:parent_id":102073685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.19861,
+    55.50422,
+    26.19861,
+    55.50422
+],
+  "geometry": {"coordinates":[26.19861,55.50422],"type":"Point"}
+}

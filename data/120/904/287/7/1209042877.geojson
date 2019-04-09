@@ -1,0 +1,65 @@
+{
+  "id": 1209042877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23508,55.41741,22.23508,55.41741",
+    "geom:latitude":55.41741,
+    "geom:longitude":22.23508,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Andriejaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290648,
+    "gn:latitude":55.41741,
+    "gn:longitude":22.23508,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Andriejai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Andriejai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290648
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5ef3f2a64ca787e374ea7b6db33f314a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209042877
+        }
+    ],
+    "wof:id":1209042877,
+    "wof:lastmodified":1537662475,
+    "wof:name":"Andriejaiciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23508,
+    55.41741,
+    22.23508,
+    55.41741
+],
+  "geometry": {"coordinates":[22.23508,55.41741],"type":"Point"}
+}

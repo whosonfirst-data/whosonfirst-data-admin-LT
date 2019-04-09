@@ -1,0 +1,67 @@
+{
+  "id": 1209243269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04151,55.8785,22.04151,55.8785",
+    "geom:latitude":55.8785,
+    "geom:longitude":22.04151,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Gaizupiai",
+    "gn:country_code":"LT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599534,
+    "gn:latitude":55.8785,
+    "gn:longitude":22.04151,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gai\u017eupiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gai\u017eupi\u0173",
+        "Gayzhupyay",
+        "Gai\u017eupiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599534
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5557664b34164abd20f9f5ad0ebf3e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209243269
+        }
+    ],
+    "wof:id":1209243269,
+    "wof:lastmodified":1537662325,
+    "wof:name":"Gaizupiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04151,
+    55.8785,
+    22.04151,
+    55.8785
+],
+  "geometry": {"coordinates":[22.04151,55.8785],"type":"Point"}
+}

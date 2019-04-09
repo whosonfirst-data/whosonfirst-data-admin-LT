@@ -1,0 +1,73 @@
+{
+  "id": 1293420407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43233,55.25662,21.43233,55.25662",
+    "geom:latitude":55.25662,
+    "geom:longitude":21.43233,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"88.0",
+    "gn:asciiname":"Tatamiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593977,
+    "gn:latitude":55.25662,
+    "gn:longitude":21.43233,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tatami\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tattamishken",
+        "Tatamishkyay",
+        "Tatami\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593977
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"741d398ece73a1b9352851792489f408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073641,
+            "locality_id":1293420407,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1293420407,
+    "wof:lastmodified":1537661940,
+    "wof:name":"Tatamiskiai",
+    "wof:parent_id":102073641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43233,
+    55.25662,
+    21.43233,
+    55.25662
+],
+  "geometry": {"coordinates":[21.43233,55.25662],"type":"Point"}
+}

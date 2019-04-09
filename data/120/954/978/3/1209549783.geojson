@@ -1,0 +1,73 @@
+{
+  "id": 1209549783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75669,54.10822,24.75669,54.10822",
+    "geom:latitude":54.10822,
+    "geom:longitude":24.75669,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Kaniukai",
+    "gn:country_code":"LT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598464,
+    "gn:latitude":54.10822,
+    "gn:longitude":24.75669,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kani\u016bkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kani\u016bkai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u044e\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Bago\u010diai",
+        "Kani\u016bkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598464,
+        "wk:page":"Bago%C4%8Diai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6a826daf14b6a8caf13bb361b3f9fcb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209549783
+        }
+    ],
+    "wof:id":1209549783,
+    "wof:lastmodified":1537662253,
+    "wof:name":"Kaniukai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.75669,
+    54.10822,
+    24.75669,
+    54.10822
+],
+  "geometry": {"coordinates":[24.75669,54.10822],"type":"Point"}
+}

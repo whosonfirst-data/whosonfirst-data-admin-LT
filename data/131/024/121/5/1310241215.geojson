@@ -1,0 +1,71 @@
+{
+  "id": 1310241215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52032,54.73546,24.52032,54.73546",
+    "geom:latitude":54.73546,
+    "geom:longitude":24.52032,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Eglinka",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310914,
+    "gn:latitude":54.73546,
+    "gn:longitude":24.52032,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Eglinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Eglinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310914
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"16817487fa4a407a10e5167f54705362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1310241215,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1310241215,
+    "wof:lastmodified":1537662952,
+    "wof:name":"Eglinka",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52032,
+    54.73546,
+    24.52032,
+    54.73546
+],
+  "geometry": {"coordinates":[24.52032,54.73546],"type":"Point"}
+}

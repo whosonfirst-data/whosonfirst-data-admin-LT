@@ -1,0 +1,63 @@
+{
+  "id": 1108949903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.1486591161,54.6091427148,25.1486591161,54.6091427148",
+    "geom:latitude":54.609143,
+    "geom:longitude":25.148659,
+    "iso:country":"LT",
+    "lbl:latitude":54.609143,
+    "lbl:longitude":25.148659,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        101753031,
+        102073615,
+        85685759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"LT",
+    "wof:created":1491367985,
+    "wof:geomhash":"e0582ce9df76d4e0980b6959582dbdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073615,
+            "locality_id":101753031,
+            "neighbourhood_id":1108949903,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1108949903,
+    "wof:lastmodified":1492123953,
+    "wof:name":"Naujakiemio",
+    "wof:parent_id":101753031,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14865911614809,
+    54.60914271478317,
+    25.14865911614809,
+    54.60914271478317
+],
+  "geometry": {"coordinates":[25.14865911614809,54.60914271478317],"type":"Point"}
+}

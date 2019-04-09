@@ -1,0 +1,71 @@
+{
+  "id": 1242713969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55778,56.2189,22.55778,56.2189",
+    "geom:latitude":56.2189,
+    "geom:longitude":22.55778,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"61.0",
+    "gn:asciiname":"Gyvoliai",
+    "gn:country_code":"LT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599007,
+    "gn:latitude":56.2189,
+    "gn:longitude":22.55778,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gyvoliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gyvoliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599007
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c6f96c95221b1c5b0c12129f077cbe79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073713,
+            "locality_id":1242713969,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1242713969,
+    "wof:lastmodified":1537662290,
+    "wof:name":"Gyvoliai",
+    "wof:parent_id":102073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55778,
+    56.2189,
+    22.55778,
+    56.2189
+],
+  "geometry": {"coordinates":[22.55778,56.2189],"type":"Point"}
+}

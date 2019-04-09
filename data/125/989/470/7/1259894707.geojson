@@ -1,0 +1,71 @@
+{
+  "id": 1259894707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86667,55.28333,23.86667,55.28333",
+    "geom:latitude":55.28333,
+    "geom:longitude":23.86667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Singaliai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594626,
+    "gn:latitude":55.28333,
+    "gn:longitude":23.86667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"\u0160ingaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u017eiemkelys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594626
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c39fcf35325cd320ea2598b7e65300bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1259894707,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1259894707,
+    "wof:lastmodified":1537661985,
+    "wof:name":"Singaliai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86667000000001,
+    55.28333000000001,
+    23.86667000000001,
+    55.28333000000001
+],
+  "geometry": {"coordinates":[23.86667000000001,55.28333000000001],"type":"Point"}
+}

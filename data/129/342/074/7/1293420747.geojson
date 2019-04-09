@@ -1,0 +1,71 @@
+{
+  "id": 1293420747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.30938,56.05694,25.30938,56.05694",
+    "geom:latitude":56.05694,
+    "geom:longitude":25.30938,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Steponiai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11295437,
+    "gn:latitude":56.05694,
+    "gn:longitude":25.30938,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Steponiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Steponiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11295437
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2993a502bc237c04b5dbf3ca8369d3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1293420747,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1293420747,
+    "wof:lastmodified":1537662594,
+    "wof:name":"Steponiai",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30938,
+    56.05694,
+    25.30938,
+    56.05694
+],
+  "geometry": {"coordinates":[25.30938,56.05694],"type":"Point"}
+}

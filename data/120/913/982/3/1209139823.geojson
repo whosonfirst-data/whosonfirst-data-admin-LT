@@ -1,0 +1,65 @@
+{
+  "id": 1209139823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88872,55.44199,24.88872,55.44199",
+    "geom:latitude":55.44199,
+    "geom:longitude":24.88872,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Jasonys II",
+    "gn:country_code":"LT",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299398,
+    "gn:latitude":55.44199,
+    "gn:longitude":24.88872,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Jasonys II",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Jasonys II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299398
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8708d93a38db37b1970e23ede0015643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209139823
+        }
+    ],
+    "wof:id":1209139823,
+    "wof:lastmodified":1537662700,
+    "wof:name":"Jasonys II",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88872000000001,
+    55.44199,
+    24.88872000000001,
+    55.44199
+],
+  "geometry": {"coordinates":[24.88872000000001,55.44199],"type":"Point"}
+}

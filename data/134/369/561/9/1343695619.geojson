@@ -1,0 +1,74 @@
+{
+  "id": 1343695619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.83986,55.77257,21.83986,55.77257",
+    "geom:latitude":55.77257,
+    "geom:longitude":21.83986,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Pyvorai",
+    "gn:country_code":"LT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595470,
+    "gn:latitude":55.77257,
+    "gn:longitude":21.83986,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pyvorai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pivoray",
+        "Pivor\u0173",
+        "Pyvoriai",
+        "Pyvorai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595470
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"89c8d0596d2426107497a1d85aa9853d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1343695619,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1343695619,
+    "wof:lastmodified":1537662042,
+    "wof:name":"Pyvorai",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.83986,
+    55.77257,
+    21.83986,
+    55.77257
+],
+  "geometry": {"coordinates":[21.83986,55.77257],"type":"Point"}
+}

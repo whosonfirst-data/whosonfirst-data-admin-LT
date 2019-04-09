@@ -1,0 +1,71 @@
+{
+  "id": 1243397657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36313,54.61436,25.36313,54.61436",
+    "geom:latitude":54.61436,
+    "geom:longitude":25.36313,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Paliepiai",
+    "gn:country_code":"LT",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298049,
+    "gn:latitude":54.61436,
+    "gn:longitude":25.36313,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Paliepiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Paliepiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298049
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"92cae107f6395cdc7d918262eadcd3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1243397657,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1243397657,
+    "wof:lastmodified":1537662666,
+    "wof:name":"Paliepiai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36313,
+    54.61436,
+    25.36313,
+    54.61436
+],
+  "geometry": {"coordinates":[25.36313,54.61436],"type":"Point"}
+}

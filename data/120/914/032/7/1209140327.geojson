@@ -1,0 +1,65 @@
+{
+  "id": 1209140327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65519,56.00526,25.65519,56.00526",
+    "geom:latitude":56.00526,
+    "geom:longitude":25.65519,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Papartyne",
+    "gn:country_code":"LT",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292926,
+    "gn:latitude":56.00526,
+    "gn:longitude":25.65519,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Papartyn\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Papartyn\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292926
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c1efbf34500044c9b16b09d868b5e079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209140327
+        }
+    ],
+    "wof:id":1209140327,
+    "wof:lastmodified":1537662535,
+    "wof:name":"Papartyne",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65519,
+    56.00526,
+    25.65519,
+    56.00526
+],
+  "geometry": {"coordinates":[25.65519,56.00526],"type":"Point"}
+}

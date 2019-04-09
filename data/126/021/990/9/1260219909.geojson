@@ -1,0 +1,74 @@
+{
+  "id": 1260219909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6615,56.13349,21.6615,56.13349",
+    "geom:latitude":56.13349,
+    "geom:longitude":21.6615,
+    "gn:admin1_code":"58.0",
+    "gn:admin2_code":"75.0",
+    "gn:asciiname":"Kulaliai",
+    "gn:country_code":"LT",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597882,
+    "gn:latitude":56.13349,
+    "gn:longitude":21.6615,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kulaliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulalyay",
+        "Kulali\u0173",
+        "Kulale",
+        "Kulaliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597882
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"a77a3e2fe2947ddbe53d6643915e8e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073711,
+            "locality_id":1260219909,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1260219909,
+    "wof:lastmodified":1537662214,
+    "wof:name":"Kulaliai",
+    "wof:parent_id":102073711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6615,
+    56.13349,
+    21.6615,
+    56.13349
+],
+  "geometry": {"coordinates":[21.6615,56.13349],"type":"Point"}
+}

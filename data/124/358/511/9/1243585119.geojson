@@ -1,0 +1,71 @@
+{
+  "id": 1243585119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27626,56.11061,22.27626,56.11061",
+    "geom:latitude":56.11061,
+    "geom:longitude":22.27626,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"78.0",
+    "gn:asciiname":"Skauduciai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11301542,
+    "gn:latitude":56.11061,
+    "gn:longitude":22.27626,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Skaudu\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Skaudu\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11301542
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f831421ede07e0e8209b8ab40e1bfbe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073699,
+            "locality_id":1243585119,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1243585119,
+    "wof:lastmodified":1537662763,
+    "wof:name":"Skauduciai",
+    "wof:parent_id":102073699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27626,
+    56.11061,
+    22.27626,
+    56.11061
+],
+  "geometry": {"coordinates":[22.27626,56.11061],"type":"Point"}
+}

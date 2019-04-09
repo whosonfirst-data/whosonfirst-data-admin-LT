@@ -1,0 +1,71 @@
+{
+  "id": 1309940039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.44911,54.64749,25.44911,54.64749",
+    "geom:latitude":54.64749,
+    "geom:longitude":25.44911,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Siaudine",
+    "gn:country_code":"LT",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298211,
+    "gn:latitude":54.64749,
+    "gn:longitude":25.44911,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160iaudin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160iaudin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298211
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"066d9a1ead336bbb1a106c0e0c3d2fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1309940039,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1309940039,
+    "wof:lastmodified":1537662670,
+    "wof:name":"Siaudine",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.44911,
+    54.64749000000001,
+    25.44911,
+    54.64749000000001
+],
+  "geometry": {"coordinates":[25.44911,54.64749000000001],"type":"Point"}
+}

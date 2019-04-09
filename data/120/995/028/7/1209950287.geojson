@@ -1,0 +1,76 @@
+{
+  "id": 1209950287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01168,56.24277,23.01168,56.24277",
+    "geom:latitude":56.24277,
+    "geom:longitude":23.01168,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Kruopiai",
+    "gn:country_code":"LT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597933,
+    "gn:latitude":56.24277,
+    "gn:longitude":23.01168,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kruopiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kruopi\u0173",
+        "Krupopiai",
+        "Krupe",
+        "Kruopyay",
+        "Kruopiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597933,
+        "wk:page":"Kruopiai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4aa87228c4b6262dab8dcacb1ec9ddbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1209950287,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1209950287,
+    "wof:lastmodified":1537662218,
+    "wof:name":"Kruopiai",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01168,
+    56.24276999999999,
+    23.01168,
+    56.24276999999999
+],
+  "geometry": {"coordinates":[23.01168,56.24276999999999],"type":"Point"}
+}

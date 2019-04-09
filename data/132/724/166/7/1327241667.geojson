@@ -1,0 +1,73 @@
+{
+  "id": 1327241667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65,54.6,25.65,54.6",
+    "geom:latitude":54.6,
+    "geom:longitude":25.65,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Didzioji Kazine",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599885,
+    "gn:latitude":54.6,
+    "gn:longitude":25.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Did\u017eioji Ka\u017ein\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u017ein\u0117",
+        "Vel\u2019ka Kosina",
+        "Did\u017eioji Ka\u017ein\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599885
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"174c5d8151f9027c43487f46e8332728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1327241667,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1327241667,
+    "wof:lastmodified":1537662348,
+    "wof:name":"Didzioji Kazine",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65,
+    54.6,
+    25.65,
+    54.6
+],
+  "geometry": {"coordinates":[25.65,54.6],"type":"Point"}
+}

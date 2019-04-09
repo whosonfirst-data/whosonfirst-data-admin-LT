@@ -1,0 +1,67 @@
+{
+  "id": 1209645565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60227,55.66174,23.60227,55.66174",
+    "geom:latitude":55.66174,
+    "geom:longitude":23.60227,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Pliuskiai",
+    "gn:country_code":"LT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595693,
+    "gn:latitude":55.66174,
+    "gn:longitude":23.60227,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pliu\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plyushkay",
+        "Plyushki",
+        "Pliu\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595693
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5ec86f30352bcc75bab66f807654bfca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209645565
+        }
+    ],
+    "wof:id":1209645565,
+    "wof:lastmodified":1537662058,
+    "wof:name":"Pliuskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60227,
+    55.66174,
+    23.60227,
+    55.66174
+],
+  "geometry": {"coordinates":[23.60227,55.66174],"type":"Point"}
+}

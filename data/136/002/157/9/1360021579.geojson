@@ -1,0 +1,71 @@
+{
+  "id": 1360021579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18,55.91719,25.18,55.91719",
+    "geom:latitude":55.91719,
+    "geom:longitude":25.18,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"57.0",
+    "gn:asciiname":"Svedukalnis",
+    "gn:country_code":"LT",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11299072,
+    "gn:latitude":55.91719,
+    "gn:longitude":25.18,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160vedukalnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160vedukalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11299072
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"3b75675bc42444616f113bfdf13bb875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073705,
+            "locality_id":1360021579,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1360021579,
+    "wof:lastmodified":1537662692,
+    "wof:name":"Svedukalnis",
+    "wof:parent_id":102073705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18,
+    55.91719000000001,
+    25.18,
+    55.91719000000001
+],
+  "geometry": {"coordinates":[25.18,55.91719000000001],"type":"Point"}
+}

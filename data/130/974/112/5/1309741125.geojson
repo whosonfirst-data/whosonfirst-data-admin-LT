@@ -1,0 +1,71 @@
+{
+  "id": 1309741125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.9895,55.76867,25.9895,55.76867",
+    "geom:latitude":55.76867,
+    "geom:longitude":25.9895,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Petrauciskes",
+    "gn:country_code":"LT",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293538,
+    "gn:latitude":55.76867,
+    "gn:longitude":25.9895,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Petrau\u010di\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Petrau\u010di\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293538
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0fdb016c7f16152dc2156af38ab1e0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1309741125,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1309741125,
+    "wof:lastmodified":1537662548,
+    "wof:name":"Petrauciskes",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.9895,
+    55.76866999999999,
+    25.9895,
+    55.76866999999999
+],
+  "geometry": {"coordinates":[25.9895,55.76866999999999],"type":"Point"}
+}

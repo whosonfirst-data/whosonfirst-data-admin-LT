@@ -1,0 +1,65 @@
+{
+  "id": 1209348939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.22267,54.30295,23.22267,54.30295",
+    "geom:latitude":54.30295,
+    "geom:longitude":23.22267,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"48.0",
+    "gn:asciiname":"Svidiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594035,
+    "gn:latitude":54.30295,
+    "gn:longitude":23.22267,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Svidi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Svidi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594035
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"8fc122399f3dceb8b2eb7b1ed89d59ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209348939
+        }
+    ],
+    "wof:id":1209348939,
+    "wof:lastmodified":1537661944,
+    "wof:name":"Svidiskiai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.22267,
+    54.30295,
+    23.22267,
+    54.30295
+],
+  "geometry": {"coordinates":[23.22267,54.30295],"type":"Point"}
+}

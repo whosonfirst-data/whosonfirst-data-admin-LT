@@ -1,0 +1,72 @@
+{
+  "id": 1310537697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2275,56.21667,24.2275,56.21667",
+    "geom:latitude":56.21667,
+    "geom:longitude":24.2275,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Eidziotoniai",
+    "gn:cc2":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864627,
+    "gn:latitude":56.21667,
+    "gn:longitude":24.2275,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Eid\u017eiotoniai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eydzhetonyay",
+        "Eid\u017eiotoniai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864627
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"baee69bc60658dd5b5d3a66f6468a65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1310537697,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310537697,
+    "wof:lastmodified":1537662447,
+    "wof:name":"Eidziotoniai",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2275,
+    56.21666999999999,
+    24.2275,
+    56.21666999999999
+],
+  "geometry": {"coordinates":[24.2275,56.21666999999999],"type":"Point"}
+}

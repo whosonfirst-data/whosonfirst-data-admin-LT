@@ -1,0 +1,75 @@
+{
+  "id": 1293237735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22315,54.21339,24.22315,54.21339",
+    "geom:latitude":54.21339,
+    "geom:longitude":24.22315,
+    "gn:admin1_code":"56.0",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Masaliskes",
+    "gn:country_code":"LT",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597214,
+    "gn:latitude":54.21339,
+    "gn:longitude":24.22315,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Masali\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masalishkyay",
+        "Masali\u0161kiai",
+        "Massalishki",
+        "Masali\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597214,
+        "wk:page":"Masali%C5%A1k%C4%97s"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"2bc1592f1ce5bb80b5a1f45b66814be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1293237735,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1293237735,
+    "wof:lastmodified":1537662170,
+    "wof:name":"Masaliskes",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22315,
+    54.21339,
+    24.22315,
+    54.21339
+],
+  "geometry": {"coordinates":[24.22315,54.21339],"type":"Point"}
+}

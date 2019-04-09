@@ -1,0 +1,71 @@
+{
+  "id": 1344091305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39892,54.99205,25.39892,54.99205",
+    "geom:latitude":54.99205,
+    "geom:longitude":25.39892,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Vaitkunai",
+    "gn:country_code":"LT",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297836,
+    "gn:latitude":54.99205,
+    "gn:longitude":25.39892,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vaitk\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Vaitk\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297836
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4b1ad8306f6bd45b776a4b88bad72351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1344091305,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1344091305,
+    "wof:lastmodified":1537662660,
+    "wof:name":"Vaitkunai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39892,
+    54.99205,
+    25.39892,
+    54.99205
+],
+  "geometry": {"coordinates":[25.39892,54.99205],"type":"Point"}
+}

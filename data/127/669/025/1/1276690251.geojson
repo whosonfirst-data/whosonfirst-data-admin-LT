@@ -1,0 +1,71 @@
+{
+  "id": 1276690251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20066,55.17461,22.20066,55.17461",
+    "geom:latitude":55.17461,
+    "geom:longitude":22.20066,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"77.0",
+    "gn:asciiname":"Balandiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11290541,
+    "gn:latitude":55.17461,
+    "gn:longitude":22.20066,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Balandi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Balandi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685767,
+        102073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11290541
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5ced3c2ec5df98588dbd5b48867f07de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073637,
+            "locality_id":1276690251,
+            "region_id":85685767
+        }
+    ],
+    "wof:id":1276690251,
+    "wof:lastmodified":1537662473,
+    "wof:name":"Balandiskiai",
+    "wof:parent_id":102073637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20066,
+    55.17461,
+    22.20066,
+    55.17461
+],
+  "geometry": {"coordinates":[22.20066,55.17461],"type":"Point"}
+}

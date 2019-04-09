@@ -1,0 +1,71 @@
+{
+  "id": 1193047661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75635,55.51695,22.75635,55.51695",
+    "geom:latitude":55.51695,
+    "geom:longitude":22.75635,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Aukstoji Pasile",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11302531,
+    "gn:latitude":55.51695,
+    "gn:longitude":22.75635,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Auk\u0161toji Pa\u0161il\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Auk\u0161toji Pa\u0161il\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11302531
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"379feec0e7834bd1be7ed7f43bf21901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1193047661,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1193047661,
+    "wof:lastmodified":1537662780,
+    "wof:name":"Aukstoji Pasile",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75635,
+    55.51695,
+    22.75635,
+    55.51695
+],
+  "geometry": {"coordinates":[22.75635,55.51695],"type":"Point"}
+}

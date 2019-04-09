@@ -1,0 +1,71 @@
+{
+  "id": 1209749467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.24669,54.83405,25.24669,54.83405",
+    "geom:latitude":54.83405,
+    "geom:longitude":25.24669,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Cimbariskes",
+    "gn:country_code":"LT",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297689,
+    "gn:latitude":54.83405,
+    "gn:longitude":25.24669,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u010cimbari\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u010cimbari\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297689
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"87c3137649691a6071c14bafb7a44d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1209749467,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1209749467,
+    "wof:lastmodified":1537662655,
+    "wof:name":"Cimbariskes",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.24669,
+    54.83405,
+    25.24669,
+    54.83405
+],
+  "geometry": {"coordinates":[25.24669,54.83405],"type":"Point"}
+}

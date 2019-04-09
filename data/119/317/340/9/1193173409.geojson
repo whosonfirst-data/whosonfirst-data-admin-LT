@@ -1,0 +1,72 @@
+{
+  "id": 1193173409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15489,55.45789,24.15489,55.45789",
+    "geom:latitude":55.45789,
+    "geom:longitude":24.15489,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Slabada",
+    "gn:country_code":"LT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594474,
+    "gn:latitude":55.45789,
+    "gn:longitude":24.15489,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Slabada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Slobodka",
+        "Slabada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594474
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ed495ca2de9d1b03de70fd8f0440d629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1193173409,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1193173409,
+    "wof:lastmodified":1537661975,
+    "wof:name":"Slabada",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15489,
+    55.45789,
+    24.15489,
+    55.45789
+],
+  "geometry": {"coordinates":[24.15489,55.45789],"type":"Point"}
+}

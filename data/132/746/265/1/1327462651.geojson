@@ -1,0 +1,72 @@
+{
+  "id": 1327462651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64632,55.7559,22.64632,55.7559",
+    "geom:latitude":55.7559,
+    "geom:longitude":22.64632,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Bambalai",
+    "gn:country_code":"LT",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600672,
+    "gn:latitude":55.7559,
+    "gn:longitude":22.64632,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bambalai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bombalis",
+        "Bambalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600672
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ca66998533a09b1361aed320ea6fd4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1327462651,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1327462651,
+    "wof:lastmodified":1537662406,
+    "wof:name":"Bambalai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64632000000001,
+    55.7559,
+    22.64632000000001,
+    55.7559
+],
+  "geometry": {"coordinates":[22.64632000000001,55.7559],"type":"Point"}
+}

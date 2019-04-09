@@ -1,0 +1,66 @@
+{
+  "id": 1209549557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47913,55.6335,22.47913,55.6335",
+    "geom:latitude":55.6335,
+    "geom:longitude":22.47913,
+    "gn:admin1_code":"62.0",
+    "gn:admin2_code":"87.0",
+    "gn:asciiname":"Karklenaliai",
+    "gn:country_code":"LT",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598404,
+    "gn:latitude":55.6335,
+    "gn:longitude":22.47913,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Karkl\u0117naliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karklinelyay",
+        "Karkl\u0117naliai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598404
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f22aa0d366d2494e5f2be0c3588ab922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209549557
+        }
+    ],
+    "wof:id":1209549557,
+    "wof:lastmodified":1537662249,
+    "wof:name":"Karklenaliai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47913,
+    55.6335,
+    22.47913,
+    55.6335
+],
+  "geometry": {"coordinates":[22.47913,55.6335],"type":"Point"}
+}

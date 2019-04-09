@@ -1,0 +1,71 @@
+{
+  "id": 1226476259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06327,54.46986,23.06327,54.46986",
+    "geom:latitude":54.46986,
+    "geom:longitude":23.06327,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"39.0",
+    "gn:asciiname":"Aruodiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303005,
+    "gn:latitude":54.46986,
+    "gn:longitude":23.06327,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Aruodi\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Aruodi\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303005
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fe7fee7ece837c0a596b7b5244bc919e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073601,
+            "locality_id":1226476259,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1226476259,
+    "wof:lastmodified":1537662790,
+    "wof:name":"Aruodiskiai",
+    "wof:parent_id":102073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06327000000001,
+    54.46986,
+    23.06327000000001,
+    54.46986
+],
+  "geometry": {"coordinates":[23.06327000000001,54.46986],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344188589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16429,55.38831,23.16429,55.38831",
+    "geom:latitude":55.38831,
+    "geom:longitude":23.16429,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Girdaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11303685,
+    "gn:latitude":55.38831,
+    "gn:longitude":23.16429,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Girdai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Girdai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11303685
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"632974d9babcc6b2c038eccc524d3b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1344188589,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1344188589,
+    "wof:lastmodified":1537662807,
+    "wof:name":"Girdaiciai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16429,
+    55.38831,
+    23.16429,
+    55.38831
+],
+  "geometry": {"coordinates":[23.16429,55.38831],"type":"Point"}
+}

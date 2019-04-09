@@ -1,0 +1,73 @@
+{
+  "id": 1242608735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.57951,55.79268,24.57951,55.79268",
+    "geom:latitude":55.79268,
+    "geom:longitude":24.57951,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Karsakiskis",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598385,
+    "gn:latitude":55.79268,
+    "gn:longitude":24.57951,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Karsaki\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karsaki\u0161kio",
+        "Karsakishkis",
+        "Karsaki\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598385
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"009ebfc53b524003f1767395654746de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1242608735,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1242608735,
+    "wof:lastmodified":1537662248,
+    "wof:name":"Karsakiskis",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.57951,
+    55.79268,
+    24.57951,
+    55.79268
+],
+  "geometry": {"coordinates":[24.57951,55.79268],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209136863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.79436,55.82524,21.79436,55.82524",
+    "geom:latitude":55.82524,
+    "geom:longitude":21.79436,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Rapsaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595309,
+    "gn:latitude":55.82524,
+    "gn:longitude":21.79436,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rap\u0161ai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Rap\u0161ai\u010diai"
+    ],
+    "name:und_x_variant":[
+        "Rep\u0161ai\u010di\u0173",
+        "Repshaychey",
+        "R\u0117p\u0161ai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595309
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"34adfad989b5593e20e79efcbe9960a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209136863
+        }
+    ],
+    "wof:id":1209136863,
+    "wof:lastmodified":1537662032,
+    "wof:name":"Rapsaiciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.79436,
+    55.82524,
+    21.79436,
+    55.82524
+],
+  "geometry": {"coordinates":[21.79436,55.82524],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310333825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75856,55.66016,22.75856,55.66016",
+    "geom:latitude":55.66016,
+    "geom:longitude":22.75856,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Daugeliske",
+    "gn:country_code":"LT",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600029,
+    "gn:latitude":55.66016,
+    "gn:longitude":22.75856,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Daug\u0117li\u0161k\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daugelishkyay",
+        "Daug\u0117li\u0161k\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600029
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"07d3644c8388fd0279973e2ba829c916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1310333825,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310333825,
+    "wof:lastmodified":1537662358,
+    "wof:name":"Daugeliske",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75856,
+    55.66016,
+    22.75856,
+    55.66016
+],
+  "geometry": {"coordinates":[22.75856,55.66016],"type":"Point"}
+}

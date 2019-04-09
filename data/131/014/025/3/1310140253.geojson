@@ -1,0 +1,76 @@
+{
+  "id": 1310140253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29526,56.29725,24.29526,56.29725",
+    "geom:latitude":56.29725,
+    "geom:longitude":24.29526,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"67.0",
+    "gn:asciiname":"Kamarde",
+    "gn:country_code":"LT",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598490,
+    "gn:latitude":56.29725,
+    "gn:longitude":24.29526,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kamard\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kamard\u0117"
+    ],
+    "name:und_x_variant":[
+        "Kamarday",
+        "Kamad\u0173",
+        "Kamardai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598490
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"0c734bbb0c1ba19bd62bdaedd387e570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073719,
+            "locality_id":1310140253,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1310140253,
+    "wof:lastmodified":1537662255,
+    "wof:name":"Kamarde",
+    "wof:parent_id":102073719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29526,
+    56.29725,
+    24.29526,
+    56.29725
+],
+  "geometry": {"coordinates":[24.29526,56.29725],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209551341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51402,55.29065,23.51402,55.29065",
+    "geom:latitude":55.29065,
+    "geom:longitude":23.51402,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Lenciai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597548,
+    "gn:latitude":55.29065,
+    "gn:longitude":23.51402,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Len\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lenche",
+        "Lenchyay",
+        "Len\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597548
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"6915a3938486041abc30326961ab9dde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209551341
+        }
+    ],
+    "wof:id":1209551341,
+    "wof:lastmodified":1537662191,
+    "wof:name":"Lenciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51402,
+    55.29065,
+    23.51402,
+    55.29065
+],
+  "geometry": {"coordinates":[23.51402,55.29065],"type":"Point"}
+}

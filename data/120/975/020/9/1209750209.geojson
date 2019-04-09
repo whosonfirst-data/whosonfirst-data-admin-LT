@@ -1,0 +1,71 @@
+{
+  "id": 1209750209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51215,55.20642,23.51215,55.20642",
+    "geom:latitude":55.20642,
+    "geom:longitude":23.51215,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Padubysys",
+    "gn:country_code":"LT",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305670,
+    "gn:latitude":55.20642,
+    "gn:longitude":23.51215,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Padubysys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Padubysys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305670
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"99fbe580d8b43b5504a9d9155af6e4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1209750209,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1209750209,
+    "wof:lastmodified":1537662852,
+    "wof:name":"Padubysys",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51215,
+    55.20642,
+    23.51215,
+    55.20642
+],
+  "geometry": {"coordinates":[23.51215,55.20642],"type":"Point"}
+}

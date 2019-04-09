@@ -1,0 +1,71 @@
+{
+  "id": 1344092547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03799,55.72054,25.03799,55.72054",
+    "geom:latitude":55.72054,
+    "geom:longitude":25.03799,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"34.0",
+    "gn:asciiname":"Sviesteliskis",
+    "gn:country_code":"LT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298976,
+    "gn:latitude":55.72054,
+    "gn:longitude":25.03799,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sviesteli\u0161kis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Sviesteli\u0161kis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298976
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"10834c158c2c3ebc3dc70066f3d68337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073687,
+            "locality_id":1344092547,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1344092547,
+    "wof:lastmodified":1537662690,
+    "wof:name":"Sviesteliskis",
+    "wof:parent_id":102073687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03799,
+    55.72054,
+    25.03799,
+    55.72054
+],
+  "geometry": {"coordinates":[25.03799,55.72054],"type":"Point"}
+}

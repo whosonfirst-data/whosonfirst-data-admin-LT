@@ -1,0 +1,72 @@
+{
+  "id": 1327262899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.05133,55.09132,23.05133,55.09132",
+    "geom:latitude":55.09132,
+    "geom:longitude":23.05133,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Branduoliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599419,
+    "gn:latitude":55.09132,
+    "gn:longitude":23.05133,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Branduoli\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Branduoli\u0161kiai",
+        "Gelgaudi\u0161kis Auk\u0161toji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599419
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e3bbdb86387b4e4c75816acb39618869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1327262899,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1327262899,
+    "wof:lastmodified":1537662318,
+    "wof:name":"Branduoliskiai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05133,
+    55.09132,
+    23.05133,
+    55.09132
+],
+  "geometry": {"coordinates":[23.05133,55.09132],"type":"Point"}
+}

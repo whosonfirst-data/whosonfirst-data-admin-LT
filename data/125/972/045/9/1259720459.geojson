@@ -1,0 +1,71 @@
+{
+  "id": 1259720459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4663,54.65284,25.4663,54.65284",
+    "geom:latitude":54.65284,
+    "geom:longitude":25.4663,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Satrininkai",
+    "gn:country_code":"LT",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11298169,
+    "gn:latitude":54.65284,
+    "gn:longitude":25.4663,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u0160atrininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160atrininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11298169
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"05702b38fde434ebf2fb90f00602d176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073629,
+            "locality_id":1259720459,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1259720459,
+    "wof:lastmodified":1537662669,
+    "wof:name":"Satrininkai",
+    "wof:parent_id":102073629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4663,
+    54.65284000000001,
+    25.4663,
+    54.65284000000001
+],
+  "geometry": {"coordinates":[25.4663,54.65284000000001],"type":"Point"}
+}

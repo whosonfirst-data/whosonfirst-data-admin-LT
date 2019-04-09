@@ -1,0 +1,71 @@
+{
+  "id": 1226572347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61445,56.3391,24.61445,56.3391",
+    "geom:latitude":56.3391,
+    "geom:longitude":24.61445,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Pakalnieciai",
+    "gn:country_code":"LT",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300990,
+    "gn:latitude":56.3391,
+    "gn:longitude":24.61445,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pakalnie\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Riga",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pakalnie\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300990
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5958607a57c1c66984227f01c0af8cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1226572347,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226572347,
+    "wof:lastmodified":1537662749,
+    "wof:name":"Pakalnieciai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61445,
+    56.3391,
+    24.61445,
+    56.3391
+],
+  "geometry": {"coordinates":[24.61445,56.3391],"type":"Point"}
+}

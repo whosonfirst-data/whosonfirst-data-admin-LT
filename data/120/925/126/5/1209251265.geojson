@@ -1,0 +1,65 @@
+{
+  "id": 1209251265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92934,54.24639,23.92934,54.24639",
+    "geom:latitude":54.24639,
+    "geom:longitude":23.92934,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"59.0",
+    "gn:asciiname":"Juozapaviciai",
+    "gn:country_code":"LT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11306805,
+    "gn:latitude":54.24639,
+    "gn:longitude":23.92934,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Juozapavi\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Juozapavi\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11306805
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"786d9410115425f2367694dc652c4faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209251265
+        }
+    ],
+    "wof:id":1209251265,
+    "wof:lastmodified":1537662875,
+    "wof:name":"Juozapaviciai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92934,
+    54.24639000000001,
+    23.92934,
+    54.24639000000001
+],
+  "geometry": {"coordinates":[23.92934,54.24639000000001],"type":"Point"}
+}

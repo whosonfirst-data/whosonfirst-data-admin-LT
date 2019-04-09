@@ -1,0 +1,65 @@
+{
+  "id": 1209445783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7495,54.84255,23.7495,54.84255",
+    "geom:latitude":54.84255,
+    "geom:longitude":23.7495,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Dievogala",
+    "gn:country_code":"LT",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11307255,
+    "gn:latitude":54.84255,
+    "gn:longitude":23.7495,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dievogala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dievogala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11307255
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b443263a384d3ebc28fa2e9f904dd581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209445783
+        }
+    ],
+    "wof:id":1209445783,
+    "wof:lastmodified":1537662887,
+    "wof:name":"Dievogala",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7495,
+    54.84255,
+    23.7495,
+    54.84255
+],
+  "geometry": {"coordinates":[23.7495,54.84255],"type":"Point"}
+}

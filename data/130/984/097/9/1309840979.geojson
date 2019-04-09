@@ -1,0 +1,72 @@
+{
+  "id": 1309840979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99565,55.70615,23.99565,55.70615",
+    "geom:latitude":55.70615,
+    "geom:longitude":23.99565,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"71.0",
+    "gn:asciiname":"Sibiciai",
+    "gn:country_code":"LT",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594729,
+    "gn:latitude":55.70615,
+    "gn:longitude":23.99565,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sibi\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sibichay",
+        "Sibi\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594729
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bbc533f76d7e91e7ad9585db8af21ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073679,
+            "locality_id":1309840979,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1309840979,
+    "wof:lastmodified":1537661992,
+    "wof:name":"Sibiciai",
+    "wof:parent_id":102073679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99565,
+    55.70615,
+    23.99565,
+    55.70615
+],
+  "geometry": {"coordinates":[23.99565,55.70615],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276796117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31787,54.32949,25.31787,54.32949",
+    "geom:latitude":54.32949,
+    "geom:longitude":25.31787,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Ciuziakampis",
+    "gn:country_code":"LT",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":600150,
+    "gn:latitude":54.32949,
+    "gn:longitude":25.31787,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u010ciu\u017eiakampis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ciu\u017eiakampis",
+        "\u010cu\u017eekompie",
+        "Chyuzhakampis",
+        "Chuzhekompe",
+        "\u010ciu\u017eakampis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":600150
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"5a4261910248efee4da372a5c4e7a6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1276796117,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1276796117,
+    "wof:lastmodified":1537662368,
+    "wof:name":"Ciuziakampis",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31787000000001,
+    54.32949,
+    25.31787000000001,
+    54.32949
+],
+  "geometry": {"coordinates":[25.31787000000001,54.32949],"type":"Point"}
+}

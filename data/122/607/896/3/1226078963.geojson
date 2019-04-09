@@ -1,0 +1,71 @@
+{
+  "id": 1226078963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61023,55.88523,24.61023,55.88523",
+    "geom:latitude":55.88523,
+    "geom:longitude":24.61023,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"27.0",
+    "gn:asciiname":"Putauskai",
+    "gn:country_code":"LT",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11312211,
+    "gn:latitude":55.88523,
+    "gn:longitude":24.61023,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Putauskai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Putauskai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11312211
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"9a255ea42f1200ed7837e2e092c48791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073701,
+            "locality_id":1226078963,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1226078963,
+    "wof:lastmodified":1537662987,
+    "wof:name":"Putauskai",
+    "wof:parent_id":102073701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.61023,
+    55.88523000000001,
+    24.61023,
+    55.88523000000001
+],
+  "geometry": {"coordinates":[24.61023,55.88523000000001],"type":"Point"}
+}

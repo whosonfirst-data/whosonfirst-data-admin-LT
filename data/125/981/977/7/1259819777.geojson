@@ -1,0 +1,71 @@
+{
+  "id": 1259819777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63206,56.0037,25.63206,56.0037",
+    "geom:latitude":56.0037,
+    "geom:longitude":25.63206,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Miegonys",
+    "gn:country_code":"LT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292924,
+    "gn:latitude":56.0037,
+    "gn:longitude":25.63206,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Miegonys",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Miegonys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292924
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f815297fe210ab6729442ad4bf7663c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073721,
+            "locality_id":1259819777,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1259819777,
+    "wof:lastmodified":1537662535,
+    "wof:name":"Miegonys",
+    "wof:parent_id":102073721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63206,
+    56.0037,
+    25.63206,
+    56.0037
+],
+  "geometry": {"coordinates":[25.63206,56.0037],"type":"Point"}
+}

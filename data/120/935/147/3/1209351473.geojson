@@ -1,0 +1,65 @@
+{
+  "id": 1209351473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95139,55.64917,25.95139,55.64917",
+    "geom:latitude":55.64917,
+    "geom:longitude":25.95139,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Tetervos",
+    "gn:country_code":"LT",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293860,
+    "gn:latitude":55.64917,
+    "gn:longitude":25.95139,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tetervos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Tetervos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293860
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"705c0d150b6ecc2f5f591a965b21f7a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209351473
+        }
+    ],
+    "wof:id":1209351473,
+    "wof:lastmodified":1537662554,
+    "wof:name":"Tetervos",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95139,
+    55.64917,
+    25.95139,
+    55.64917
+],
+  "geometry": {"coordinates":[25.95139,55.64917],"type":"Point"}
+}

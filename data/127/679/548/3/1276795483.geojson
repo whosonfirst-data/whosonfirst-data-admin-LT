@@ -1,0 +1,81 @@
+{
+  "id": 1276795483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.54193,54.56643,23.54193,54.56643",
+    "geom:latitude":54.56643,
+    "geom:longitude":23.54193,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"18.0",
+    "gn:asciiname":"Igliskeliai",
+    "gn:country_code":"LT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599001,
+    "gn:latitude":54.56643,
+    "gn:longitude":23.54193,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Igli\u0161k\u0117liai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Igli\u0161k\u0117liai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u043b\u0438\u0448\u043a\u0435\u043b\u044f\u0439"
+    ],
+    "name:und_x_variant":[
+        "Igli\u0161k\u0117li\u0173",
+        "Iglishkany",
+        "Iglishkelyay",
+        "Igli\u0161k\u0117liai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599001,
+        "wk:page":"Igli%C5%A1k%C4%97liai"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"d58fb08942b46ab995b9a9d5938b6934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073595,
+            "locality_id":1276795483,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1276795483,
+    "wof:lastmodified":1537662289,
+    "wof:name":"Igliskeliai",
+    "wof:parent_id":102073595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.54193,
+    54.56643,
+    23.54193,
+    54.56643
+],
+  "geometry": {"coordinates":[23.54193,54.56643],"type":"Point"}
+}

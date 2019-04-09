@@ -1,0 +1,80 @@
+{
+  "id": 1310042581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.748,55.70271,22.748,55.70271",
+    "geom:latitude":55.70271,
+    "geom:longitude":22.748,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Vaiguva",
+    "gn:country_code":"LT",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593536,
+    "gn:latitude":55.70271,
+    "gn:longitude":22.748,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vaiguva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vaiguva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0439\u0433\u0443\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vayguva",
+        "Vaiguvos",
+        "Wajgowa",
+        "Vaiguva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593536
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c4da03a290ccadfe6799735899259a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1310042581,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1310042581,
+    "wof:lastmodified":1537661911,
+    "wof:name":"Vaiguva",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.748,
+    55.70271,
+    22.748,
+    55.70271
+],
+  "geometry": {"coordinates":[22.748,55.70271],"type":"Point"}
+}

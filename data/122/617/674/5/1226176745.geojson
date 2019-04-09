@@ -1,0 +1,71 @@
+{
+  "id": 1226176745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.56952,56.06555,21.56952,56.06555",
+    "geom:latitude":56.06555,
+    "geom:longitude":21.56952,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"56.0",
+    "gn:asciiname":"Dvaralis",
+    "gn:country_code":"LT",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11289550,
+    "gn:latitude":56.06555,
+    "gn:longitude":21.56952,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dvaralis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Dvaralis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685747,
+        102073681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11289550
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"e79627c1e411241d19a26403135ced71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073681,
+            "locality_id":1226176745,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1226176745,
+    "wof:lastmodified":1537662458,
+    "wof:name":"Dvaralis",
+    "wof:parent_id":102073681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.56952,
+    56.06555,
+    21.56952,
+    56.06555
+],
+  "geometry": {"coordinates":[21.56952,56.06555],"type":"Point"}
+}

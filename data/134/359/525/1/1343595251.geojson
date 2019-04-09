@@ -1,0 +1,73 @@
+{
+  "id": 1343595251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23617,55.38077,23.23617,55.38077",
+    "geom:latitude":55.38077,
+    "geom:longitude":23.23617,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Kulkiai",
+    "gn:country_code":"LT",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597868,
+    "gn:latitude":55.38077,
+    "gn:longitude":23.23617,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kulkiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kul\u2019keli",
+        "Kul\u2019kelyay",
+        "Kulkiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":597868
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cfc730512e55d398ec9c028e8ed72b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1343595251,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343595251,
+    "wof:lastmodified":1537662213,
+    "wof:name":"Kulkiai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23617,
+    55.38077,
+    23.23617,
+    55.38077
+],
+  "geometry": {"coordinates":[23.23617,55.38077],"type":"Point"}
+}

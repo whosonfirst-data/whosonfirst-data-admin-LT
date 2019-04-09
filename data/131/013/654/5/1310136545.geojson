@@ -1,0 +1,80 @@
+{
+  "id": 1310136545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15119,54.4371,25.15119,54.4371",
+    "geom:latitude":54.4371,
+    "geom:longitude":25.15119,
+    "gn:admin1_code":"65.0",
+    "gn:admin2_code":"85.0",
+    "gn:asciiname":"Rudninkai",
+    "gn:country_code":"LT",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595152,
+    "gn:latitude":54.4371,
+    "gn:longitude":25.15119,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"R\u016bdninkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "R\u016bdninkai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u043d\u0438\u043d\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Rudininkai",
+        "Rudniki",
+        "Rudninkay",
+        "R\u016bdninkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595152
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"13c2c676381b431af1df139e674b0c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073597,
+            "locality_id":1310136545,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1310136545,
+    "wof:lastmodified":1537662021,
+    "wof:name":"Rudninkai",
+    "wof:parent_id":102073597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15119,
+    54.4371,
+    25.15119,
+    54.4371
+],
+  "geometry": {"coordinates":[25.15119,54.4371],"type":"Point"}
+}

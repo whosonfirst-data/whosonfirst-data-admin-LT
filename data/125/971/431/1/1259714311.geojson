@@ -1,0 +1,71 @@
+{
+  "id": 1259714311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91397,55.61177,25.91397,55.61177",
+    "geom:latitude":55.61177,
+    "geom:longitude":25.91397,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Pasekse",
+    "gn:country_code":"LT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293881,
+    "gn:latitude":55.61177,
+    "gn:longitude":25.91397,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pasek\u0161\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pasek\u0161\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293881
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"27331b760631e211e39e2cb24ce53dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1259714311,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1259714311,
+    "wof:lastmodified":1537662555,
+    "wof:name":"Pasekse",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91397000000001,
+    55.61176999999999,
+    25.91397000000001,
+    55.61176999999999
+],
+  "geometry": {"coordinates":[25.91397000000001,55.61176999999999],"type":"Point"}
+}

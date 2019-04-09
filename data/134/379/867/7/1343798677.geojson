@@ -1,0 +1,71 @@
+{
+  "id": 1343798677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86015,54.75914,24.86015,54.75914",
+    "geom:latitude":54.75914,
+    "geom:longitude":24.86015,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"42.0",
+    "gn:asciiname":"Malnunelis",
+    "gn:country_code":"LT",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11300581,
+    "gn:latitude":54.75914,
+    "gn:longitude":24.86015,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Maln\u016bn\u0117lis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Maln\u016bn\u0117lis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11300581
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"df49107787798876dc3af2046ed43cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073613,
+            "locality_id":1343798677,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1343798677,
+    "wof:lastmodified":1537662737,
+    "wof:name":"Malnunelis",
+    "wof:parent_id":102073613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86015,
+    54.75914,
+    24.86015,
+    54.75914
+],
+  "geometry": {"coordinates":[24.86015,54.75914],"type":"Point"}
+}

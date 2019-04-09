@@ -1,0 +1,73 @@
+{
+  "id": 1343892625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07632,56.02437,25.07632,56.02437",
+    "geom:latitude":56.02437,
+    "geom:longitude":25.07632,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"36.0",
+    "gn:asciiname":"Valiuliskiai",
+    "gn:country_code":"LT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593441,
+    "gn:latitude":56.02437,
+    "gn:longitude":25.07632,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Valiuli\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valyulishkyay",
+        "Valiuli\u0161ki\u0173",
+        "Valiuli\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685779,
+        102073727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593441
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"b41a6f75b853cc6236a49904a81ec1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073727,
+            "locality_id":1343892625,
+            "region_id":85685779
+        }
+    ],
+    "wof:id":1343892625,
+    "wof:lastmodified":1537661905,
+    "wof:name":"Valiuliskiai",
+    "wof:parent_id":102073727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07632000000001,
+    56.02437,
+    25.07632000000001,
+    56.02437
+],
+  "geometry": {"coordinates":[25.07632000000001,56.02437],"type":"Point"}
+}

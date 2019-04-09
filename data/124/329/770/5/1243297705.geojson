@@ -1,0 +1,71 @@
+{
+  "id": 1243297705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52462,54.22069,24.52462,54.22069",
+    "geom:latitude":54.22069,
+    "geom:longitude":24.52462,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"38.0",
+    "gn:asciiname":"Girezeris",
+    "gn:country_code":"LT",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11310517,
+    "gn:latitude":54.22069,
+    "gn:longitude":24.52462,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gire\u017eeris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gire\u017eeris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11310517
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7c9fdae74de05c53d0482b6db49375f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073589,
+            "locality_id":1243297705,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1243297705,
+    "wof:lastmodified":1537662945,
+    "wof:name":"Girezeris",
+    "wof:parent_id":102073589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52462,
+    54.22069000000001,
+    24.52462,
+    54.22069000000001
+],
+  "geometry": {"coordinates":[24.52462,54.22069000000001],"type":"Point"}
+}

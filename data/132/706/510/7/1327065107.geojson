@@ -1,0 +1,71 @@
+{
+  "id": 1327065107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.38168,55.01519,23.38168,55.01519",
+    "geom:latitude":55.01519,
+    "geom:longitude":23.38168,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Ranine",
+    "gn:country_code":"LT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305474,
+    "gn:latitude":55.01519,
+    "gn:longitude":23.38168,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ranin\u0117",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Ranin\u0117"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305474
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"fa90faf82c6fa8576e9c6c3c017a4a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1327065107,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1327065107,
+    "wof:lastmodified":1537662850,
+    "wof:name":"Ranine",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.38168,
+    55.01519,
+    23.38168,
+    55.01519
+],
+  "geometry": {"coordinates":[23.38168,55.01519],"type":"Point"}
+}

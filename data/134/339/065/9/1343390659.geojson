@@ -1,0 +1,71 @@
+{
+  "id": 1343390659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35927,55.43034,23.35927,55.43034",
+    "geom:latitude":55.43034,
+    "geom:longitude":23.35927,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"72.0",
+    "gn:asciiname":"Simkaiciai",
+    "gn:country_code":"LT",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594642,
+    "gn:latitude":55.43034,
+    "gn:longitude":23.35927,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u0160imkai\u010diai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "\u0160imkai\u010diai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594642
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"bb6208c3877ceba2e03fd4f1f650b560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073651,
+            "locality_id":1343390659,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343390659,
+    "wof:lastmodified":1537661986,
+    "wof:name":"Simkaiciai",
+    "wof:parent_id":102073651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35927,
+    55.43034,
+    23.35927,
+    55.43034
+],
+  "geometry": {"coordinates":[23.35927,55.43034],"type":"Point"}
+}

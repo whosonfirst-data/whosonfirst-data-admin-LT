@@ -1,0 +1,71 @@
+{
+  "id": 1225975537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52216,55.08962,23.52216,55.08962",
+    "geom:latitude":55.08962,
+    "geom:longitude":23.52216,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Gailiunai",
+    "gn:country_code":"LT",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11305695,
+    "gn:latitude":55.08962,
+    "gn:longitude":23.52216,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gaili\u016bnai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Gaili\u016bnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11305695
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4fd721fd982e1876bd4faa81240024ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073625,
+            "locality_id":1225975537,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1225975537,
+    "wof:lastmodified":1537662853,
+    "wof:name":"Gailiunai",
+    "wof:parent_id":102073625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52216,
+    55.08962,
+    23.52216,
+    55.08962
+],
+  "geometry": {"coordinates":[23.52216,55.08962],"type":"Point"}
+}

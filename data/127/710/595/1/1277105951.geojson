@@ -1,0 +1,71 @@
+{
+  "id": 1277105951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88788,55.66012,25.88788,55.66012",
+    "geom:latitude":55.66012,
+    "geom:longitude":25.88788,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"43.0",
+    "gn:asciiname":"Svigariai",
+    "gn:country_code":"LT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11293840,
+    "gn:latitude":55.66012,
+    "gn:longitude":25.88788,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Svigariai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Svigariai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11293840
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"f0f7cf7028d700ea490db07662226098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073709,
+            "locality_id":1277105951,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1277105951,
+    "wof:lastmodified":1537662554,
+    "wof:name":"Svigariai",
+    "wof:parent_id":102073709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88788,
+    55.66011999999999,
+    25.88788,
+    55.66011999999999
+],
+  "geometry": {"coordinates":[25.88788,55.66011999999999],"type":"Point"}
+}

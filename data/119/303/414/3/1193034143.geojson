@@ -1,0 +1,74 @@
+{
+  "id": 1193034143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11797,54.23549,24.11797,54.23549",
+    "geom:latitude":54.23549,
+    "geom:longitude":24.11797,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Raitininkai",
+    "gn:country_code":"LT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595427,
+    "gn:latitude":54.23549,
+    "gn:longitude":24.11797,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Raitininkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raytininkay",
+        "Raitinink\u0173",
+        "Raitininkay",
+        "Raitininkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685765,
+        102073587,
+        1175612921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595427
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"aa8034b2b59a5e7114360358eefa45aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073587,
+            "locality_id":1193034143,
+            "region_id":85685765
+        }
+    ],
+    "wof:id":1193034143,
+    "wof:lastmodified":1537662039,
+    "wof:name":"Raitininkai",
+    "wof:parent_id":1175612921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11797,
+    54.23549000000001,
+    24.11797,
+    54.23549000000001
+],
+  "geometry": {"coordinates":[24.11797,54.23549000000001],"type":"Point"}
+}

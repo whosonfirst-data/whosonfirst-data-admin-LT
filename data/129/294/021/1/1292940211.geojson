@@ -1,0 +1,75 @@
+{
+  "id": 1292940211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.32056,54.70402,24.32056,54.70402",
+    "geom:latitude":54.70402,
+    "geom:longitude":24.32056,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Rokiskes I",
+    "gn:country_code":"LT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595216,
+    "gn:latitude":54.70402,
+    "gn:longitude":24.32056,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Roki\u0161k\u0117s I",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Roki\u0161k\u0117s I"
+    ],
+    "name:und_x_variant":[
+        "Rakishki",
+        "Roki\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595216
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"35ded9775f5609e60971f22e480630de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1292940211,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1292940211,
+    "wof:lastmodified":1537662026,
+    "wof:name":"Rokiskes I",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.32056,
+    54.70401999999999,
+    24.32056,
+    54.70401999999999
+],
+  "geometry": {"coordinates":[24.32056,54.70401999999999],"type":"Point"}
+}

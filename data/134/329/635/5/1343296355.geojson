@@ -1,0 +1,71 @@
+{
+  "id": 1343296355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.77459,54.91304,24.77459,54.91304",
+    "geom:latitude":54.91304,
+    "geom:longitude":24.77459,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"49.0",
+    "gn:asciiname":"Niauriskes",
+    "gn:country_code":"LT",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11311429,
+    "gn:latitude":54.91304,
+    "gn:longitude":24.77459,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Niauri\u0161k\u0117s",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Niauri\u0161k\u0117s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11311429
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"48145280130e89daf6f354021cb6af5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073621,
+            "locality_id":1343296355,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1343296355,
+    "wof:lastmodified":1537662966,
+    "wof:name":"Niauriskes",
+    "wof:parent_id":102073621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.77459,
+    54.91304,
+    24.77459,
+    54.91304
+],
+  "geometry": {"coordinates":[24.77459,54.91304],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310241135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01044,55.75105,22.01044,55.75105",
+    "geom:latitude":55.75105,
+    "geom:longitude":22.01044,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"74.0",
+    "gn:asciiname":"Giliogiris",
+    "gn:country_code":"LT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":599340,
+    "gn:latitude":55.75105,
+    "gn:longitude":22.01044,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Giliogiris",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gilegirey",
+        "Giliogeris",
+        "Giliogiris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":599340,
+        "wk:page":"Giliogiris"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"4b9b38df8e889cabf2d5912a7f0d9964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073669,
+            "locality_id":1310241135,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1310241135,
+    "wof:lastmodified":1537662312,
+    "wof:name":"Giliogiris",
+    "wof:parent_id":102073669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01044,
+    55.75105,
+    22.01044,
+    55.75105
+],
+  "geometry": {"coordinates":[22.01044,55.75105],"type":"Point"}
+}

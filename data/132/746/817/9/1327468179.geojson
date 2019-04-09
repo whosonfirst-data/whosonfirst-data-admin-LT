@@ -1,0 +1,81 @@
+{
+  "id": 1327468179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73685,54.963,22.73685,54.963",
+    "geom:latitude":54.963,
+    "geom:longitude":22.73685,
+    "gn:admin1_code":"59.0",
+    "gn:admin2_code":"84.0",
+    "gn:asciiname":"Slavikai",
+    "gn:country_code":"LT",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":594458,
+    "gn:latitude":54.963,
+    "gn:longitude":22.73685,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Slavikai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Slavikai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0438\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Slavikay",
+        "Slavik\u0173",
+        "Sloviki",
+        "Slavkai",
+        "Slavikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685753,
+        102073619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":594458
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"ef72593b0496998282822a69dae81fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073619,
+            "locality_id":1327468179,
+            "region_id":85685753
+        }
+    ],
+    "wof:id":1327468179,
+    "wof:lastmodified":1537661974,
+    "wof:name":"Slavikai",
+    "wof:parent_id":102073619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73685,
+    54.963,
+    22.73685,
+    54.963
+],
+  "geometry": {"coordinates":[22.73685,54.963],"type":"Point"}
+}

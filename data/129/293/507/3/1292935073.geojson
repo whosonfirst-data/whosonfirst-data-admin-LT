@@ -1,0 +1,71 @@
+{
+  "id": 1292935073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.95837,56.25161,22.95837,56.25161",
+    "geom:latitude":56.25161,
+    "geom:longitude":22.95837,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"32.0",
+    "gn:asciiname":"Liepkalnis",
+    "gn:country_code":"LT",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11304547,
+    "gn:latitude":56.25161,
+    "gn:longitude":22.95837,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Liepkalnis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Liepkalnis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11304547
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"cf7fd41053a528df19b2ffad0f1eda44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073715,
+            "locality_id":1292935073,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1292935073,
+    "wof:lastmodified":1537662826,
+    "wof:name":"Liepkalnis",
+    "wof:parent_id":102073715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.95837,
+    56.25161,
+    22.95837,
+    56.25161
+],
+  "geometry": {"coordinates":[22.95837,56.25161],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209249555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81172,55.55188,22.81172,55.55188",
+    "geom:latitude":55.55188,
+    "geom:longitude":22.81172,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Uzmedziai",
+    "gn:country_code":"LT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":593627,
+    "gn:latitude":55.55188,
+    "gn:longitude":22.81172,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"U\u017emed\u017eiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uzhmedze",
+        "U\u017emed\u017eiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":593627
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"09f62dbc6cecaa2b8f4d73c82bba70ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633269,
+            "locality_id":1209249555
+        }
+    ],
+    "wof:id":1209249555,
+    "wof:lastmodified":1537661918,
+    "wof:name":"Uzmedziai",
+    "wof:parent_id":85633269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81172,
+    55.55188,
+    22.81172,
+    55.55188
+],
+  "geometry": {"coordinates":[22.81172,55.55188],"type":"Point"}
+}

@@ -1,0 +1,190 @@
+{
+  "id": 1175612923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":268777.777132,
+    "geom:bbox":"21.0505342267,55.3579529917,21.0718180205,55.3775136748",
+    "geom:latitude":55.367599,
+    "geom:longitude":21.059501,
+    "gn:population":2380,
+    "iso:country":"LT",
+    "lbl:latitude":55.372928,
+    "lbl:longitude":21.065627,
+    "mps:latitude":55.372928,
+    "mps:longitude":21.065627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Neringa"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0631\u064a\u0646\u063a\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Nerinqa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041d\u0435\u0440\u044b\u043d\u0433\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Neringa"
+    ],
+    "name:chi_x_preferred":[
+        "\u5167\u6797\u52a0"
+    ],
+    "name:dut_x_preferred":[
+        "Neringa"
+    ],
+    "name:eng_x_preferred":[
+        "Neringa"
+    ],
+    "name:epo_x_preferred":[
+        "Neringa"
+    ],
+    "name:est_x_preferred":[
+        "Neringa"
+    ],
+    "name:fin_x_preferred":[
+        "Neringan kunta"
+    ],
+    "name:fre_x_preferred":[
+        "Neringa"
+    ],
+    "name:frr_x_preferred":[
+        "Neringa"
+    ],
+    "name:ger_x_preferred":[
+        "Neringa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e8\u05d9\u05e0\u05d2\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Neringa"
+    ],
+    "name:ind_x_preferred":[
+        "Neringa"
+    ],
+    "name:ita_x_preferred":[
+        "Comune di Neringa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30ea\u30f3\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\ub9c1\uac00"
+    ],
+    "name:lav_x_preferred":[
+        "Neringa"
+    ],
+    "name:lit_x_preferred":[
+        "Neringa"
+    ],
+    "name:nob_x_preferred":[
+        "Neringa kommune"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0631\u06cc\u0646\u06af\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Nerynga"
+    ],
+    "name:rum_x_preferred":[
+        "Comuna Neringa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u0438\u043d\u0433\u0430"
+    ],
+    "name:sgs_x_preferred":[
+        "Neringa"
+    ],
+    "name:spa_x_preferred":[
+        "Neringa"
+    ],
+    "name:swa_x_preferred":[
+        "Neringa"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0435\u0440\u0438\u043d\u0433\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044f\u0440\u0456\u043d\u0433\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Preyla"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0631\u0646\u06af\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vol_x_preferred":[
+        "Neringa"
+    ],
+    "qs:a0":"Lietuva",
+    "qs:a1":"*Neringa",
+    "qs:a1r":"0Klaipeda",
+    "qs:adm0":"Lietuva",
+    "qs:id":0,
+    "qs:la":"Neringos",
+    "qs:la_lc":"*LT032399",
+    "qs:level":"locality",
+    "qs:loc":"Neringa (Preila)",
+    "qs:loc_alt":"Neringa (Preila)",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":562,
+    "wof:belongsto":[
+        102191581,
+        101847725,
+        85633269,
+        85685747,
+        102073645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":596643,
+        "gp:id":476797,
+        "qs:id":489828,
+        "wd:id":"Q27892"
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"002f8e067d30146acf39d9105302c79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073645,
+            "locality_id":101847725,
+            "region_id":85685747
+        }
+    ],
+    "wof:id":1175612923,
+    "wof:lastmodified":1534985959,
+    "wof:name":"Neringa (Preila)",
+    "wof:parent_id":102073645,
+    "wof:placetype":"locality",
+    "wof:population":2380,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        101847727,
+        101847725
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.05053422667447,
+    55.35795299171838,
+    21.07181802046676,
+    55.37751367479933
+],
+  "geometry": {"coordinates":[[[[21.05694182902931,55.36415753892203],[21.05521282114063,55.35795299171838],[21.05053422667447,55.35836528437051],[21.05300343082445,55.36722901896104],[21.05612317291042,55.36695410699997],[21.05538207328789,55.36429501331372],[21.05694182902931,55.36415753892203]]],[[[21.07181802046676,55.37737601028488],[21.07132306416543,55.3756033518639],[21.06976290948904,55.37574100942373],[21.06877328841205,55.37219567195001],[21.06721325768217,55.37233329638349],[21.06696591871349,55.37144695713846],[21.06540591150281,55.37158455887715],[21.06515861913277,55.37069821559697],[21.06359863544208,55.37083579464201],[21.0633513896671,55.3699494473272],[21.06179142949753,55.37008700367926],[21.06154423031467,55.36920065233085],[21.05998429366758,55.3693381859909],[21.05973714107267,55.36845183060979],[21.05817722794905,55.36858934157863],[21.05891862467456,55.371248416463],[21.06047863821158,55.37111089507511],[21.06072583016311,55.37199724877826],[21.06228586722619,55.37185970469727],[21.06278035744543,55.37363240347736],[21.06434045150968,55.37349483322777],[21.06458774978347,55.37438117830368],[21.06614786737236,55.37424358535867],[21.06688994140268,55.37690260680131],[21.07001034759173,55.37662734239166],[21.07025779882957,55.37751367479933],[21.07181802046676,55.37737601028488]]]],"type":"MultiPolygon"}
+}

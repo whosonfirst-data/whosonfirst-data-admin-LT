@@ -1,0 +1,73 @@
+{
+  "id": 1344092811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93462,55.38258,23.93462,55.38258",
+    "geom:latitude":55.38258,
+    "geom:longitude":23.93462,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"53.0",
+    "gn:asciiname":"Ramenai",
+    "gn:country_code":"LT",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595409,
+    "gn:latitude":55.38258,
+    "gn:longitude":23.93462,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ram\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rimyankay",
+        "Rumyanka",
+        "Ram\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685773,
+        102073659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595409
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c6bf3af7d37619fd9e07af9152e8e2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073659,
+            "locality_id":1344092811,
+            "region_id":85685773
+        }
+    ],
+    "wof:id":1344092811,
+    "wof:lastmodified":1537662038,
+    "wof:name":"Ramenai",
+    "wof:parent_id":102073659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93462,
+    55.38258,
+    23.93462,
+    55.38258
+],
+  "geometry": {"coordinates":[23.93462,55.38258],"type":"Point"}
+}

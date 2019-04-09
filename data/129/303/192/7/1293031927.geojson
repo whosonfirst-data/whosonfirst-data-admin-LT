@@ -1,0 +1,71 @@
+{
+  "id": 1293031927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.54087,55.07968,25.54087,55.07968",
+    "geom:latitude":55.07968,
+    "geom:longitude":25.54087,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"62.0",
+    "gn:asciiname":"Palepsiskiai",
+    "gn:country_code":"LT",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11297481,
+    "gn:latitude":55.07968,
+    "gn:longitude":25.54087,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Palep\u0161i\u0161kiai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Palep\u0161i\u0161kiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685783,
+        102073661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11297481
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"088bacf1363af6a314a5b82cfd97518b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073661,
+            "locality_id":1293031927,
+            "region_id":85685783
+        }
+    ],
+    "wof:id":1293031927,
+    "wof:lastmodified":1537662648,
+    "wof:name":"Palepsiskiai",
+    "wof:parent_id":102073661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.54087,
+    55.07968,
+    25.54087,
+    55.07968
+],
+  "geometry": {"coordinates":[25.54087,55.07968],"type":"Point"}
+}

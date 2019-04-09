@@ -1,0 +1,74 @@
+{
+  "id": 1360118503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03145,56.08072,22.03145,56.08072",
+    "geom:latitude":56.08072,
+    "geom:longitude":22.03145,
+    "gn:admin1_code":"63.0",
+    "gn:admin2_code":"68.0",
+    "gn:asciiname":"Rotinenai",
+    "gn:country_code":"LT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":595200,
+    "gn:latitude":56.08072,
+    "gn:longitude":22.03145,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rotin\u0117nai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rotyniany",
+        "Rotinenay",
+        "Rotin\u0117n\u0173",
+        "Rotin\u0117nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685741,
+        102073695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":595200
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"c758f3d0f8ebbf783227e2cfbfcae817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073695,
+            "locality_id":1360118503,
+            "region_id":85685741
+        }
+    ],
+    "wof:id":1360118503,
+    "wof:lastmodified":1537662025,
+    "wof:name":"Rotinenai",
+    "wof:parent_id":102073695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03145,
+    56.08071999999999,
+    22.03145,
+    56.08071999999999
+],
+  "geometry": {"coordinates":[22.03145,56.08071999999999],"type":"Point"}
+}

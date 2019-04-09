@@ -1,0 +1,73 @@
+{
+  "id": 1260215229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09674,55.66455,23.09674,55.66455",
+    "geom:latitude":55.66455,
+    "geom:longitude":23.09674,
+    "gn:admin1_code":"61.0",
+    "gn:admin2_code":"54.0",
+    "gn:asciiname":"Kaniukai",
+    "gn:country_code":"LT",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":598455,
+    "gn:latitude":55.66455,
+    "gn:longitude":23.09674,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kani\u016bkai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyukay",
+        "Kanyuki",
+        "Kani\u016bkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685755,
+        102073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":598455
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"7adbe782bcdbc72b8adb3ecb9290ce6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073673,
+            "locality_id":1260215229,
+            "region_id":85685755
+        }
+    ],
+    "wof:id":1260215229,
+    "wof:lastmodified":1537662253,
+    "wof:name":"Kaniukai",
+    "wof:parent_id":102073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09674,
+    55.66455,
+    23.09674,
+    55.66455
+],
+  "geometry": {"coordinates":[23.09674,55.66455],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344090881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.04887,55.16724,26.04887,55.16724",
+    "geom:latitude":55.16724,
+    "geom:longitude":26.04887,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"86.0",
+    "gn:asciiname":"Pilypai",
+    "gn:country_code":"LT",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11292541,
+    "gn:latitude":55.16724,
+    "gn:longitude":26.04887,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pilypai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
+    "iso:country":"LT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pilypai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633269,
+        85685759,
+        102073665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11292541
+    },
+    "wof:country":"LT",
+    "wof:geomhash":"13e2e44a523b62fd605fb63acee825c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633269,
+            "county_id":102073665,
+            "locality_id":1344090881,
+            "region_id":85685759
+        }
+    ],
+    "wof:id":1344090881,
+    "wof:lastmodified":1537662525,
+    "wof:name":"Pilypai",
+    "wof:parent_id":102073665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lt",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04887,
+    55.16724,
+    26.04887,
+    55.16724
+],
+  "geometry": {"coordinates":[26.04887,55.16724],"type":"Point"}
+}
