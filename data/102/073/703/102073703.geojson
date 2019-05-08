@@ -10,6 +10,12 @@
     "geom:latitude":55.985341,
     "geom:longitude":23.116196,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "\u0160iauliai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":56.008936,
     "lbl:longitude":23.075322,
     "mps:latitude":56.008936,
@@ -313,7 +319,7 @@
         }
     ],
     "wof:id":102073703,
-    "wof:lastmodified":1536614136,
+    "wof:lastmodified":1554506195,
     "wof:name":"\u0160iauliai",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

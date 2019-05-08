@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062241,
-    "geom:area_square_m":451958574.321281,
+    "geom:area_square_m":451958574.321277,
     "geom:bbox":"23.798739,53.9241605,24.2049305,54.180676",
     "geom:latitude":54.038395,
     "geom:longitude":23.986379,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Druskininkai Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":54.024101,
     "lbl:longitude":23.969791,
     "mps:latitude":54.024101,
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":102073579,
-    "wof:lastmodified":1553815773,
+    "wof:lastmodified":1555038755,
     "wof:name":"Druskininkai",
     "wof:parent_id":85685765,
     "wof:placetype":"county",

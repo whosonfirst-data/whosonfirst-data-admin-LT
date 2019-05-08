@@ -10,6 +10,12 @@
     "geom:latitude":55.977727,
     "geom:longitude":21.378341,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Kretinga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":55.977156,
     "lbl:longitude":21.378349,
     "mps:latitude":55.977156,
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":102073681,
-    "wof:lastmodified":1536614135,
+    "wof:lastmodified":1554506196,
     "wof:name":"Kretinga",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151951,
-    "geom:area_square_m":1082094918.08523,
+    "geom:area_square_m":1082094918.085177,
     "geom:bbox":"24.082871,54.6284515,24.811578,55.025739",
     "geom:latitude":54.835968,
     "geom:longitude":24.411411,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Kai\u0161iadorys District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":54.82881,
     "lbl:longitude":24.386968,
     "mps:latitude":54.82881,
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":102073621,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038750,
     "wof:name":"Kai\u0161iadorys",
     "wof:parent_id":85685773,
     "wof:placetype":"county",

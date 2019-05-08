@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122281,
-    "geom:area_square_m":840224016.697892,
+    "geom:area_square_m":840224016.697919,
     "geom:bbox":"22.53031,56.0693275,23.1281075,56.4148485",
     "geom:latitude":56.241625,
     "geom:longitude":22.822581,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Akmene District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":56.223451,
     "lbl:longitude":22.792752,
     "mps:latitude":56.223451,
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":102073715,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038745,
     "wof:name":"Akmene",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

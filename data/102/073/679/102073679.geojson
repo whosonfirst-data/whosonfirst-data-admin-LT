@@ -10,6 +10,12 @@
     "geom:latitude":55.695171,
     "geom:longitude":23.635593,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Radvili\u0161kis District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":55.684526,
     "lbl:longitude":23.635691,
     "mps:latitude":55.684526,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102073679,
-    "wof:lastmodified":1536614135,
+    "wof:lastmodified":1554506196,
     "wof:name":"Radvili\u0161kis",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

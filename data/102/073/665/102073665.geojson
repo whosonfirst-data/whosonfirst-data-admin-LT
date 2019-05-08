@@ -10,6 +10,12 @@
     "geom:latitude":55.113926,
     "geom:longitude":26.018291,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "\u0160vencionys District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":55.112322,
     "lbl:longitude":26.009507,
     "mps:latitude":55.112322,
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":102073665,
-    "wof:lastmodified":1536614135,
+    "wof:lastmodified":1554506195,
     "wof:name":"\u0160vencionys",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

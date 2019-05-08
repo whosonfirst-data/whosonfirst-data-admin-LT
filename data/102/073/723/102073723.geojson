@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166927,
-    "geom:area_square_m":1146828415.413551,
+    "geom:area_square_m":1146828415.413579,
     "geom:bbox":"23.072803,56.061718,23.961327,56.3830565",
     "geom:latitude":56.247173,
     "geom:longitude":23.502662,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Joni\u0161kis District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":56.207438,
     "lbl:longitude":23.51111,
     "mps:latitude":56.207438,
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":102073723,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038743,
     "wof:name":"Joni\u0161kis",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

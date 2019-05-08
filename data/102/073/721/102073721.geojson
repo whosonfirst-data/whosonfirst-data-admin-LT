@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259844,
-    "geom:area_square_m":1798798086.592066,
+    "geom:area_square_m":1798798086.591983,
     "geom:bbox":"25.063441,55.7149295,26.046084,56.1920055",
     "geom:latitude":55.954836,
     "geom:longitude":25.537505,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Roki\u0161kis District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":55.94192,
     "lbl:longitude":25.530436,
     "mps:latitude":55.94192,
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":102073721,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038744,
     "wof:name":"Roki\u0161kis",
     "wof:parent_id":85685779,
     "wof:placetype":"county",

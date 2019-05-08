@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305441,
-    "geom:area_square_m":2210519496.300067,
+    "geom:area_square_m":2210519496.300068,
     "geom:bbox":"23.960643,53.8970535,25.0247905,54.44764",
     "geom:latitude":54.176925,
     "geom:longitude":24.499987,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Varena District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":54.137445,
     "lbl:longitude":24.463894,
     "mps:latitude":54.137445,
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":102073589,
-    "wof:lastmodified":1553815773,
+    "wof:lastmodified":1555038753,
     "wof:name":"Varena",
     "wof:parent_id":85685765,
     "wof:placetype":"county",

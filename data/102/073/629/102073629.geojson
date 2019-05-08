@@ -10,6 +10,12 @@
     "geom:latitude":54.761946,
     "geom:longitude":25.398242,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Vilnius District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":54.759358,
     "lbl:longitude":25.594072,
     "mps:latitude":54.759358,
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":102073629,
-    "wof:lastmodified":1536614134,
+    "wof:lastmodified":1554506197,
     "wof:name":"Vilnius",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

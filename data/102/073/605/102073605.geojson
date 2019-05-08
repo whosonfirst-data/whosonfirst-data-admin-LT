@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167673,
-    "geom:area_square_m":1202486128.057717,
+    "geom:area_square_m":1202486128.057628,
     "geom:bbox":"24.393722,54.388384,25.1692575,54.739352",
     "geom:latitude":54.55061,
     "geom:longitude":24.782184,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Trakai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":54.526368,
     "lbl:longitude":24.789535,
     "mps:latitude":54.526368,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":102073605,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038752,
     "wof:name":"Trakai",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

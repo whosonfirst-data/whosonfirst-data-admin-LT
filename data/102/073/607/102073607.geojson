@@ -10,6 +10,12 @@
     "geom:latitude":54.784744,
     "geom:longitude":23.464068,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Kazlu  Ruda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":54.795725,
     "lbl:longitude":23.464177,
     "mps:latitude":54.795725,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":102073607,
-    "wof:lastmodified":1536614134,
+    "wof:lastmodified":1554506198,
     "wof:name":"Kazlu  Ruda",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

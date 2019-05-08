@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199609,
-    "geom:area_square_m":39286443.11331,
+    "geom:area_square_m":1437121347.421375,
     "geom:bbox":"23.5101415,54.166174,24.4775255,54.56342",
     "geom:latitude":54.390745,
     "geom:longitude":24.03313,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Alytus City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city municipality"
+    ],
     "lbl:latitude":54.401535,
     "lbl:longitude":24.02533,
     "mps:latitude":54.401535,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1175612921,
-    "wof:lastmodified":1534985958,
+    "wof:lastmodified":1554506357,
     "wof:name":"Alytus",
     "wof:parent_id":85685765,
     "wof:placetype":"county",

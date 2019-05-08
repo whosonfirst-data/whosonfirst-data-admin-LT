@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083683,
-    "geom:area_square_m":582773073.126365,
+    "geom:area_square_m":582773073.12635,
     "geom:bbox":"21.741508,55.597018,22.2553235,55.851041",
     "geom:latitude":55.722868,
     "geom:longitude":21.996812,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Rietavas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":55.727435,
     "lbl:longitude":21.991895,
     "mps:latitude":55.727435,
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":102073669,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038748,
     "wof:name":"Rietavas",
     "wof:parent_id":85685741,
     "wof:placetype":"county",

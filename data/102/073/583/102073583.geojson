@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180083,
-    "geom:area_square_m":1303422673.309679,
+    "geom:area_square_m":1303422673.309677,
     "geom:bbox":"23.3124145,53.898873,23.983542,54.4237025",
     "geom:latitude":54.17267,
     "geom:longitude":23.640009,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Lazdijai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":54.17122,
     "lbl:longitude":23.645071,
     "mps:latitude":54.17122,
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":102073583,
-    "wof:lastmodified":1553815773,
+    "wof:lastmodified":1555038755,
     "wof:name":"Lazdijai",
     "wof:parent_id":85685765,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":55.969368,
     "geom:longitude":21.090729,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Palanga City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city municipality"
+    ],
     "lbl:latitude":55.960774,
     "lbl:longitude":21.095205,
     "mps:latitude":55.960774,
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":102073675,
-    "wof:lastmodified":1536614135,
+    "wof:lastmodified":1554506195,
     "wof:name":"Palanga",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

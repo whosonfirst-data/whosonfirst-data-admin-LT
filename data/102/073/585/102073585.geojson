@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061003,
-    "geom:area_square_m":439327814.094995,
+    "geom:area_square_m":439327814.094981,
     "geom:bbox":"22.9896255,54.253323,23.4010775,54.488513",
     "geom:latitude":54.378923,
     "geom:longitude":23.196235,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Kalvarija Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":54.382265,
     "lbl:longitude":23.200147,
     "mps:latitude":54.382265,
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":102073585,
-    "wof:lastmodified":1553815773,
+    "wof:lastmodified":1555038754,
     "wof:name":"Kalvarija",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

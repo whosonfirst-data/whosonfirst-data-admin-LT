@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189509,
-    "geom:area_square_m":1308578220.333824,
+    "geom:area_square_m":1308578220.333873,
     "geom:bbox":"23.5289475,55.8159245,24.1825985,56.330436",
     "geom:latitude":56.052516,
     "geom:longitude":23.874743,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Pakruojis District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":56.029481,
     "lbl:longitude":23.870138,
     "mps:latitude":56.029481,
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":102073717,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038745,
     "wof:name":"Pakruojis",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

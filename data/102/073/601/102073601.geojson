@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176205,
-    "geom:area_square_m":1262297642.961407,
+    "geom:area_square_m":1262297642.961428,
     "geom:bbox":"22.680382,54.3633345,23.3472805,54.7907285",
     "geom:latitude":54.595196,
     "geom:longitude":22.969004,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Vilkavi\u0161kis District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":54.60931,
     "lbl:longitude":22.962381,
     "mps:latitude":54.60931,
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":102073601,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038752,
     "wof:name":"Vilkavi\u0161kis",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":55.671983,
     "geom:longitude":22.866893,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Kelme District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":55.664169,
     "lbl:longitude":22.911601,
     "mps:latitude":55.664169,
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":102073673,
-    "wof:lastmodified":1536614135,
+    "wof:lastmodified":1554506194,
     "wof:name":"Kelme",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

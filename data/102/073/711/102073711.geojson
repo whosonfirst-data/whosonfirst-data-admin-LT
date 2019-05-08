@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.131959,
-    "geom:area_square_m":907341860.47961,
+    "geom:area_square_m":907341860.47962,
     "geom:bbox":"21.2257765,56.0698995,22.017934,56.38535",
     "geom:latitude":56.215351,
     "geom:longitude":21.68418,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Skuodas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":56.19401,
     "lbl:longitude":21.677954,
     "mps:latitude":56.19401,
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":102073711,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038746,
     "wof:name":"Skuodas",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

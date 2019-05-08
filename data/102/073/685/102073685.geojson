@@ -10,6 +10,12 @@
     "geom:latitude":55.389416,
     "geom:longitude":26.313868,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Ignalina District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":55.414822,
     "lbl:longitude":26.306712,
     "mps:latitude":55.414822,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":102073685,
-    "wof:lastmodified":1536614136,
+    "wof:lastmodified":1554506196,
     "wof:name":"Ignalina",
     "wof:parent_id":85685783,
     "wof:placetype":"county",

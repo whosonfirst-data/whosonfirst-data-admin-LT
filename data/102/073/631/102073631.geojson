@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212442,
-    "geom:area_square_m":1499952867.062678,
+    "geom:area_square_m":1499952867.062672,
     "geom:bbox":"22.2597005,55.0443885,23.504275,55.3899295",
     "geom:latitude":55.180021,
     "geom:longitude":22.887835,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Jurbarkas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":55.193558,
     "lbl:longitude":22.722885,
     "mps:latitude":55.193558,
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":102073631,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038750,
     "wof:name":"Jurbarkas",
     "wof:parent_id":85685767,
     "wof:placetype":"county",

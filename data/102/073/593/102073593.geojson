@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016905,
-    "geom:area_square_m":121190038.871542,
+    "geom:area_square_m":121190038.871533,
     "geom:bbox":"23.8858395,54.49064,24.1723925,54.64855",
     "geom:latitude":54.565057,
     "geom:longitude":24.021092,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Bir\u0161tonas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":54.588421,
     "lbl:longitude":24.047289,
     "mps:latitude":54.588421,
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":102073593,
-    "wof:lastmodified":1553815773,
+    "wof:lastmodified":1555038753,
     "wof:name":"Bir\u0161tonas",
     "wof:parent_id":85685773,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203654,
-    "geom:area_square_m":1446288409.606789,
+    "geom:area_square_m":1446288409.606766,
     "geom:bbox":"22.5888195,54.7246885,23.589393,55.104864",
     "geom:latitude":54.947357,
     "geom:longitude":23.081444,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "\u0160akiai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":54.919772,
     "lbl:longitude":23.115278,
     "mps:latitude":54.919772,
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":102073619,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038751,
     "wof:name":"\u0160akiai",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

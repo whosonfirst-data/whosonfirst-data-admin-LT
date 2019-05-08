@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176738,
-    "geom:area_square_m":1213599951.134649,
+    "geom:area_square_m":1213599951.134684,
     "geom:bbox":"21.9320975,56.08789,22.646966,56.432488",
     "geom:latitude":56.26703,
     "geom:longitude":22.283425,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Ma\u017eeikiai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":56.28367,
     "lbl:longitude":22.290382,
     "mps:latitude":56.28367,
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":102073713,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038746,
     "wof:name":"Ma\u017eeikiai",
     "wof:parent_id":85685741,
     "wof:placetype":"county",

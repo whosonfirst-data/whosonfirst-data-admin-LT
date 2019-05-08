@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18598,
-    "geom:area_square_m":1283958199.64804,
+    "geom:area_square_m":1283958199.648027,
     "geom:bbox":"24.0132545,55.839861,24.6822405,56.300617",
     "geom:latitude":56.060094,
     "geom:longitude":24.338782,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Pasvalys District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":56.093299,
     "lbl:longitude":24.344884,
     "mps:latitude":56.093299,
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":102073719,
-    "wof:lastmodified":1553815774,
+    "wof:lastmodified":1555038744,
     "wof:name":"Pasvalys",
     "wof:parent_id":85685779,
     "wof:placetype":"county",

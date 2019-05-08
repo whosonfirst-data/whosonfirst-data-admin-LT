@@ -12,6 +12,9 @@
     "geom:latitude":54.401081,
     "geom:longitude":24.036189,
     "iso:country":"LT",
+    "label:eng_x_preferred_placetype":[
+        "city municipality"
+    ],
     "lbl:latitude":54.401535,
     "lbl:longitude":24.02533,
     "mps:latitude":54.401535,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102073587,
-    "wof:lastmodified":1536614133,
+    "wof:lastmodified":1554506197,
     "wof:name":"Alytus",
     "wof:parent_id":85685765,
     "wof:placetype":"county",

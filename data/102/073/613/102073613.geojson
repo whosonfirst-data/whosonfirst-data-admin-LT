@@ -10,6 +10,12 @@
     "geom:latitude":54.747091,
     "geom:longitude":24.723777,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Elektrenai Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":54.734206,
     "lbl:longitude":24.723973,
     "mps:latitude":54.734206,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":102073613,
-    "wof:lastmodified":1536614134,
+    "wof:lastmodified":1554506198,
     "wof:name":"Elektrenai",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

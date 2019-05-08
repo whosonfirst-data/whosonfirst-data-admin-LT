@@ -10,6 +10,12 @@
     "geom:latitude":55.552335,
     "geom:longitude":25.074307,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Anyk\u0161ciai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district municipality"
+    ],
     "lbl:latitude":55.521966,
     "lbl:longitude":25.022655,
     "mps:latitude":55.521966,
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":102073687,
-    "wof:lastmodified":1536614136,
+    "wof:lastmodified":1554506197,
     "wof:name":"Anyk\u0161ciai",
     "wof:parent_id":85685783,
     "wof:placetype":"county",
