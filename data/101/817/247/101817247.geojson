@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:alb_x_preferred":[
-        "Akmen\u0117"
-    ],
     "name:ara_x_preferred":[
         "\u0622\u0643\u0645\u064a\u0646\u064a"
     ],
@@ -30,9 +27,6 @@
         "Akmen\u0117"
     ],
     "name:ast_x_preferred":[
-        "Akmen\u0117"
-    ],
-    "name:baq_x_preferred":[
         "Akmen\u0117"
     ],
     "name:bar_x_preferred":[
@@ -50,19 +44,19 @@
     "name:cat_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u514b\u6885\u5167"
+    "name:ces_x_preferred":[
+        "Akmen\u0117"
     ],
     "name:cos_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Akmen\u0117"
     ],
     "name:dan_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Akmen\u0117"
     ],
     "name:eng_x_preferred":[
@@ -74,19 +68,19 @@
     "name:est_x_preferred":[
         "Akmen\u0117"
     ],
+    "name:eus_x_preferred":[
+        "Akmen\u0117"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06a9\u0645\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Akmen\u0117"
     ],
     "name:fur_x_preferred":[
-        "Akmen\u0117"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10db\u10d8\u10d0\u10dc\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "Akmen\u0117"
     ],
     "name:gla_x_preferred":[
@@ -113,10 +107,10 @@
     "name:hun_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Akmen\u0117"
     ],
     "name:ita_x_preferred":[
@@ -124,6 +118,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30af\u30e1\u30cd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10db\u10d8\u10d0\u10dc\u10d4"
     ],
     "name:lav_x_preferred":[
         "Akmene"
@@ -149,6 +146,9 @@
     "name:nds_x_preferred":[
         "Akmen\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Akmen\u0117"
+    ],
     "name:nno_x_preferred":[
         "Akmen\u0117"
     ],
@@ -157,9 +157,6 @@
     ],
     "name:pcd_x_preferred":[
         "Akmen\u0117"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u06a9\u0645\u0646\u0647"
     ],
     "name:pms_x_preferred":[
         "Akmen\u0117"
@@ -173,7 +170,7 @@
     "name:roh_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Akmen\u0117"
     ],
     "name:rus_x_preferred":[
@@ -188,13 +185,16 @@
     "name:sgs_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Akmen\u0117"
     ],
     "name:slv_x_preferred":[
         "Akmen\u0117"
     ],
     "name:spa_x_preferred":[
+        "Akmen\u0117"
+    ],
+    "name:sqi_x_preferred":[
         "Akmen\u0117"
     ],
     "name:srd_x_preferred":[
@@ -221,11 +221,11 @@
     "name:vol_x_preferred":[
         "Akmen\u0117"
     ],
-    "name:wel_x_preferred":[
-        "Akmen\u0117"
-    ],
     "name:wln_x_preferred":[
         "Akmen\u0117"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u514b\u6885\u5167"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Akmene",
@@ -275,7 +275,7 @@
         }
     ],
     "wof:id":101817247,
-    "wof:lastmodified":1527642461,
+    "wof:lastmodified":1561837297,
     "wof:name":"Akmen\u0117",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

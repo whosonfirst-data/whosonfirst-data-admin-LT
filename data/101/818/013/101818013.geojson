@@ -25,16 +25,10 @@
     "name:deu_x_variant":[
         "Wischwill"
     ],
-    "name:dut_x_preferred":[
-        "Vie\u0161vil\u0117"
-    ],
     "name:eng_x_preferred":[
         "Vie\u0161vil\u0117"
     ],
     "name:est_x_preferred":[
-        "Vie\u0161vil\u0117"
-    ],
-    "name:ger_x_preferred":[
         "Vie\u0161vil\u0117"
     ],
     "name:lit_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101818013,
-    "wof:lastmodified":1527642217,
+    "wof:lastmodified":1561837292,
     "wof:name":"Vie\u0161vil\u0117",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":866215.952389,
+    "geom:area_square_m":866215.952388,
     "geom:bbox":"23.6408373716,54.5645922733,23.6590953726,54.5768422717",
     "geom:latitude":54.570938,
     "geom:longitude":23.651253,
@@ -18,9 +18,6 @@
     "mz:is_current":1,
     "name:bul_x_preferred":[
         "\u0418\u0433\u043b\u0438\u0430\u0443\u043a\u0430"
-    ],
-    "name:dut_x_preferred":[
-        "Igliauka"
     ],
     "name:eng_x_preferred":[
         "Igliauka"
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":101817925,
-    "wof:lastmodified":1527642456,
+    "wof:lastmodified":1561837296,
     "wof:name":"Igliauka",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

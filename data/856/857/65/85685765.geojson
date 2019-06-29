@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0644\u064a\u062a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Alytusko konderria"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u0456\u0442\u0443\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
     ],
@@ -42,23 +39,23 @@
     "name:cat_x_preferred":[
         "Comtat d'Alytus"
     ],
+    "name:ces_x_preferred":[
+        "Alytusk\u00fd kraj"
+    ],
     "name:che_x_preferred":[
         "\u0410\u043b\u0438\u0442\u0443\u0441\u0430\u043d \u0440\u0435\u0433\u0438\u043e\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u5229\u5716\u65af\u7e23"
     ],
     "name:cor_x_preferred":[
         "Konteth Alytus"
     ],
-    "name:cze_x_preferred":[
-        "Alytusk\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Alytus amt"
     ],
-    "name:dut_x_preferred":[
-        "Alytus"
+    "name:deu_x_preferred":[
+        "Bezirk Alytus"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bb\u03cd\u03c4\u03bf\u03c5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Alytus"
@@ -72,23 +69,20 @@
     "name:est_x_preferred":[
         "Alytuse maakond"
     ],
+    "name:eus_x_preferred":[
+        "Alytusko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u0644\u06cc\u062a\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Alytusin l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "apskritis d'Alytus"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10d8\u10e2\u10e3\u10e1\u10d8\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Alytus"
     ],
     "name:gle_x_preferred":[
         "Contae Alytus"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03bb\u03cd\u03c4\u03bf\u03c5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab2\u0abf\u0a9f\u0acd\u0ab8 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -114,6 +108,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0cb2\u0cbf\u0c9f\u0cb8\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10e2\u10e3\u10e1\u10d8\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ub9ac\ud22c\uc2a4 \uc8fc"
     ],
@@ -126,20 +123,20 @@
     "name:lit_x_preferred":[
         "Alytaus apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043b\u0438\u0442\u0443\u0448\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u090f\u0932\u094d\u091f\u0938 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0438\u0442\u0443\u0448\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Alytus County"
+    ],
+    "name:nld_x_preferred":[
+        "Alytus"
     ],
     "name:nob_x_preferred":[
         "Alytus fylke"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u0644\u06cc\u062a\u0648\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u0648\u062a\u0633 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -150,7 +147,7 @@
     "name:por_x_preferred":[
         "Alytus"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jude\u021bul Alytus"
     ],
     "name:rus_x_preferred":[
@@ -203,6 +200,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Alytus"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5229\u5716\u65af\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LTU",
@@ -321,7 +321,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1553550861,
+    "wof:lastmodified":1561837264,
     "wof:name":"Alytus",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

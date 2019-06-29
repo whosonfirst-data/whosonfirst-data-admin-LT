@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000308,
-    "geom:area_square_m":2160158.188049,
+    "geom:area_square_m":2160158.188048,
     "geom:bbox":"22.5624460597,55.4002106151,22.6054433836,55.4167815925",
     "geom:latitude":55.407007,
     "geom:longitude":22.586892,
@@ -29,12 +29,6 @@
     "name:cat_x_preferred":[
         "Skaudvil\u0117"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u8003\u5fb7\u7dad\u840a"
-    ],
-    "name:dut_x_preferred":[
-        "Skaudvil\u0117"
-    ],
     "name:eng_x_preferred":[
         "Skaudvil\u0117"
     ],
@@ -48,9 +42,6 @@
         "Skaudvil\u0117"
     ],
     "name:fra_x_preferred":[
-        "Skaudvil\u0117"
-    ],
-    "name:fre_x_preferred":[
         "Skaudvil\u0117"
     ],
     "name:heb_x_preferred":[
@@ -68,8 +59,8 @@
     "name:lit_x_preferred":[
         "Skaudvil\u0117"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u06a9\u0648\u062f\u0648\u06cc\u0644\u0647"
+    "name:nld_x_preferred":[
+        "Skaudvil\u0117"
     ],
     "name:pms_x_preferred":[
         "Skaudvil\u0117"
@@ -97,6 +88,9 @@
     ],
     "name:vol_x_preferred":[
         "Skaudvil\u0117"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u8003\u5fb7\u7dad\u840a"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Taurage",
@@ -145,7 +139,7 @@
         }
     ],
     "wof:id":101818019,
-    "wof:lastmodified":1527642227,
+    "wof:lastmodified":1561837294,
     "wof:name":"Skaudvil\u0117",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

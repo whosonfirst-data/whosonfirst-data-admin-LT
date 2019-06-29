@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000318,
-    "geom:area_square_m":2199695.327984,
+    "geom:area_square_m":2199695.327983,
     "geom:bbox":"21.2450005195,56.0141247118,21.2700619668,56.0367899146",
     "geom:latitude":56.023586,
     "geom:longitude":21.259044,
@@ -19,10 +19,7 @@
     "name:ces_x_preferred":[
         "Darb\u0117nai"
     ],
-    "name:cze_x_preferred":[
-        "Darb\u0117nai"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Darb\u0117nai"
     ],
     "name:eng_x_preferred":[
@@ -35,12 +32,6 @@
         "Darb\u0117nai"
     ],
     "name:fra_x_preferred":[
-        "Darb\u0117nai"
-    ],
-    "name:fre_x_preferred":[
-        "Darb\u0117nai"
-    ],
-    "name:ger_x_preferred":[
         "Darb\u0117nai"
     ],
     "name:heb_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":101818075,
-    "wof:lastmodified":1527642226,
+    "wof:lastmodified":1561837294,
     "wof:name":"Darb\u0117nai",
     "wof:parent_id":102073681,
     "wof:placetype":"locality",

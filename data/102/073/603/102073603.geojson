@@ -28,11 +28,8 @@
     "name:cat_x_preferred":[
         "Districte municipal de Prienai"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u5217\u5948\u5730\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Prienai"
+    "name:deu_x_preferred":[
+        "Rajongemeinde Prienai"
     ],
     "name:eng_x_preferred":[
         "Prienai"
@@ -40,14 +37,8 @@
     "name:fin_x_preferred":[
         "Prienain kunnallispiiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "municipalit\u00e9 du district de Prienai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e0\u10d8\u10d4\u10dc\u10d0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajongemeinde Prienai"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d9\u05e0\u05d0\u05d9"
@@ -55,11 +46,17 @@
     "name:ita_x_preferred":[
         "Comune distrettuale di Prienai"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10d4\u10dc\u10d0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lav_x_preferred":[
         "Prienu rajona pa\u0161vald\u012bba"
     ],
     "name:lit_x_preferred":[
         "Prien\u0173 rajono savivaldyb\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Prienai"
     ],
     "name:pol_x_preferred":[
         "Rejon pre\u0144ski"
@@ -78,6 +75,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u06cc\u0626\u0646\u0627\u0626\u06cc \u0636\u0644\u0639 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5217\u5948\u5730\u5340"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":102073603,
-    "wof:lastmodified":1554506197,
+    "wof:lastmodified":1561837256,
     "wof:name":"Prienai",
     "wof:parent_id":85685773,
     "wof:placetype":"county",

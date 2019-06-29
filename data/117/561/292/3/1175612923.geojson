@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000076,
-    "geom:area_square_m":268777.777132,
+    "geom:area_square_m":537550.373721,
     "geom:bbox":"21.0505342267,55.3579529917,21.0718180205,55.3775136748",
     "geom:latitude":55.367599,
     "geom:longitude":21.059501,
@@ -32,10 +32,7 @@
     "name:cat_x_preferred":[
         "Neringa"
     ],
-    "name:chi_x_preferred":[
-        "\u5167\u6797\u52a0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Neringa"
     ],
     "name:eng_x_preferred":[
@@ -47,16 +44,16 @@
     "name:est_x_preferred":[
         "Neringa"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0631\u06cc\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Neringan kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Neringa"
     ],
     "name:frr_x_preferred":[
-        "Neringa"
-    ],
-    "name:ger_x_preferred":[
         "Neringa"
     ],
     "name:heb_x_preferred":[
@@ -83,16 +80,16 @@
     "name:lit_x_preferred":[
         "Neringa"
     ],
+    "name:nld_x_preferred":[
+        "Neringa"
+    ],
     "name:nob_x_preferred":[
         "Neringa kommune"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0631\u06cc\u0646\u06af\u0627"
     ],
     "name:pol_x_preferred":[
         "Nerynga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Comuna Neringa"
     ],
     "name:rus_x_preferred":[
@@ -121,6 +118,9 @@
     ],
     "name:vol_x_preferred":[
         "Neringa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u6797\u52a0"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Neringa",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1175612923,
-    "wof:lastmodified":1534985959,
+    "wof:lastmodified":1561837286,
     "wof:name":"Neringa (Preila)",
     "wof:parent_id":102073645,
     "wof:placetype":"locality",

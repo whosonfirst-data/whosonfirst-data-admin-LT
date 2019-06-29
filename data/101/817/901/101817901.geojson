@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":1772455.52997,
+    "geom:area_square_m":1772455.529969,
     "geom:bbox":"23.8527916053,54.0763013164,23.8742303878,54.1029825048",
     "geom:latitude":54.089941,
     "geom:longitude":23.862335,
@@ -19,19 +19,13 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0438\u043f\u0430\u043b\u0438\u043d\u0433\u0438\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u6ce2\u723e\u6797\u683c\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Leipalingis"
-    ],
     "name:eng_x_preferred":[
         "Leipalingis"
     ],
     "name:fin_x_preferred":[
         "Leipalingis"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Leipalingis"
     ],
     "name:lit_x_preferred":[
@@ -51,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Leiauny"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u6ce2\u723e\u6797\u683c\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Druskininkai",
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":101817901,
-    "wof:lastmodified":1527642449,
+    "wof:lastmodified":1561837295,
     "wof:name":"Leipalingis",
     "wof:parent_id":102073579,
     "wof:placetype":"locality",

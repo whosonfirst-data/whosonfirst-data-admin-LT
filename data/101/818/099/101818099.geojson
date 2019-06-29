@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000771,
-    "geom:area_square_m":5365176.981277,
+    "geom:area_square_m":5365176.981278,
     "geom:bbox":"26.2219581122,55.7112398629,26.2873644984,55.7517608066",
     "geom:latitude":55.73459,
     "geom:longitude":26.253232,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Zarasai"
     ],
-    "name:arm_x_preferred":[
-        "\u0536\u0561\u0580\u0561\u057d\u0561\u0575"
-    ],
     "name:aze_x_preferred":[
         "Zarasay"
     ],
@@ -32,10 +29,7 @@
     "name:cat_x_preferred":[
         "Zarasai"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u62c9\u8cfd"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Zarasai"
     ],
     "name:dan_x_preferred":[
@@ -44,8 +38,11 @@
     "name:deu_x_preferred":[
         "Zargrad"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Zarasai"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03c1\u03b1\u03c3\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Zarasai"
@@ -56,20 +53,14 @@
     "name:est_x_preferred":[
         "Zarasai"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0631\u0627\u0633\u06cc\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Zarasai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zarasai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10e0\u10d0\u10e1\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Zarasai"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03c1\u03b1\u03c3\u03ac\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05e8\u05e1\u05d0\u05d9"
@@ -77,11 +68,17 @@
     "name:hsb_x_preferred":[
         "Zarasai"
     ],
+    "name:hye_x_preferred":[
+        "\u0536\u0561\u0580\u0561\u057d\u0561\u0575"
+    ],
     "name:ind_x_preferred":[
         "Zarasai"
     ],
     "name:jpn_x_preferred":[
         "\u30b6\u30e9\u30b5\u30a4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10e0\u10d0\u10e1\u10d0\u10d8"
     ],
     "name:lav_x_preferred":[
         "Zarasi"
@@ -89,8 +86,8 @@
     "name:lit_x_preferred":[
         "Zarasai"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0627\u0631\u0627\u0633\u06cc\u0627\u06cc"
+    "name:nld_x_preferred":[
+        "Zarasai"
     ],
     "name:pms_x_preferred":[
         "Zarasai"
@@ -124,6 +121,9 @@
     ],
     "name:vol_x_preferred":[
         "Zarasai"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u62c9\u8cfd"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Zarasai",
@@ -172,7 +172,7 @@
         }
     ],
     "wof:id":101818099,
-    "wof:lastmodified":1527642220,
+    "wof:lastmodified":1561837293,
     "wof:name":"Zarasai",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

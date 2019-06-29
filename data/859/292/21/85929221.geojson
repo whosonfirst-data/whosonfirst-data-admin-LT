@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12827748.341408,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.209514,54.67514,25.209514,54.67514",
     "geom:latitude":54.67514,
     "geom:longitude":25.209514,
@@ -35,20 +35,14 @@
     "name:deu_x_preferred":[
         "Lazdynai"
     ],
-    "name:dut_x_preferred":[
-        "Lazdynai"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b6\u03bd\u03c4\u03b9\u03bd\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Lazdynai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lazdynai"
-    ],
-    "name:ger_x_preferred":[
-        "Lazdynai"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03b6\u03bd\u03c4\u03b9\u03bd\u03ac\u03b9"
     ],
     "name:lav_x_preferred":[
         "Lazd\u012bni"
@@ -58,6 +52,9 @@
     ],
     "name:lit_x_variant":[
         "Lazd\u0117nai"
+    ],
+    "name:nld_x_preferred":[
+        "Lazdynai"
     ],
     "name:pol_x_preferred":[
         "Leszczyniaki"
@@ -109,11 +106,11 @@
     "wd:longitude":25.203056,
     "wd:wordcount":277,
     "wof:belongsto":[
+        85685759,
         102191581,
         85633269,
         101753031,
-        102073615,
-        85685759
+        102073615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939118,
+    "wof:lastmodified":1561837263,
     "wof:name":"Lazdynai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

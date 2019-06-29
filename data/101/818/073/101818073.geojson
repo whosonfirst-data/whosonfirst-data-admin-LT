@@ -19,12 +19,6 @@
     "name:ces_x_preferred":[
         "Kartena"
     ],
-    "name:cze_x_preferred":[
-        "Kartena"
-    ],
-    "name:dut_x_preferred":[
-        "Kartena"
-    ],
     "name:eng_x_preferred":[
         "Kartena"
     ],
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":101818073,
-    "wof:lastmodified":1527642225,
+    "wof:lastmodified":1561837294,
     "wof:name":"Kartena",
     "wof:parent_id":102073681,
     "wof:placetype":"locality",

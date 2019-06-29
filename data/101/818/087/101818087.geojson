@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":1731982.939391,
+    "geom:area_square_m":1731982.939392,
     "geom:bbox":"22.3476363202,55.7350536317,22.3873443434,55.7508385581",
     "geom:latitude":55.743633,
     "geom:longitude":22.369529,
@@ -36,19 +36,10 @@
     "name:ces_x_preferred":[
         "Varniai"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u723e\u5c3c\u827e"
-    ],
-    "name:cze_x_preferred":[
-        "Varniai"
-    ],
     "name:dan_x_preferred":[
         "Varniai"
     ],
     "name:deu_x_preferred":[
-        "Varniai"
-    ],
-    "name:dut_x_preferred":[
         "Varniai"
     ],
     "name:ell_x_preferred":[
@@ -72,15 +63,6 @@
     "name:fra_x_preferred":[
         "Varniai"
     ],
-    "name:fre_x_preferred":[
-        "Varniai"
-    ],
-    "name:ger_x_preferred":[
-        "Varniai"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03c1\u03bd\u03b9\u03ac\u03b9"
-    ],
     "name:heb_x_preferred":[
         "\u05d5\u05e8\u05e0\u05d9\u05d0\u05d9"
     ],
@@ -96,8 +78,8 @@
     "name:lit_x_preferred":[
         "Varniai"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0631\u0646\u06cc\u0627\u06cc"
+    "name:nld_x_preferred":[
+        "Varniai"
     ],
     "name:pms_x_preferred":[
         "Varniai"
@@ -179,7 +161,7 @@
         }
     ],
     "wof:id":101818087,
-    "wof:lastmodified":1527642225,
+    "wof:lastmodified":1561837294,
     "wof:name":"Varniai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

@@ -22,12 +22,6 @@
     "name:ces_x_preferred":[
         "Vainutas"
     ],
-    "name:cze_x_preferred":[
-        "Vainutas"
-    ],
-    "name:dut_x_preferred":[
-        "Vainutas"
-    ],
     "name:eng_x_preferred":[
         "Vainutas"
     ],
@@ -38,9 +32,6 @@
         "Vainutas"
     ],
     "name:fra_x_preferred":[
-        "Vainutas"
-    ],
-    "name:fre_x_preferred":[
         "Vainutas"
     ],
     "name:lit_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":101818027,
-    "wof:lastmodified":1527642225,
+    "wof:lastmodified":1561837294,
     "wof:name":"Vainutas",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

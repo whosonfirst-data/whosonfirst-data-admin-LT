@@ -21,22 +21,22 @@
     "name:bre_x_preferred":[
         "U\u017epaliai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "U\u017epaliai"
     ],
     "name:eng_x_preferred":[
         "U\u017epaliai"
     ],
-    "name:fre_x_preferred":[
-        "U\u017epaliai"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "U\u017epaliai"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e9\u05e4\u05d5\u05dc"
     ],
     "name:lit_x_preferred":[
+        "U\u017epaliai"
+    ],
+    "name:nld_x_preferred":[
         "U\u017epaliai"
     ],
     "name:pol_x_preferred":[
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1125801115,
-    "wof:lastmodified":1514483822,
+    "wof:lastmodified":1561837301,
     "wof:name":"U\u017epaliai",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

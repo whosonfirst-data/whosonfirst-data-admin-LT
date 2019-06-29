@@ -35,14 +35,11 @@
     "name:ces_x_preferred":[
         "Vilkavi\u0161kis"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u723e\u5361\u7dad\u4ec0\u57fa\u65af\u5730\u5340"
-    ],
     "name:deu_x_preferred":[
         "Vilkavi\u0161kis"
     ],
-    "name:dut_x_preferred":[
-        "Vilkavi\u0161kis"
+    "name:deu_x_variant":[
+        "Rajongemeinde Vilkavi\u0161kis"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03b9\u03bb\u03ba\u03b1\u03b2\u03af\u03c3\u03ba\u03b9\u03c2"
@@ -62,20 +59,17 @@
     "name:fin_x_preferred":[
         "Vilkavi\u0161kisin kunnallispiiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "municipalit\u00e9 du district de Vilkavi\u0161kis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d9\u10d0\u10d5\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajongemeinde Vilkavi\u0161kis"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05dc\u05e7\u05d5\u05d1\u05d9\u05e9\u05e7"
     ],
     "name:ita_x_preferred":[
         "Comune distrettuale di Vilkavi\u0161kis"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d9\u10d0\u10d5\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:lav_x_preferred":[
         "Vilkavi\u0161\u0137u rajona pa\u0161vald\u012bba"
@@ -85,6 +79,9 @@
     ],
     "name:lmo_x_preferred":[
         "Municipalitaa distrecc da Vilkavi\u0161kis"
+    ],
+    "name:nld_x_preferred":[
+        "Vilkavi\u0161kis"
     ],
     "name:pol_x_preferred":[
         "Rejon wy\u0142kowyski"
@@ -100,6 +97,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0644\u06a9\u0627\u0648\u0634\u06a9\u0633 \u0636\u0644\u0639 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u723e\u5361\u7dad\u4ec0\u57fa\u65af\u5730\u5340"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -149,7 +149,7 @@
         }
     ],
     "wof:id":102073601,
-    "wof:lastmodified":1555038752,
+    "wof:lastmodified":1561837257,
     "wof:name":"Vilkavi\u0161kis",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

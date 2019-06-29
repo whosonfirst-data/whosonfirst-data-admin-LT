@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11037281.191475,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.245421,54.668679,25.245421,54.668679",
     "geom:latitude":54.668679,
     "geom:longitude":25.245421,
@@ -31,19 +31,16 @@
     "name:deu_x_preferred":[
         "Vilkp\u0117d\u0117"
     ],
-    "name:dut_x_preferred":[
-        "Vilkp\u0117d\u0117"
-    ],
     "name:eng_x_preferred":[
-        "Vilkp\u0117d\u0117"
-    ],
-    "name:ger_x_preferred":[
         "Vilkp\u0117d\u0117"
     ],
     "name:lav_x_preferred":[
         "Vilkpede"
     ],
     "name:lit_x_preferred":[
+        "Vilkp\u0117d\u0117"
+    ],
+    "name:nld_x_preferred":[
         "Vilkp\u0117d\u0117"
     ],
     "name:pol_x_preferred":[
@@ -90,11 +87,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85685759,
         102191581,
         85633269,
         101753031,
-        102073615,
-        85685759
+        102073615
     ],
     "wof:breaches":[
         85929221
@@ -121,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939113,
+    "wof:lastmodified":1561837263,
     "wof:name":"Vilkpede",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

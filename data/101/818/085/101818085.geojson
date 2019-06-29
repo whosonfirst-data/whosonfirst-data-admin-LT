@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001872,
-    "geom:area_square_m":12949370.721859,
+    "geom:area_square_m":12949370.721864,
     "geom:bbox":"22.1815295539,55.9452012268,22.2763554233,56.0109223499",
     "geom:latitude":55.981153,
     "geom:longitude":22.235613,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u062a\u0644\u0633\u064a\u0627\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u0565\u056c\u0577\u0575\u0561\u0575"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0426\u044f\u043b\u044c\u0448\u044d\u0439"
@@ -42,13 +39,10 @@
     "name:ces_x_preferred":[
         "Tel\u0161iai"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u723e\u5e0c\u827e"
-    ],
     "name:cor_x_preferred":[
         "Tel\u0161iai"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tel\u0161iai"
     ],
     "name:dan_x_preferred":[
@@ -59,9 +53,6 @@
     ],
     "name:deu_x_variant":[
         "Telschen"
-    ],
-    "name:dut_x_preferred":[
-        "Tel\u0161iai"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03bb\u03c3\u03b9\u03ac\u03b9"
@@ -78,19 +69,13 @@
     "name:ewe_x_preferred":[
         "Tel\u0161iai"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u0634\u06cc\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Tel\u0161iai"
     ],
     "name:fra_x_preferred":[
-        "Tel\u0161iai"
-    ],
-    "name:fre_x_preferred":[
-        "Tel\u0161iai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10da\u10e8\u10d8\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Tel\u0161iai"
     ],
     "name:heb_x_preferred":[
@@ -101,6 +86,9 @@
     ],
     "name:hun_x_preferred":[
         "Tel\u0161iai"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0565\u056c\u0577\u0575\u0561\u0575"
     ],
     "name:ind_x_preferred":[
         "Tel\u0161iai"
@@ -123,10 +111,10 @@
     "name:lit_x_preferred":[
         "Tel\u0161iai"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0435\u043b\u0448\u0458\u0430\u0458"
     ],
-    "name:mao_x_preferred":[
+    "name:mri_x_preferred":[
         "Tel\u0161iai"
     ],
     "name:nau_x_preferred":[
@@ -137,9 +125,6 @@
     ],
     "name:nob_x_preferred":[
         "Tel\u0161iai"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0644\u0634\u06cc\u0627\u06cc"
     ],
     "name:pms_x_preferred":[
         "Tel\u0161iai"
@@ -153,7 +138,7 @@
     "name:por_x_preferred":[
         "Tel\u0161iai"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tel\u0161iai"
     ],
     "name:rus_x_preferred":[
@@ -196,9 +181,6 @@
         "Tel\u0161iai"
     ],
     "name:vol_x_preferred":[
-        "Tel\u0161iai"
-    ],
-    "name:wel_x_preferred":[
         "Tel\u0161iai"
     ],
     "name:zho_x_preferred":[
@@ -254,7 +236,7 @@
         }
     ],
     "wof:id":101818085,
-    "wof:lastmodified":1527642218,
+    "wof:lastmodified":1561837292,
     "wof:name":"Tel\u0161iai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

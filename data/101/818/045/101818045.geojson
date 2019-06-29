@@ -19,12 +19,6 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0443\u043a\u0443\u0432\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u52de\u5eab\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Laukuva"
-    ],
     "name:eng_x_preferred":[
         "Laukuva"
     ],
@@ -108,7 +102,7 @@
         }
     ],
     "wof:id":101818045,
-    "wof:lastmodified":1527642225,
+    "wof:lastmodified":1561837293,
     "wof:name":"Laukuva",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

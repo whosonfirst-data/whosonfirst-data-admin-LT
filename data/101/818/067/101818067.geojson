@@ -25,16 +25,10 @@
     "name:deu_x_preferred":[
         "Baisogala"
     ],
-    "name:dut_x_preferred":[
-        "Baisogala"
-    ],
     "name:eng_x_preferred":[
         "Baisogala"
     ],
     "name:est_x_preferred":[
-        "Baisogala"
-    ],
-    "name:ger_x_preferred":[
         "Baisogala"
     ],
     "name:heb_x_preferred":[
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":101818067,
-    "wof:lastmodified":1527642229,
+    "wof:lastmodified":1561837295,
     "wof:name":"Baisogala",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00025,
-    "geom:area_square_m":1731896.602577,
+    "geom:area_square_m":1731896.602579,
     "geom:bbox":"23.9292216515,55.9365977984,23.9575899245,55.9601592666",
     "geom:latitude":55.948618,
     "geom:longitude":23.941037,
@@ -16,9 +16,6 @@
     "mps:longitude":23.938673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Klovainiai"
-    ],
     "name:eng_x_preferred":[
         "Klovainiai"
     ],
@@ -26,6 +23,9 @@
         "Klovainiai"
     ],
     "name:lit_x_preferred":[
+        "Klovainiai"
+    ],
+    "name:nld_x_preferred":[
         "Klovainiai"
     ],
     "name:pol_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101818113,
-    "wof:lastmodified":1527642230,
+    "wof:lastmodified":1561837295,
     "wof:name":"Klovainiai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

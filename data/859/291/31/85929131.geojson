@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":46871408.026244,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.293707,54.751299,25.293707,54.751299",
     "geom:latitude":54.751299,
     "geom:longitude":25.293707,
@@ -36,7 +36,7 @@
     "name:deu_x_preferred":[
         "Vepriai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Verkiai"
     ],
     "name:ell_x_preferred":[
@@ -48,13 +48,13 @@
     "name:fas_x_preferred":[
         "\u0648\u067e\u0631\u06cc\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0648\u0631\u06a9\u06cc\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Vepriai"
     ],
-    "name:fre_x_preferred":[
-        "Verkiai"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Verkiai"
     ],
     "name:ita_x_preferred":[
@@ -69,8 +69,8 @@
     "name:lit_x_preferred":[
         "Vepriai"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u06a9\u06cc\u06cc"
+    "name:nld_x_preferred":[
+        "Verkiai"
     ],
     "name:pol_x_preferred":[
         "Wieprze"
@@ -132,11 +132,11 @@
     "wd:population":549,
     "wd:wordcount":1149,
     "wof:belongsto":[
+        85685759,
         102191581,
         85633269,
         101753031,
-        102073615,
-        85685759
+        102073615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -163,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939113,
+    "wof:lastmodified":1561837263,
     "wof:name":"Verkiai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001107,
-    "geom:area_square_m":7915267.376196,
+    "geom:area_square_m":7915267.3762,
     "geom:bbox":"22.9974558608,54.6325012236,23.0628500448,54.6924148135",
     "geom:latitude":54.658338,
     "geom:longitude":23.031417,
@@ -17,28 +17,19 @@
     "mps:longitude":23.036371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:alb_x_preferred":[
-        "Vilkavi\u0161kis"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u056c\u056f\u0561\u057e\u0561\u0577\u056b\u057d"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u043a\u0430\u0432\u0456\u0448\u043a\u0456\u0441"
     ],
     "name:cat_x_preferred":[
         "Vilkavi\u0161kis"
     ],
-    "name:chi_x_preferred":[
-        "\u7dad\u723e\u5361\u7dad\u4ec0\u57fa\u65af"
+    "name:ces_x_preferred":[
+        "Vilkavi\u0161kis"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Vilkavi\u0161kis"
     ],
     "name:deu_x_preferred":[
-        "Vilkavi\u0161kis"
-    ],
-    "name:dut_x_preferred":[
         "Vilkavi\u0161kis"
     ],
     "name:ell_x_preferred":[
@@ -53,20 +44,14 @@
     "name:est_x_preferred":[
         "Vilkavi\u0161kis"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u06a9\u0627\u0648\u06cc\u0634\u06a9\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Vilkavi\u0161kis"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vilkavi\u0161kis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d9\u10d0\u10d5\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Vilkavi\u0161kis"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b9\u03bb\u03ba\u03b1\u03b2\u03af\u03c3\u03ba\u03b9\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05dc\u05e7\u05d5\u05d1\u05d9\u05e9\u05e7"
@@ -74,8 +59,14 @@
     "name:hsb_x_preferred":[
         "Vilkavi\u0161kis"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u056f\u0561\u057e\u0561\u0577\u056b\u057d"
+    ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a3\u30eb\u30ab\u30f4\u30a3\u30b7\u30e5\u30ad\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d9\u10d0\u10d5\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8"
     ],
     "name:lav_x_preferred":[
         "Vilkavi\u0161\u0137i"
@@ -85,9 +76,6 @@
     ],
     "name:nld_x_preferred":[
         "Vilkavi\u0161kis"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0644\u06a9\u0627\u0648\u06cc\u0634\u06a9\u06cc\u0633"
     ],
     "name:pms_x_preferred":[
         "Vilkavi\u0161kis"
@@ -103,6 +91,9 @@
     ],
     "name:sgs_x_preferred":[
         "V\u0117lkav\u0117\u0161kis"
+    ],
+    "name:sqi_x_preferred":[
+        "Vilkavi\u0161kis"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u043b\u043a\u0430\u0432\u0438\u0448\u043a\u0438\u0441"
@@ -128,8 +119,8 @@
     "name:vol_x_preferred":[
         "Vilkavi\u0161kis"
     ],
-    "name:wel_x_preferred":[
-        "Vilkavi\u0161kis"
+    "name:zho_x_preferred":[
+        "\u7dad\u723e\u5361\u7dad\u4ec0\u57fa\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Vilkavi\u0161kis",
@@ -178,7 +169,7 @@
         }
     ],
     "wof:id":101817937,
-    "wof:lastmodified":1527642450,
+    "wof:lastmodified":1561837295,
     "wof:name":"Vilkavi\u0161kis",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

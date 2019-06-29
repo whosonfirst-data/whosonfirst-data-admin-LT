@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001432,
-    "geom:area_square_m":9903608.367997,
+    "geom:area_square_m":9903608.367994,
     "geom:bbox":"22.904899491,55.9613166526,22.9683878572,56.0169495289",
     "geom:latitude":55.993654,
     "geom:longitude":22.933927,
@@ -27,20 +27,15 @@
     "name:cat_x_preferred":[
         "Kur\u0161\u0117nai"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u723e\u820d\u5948"
-    ],
     "name:deu_x_preferred":[
-        "Kur\u0161\u0117nai"
-    ],
-    "name:dut_x_preferred":[
         "Kur\u0161\u0117nai"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03c1\u03c3\u03ad\u03bd\u03b1\u03ca"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03c5\u03c1\u03c3\u03ad\u03bd\u03b1\u03b9"
+        "\u039a\u03bf\u03c5\u03c1\u03c3\u03ad\u03bd\u03b1\u03b9",
+        "\u039a\u03bf\u03c5\u03c1\u03c3\u03b5\u03bd\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kur\u0161\u0117nai"
@@ -57,17 +52,8 @@
     "name:fin_x_preferred":[
         "Kur\u0161\u0117nai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kur\u0161\u0117nai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10e0\u10e8\u10d4\u10dc\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kur\u0161\u0117nai"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03c1\u03c3\u03b5\u03bd\u03ac\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05e9\u05df"
@@ -90,8 +76,8 @@
     "name:lit_x_preferred":[
         "Kur\u0161\u0117nai"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0634\u0646\u0627\u06cc"
+    "name:nld_x_preferred":[
+        "Kur\u0161\u0117nai"
     ],
     "name:pms_x_preferred":[
         "Kur\u0161\u0117nai"
@@ -181,7 +167,7 @@
         }
     ],
     "wof:id":101847733,
-    "wof:lastmodified":1527714974,
+    "wof:lastmodified":1561837298,
     "wof:name":"Kur\u0161\u0117nai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.623155,
-    "geom:area_square_m":4452126745.915047,
+    "geom:area_square_m":4452126745.915132,
     "geom:bbox":"22.5888195,54.253323,23.7937105,55.104864",
     "geom:latitude":54.704442,
     "geom:longitude":23.171032,
@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u064a\u0631\u0627\u064a\u0627\u0645\u0628\u0648\u0644\u0647"
     ],
-    "name:baq_x_preferred":[
-        "Marijampol\u0117ko konderria"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u044b\u044f\u043c\u043f\u0430\u043b\u044c\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
     ],
@@ -42,20 +39,20 @@
     "name:cat_x_preferred":[
         "Comtat de Marijampol\u0117"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u91cc\u63da\u6cca\u5217\u7e23"
+    "name:ces_x_preferred":[
+        "Marijampolsk\u00fd kraj"
     ],
     "name:cor_x_preferred":[
         "Konteth Marijampol\u0117"
     ],
-    "name:cze_x_preferred":[
-        "Marijampolsk\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Marijampol\u0117 amt"
     ],
-    "name:dut_x_preferred":[
-        "Marijampol\u0117"
+    "name:deu_x_preferred":[
+        "Bezirk Marijampol\u0117"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b1\u03c1\u03b9\u03b3\u03b9\u03b1\u03bc\u03c0\u03bf\u03bb\u03ad"
     ],
     "name:eng_x_preferred":[
         "Marijampole"
@@ -69,23 +66,20 @@
     "name:est_x_preferred":[
         "Marijampol\u0117 maakond"
     ],
+    "name:eus_x_preferred":[
+        "Marijampol\u0117ko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u0631\u06cc\u0627\u0645\u067e\u0648\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Marijampol\u0117n l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "apskritis de Marijampol\u0117"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d8\u10d0\u10db\u10de\u10dd\u10da\u10d8\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Marijampol\u0117"
     ],
     "name:gle_x_preferred":[
         "Contae Marijampol\u0117"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b1\u03c1\u03b9\u03b3\u03b9\u03b1\u03bc\u03c0\u03bf\u03bb\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0abf\u0a9c\u0ac7\u0aae\u0acd\u0aaa\u0acb\u0ab2\u0ac7 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -111,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cb0\u0cbf\u0c9c\u0cbe\u0c82\u0caa\u0cca\u0cb2\u0cc6 \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d8\u10d0\u10db\u10de\u10dd\u10da\u10d8\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ub9ac\uc58c\ud3f4\ub808 \uc8fc"
     ],
@@ -123,20 +120,20 @@
     "name:lit_x_preferred":[
         "Marijampol\u0117s apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0440\u0438\u0458\u0430\u043c\u043f\u043e\u043b\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0930\u093f\u091c\u092a\u094b\u0932\u094d\u0932\u0947 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0458\u0430\u043c\u043f\u043e\u043b\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Marijampole County"
+    ],
+    "name:nld_x_preferred":[
+        "Marijampol\u0117"
     ],
     "name:nob_x_preferred":[
         "Marijampol\u0117 fylke"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u0631\u06cc\u0627\u0645\u067e\u0648\u0644\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u062c\u0645\u067e\u0648\u0644\u06d2 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -147,7 +144,7 @@
     "name:por_x_preferred":[
         "Marijampol\u0117"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jude\u021bul Marijampol\u0117"
     ],
     "name:rus_x_preferred":[
@@ -203,6 +200,9 @@
     ],
     "name:vie_x_preferred":[
         "Marijampol\u0117"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u91cc\u63da\u6cca\u5217\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LTU",
@@ -320,7 +320,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1553814886,
+    "wof:lastmodified":1561837264,
     "wof:name":"Marijampole",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

@@ -31,13 +31,7 @@
     "name:deu_x_preferred":[
         "Fabijoni\u0161k\u0117s"
     ],
-    "name:dut_x_preferred":[
-        "Fabijoni\u0161k\u0117s"
-    ],
     "name:eng_x_preferred":[
-        "Fabijoni\u0161k\u0117s"
-    ],
-    "name:ger_x_preferred":[
         "Fabijoni\u0161k\u0117s"
     ],
     "name:lav_x_preferred":[
@@ -48,6 +42,9 @@
     ],
     "name:lit_x_variant":[
         "Fabijoni\u0161ki\u0173 seni\u016bnija"
+    ],
+    "name:nld_x_preferred":[
+        "Fabijoni\u0161k\u0117s"
     ],
     "name:pol_x_preferred":[
         "Fabianiszki"
@@ -138,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536864506,
+    "wof:lastmodified":1561837265,
     "wof:name":"Fabijoniskes",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":1871708.041865,
+    "geom:area_square_m":1871708.041862,
     "geom:bbox":"23.1490589633,54.8409996216,23.1796380929,54.8588861102",
     "geom:latitude":54.850214,
     "geom:longitude":23.165024,
@@ -19,16 +19,10 @@
     "name:afr_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
-    "name:alb_x_preferred":[
-        "Gri\u0161kab\u016bdis"
-    ],
     "name:arg_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:ast_x_preferred":[
-        "Gri\u0161kab\u016bdis"
-    ],
-    "name:baq_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:bar_x_preferred":[
@@ -43,19 +37,19 @@
     "name:cat_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
+    "name:ces_x_preferred":[
+        "Gri\u0161kab\u016bdis"
+    ],
     "name:cos_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:dan_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:deu_x_preferred":[
-        "Gri\u0161kab\u016bdis"
-    ],
-    "name:dut_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:eng_x_preferred":[
@@ -67,16 +61,16 @@
     "name:est_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
+    "name:eus_x_preferred":[
+        "Gri\u0161kab\u016bdis"
+    ],
     "name:fin_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:fur_x_preferred":[
-        "Gri\u0161kab\u016bdis"
-    ],
-    "name:ger_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:gla_x_preferred":[
@@ -97,7 +91,7 @@
     "name:hun_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:ita_x_preferred":[
@@ -148,7 +142,7 @@
     "name:roh_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:rus_x_preferred":[
@@ -160,13 +154,16 @@
     "name:sco_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:slv_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:spa_x_preferred":[
+        "Gri\u0161kab\u016bdis"
+    ],
+    "name:sqi_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:srd_x_preferred":[
@@ -185,9 +182,6 @@
         "Gri\u0161kab\u016bdis"
     ],
     "name:vls_x_preferred":[
-        "Gri\u0161kab\u016bdis"
-    ],
-    "name:wel_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:wln_x_preferred":[
@@ -236,7 +230,7 @@
         }
     ],
     "wof:id":101817979,
-    "wof:lastmodified":1527642455,
+    "wof:lastmodified":1561837296,
     "wof:name":"Gri\u0161kab\u016bdis",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

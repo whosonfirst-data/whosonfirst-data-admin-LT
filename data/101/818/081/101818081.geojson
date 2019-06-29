@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002086,
-    "geom:area_square_m":14613135.472925,
+    "geom:area_square_m":14613135.472926,
     "geom:bbox":"25.5559011653,55.4777521571,25.6526469728,55.5201928777",
     "geom:latitude":55.498213,
     "geom:longitude":25.606657,
@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u062a\u064a\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u057f\u0565\u0576\u0561"
-    ],
     "name:aze_x_preferred":[
         "Utena"
     ],
@@ -41,13 +38,10 @@
     "name:cat_x_preferred":[
         "Utena"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u7530\u7eb3"
-    ],
-    "name:cor_x_preferred":[
+    "name:ces_x_preferred":[
         "Utena"
     ],
-    "name:cze_x_preferred":[
+    "name:cor_x_preferred":[
         "Utena"
     ],
     "name:dan_x_preferred":[
@@ -56,11 +50,11 @@
     "name:deu_x_preferred":[
         "Utena"
     ],
-    "name:dut_x_preferred":[
-        "Utena"
-    ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03c4\u03b5\u03bd\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c5\u03c4\u03ad\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Utena"
@@ -79,18 +73,6 @@
     ],
     "name:fra_x_preferred":[
         "Utena"
-    ],
-    "name:fre_x_preferred":[
-        "Utena"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e2\u10d4\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Utena"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03c4\u03ad\u03bd\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d8\u05e0\u05d4"
@@ -125,7 +107,7 @@
     "name:lit_x_preferred":[
         "Utena"
     ],
-    "name:mao_x_preferred":[
+    "name:mri_x_preferred":[
         "Utena"
     ],
     "name:nau_x_preferred":[
@@ -140,9 +122,6 @@
     "name:nob_x_preferred":[
         "Utena"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u062a\u0646\u0627"
-    ],
     "name:pms_x_preferred":[
         "Utena"
     ],
@@ -156,9 +135,6 @@
         "Utena"
     ],
     "name:ron_x_preferred":[
-        "Utena"
-    ],
-    "name:rum_x_preferred":[
         "Utena"
     ],
     "name:rus_x_preferred":[
@@ -259,7 +235,7 @@
         }
     ],
     "wof:id":101818081,
-    "wof:lastmodified":1553815522,
+    "wof:lastmodified":1561837294,
     "wof:name":"Utena",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

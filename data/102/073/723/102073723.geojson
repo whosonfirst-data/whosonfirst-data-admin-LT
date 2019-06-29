@@ -38,17 +38,14 @@
     "name:ces_x_preferred":[
         "Joni\u0161kis"
     ],
-    "name:chi_x_preferred":[
-        "\u7d04\u4ec0\u5c3c\u57fa\u65af\u5730\u5340"
-    ],
     "name:dan_x_preferred":[
         "Joni\u0161kis"
     ],
     "name:deu_x_preferred":[
         "Joni\u0161kis"
     ],
-    "name:dut_x_preferred":[
-        "Joni\u0161kis"
+    "name:deu_x_variant":[
+        "Rajongemeinde Joni\u0161kis"
     ],
     "name:eng_x_preferred":[
         "Joniskis"
@@ -62,14 +59,8 @@
     "name:fin_x_preferred":[
         "Joni\u0161kisin kunnallispiiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "municipalit\u00e9 du district de Joni\u0161kis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dd\u10dc\u10d8\u10e8\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajongemeinde Joni\u0161kis"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05e0\u05d9\u05e9\u05d5\u05e7"
@@ -77,11 +68,17 @@
     "name:ita_x_preferred":[
         "Comune distrettuale di Joni\u0161kis"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dd\u10dc\u10d8\u10e8\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lav_x_preferred":[
         "Joni\u0161\u0137u rajona pa\u0161vald\u012bba"
     ],
     "name:lit_x_preferred":[
         "Joni\u0161kio rajono savivaldyb\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Joni\u0161kis"
     ],
     "name:pol_x_preferred":[
         "Rejon janiski"
@@ -97,6 +94,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0646\u06cc\u0634\u06a9\u0633 \u0636\u0644\u0639 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d04\u4ec0\u5c3c\u57fa\u65af\u5730\u5340"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":102073723,
-    "wof:lastmodified":1555038743,
+    "wof:lastmodified":1561837256,
     "wof:name":"Joni\u0161kis",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

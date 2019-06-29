@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000308,
-    "geom:area_square_m":2230446.600906,
+    "geom:area_square_m":2230446.600907,
     "geom:bbox":"24.1721864178,54.1555195599,24.2083626839,54.1752006769",
     "geom:latitude":54.165431,
     "geom:longitude":24.188781,
@@ -26,16 +26,10 @@
     "name:cat_x_preferred":[
         "Merkin\u0117"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u723e\u4eac"
-    ],
     "name:dan_x_preferred":[
         "Merkin\u0117"
     ],
     "name:deu_x_preferred":[
-        "Merkin\u0117"
-    ],
-    "name:dut_x_preferred":[
         "Merkin\u0117"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +41,6 @@
     "name:fra_x_preferred":[
         "Merkin\u0117"
     ],
-    "name:fre_x_preferred":[
-        "Merkin\u0117"
-    ],
-    "name:ger_x_preferred":[
-        "Merkin\u0117"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05e7\u05d9\u05e0\u05d4"
     ],
@@ -60,6 +48,9 @@
         "Mer\u0137ine"
     ],
     "name:lit_x_preferred":[
+        "Merkin\u0117"
+    ],
+    "name:nld_x_preferred":[
         "Merkin\u0117"
     ],
     "name:pol_x_preferred":[
@@ -79,6 +70,9 @@
     ],
     "name:unk_x_variant":[
         "Merecz"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u723e\u4eac"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Varena",
@@ -125,7 +119,7 @@
         }
     ],
     "wof:id":101817915,
-    "wof:lastmodified":1527642455,
+    "wof:lastmodified":1561837296,
     "wof:name":"Merkin\u0117",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

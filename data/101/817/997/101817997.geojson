@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Karm\u0117lava"
     ],
-    "name:dut_x_preferred":[
-        "Karm\u0117lava"
-    ],
     "name:eng_x_preferred":[
         "Karm\u0117lava"
     ],
@@ -44,10 +41,7 @@
     "name:fin_x_preferred":[
         "Karm\u0117lava"
     ],
-    "name:fre_x_preferred":[
-        "Karm\u0117lava"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Karm\u0117lava"
     ],
     "name:lit_x_preferred":[
@@ -123,7 +117,7 @@
         }
     ],
     "wof:id":101817997,
-    "wof:lastmodified":1527642450,
+    "wof:lastmodified":1561837295,
     "wof:name":"Karm\u0117lava",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

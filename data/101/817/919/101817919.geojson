@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000348,
-    "geom:area_square_m":2499122.770345,
+    "geom:area_square_m":2499122.770347,
     "geom:bbox":"24.214275838,54.4944237582,24.2661408746,54.5156920542",
     "geom:latitude":54.504684,
     "geom:longitude":24.244842,
@@ -19,16 +19,10 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0440\u0438\u043c\u043e\u043d\u0439\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u7279\u91cc\u8499\u5c3c\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Butrimonys"
     ],
     "name:deu_x_preferred":[
-        "Butrimonys"
-    ],
-    "name:dut_x_preferred":[
         "Butrimonys"
     ],
     "name:eng_x_preferred":[
@@ -38,12 +32,6 @@
         "Butrimonys"
     ],
     "name:fra_x_preferred":[
-        "Butrimonys"
-    ],
-    "name:fre_x_preferred":[
-        "Butrimonys"
-    ],
-    "name:ger_x_preferred":[
         "Butrimonys"
     ],
     "name:heb_x_preferred":[
@@ -69,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "Butrimantsy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u91cc\u8499\u5c3c\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Alytus",
@@ -116,7 +107,7 @@
         }
     ],
     "wof:id":101817919,
-    "wof:lastmodified":1527642465,
+    "wof:lastmodified":1561837298,
     "wof:name":"Butrimonys",
     "wof:parent_id":102073591,
     "wof:placetype":"locality",

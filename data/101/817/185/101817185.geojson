@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000563,
-    "geom:area_square_m":3941970.215671,
+    "geom:area_square_m":3941970.21567,
     "geom:bbox":"22.1661603646,55.4654739592,22.2094020434,55.5008989781",
     "geom:latitude":55.487253,
     "geom:longitude":22.188136,
@@ -26,16 +26,13 @@
     "name:cat_x_preferred":[
         "\u0160ilal\u0117"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u62c9\u840a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0160ilal\u0117"
     ],
     "name:dan_x_preferred":[
         "\u0160ilal\u0117"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0160ilal\u0117"
     ],
     "name:eng_x_preferred":[
@@ -47,13 +44,13 @@
     "name:est_x_preferred":[
         "\u0160ilal\u0117"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0644\u0627\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "\u0160ilal\u0117"
     ],
-    "name:fre_x_preferred":[
-        "\u0160ilal\u0117"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160ilal\u0117"
     ],
     "name:heb_x_preferred":[
@@ -77,11 +74,11 @@
     "name:lmo_x_preferred":[
         "\u0160ilal\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0428\u0438\u043b\u0430\u043b\u0435"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0644\u0627\u0644\u0647"
+    "name:nld_x_preferred":[
+        "\u0160ilal\u0117"
     ],
     "name:pms_x_preferred":[
         "\u0160ilal\u0117"
@@ -112,6 +109,9 @@
     ],
     "name:vol_x_preferred":[
         "\u0160ilal\u0117"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u62c9\u840a"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*\u0160ilale",
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":101817185,
-    "wof:lastmodified":1527642466,
+    "wof:lastmodified":1561837298,
     "wof:name":"\u0160ilal\u0117",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000585,
-    "geom:area_square_m":4231844.108414,
+    "geom:area_square_m":4231844.108413,
     "geom:bbox":"24.5485838051,54.2047569127,24.6116103374,54.2227771535",
     "geom:latitude":54.214575,
     "geom:longitude":24.576728,
@@ -17,23 +17,20 @@
     "mps:longitude":24.576251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054e\u0561\u0580\u0565\u0576\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u0440\u044d\u043d\u0430"
     ],
     "name:cat_x_preferred":[
         "Var\u0117na"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u96f7\u7eb3"
-    ],
     "name:dan_x_preferred":[
         "Var\u0117na"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Var\u0117na"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c1\u03ad\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Var\u0117na"
@@ -50,17 +47,8 @@
     "name:fin_x_preferred":[
         "Var\u0117na"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Var\u0117na"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10e0\u10d4\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Var\u0117na"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03c1\u03ad\u03bd\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05e8\u05d9\u05d0\u05e0\u05d4"
@@ -70,6 +58,9 @@
     ],
     "name:hun_x_preferred":[
         "Var\u0117na"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u0580\u0565\u0576\u0561"
     ],
     "name:ita_x_preferred":[
         "Var\u0117na"
@@ -89,14 +80,14 @@
     "name:lit_x_preferred":[
         "Var\u0117na"
     ],
+    "name:nld_x_preferred":[
+        "Var\u0117na"
+    ],
     "name:nob_x_preferred":[
         "Var\u0117na kommune"
     ],
     "name:nor_x_preferred":[
         "Var\u0117na kommune"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0627\u0631\u0646\u0627\u060c \u0644\u062a\u0648\u0646\u06cc"
     ],
     "name:pms_x_preferred":[
         "Var\u0117na"
@@ -183,7 +174,7 @@
         }
     ],
     "wof:id":101817913,
-    "wof:lastmodified":1527642457,
+    "wof:lastmodified":1561837297,
     "wof:name":"Var\u0117na",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

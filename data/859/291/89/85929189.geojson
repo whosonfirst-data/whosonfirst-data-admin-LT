@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":33493432.423353,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.174049,54.629101,25.174049,54.629101",
     "geom:latitude":54.629101,
     "geom:longitude":25.174049,
@@ -32,7 +32,7 @@
     "name:deu_x_preferred":[
         "Auk\u0161tieji Paneriai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Paneriai"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +41,7 @@
     "name:est_x_preferred":[
         "Paneriai"
     ],
-    "name:fre_x_preferred":[
-        "Paneriai"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Paneriai"
     ],
     "name:heb_x_preferred":[
@@ -62,6 +59,9 @@
     "name:lit_x_variant":[
         "Paneriai",
         "Paneri\u0173 seni\u016bnija"
+    ],
+    "name:nld_x_preferred":[
+        "Paneriai"
     ],
     "name:pol_x_preferred":[
         "Ponary"
@@ -116,11 +116,11 @@
     "wd:longitude":25.1917,
     "wd:wordcount":558,
     "wof:belongsto":[
+        85685759,
         102191581,
         85633269,
         101753031,
-        102073615,
-        85685759
+        102073615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939114,
+    "wof:lastmodified":1561837263,
     "wof:name":"Aukstieji Paneriai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",
