@@ -28,10 +28,7 @@
     "name:cat_x_preferred":[
         "Tro\u0161k\u016bnai"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u7f85\u4ec0\u5eab\u5948"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tro\u0161k\u016bnai"
     ],
     "name:eng_x_preferred":[
@@ -40,13 +37,13 @@
     "name:est_x_preferred":[
         "Tro\u0161k\u016bnai"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u0634\u06a9\u0648\u0646\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Tro\u0161k\u016bnai"
     ],
-    "name:fre_x_preferred":[
-        "Tro\u0161k\u016bnai"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tro\u0161k\u016bnai"
     ],
     "name:heb_x_preferred":[
@@ -61,8 +58,8 @@
     "name:lit_x_preferred":[
         "Tro\u0161k\u016bnai"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0648\u0634\u06a9\u0648\u0646\u0627\u06cc"
+    "name:nld_x_preferred":[
+        "Tro\u0161k\u016bnai"
     ],
     "name:pms_x_preferred":[
         "Tro\u0161k\u016bnai"
@@ -87,6 +84,9 @@
     ],
     "name:vol_x_preferred":[
         "Tro\u0161k\u016bnai"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u7f85\u4ec0\u5eab\u5948"
     ],
     "qs_pg:aaroncc":"LT",
     "qs_pg:gn_country":"LT",
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":1125884443,
-    "wof:lastmodified":1514483812,
+    "wof:lastmodified":1561837301,
     "wof:name":"Tro\u0161k\u016bnai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

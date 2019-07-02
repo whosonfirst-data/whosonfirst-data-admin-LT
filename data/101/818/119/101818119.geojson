@@ -23,13 +23,10 @@
     "name:cat_x_preferred":[
         "Pasvalys"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u65af\u74e6\u5229\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pasvalys"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pasvalys"
     ],
     "name:eng_x_preferred":[
@@ -41,16 +38,13 @@
     "name:est_x_preferred":[
         "Pasvalys"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0633\u0648\u0627\u0644\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Pasvalys"
     ],
-    "name:fre_x_preferred":[
-        "Pasvalys"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e1\u10d5\u10d0\u10da\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pasvalys"
     ],
     "name:heb_x_preferred":[
@@ -59,14 +53,17 @@
     "name:hsb_x_preferred":[
         "Pasvalys"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e1\u10d5\u10d0\u10da\u10d8\u10e1\u10d8"
+    ],
     "name:lav_x_preferred":[
         "Pasvale"
     ],
     "name:lit_x_preferred":[
         "Pasvalys"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0633\u0648\u0627\u0644\u06cc\u0633"
+    "name:nld_x_preferred":[
+        "Pasvalys"
     ],
     "name:pms_x_preferred":[
         "Pasvalys"
@@ -97,6 +94,9 @@
     ],
     "name:vol_x_preferred":[
         "Pasvalys"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u65af\u74e6\u5229\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Pasvalys",
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":101818119,
-    "wof:lastmodified":1527642223,
+    "wof:lastmodified":1561837293,
     "wof:name":"Pasvalys",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

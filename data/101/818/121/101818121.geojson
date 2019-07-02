@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":1492976.896258,
+    "geom:area_square_m":1492976.896257,
     "geom:bbox":"25.5964400078,56.0783025468,25.6220088787,56.0943274271",
     "geom:latitude":56.086418,
     "geom:longitude":25.609648,
@@ -17,9 +17,6 @@
     "mps:longitude":25.609454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Juodup\u0117"
-    ],
     "name:eng_x_preferred":[
         "Juodup\u0117"
     ],
@@ -27,6 +24,9 @@
         "Juodup\u0117"
     ],
     "name:lit_x_preferred":[
+        "Juodup\u0117"
+    ],
+    "name:nld_x_preferred":[
         "Juodup\u0117"
     ],
     "name:pol_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":101818121,
-    "wof:lastmodified":1527642222,
+    "wof:lastmodified":1561837293,
     "wof:name":"Juodup\u0117",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

@@ -185,9 +185,6 @@
     "name:cym_x_variant":[
         "Lithuania"
     ],
-    "name:cze_x_preferred":[
-        "Litva"
-    ],
     "name:cze_x_variant":[
         "Loty\u0161sko"
     ],
@@ -723,9 +720,6 @@
     "name:rue_x_preferred":[
         "\u041b\u0456\u0442\u0432\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Lituania"
-    ],
     "name:run_x_preferred":[
         "Lituania"
     ],
@@ -980,9 +974,6 @@
     "name:zho_x_preferred":[
         "\u7acb\u9676\u5b9b"
     ],
-    "name:zho_x_variant":[
-        "\u7acb\u9676\u5b9b"
-    ],
     "name:zho_yue_x_preferred":[
         "\u7acb\u9676\u5b9b"
     ],
@@ -1140,7 +1131,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1544059220,
+    "wof:lastmodified":1561837265,
     "wof:name":"Lithuania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

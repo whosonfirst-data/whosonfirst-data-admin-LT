@@ -22,17 +22,11 @@
     "name:ces_x_preferred":[
         "Dovilai"
     ],
-    "name:cze_x_preferred":[
-        "Dovilai"
-    ],
     "name:deu_x_preferred":[
         "Dovilai"
     ],
     "name:deu_x_variant":[
         "Dawillen"
-    ],
-    "name:dut_x_preferred":[
-        "Dovilai"
     ],
     "name:eng_x_preferred":[
         "Dovilai"
@@ -43,10 +37,10 @@
     "name:fin_x_preferred":[
         "Dovilai"
     ],
-    "name:ger_x_preferred":[
+    "name:lit_x_preferred":[
         "Dovilai"
     ],
-    "name:lit_x_preferred":[
+    "name:nld_x_preferred":[
         "Dovilai"
     ],
     "name:pol_x_preferred":[
@@ -110,7 +104,7 @@
         }
     ],
     "wof:id":101817191,
-    "wof:lastmodified":1527642458,
+    "wof:lastmodified":1561837297,
     "wof:name":"Dovilai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

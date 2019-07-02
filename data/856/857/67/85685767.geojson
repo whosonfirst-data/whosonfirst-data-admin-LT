@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u0648\u0631\u0627\u063a\u0647"
     ],
-    "name:baq_x_preferred":[
-        "Taurag\u0117ko konderria"
-    ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u045e\u0440\u0430\u0433\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
     ],
@@ -42,20 +39,20 @@
     "name:cat_x_preferred":[
         "Comtat de Taurag\u0117"
     ],
-    "name:chi_x_preferred":[
-        "\u9676\u62c9\u683c\u7e23"
+    "name:ces_x_preferred":[
+        "Taurag\u0117sk\u00fd kraj"
     ],
     "name:cor_x_preferred":[
         "Konteth Taurag\u0117"
     ],
-    "name:cze_x_preferred":[
-        "Taurag\u0117sk\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Taurag\u0117 amt"
     ],
-    "name:dut_x_preferred":[
-        "Taurag\u0117"
+    "name:deu_x_preferred":[
+        "Bezirk Taurag\u0117"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b1\u03bf\u03c5\u03c1\u03b1\u03b3\u03ba\u03ad"
     ],
     "name:eng_x_preferred":[
         "Taurage"
@@ -69,23 +66,20 @@
     "name:est_x_preferred":[
         "Taurag\u0117 maakond"
     ],
+    "name:eus_x_preferred":[
+        "Taurag\u0117ko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627\u0648\u0631\u0627\u06af\u0647"
+    ],
     "name:fin_x_preferred":[
         "Taurag\u0117n l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "apskritis de Taurag\u0117"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e3\u10e0\u10d0\u10d2\u10d4\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Taurag\u0117"
     ],
     "name:gle_x_preferred":[
         "Contae Taurag\u0117"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a4\u03b1\u03bf\u03c5\u03c1\u03b1\u03b3\u03ba\u03ad"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acc\u0ab0\u0a97\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -111,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0ccc\u0cb0\u0ccd\u0c97\u0cc6 \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e3\u10e0\u10d0\u10d2\u10d4\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\uc6b0\ub77c\uac8c \uc8fc"
     ],
@@ -123,20 +120,20 @@
     "name:lit_x_preferred":[
         "Taurag\u0117s apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0430\u0443\u0440\u0430\u0448\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u091f\u094c\u0930\u094d\u0917\u093e \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0443\u0440\u0430\u0448\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Taurage County"
+    ],
+    "name:nld_x_preferred":[
+        "Taurag\u0117"
     ],
     "name:nob_x_preferred":[
         "Taurag\u0117 fylke"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0627\u0648\u0631\u0627\u06af\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0627\u0624\u0631\u0627\u06af\u06d2 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -147,7 +144,7 @@
     "name:por_x_preferred":[
         "Taurag\u0117"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jude\u021bul Taurag\u0117"
     ],
     "name:rus_x_preferred":[
@@ -206,6 +203,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Taurage"
+    ],
+    "name:zho_x_preferred":[
+        "\u9676\u62c9\u683c\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LTU",
@@ -323,7 +323,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1553550861,
+    "wof:lastmodified":1561837263,
     "wof:name":"Taurage",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

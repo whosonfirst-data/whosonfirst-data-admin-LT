@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
-    "geom:area_square_m":2060233.478589,
+    "geom:area_square_m":2060233.478588,
     "geom:bbox":"22.2883937184,56.2553799527,22.321244014,56.2740849593",
     "geom:latitude":56.264211,
     "geom:longitude":22.306774,
@@ -16,9 +16,6 @@
     "mps:longitude":22.306774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Tirk\u0161liai"
-    ],
     "name:eng_x_preferred":[
         "Tirk\u0161liai"
     ],
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101817239,
-    "wof:lastmodified":1527642463,
+    "wof:lastmodified":1561837297,
     "wof:name":"Tirk\u0161liai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

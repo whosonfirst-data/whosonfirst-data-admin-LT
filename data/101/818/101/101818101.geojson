@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
-    "geom:area_square_m":2030372.236203,
+    "geom:area_square_m":2030372.236201,
     "geom:bbox":"21.8224771208,56.2694069978,21.8686453477,56.2887225836",
     "geom:latitude":56.2796,
     "geom:longitude":21.848557,
@@ -22,12 +22,6 @@
     "name:ces_x_preferred":[
         "Ylakiai"
     ],
-    "name:cze_x_preferred":[
-        "Ylakiai"
-    ],
-    "name:dut_x_preferred":[
-        "Ylakiai"
-    ],
     "name:eng_x_preferred":[
         "Ylakiai"
     ],
@@ -38,9 +32,6 @@
         "Ylakiai"
     ],
     "name:fra_x_preferred":[
-        "Ylakiai"
-    ],
-    "name:fre_x_preferred":[
         "Ylakiai"
     ],
     "name:lit_x_preferred":[
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":101818101,
-    "wof:lastmodified":1527642224,
+    "wof:lastmodified":1561837293,
     "wof:name":"Ylakiai",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1552825.616776,
+    "geom:area_square_m":1552825.616775,
     "geom:bbox":"21.4549466309,55.7114280583,21.4876760995,55.7245944375",
     "geom:latitude":55.717672,
     "geom:longitude":21.471098,
@@ -17,12 +17,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:ces_x_preferred":[
-        "V\u0117\u017eai\u010diai"
-    ],
-    "name:cze_x_preferred":[
-        "V\u0117\u017eai\u010diai"
-    ],
-    "name:dut_x_preferred":[
         "V\u0117\u017eai\u010diai"
     ],
     "name:eng_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":101818063,
-    "wof:lastmodified":1527642220,
+    "wof:lastmodified":1561837293,
     "wof:name":"V\u0117\u017eai\u010diai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

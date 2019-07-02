@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
-    "geom:area_square_m":1582575.264439,
+    "geom:area_square_m":1582575.264437,
     "geom:bbox":"22.0354959064,56.0208125375,22.0600601429,56.0424799604",
     "geom:latitude":56.030142,
     "geom:longitude":22.047227,
@@ -19,9 +19,6 @@
     "name:cat_x_preferred":[
         "Als\u0117d\u017eiai"
     ],
-    "name:dut_x_preferred":[
-        "Als\u0117d\u017eiai"
-    ],
     "name:eng_x_preferred":[
         "Als\u0117d\u017eiai"
     ],
@@ -31,13 +28,13 @@
     "name:fra_x_preferred":[
         "Als\u0117d\u017eiai"
     ],
-    "name:fre_x_preferred":[
-        "Als\u0117d\u017eiai"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05e1\u05d9\u05d0\u05d3"
     ],
     "name:lit_x_preferred":[
+        "Als\u0117d\u017eiai"
+    ],
+    "name:nld_x_preferred":[
         "Als\u0117d\u017eiai"
     ],
     "name:pol_x_preferred":[
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101817221,
-    "wof:lastmodified":1527642451,
+    "wof:lastmodified":1561837296,
     "wof:name":"Als\u0117d\u017eiai",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

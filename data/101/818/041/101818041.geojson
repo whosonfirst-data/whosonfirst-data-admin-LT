@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000547,
-    "geom:area_square_m":3852580.109038,
+    "geom:area_square_m":3852580.109039,
     "geom:bbox":"23.4574209852,55.2436847387,23.5213706583,55.2757096391",
     "geom:latitude":55.261144,
     "geom:longitude":23.483095,
@@ -32,13 +32,7 @@
     "name:cat_x_preferred":[
         "Ariogala"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5ed6\u52a0\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Ariogala"
-    ],
-    "name:dut_x_preferred":[
         "Ariogala"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +50,6 @@
     "name:fra_x_preferred":[
         "Ariogala"
     ],
-    "name:fre_x_preferred":[
-        "Ariogala"
-    ],
-    "name:ger_x_preferred":[
-        "Ariogala"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05e8\u05d2\u05d5\u05dc\u05d4"
     ],
@@ -77,8 +65,8 @@
     "name:lit_x_preferred":[
         "Ariogala"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u06cc\u0648\u06af\u0627\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Ariogala"
     ],
     "name:pms_x_preferred":[
         "Ariogala"
@@ -161,7 +149,7 @@
         }
     ],
     "wof:id":101818041,
-    "wof:lastmodified":1527642217,
+    "wof:lastmodified":1561837292,
     "wof:name":"Ariogala",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

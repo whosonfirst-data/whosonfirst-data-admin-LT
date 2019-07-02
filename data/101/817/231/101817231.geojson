@@ -16,9 +16,6 @@
     "mps:longitude":23.247922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Gruzd\u017eiai"
-    ],
     "name:eng_x_preferred":[
         "Gruzd\u017eiai"
     ],
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101817231,
-    "wof:lastmodified":1527642462,
+    "wof:lastmodified":1561837297,
     "wof:name":"Gruzd\u017eiai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

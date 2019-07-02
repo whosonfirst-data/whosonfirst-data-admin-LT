@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000346,
-    "geom:area_square_m":2418895.523891,
+    "geom:area_square_m":2418895.523892,
     "geom:bbox":"21.9696509643,55.5467922803,22.0092519594,55.5693747901",
     "geom:latitude":55.557727,
     "geom:longitude":21.989269,
@@ -16,9 +16,6 @@
     "mps:longitude":21.992269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Kv\u0117darna"
-    ],
     "name:eng_x_preferred":[
         "Kv\u0117darna"
     ],
@@ -26,9 +23,6 @@
         "Kv\u0117darna"
     ],
     "name:fra_x_preferred":[
-        "Kv\u0117darna"
-    ],
-    "name:fre_x_preferred":[
         "Kv\u0117darna"
     ],
     "name:heb_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":101818043,
-    "wof:lastmodified":1527642226,
+    "wof:lastmodified":1561837294,
     "wof:name":"Kv\u0117darna",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

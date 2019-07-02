@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":2120042.383736,
+    "geom:area_square_m":2120042.383735,
     "geom:bbox":"21.7935338996,56.0332254074,21.8289324185,56.0540116215",
     "geom:latitude":56.046184,
     "geom:longitude":21.812552,
@@ -23,13 +23,7 @@
     "name:ces_x_preferred":[
         "Plateliai"
     ],
-    "name:cze_x_preferred":[
-        "Plateliai"
-    ],
     "name:deu_x_preferred":[
-        "Plateliai"
-    ],
-    "name:dut_x_preferred":[
         "Plateliai"
     ],
     "name:eng_x_preferred":[
@@ -41,13 +35,10 @@
     "name:fra_x_preferred":[
         "Plateliai"
     ],
-    "name:fre_x_preferred":[
-        "Plateliai"
-    ],
-    "name:ger_x_preferred":[
-        "Plateliai"
-    ],
     "name:lit_x_preferred":[
+        "Plateliai"
+    ],
+    "name:nld_x_preferred":[
         "Plateliai"
     ],
     "name:pol_x_preferred":[
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":101817223,
-    "wof:lastmodified":1527642460,
+    "wof:lastmodified":1561837297,
     "wof:name":"Plateliai",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

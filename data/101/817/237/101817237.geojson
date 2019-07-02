@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000454,
-    "geom:area_square_m":3125248.468142,
+    "geom:area_square_m":3125248.468143,
     "geom:bbox":"21.5475517132,56.1479755545,21.5941902311,56.1739150871",
     "geom:latitude":56.162673,
     "geom:longitude":21.573554,
@@ -22,13 +22,7 @@
     "name:ces_x_preferred":[
         "Mos\u0117dis"
     ],
-    "name:cze_x_preferred":[
-        "Mos\u0117dis"
-    ],
     "name:deu_x_preferred":[
-        "Mos\u0117dis"
-    ],
-    "name:dut_x_preferred":[
         "Mos\u0117dis"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,10 @@
     "name:fin_x_preferred":[
         "Mos\u0117dis"
     ],
-    "name:ger_x_preferred":[
+    "name:lit_x_preferred":[
         "Mos\u0117dis"
     ],
-    "name:lit_x_preferred":[
+    "name:nld_x_preferred":[
         "Mos\u0117dis"
     ],
     "name:pol_x_preferred":[
@@ -106,7 +100,7 @@
         }
     ],
     "wof:id":101817237,
-    "wof:lastmodified":1527642463,
+    "wof:lastmodified":1561837298,
     "wof:name":"Mos\u0117dis",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

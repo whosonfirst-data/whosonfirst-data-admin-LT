@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000512,
-    "geom:area_square_m":3583577.315249,
+    "geom:area_square_m":3583577.31525,
     "geom:bbox":"26.303907207,55.5090190001,26.3514963034,55.5336174688",
     "geom:latitude":55.521685,
     "geom:longitude":26.328084,
@@ -30,12 +30,6 @@
     "name:cat_x_preferred":[
         "D\u016bk\u0161tas"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u514b\u4ec0\u5854\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "D\u016bk\u0161tas"
-    ],
     "name:eng_x_preferred":[
         "D\u016bk\u0161tas"
     ],
@@ -49,9 +43,6 @@
         "D\u016bk\u0161tas"
     ],
     "name:fra_x_preferred":[
-        "D\u016bk\u0161tas"
-    ],
-    "name:fre_x_preferred":[
         "D\u016bk\u0161tas"
     ],
     "name:heb_x_preferred":[
@@ -69,8 +60,8 @@
     "name:lit_x_preferred":[
         "D\u016bk\u0161tas"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u06a9\u0634\u062a\u0627\u0633"
+    "name:nld_x_preferred":[
+        "D\u016bk\u0161tas"
     ],
     "name:pms_x_preferred":[
         "D\u016bk\u0161tas"
@@ -92,6 +83,9 @@
     ],
     "name:vol_x_preferred":[
         "D\u016bk\u0161tas"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u514b\u4ec0\u5854\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Ignalina",
@@ -141,7 +135,7 @@
         }
     ],
     "wof:id":101817217,
-    "wof:lastmodified":1527642452,
+    "wof:lastmodified":1561837296,
     "wof:name":"D\u016bk\u0161tas",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

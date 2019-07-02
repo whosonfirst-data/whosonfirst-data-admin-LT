@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0646\u064a\u0641\u064a\u0632\u064a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Panev\u0117\u017eysko konderria"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u043d\u044f\u0432\u0435\u0436\u044b\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
     ],
@@ -42,20 +39,20 @@
     "name:cat_x_preferred":[
         "Comtat de Panev\u0117\u017eys"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u6d85\u97cb\u65e5\u65af\u7e23"
+    "name:ces_x_preferred":[
+        "Panev\u0117\u017eysk\u00fd kraj"
     ],
     "name:cor_x_preferred":[
         "Konteth Panev\u0117\u017eys"
     ],
-    "name:cze_x_preferred":[
-        "Panev\u0117\u017eysk\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Panev\u0117\u017eys amt"
     ],
-    "name:dut_x_preferred":[
-        "Panev\u0117\u017eys"
+    "name:deu_x_preferred":[
+        "Bezirk Panev\u0117\u017eys"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03b1\u03bd\u03b5\u03b2\u03b5\u03b6\u03af\u03c2"
     ],
     "name:eng_x_preferred":[
         "Panev\u0117\u017eys County"
@@ -66,23 +63,20 @@
     "name:est_x_preferred":[
         "Panev\u0117\u017eysi maakond"
     ],
+    "name:eus_x_preferred":[
+        "Panev\u0117\u017eysko konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0627\u0646\u0647\u200c\u0648\u0698\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Panev\u0117\u017eysin l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "apskritis de Panev\u0117\u017eys"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10dc\u10d4\u10d5\u10d4\u10df\u10d8\u10e1\u10d8\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Panev\u0117\u017eys"
     ],
     "name:gle_x_preferred":[
         "Contae Panev\u0117\u017eys"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03b1\u03bd\u03b5\u03b2\u03b5\u03b6\u03af\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac5\u0aa8\u0ab5\u0ac7\u0a9c\u0ac0\u0ab8 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -108,6 +102,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ca8\u0cc6\u0cb5\u0cc6\u0c9d\u0cbf \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10dc\u10d4\u10d5\u10d4\u10df\u10d8\u10e1\u10d8\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\ub124\ubca0\uc9c0\uc2a4 \uc8fc"
     ],
@@ -120,20 +117,20 @@
     "name:lit_x_preferred":[
         "Panev\u0117\u017eio Apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u043d\u0435\u0432\u0435\u0448\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0945\u0928\u0935\u0947\u091c \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u043d\u0435\u0432\u0435\u0448\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Panevezys County"
+    ],
+    "name:nld_x_preferred":[
+        "Panev\u0117\u017eys"
     ],
     "name:nob_x_preferred":[
         "Panev\u0117\u017eys fylke"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0627\u0646\u0647\u200c\u0648\u0698\u06cc\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u06cc\u0646\u06cc\u0648\u06cc\u0698\u06cc\u0633 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -144,7 +141,7 @@
     "name:por_x_preferred":[
         "Panev\u0117\u017eys"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jude\u021bul Panev\u0117\u017eys"
     ],
     "name:rus_x_preferred":[
@@ -200,6 +197,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Panevezys"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u6d85\u97cb\u65e5\u65af\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LTU",
@@ -318,7 +318,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1553550874,
+    "wof:lastmodified":1561837264,
     "wof:name":"Paneve\u017eys",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

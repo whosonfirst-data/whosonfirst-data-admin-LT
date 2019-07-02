@@ -24,13 +24,13 @@
     "name:bul_x_preferred":[
         "\u0420\u0439\u043a\u0430\u043d\u0442\u0430\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Rykantai"
-    ],
     "name:eng_x_preferred":[
         "Rykantai"
     ],
     "name:lit_x_preferred":[
+        "Rykantai"
+    ],
+    "name:nld_x_preferred":[
         "Rykantai"
     ],
     "name:pol_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125982347,
-    "wof:lastmodified":1514483795,
+    "wof:lastmodified":1561837301,
     "wof:name":"Rykantai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":1523308.70021,
+    "geom:area_square_m":1523308.700209,
     "geom:bbox":"25.5032267477,54.6965221925,25.5326056443,54.7116869465",
     "geom:latitude":54.704004,
     "geom:longitude":25.518669,
@@ -16,9 +16,6 @@
     "mps:longitude":25.52479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Mick\u016bnai"
-    ],
     "name:eng_x_preferred":[
         "Mick\u016bnai"
     ],
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":101818001,
-    "wof:lastmodified":1527642220,
+    "wof:lastmodified":1561837293,
     "wof:name":"Mick\u017enai",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

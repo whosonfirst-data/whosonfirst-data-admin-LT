@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001057,
-    "geom:area_square_m":7315806.410638,
+    "geom:area_square_m":7315806.410642,
     "geom:bbox":"25.5568433209,55.9326257593,25.6096287755,55.9772958921",
     "geom:latitude":55.955082,
     "geom:longitude":25.587081,
@@ -26,9 +26,6 @@
     "name:cat_x_preferred":[
         "Roki\u0161kis"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u57fa\u4ec0\u57fa\u65af"
-    ],
     "name:cor_x_preferred":[
         "Roki\u0161kis"
     ],
@@ -41,9 +38,6 @@
     "name:deu_x_variant":[
         "Roki\u0161kis"
     ],
-    "name:dut_x_preferred":[
-        "Roki\u0161kis"
-    ],
     "name:eng_x_preferred":[
         "Roki\u0161kis"
     ],
@@ -53,16 +47,13 @@
     "name:est_x_preferred":[
         "Roki\u0161kis"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06a9\u06cc\u0634\u06a9\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Roki\u0161kis"
     ],
-    "name:fre_x_preferred":[
-        "Roki\u0161kis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10dd\u10d9\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Roki\u0161kis"
     ],
     "name:heb_x_preferred":[
@@ -76,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ed\u30ad\u30b7\u30e5\u30ad\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10d9\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8"
     ],
     "name:lav_x_preferred":[
         "Roki\u0161\u0137i"
@@ -91,9 +85,6 @@
     ],
     "name:nob_x_preferred":[
         "Roki\u0161kis"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u06a9\u06cc\u0634\u06a9\u06cc\u0633"
     ],
     "name:pms_x_preferred":[
         "Roki\u0161kis"
@@ -130,6 +121,9 @@
     ],
     "name:vol_x_preferred":[
         "Roki\u0161kis"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u57fa\u4ec0\u57fa\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Roki\u0161kis",
@@ -179,7 +173,7 @@
         }
     ],
     "wof:id":101818127,
-    "wof:lastmodified":1527642222,
+    "wof:lastmodified":1561837293,
     "wof:name":"Roki\u0161kis",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

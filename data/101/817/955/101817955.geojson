@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Trakai"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0580\u0561\u056f\u0561\u0575"
-    ],
     "name:ast_x_preferred":[
         "Trakai"
     ],
@@ -41,23 +38,17 @@
     "name:ces_x_preferred":[
         "Trakai"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u62c9\u51f1"
-    ],
-    "name:cze_x_preferred":[
-        "Trakai"
-    ],
     "name:dan_x_preferred":[
         "Trakai"
     ],
     "name:deu_x_preferred":[
         "Trakai"
     ],
-    "name:dut_x_preferred":[
-        "Trakai"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c1\u03b1\u03ba\u03ac\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03ac\u03ba\u03b1\u03ca"
     ],
     "name:eng_x_preferred":[
         "Trakai"
@@ -68,26 +59,17 @@
     "name:est_x_preferred":[
         "Trakai"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0627\u06a9\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Trakai"
     ],
     "name:fra_x_preferred":[
         "Trakai"
     ],
-    "name:fre_x_preferred":[
-        "Trakai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e0\u10d0\u10d9\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Trakai"
-    ],
     "name:glg_x_preferred":[
         "Trakai"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c1\u03ac\u03ba\u03b1\u03ca"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05e7\u05d0\u05d9"
@@ -98,6 +80,9 @@
     "name:hsb_x_preferred":[
         "Trakai"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0561\u056f\u0561\u0575"
+    ],
     "name:ind_x_preferred":[
         "Trakai"
     ],
@@ -106,6 +91,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30e9\u30ab\u30a4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e0\u10d0\u10d9\u10d0\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud2b8\ub77c\uce74\uc774"
@@ -116,7 +104,7 @@
     "name:lit_x_preferred":[
         "Trakai"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0440\u0430\u043a\u0430\u0458"
     ],
     "name:nld_x_preferred":[
@@ -128,9 +116,6 @@
     "name:nor_x_preferred":[
         "Trakai kommune"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0627\u06a9\u0627\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Trakai"
     ],
@@ -140,7 +125,7 @@
     "name:por_x_preferred":[
         "Trakai"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Trakai"
     ],
     "name:rus_x_preferred":[
@@ -152,7 +137,7 @@
     "name:sgs_x_preferred":[
         "Trak\u0101"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Trakai"
     ],
     "name:spa_x_preferred":[
@@ -187,6 +172,9 @@
     ],
     "name:vol_x_preferred":[
         "Trakai"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u62c9\u51f1"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Trakai",
@@ -237,7 +225,7 @@
         }
     ],
     "wof:id":101817955,
-    "wof:lastmodified":1535390432,
+    "wof:lastmodified":1561837295,
     "wof:name":"Trakai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

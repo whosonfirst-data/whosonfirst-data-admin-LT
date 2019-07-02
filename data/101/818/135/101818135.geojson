@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001393,
-    "geom:area_square_m":9584672.836317,
+    "geom:area_square_m":9584672.836319,
     "geom:bbox":"24.7089561379,56.1820067721,24.7872734547,56.2237822637",
     "geom:latitude":56.200039,
     "geom:longitude":24.750228,
@@ -30,19 +30,13 @@
     "name:cat_x_preferred":[
         "Bir\u017eai"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u723e\u624e\u4f0a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bir\u017eai"
     ],
     "name:dan_x_preferred":[
         "Bir\u017eai"
     ],
     "name:deu_x_preferred":[
-        "Bir\u017eai"
-    ],
-    "name:dut_x_preferred":[
         "Bir\u017eai"
     ],
     "name:ell_x_preferred":[
@@ -60,23 +54,14 @@
     "name:est_x_preferred":[
         "Bir\u017eai"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u0632\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Bir\u017eai"
     ],
     "name:fra_x_preferred":[
         "Bir\u017eai"
-    ],
-    "name:fre_x_preferred":[
-        "Bir\u017eai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10e0\u10df\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bir\u017eai"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03c1\u03b6\u03ac\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05e8\u05d6'"
@@ -110,9 +95,6 @@
     ],
     "name:nld_x_preferred":[
         "Bir\u017eai"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0631\u0632\u0627\u06cc"
     ],
     "name:pms_x_preferred":[
         "Bir\u017eai"
@@ -211,7 +193,7 @@
         }
     ],
     "wof:id":101818135,
-    "wof:lastmodified":1527642214,
+    "wof:lastmodified":1561837292,
     "wof:name":"Bir\u017eai",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

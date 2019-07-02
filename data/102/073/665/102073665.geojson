@@ -34,14 +34,11 @@
     "name:cat_x_preferred":[
         "Districte municipal de \u0160ven\u010dionys"
     ],
-    "name:chi_x_preferred":[
-        "\u4ec0\u6587\u55ac\u5c3c\u65af\u5730\u5340"
-    ],
     "name:deu_x_preferred":[
         "Rajongemeinde \u0160ven\u010dionys"
     ],
-    "name:dut_x_preferred":[
-        "\u0160ven\u010dionys"
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1\u03c2 \u03a3\u03b2\u03b5\u03bd\u03c4\u03c3\u03b9\u03cc\u03bd\u03c5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Svencionys"
@@ -55,23 +52,17 @@
     "name:fra_x_preferred":[
         "Municipalit\u00e9 du district de \u0160ven\u010dionys"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "municipalit\u00e9 du district de \u0160ven\u010dionys"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d5\u10d4\u10dc\u10e9\u10d8\u10dd\u10dc\u10d8\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajongemeinde \u0160ven\u010dionys"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1\u03c2 \u03a3\u03b2\u03b5\u03bd\u03c4\u03c3\u03b9\u03cc\u03bd\u03c5\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d5\u05d5\u05d9\u05e0\u05e6\u05d9\u05d0\u05df"
     ],
     "name:ita_x_preferred":[
         "Comune distrettuale di \u0160ven\u010dionys"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d5\u10d4\u10dc\u10e9\u10d8\u10dd\u10dc\u10d8\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:lav_x_preferred":[
         "\u0160ven\u010do\u0146u rajona pa\u0161vald\u012bba"
@@ -81,6 +72,9 @@
     ],
     "name:lmo_x_preferred":[
         "Municipalitaa dal distrecc da \u0160ven\u010dionys"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160ven\u010dionys"
     ],
     "name:nob_x_preferred":[
         "\u0160ven\u010dionys kommune"
@@ -102,6 +96,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u0648\u06cc\u0646\u0686\u0648\u0646\u06cc\u0633 \u0636\u0644\u0639 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ec0\u6587\u55ac\u5c3c\u65af\u5730\u5340"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -152,7 +149,7 @@
         }
     ],
     "wof:id":102073665,
-    "wof:lastmodified":1554506195,
+    "wof:lastmodified":1561837257,
     "wof:name":"\u0160vencionys",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

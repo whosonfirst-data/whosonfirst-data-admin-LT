@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Verstaminai"
-    ],
     "name:eng_x_preferred":[
         "Verstaminai"
     ],
@@ -28,6 +25,9 @@
         "Verstaminai"
     ],
     "name:lit_x_preferred":[
+        "Verstaminai"
+    ],
+    "name:nld_x_preferred":[
         "Verstaminai"
     ],
     "name:rus_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125806167,
-    "wof:lastmodified":1514483826,
+    "wof:lastmodified":1561837301,
     "wof:name":"Verstaminai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

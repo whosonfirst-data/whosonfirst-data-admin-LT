@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":2080118.75562,
+    "geom:area_square_m":2080118.755621,
     "geom:bbox":"23.3744611695,56.2987278062,23.4062440023,56.3151257763",
     "geom:latitude":56.307168,
     "geom:longitude":23.389392,
@@ -19,16 +19,10 @@
     "name:deu_x_preferred":[
         "Skaistgirys"
     ],
-    "name:dut_x_preferred":[
-        "Skaistgirys"
-    ],
     "name:eng_x_preferred":[
         "Skaistgirys"
     ],
     "name:est_x_preferred":[
-        "Skaistgirys"
-    ],
-    "name:ger_x_preferred":[
         "Skaistgirys"
     ],
     "name:lit_x_preferred":[
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":101817259,
-    "wof:lastmodified":1527642452,
+    "wof:lastmodified":1561837296,
     "wof:name":"Skaistgirys",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000618,
-    "geom:area_square_m":4410521.379283,
+    "geom:area_square_m":4410521.379284,
     "geom:bbox":"24.7887303318,54.7576424066,24.8325413287,54.79268454",
     "geom:latitude":54.775607,
     "geom:longitude":24.811202,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0641\u064a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u0587\u056b\u057d"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u0435\u0432\u0456\u0441"
     ],
@@ -36,13 +33,7 @@
     "name:cat_x_preferred":[
         "Vievis"
     ],
-    "name:chi_x_preferred":[
-        "\u97cb\u7dad\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Vievis"
-    ],
-    "name:dut_x_preferred":[
         "Vievis"
     ],
     "name:ell_x_preferred":[
@@ -63,18 +54,6 @@
     "name:fra_x_preferred":[
         "Vievis"
     ],
-    "name:fre_x_preferred":[
-        "Vievis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10d5\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Vievis"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b9\u03ad\u03b2\u03b9\u03c2"
-    ],
     "name:hsb_x_preferred":[
         "Vievis"
     ],
@@ -92,9 +71,6 @@
     ],
     "name:nld_x_preferred":[
         "Vievis"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0648\u06cc\u0633"
     ],
     "name:pms_x_preferred":[
         "Vievis"
@@ -178,7 +154,7 @@
         }
     ],
     "wof:id":101817969,
-    "wof:lastmodified":1527642459,
+    "wof:lastmodified":1561837297,
     "wof:name":"Vievis",
     "wof:parent_id":102073613,
     "wof:placetype":"locality",

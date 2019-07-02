@@ -28,11 +28,11 @@
     "name:cat_x_preferred":[
         "Kalvarija"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u723e\u74e6\u91cc\u4e9e\u5340"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kalvarija"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b1\u03bb\u03b2\u03b1\u03c1\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kalvarija"
@@ -46,14 +46,8 @@
     "name:fra_x_preferred":[
         "Kalvarija"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Municipalit\u00e9 de Kalvarija"
-    ],
-    "name:ger_x_preferred":[
-        "Kalvarija"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b1\u03bb\u03b2\u03b1\u03c1\u03af\u03b3\u03b9\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05dc\u05d5\u05d5\u05e8\u05d9\u05d4"
@@ -87,6 +81,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0644\u0648\u0627\u0631\u06cc\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u74e6\u91cc\u4e9e\u5340"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -137,7 +134,7 @@
         }
     ],
     "wof:id":102073585,
-    "wof:lastmodified":1555038754,
+    "wof:lastmodified":1561837258,
     "wof:name":"Kalvarija",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

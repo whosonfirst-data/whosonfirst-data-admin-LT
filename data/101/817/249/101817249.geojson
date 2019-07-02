@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000416,
-    "geom:area_square_m":2866479.594181,
+    "geom:area_square_m":2866479.59418,
     "geom:bbox":"22.7802506243,56.1380861388,22.8219862086,56.1578006145",
     "geom:latitude":56.147795,
     "geom:longitude":22.796812,
@@ -19,16 +19,10 @@
     "name:afr_x_preferred":[
         "Papil\u0117"
     ],
-    "name:alb_x_preferred":[
-        "Papil\u0117"
-    ],
     "name:arg_x_preferred":[
         "Papil\u0117"
     ],
     "name:ast_x_preferred":[
-        "Papil\u0117"
-    ],
-    "name:baq_x_preferred":[
         "Papil\u0117"
     ],
     "name:bar_x_preferred":[
@@ -43,16 +37,19 @@
     "name:cat_x_preferred":[
         "Papil\u0117"
     ],
+    "name:ces_x_preferred":[
+        "Papil\u0117"
+    ],
     "name:cos_x_preferred":[
         "Papil\u0117"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Papil\u0117"
     ],
     "name:dan_x_preferred":[
         "Papil\u0117"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Papil\u0117"
     ],
     "name:eng_x_preferred":[
@@ -64,19 +61,16 @@
     "name:est_x_preferred":[
         "Papil\u0117"
     ],
+    "name:eus_x_preferred":[
+        "Papil\u0117"
+    ],
     "name:fin_x_preferred":[
         "Papil\u0117"
     ],
     "name:fra_x_preferred":[
         "Papil\u0117"
     ],
-    "name:fre_x_preferred":[
-        "Papil\u0117"
-    ],
     "name:fur_x_preferred":[
-        "Papil\u0117"
-    ],
-    "name:ger_x_preferred":[
         "Papil\u0117"
     ],
     "name:gla_x_preferred":[
@@ -97,7 +91,7 @@
     "name:hun_x_preferred":[
         "Papil\u0117"
     ],
-    "name:ice_x_preferred":[
+    "name:isl_x_preferred":[
         "Papil\u0117"
     ],
     "name:ita_x_preferred":[
@@ -124,6 +118,9 @@
     "name:nds_x_preferred":[
         "Papil\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Papil\u0117"
+    ],
     "name:nno_x_preferred":[
         "Papil\u0117"
     ],
@@ -145,7 +142,7 @@
     "name:roh_x_preferred":[
         "Papil\u0117"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Papil\u0117"
     ],
     "name:rus_x_preferred":[
@@ -160,13 +157,16 @@
     "name:sgs_x_preferred":[
         "Pap\u0117l\u0117"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Papil\u0117"
     ],
     "name:slv_x_preferred":[
         "Papil\u0117"
     ],
     "name:spa_x_preferred":[
+        "Papil\u0117"
+    ],
+    "name:sqi_x_preferred":[
         "Papil\u0117"
     ],
     "name:srd_x_preferred":[
@@ -185,9 +185,6 @@
         "Papil\u0117"
     ],
     "name:vls_x_preferred":[
-        "Papil\u0117"
-    ],
-    "name:wel_x_preferred":[
         "Papil\u0117"
     ],
     "name:wln_x_preferred":[
@@ -235,7 +232,7 @@
         }
     ],
     "wof:id":101817249,
-    "wof:lastmodified":1527642461,
+    "wof:lastmodified":1561837297,
     "wof:name":"Papil\u0117",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

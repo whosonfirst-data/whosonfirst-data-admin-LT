@@ -18,7 +18,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Marcinkonys"
     ],
     "name:eng_x_preferred":[
@@ -27,10 +27,7 @@
     "name:fin_x_preferred":[
         "Marcinkonys"
     ],
-    "name:fre_x_preferred":[
-        "Marcinkonys"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Marcinkonys"
     ],
     "name:heb_x_preferred":[
@@ -40,6 +37,9 @@
         "\u30de\u30eb\u30c4\u30a3\u30f3\u30b3\u30cb\u30fc\u30b9"
     ],
     "name:lit_x_preferred":[
+        "Marcinkonys"
+    ],
+    "name:nld_x_preferred":[
         "Marcinkonys"
     ],
     "name:pol_x_preferred":[
@@ -109,7 +109,7 @@
         }
     ],
     "wof:id":1125815969,
-    "wof:lastmodified":1514470348,
+    "wof:lastmodified":1561837301,
     "wof:name":"Marcinkonys",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

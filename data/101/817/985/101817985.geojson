@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000389,
-    "geom:area_square_m":2767731.505236,
+    "geom:area_square_m":2767731.505237,
     "geom:bbox":"24.1934819439,54.8568924693,24.2345676743,54.8751626108",
     "geom:latitude":54.865223,
     "geom:longitude":24.214783,
@@ -19,13 +19,7 @@
     "name:cat_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u59c6\u897f\u65af\u514b\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Rum\u0161i\u0161k\u0117s"
-    ],
-    "name:dut_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
     ],
     "name:eng_x_preferred":[
@@ -34,13 +28,13 @@
     "name:fin_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
     ],
-    "name:fre_x_preferred":[
-        "Rum\u0161i\u0161k\u0117s"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
     ],
     "name:lit_x_preferred":[
+        "Rum\u0161i\u0161k\u0117s"
+    ],
+    "name:nld_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
     ],
     "name:pol_x_preferred":[
@@ -55,14 +49,14 @@
     "name:slk_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
     ],
-    "name:slo_x_preferred":[
-        "Rum\u0161i\u0161k\u0117s"
-    ],
     "name:spa_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
     ],
     "name:unk_x_variant":[
         "Rumszyszki"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u59c6\u897f\u65af\u514b\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Kai\u0161iadorys",
@@ -109,7 +103,7 @@
         }
     ],
     "wof:id":101817985,
-    "wof:lastmodified":1527642456,
+    "wof:lastmodified":1561837296,
     "wof:name":"Rum\u0161i\u0161k\u0117s",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

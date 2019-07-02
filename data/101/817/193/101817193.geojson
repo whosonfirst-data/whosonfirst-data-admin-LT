@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000352,
-    "geom:area_square_m":2458724.083145,
+    "geom:area_square_m":2458724.083142,
     "geom:bbox":"21.3067951807,55.5409076332,21.3393609658,55.5664532045",
     "geom:latitude":55.555673,
     "geom:longitude":21.322913,
@@ -32,20 +32,11 @@
     "name:ces_x_preferred":[
         "Priekul\u0117"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u5217\u5eab\u840a"
-    ],
-    "name:cze_x_preferred":[
-        "Priekul\u0117"
-    ],
     "name:deu_x_preferred":[
         "Priekul\u0117"
     ],
     "name:deu_x_variant":[
         "Pr\u00f6kuls"
-    ],
-    "name:dut_x_preferred":[
-        "Priekul\u0117"
     ],
     "name:eng_x_preferred":[
         "Priekul\u0117"
@@ -59,10 +50,7 @@
     "name:fin_x_preferred":[
         "Priekul\u0117"
     ],
-    "name:fre_x_preferred":[
-        "Priekul\u0117"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Priekul\u0117"
     ],
     "name:hsb_x_preferred":[
@@ -74,8 +62,8 @@
     "name:lit_x_preferred":[
         "Priekul\u0117"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u06cc\u06a9\u0648\u0644\u0647"
+    "name:nld_x_preferred":[
+        "Priekul\u0117"
     ],
     "name:pms_x_preferred":[
         "Priekul\u0117"
@@ -156,7 +144,7 @@
         }
     ],
     "wof:id":101817193,
-    "wof:lastmodified":1527642450,
+    "wof:lastmodified":1561837295,
     "wof:name":"Priekul\u0117",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

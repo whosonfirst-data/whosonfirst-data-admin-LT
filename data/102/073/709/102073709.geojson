@@ -28,11 +28,11 @@
     "name:cat_x_preferred":[
         "Districte municipal de Zarasai"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u62c9\u8cfd\u5730\u5340"
+    "name:deu_x_preferred":[
+        "Rajongemeinde Zarasai"
     ],
-    "name:dut_x_preferred":[
-        "Zarasai"
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03b9\u03b1\u03bc\u03b5\u03c1\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u0396\u03b1\u03c1\u03b1\u03c3\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Zarasai"
@@ -40,23 +40,17 @@
     "name:fin_x_preferred":[
         "Zarasain kunnallispiiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "municipalit\u00e9 du district de Zarasai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10e0\u10d0\u10e1\u10d0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajongemeinde Zarasai"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03b9\u03b1\u03bc\u03b5\u03c1\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u0396\u03b1\u03c1\u03b1\u03c3\u03ac\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05e8\u05e1\u05d0\u05d9"
     ],
     "name:ita_x_preferred":[
         "Comune distrettuale di Zarasai"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10e0\u10d0\u10e1\u10d0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:lav_x_preferred":[
         "Zarasu rajona pa\u0161vald\u012bba"
@@ -66,6 +60,9 @@
     ],
     "name:lmo_x_preferred":[
         "Municipalitaa distrecc da Zarasai"
+    ],
+    "name:nld_x_preferred":[
+        "Zarasai"
     ],
     "name:pol_x_preferred":[
         "Rejon jezioroski"
@@ -81,6 +78,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0632\u0627\u0631\u0627\u0633\u0626\u06cc \u0636\u0644\u0639 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u62c9\u8cfd\u5730\u5340"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":102073709,
-    "wof:lastmodified":1554506195,
+    "wof:lastmodified":1561837255,
     "wof:name":"Zarasai",
     "wof:parent_id":85685783,
     "wof:placetype":"county",

@@ -16,9 +16,6 @@
     "mps:longitude":22.898748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Vidukl\u0117"
-    ],
     "name:eng_x_preferred":[
         "Vidukl\u0117"
     ],
@@ -29,9 +26,6 @@
         "Vidukl\u0117"
     ],
     "name:fra_x_preferred":[
-        "Vidukl\u0117"
-    ],
-    "name:fre_x_preferred":[
         "Vidukl\u0117"
     ],
     "name:heb_x_preferred":[
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":101818039,
-    "wof:lastmodified":1527642221,
+    "wof:lastmodified":1561837293,
     "wof:name":"Vidukl\u0117",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

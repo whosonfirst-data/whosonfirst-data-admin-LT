@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000345,
-    "geom:area_square_m":2378825.305978,
+    "geom:area_square_m":2378825.305977,
     "geom:bbox":"22.5616769723,56.0488533444,22.5936100359,56.0706653077",
     "geom:latitude":56.059637,
     "geom:longitude":22.580595,
@@ -16,9 +16,6 @@
     "mps:longitude":22.581684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Try\u0161kiai"
-    ],
     "name:eng_x_preferred":[
         "Try\u0161kiai"
     ],
@@ -28,9 +25,6 @@
     "name:fra_x_preferred":[
         "Try\u0161kiai"
     ],
-    "name:fre_x_preferred":[
-        "Try\u0161kiai"
-    ],
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d9\u05e9\u05e7\u05d9\u05d0\u05d9"
     ],
@@ -38,6 +32,9 @@
         "\u30c8\u30a5\u30ea\u30b9\u30ad\u30e3\u30a4"
     ],
     "name:lit_x_preferred":[
+        "Try\u0161kiai"
+    ],
+    "name:nld_x_preferred":[
         "Try\u0161kiai"
     ],
     "name:pol_x_preferred":[
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":101817227,
-    "wof:lastmodified":1527642450,
+    "wof:lastmodified":1561837295,
     "wof:name":"Try\u0161kiai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

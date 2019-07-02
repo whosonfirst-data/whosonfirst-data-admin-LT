@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":1682120.537932,
+    "geom:area_square_m":1682120.537931,
     "geom:bbox":"23.1141254496,55.9756772586,23.1556490976,55.9895502508",
     "geom:latitude":55.982007,
     "geom:longitude":23.134832,
@@ -16,9 +16,6 @@
     "mps:longitude":23.134517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Ku\u017eiai"
-    ],
     "name:eng_x_preferred":[
         "Ku\u017eiai"
     ],
@@ -86,7 +83,7 @@
         }
     ],
     "wof:id":101817233,
-    "wof:lastmodified":1527642454,
+    "wof:lastmodified":1561837296,
     "wof:name":"Ku\u017eiai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

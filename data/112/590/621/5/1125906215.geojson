@@ -22,9 +22,6 @@
     "name:cat_x_preferred":[
         "Ka\u010dergin\u0117"
     ],
-    "name:dut_x_preferred":[
-        "Ka\u010dergin\u0117"
-    ],
     "name:eng_x_preferred":[
         "Ka\u010dergin\u0117"
     ],
@@ -32,6 +29,9 @@
         "Ka\u010dergin\u0117"
     ],
     "name:lit_x_preferred":[
+        "Ka\u010dergin\u0117"
+    ],
+    "name:nld_x_preferred":[
         "Ka\u010dergin\u0117"
     ],
     "name:pol_x_preferred":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125906215,
-    "wof:lastmodified":1514470326,
+    "wof:lastmodified":1561837301,
     "wof:name":"Ka\u010dergin\u0117",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

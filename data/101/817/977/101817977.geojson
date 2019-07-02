@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":1792089.330413,
+    "geom:area_square_m":1792089.330412,
     "geom:bbox":"22.8536751309,54.7595138463,22.8773708659,54.7857312046",
     "geom:latitude":54.772351,
     "geom:longitude":22.864748,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u062f\u064a\u0631\u0643\u0648\u0633 \u0646\u0648\u0645\u064a\u0633\u062a\u064a\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0582\u0564\u056b\u0580\u056f\u0578\u057d \u0546\u0561\u0578\u0582\u0574\u0565\u057d\u057f\u056b\u057d"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0443\u0434\u0437\u0456\u0440\u043a\u0430\u0441 \u041d\u0430\u045e\u043c\u0456\u0435\u0441\u0446\u0456\u0441"
     ],
@@ -33,16 +30,10 @@
     "name:cat_x_preferred":[
         "Kudirkos Naumiestis"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u8fea\u723e\u79d1\u65af-\u7459\u6885\u65af\u8482\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kudirkos Naumiestis"
     ],
     "name:deu_x_preferred":[
-        "Kudirkos Naumiestis"
-    ],
-    "name:dut_x_preferred":[
         "Kudirkos Naumiestis"
     ],
     "name:ell_x_preferred":[
@@ -63,20 +54,14 @@
     "name:fra_x_preferred":[
         "Kudirkos Naumiestis"
     ],
-    "name:fre_x_preferred":[
-        "Kudirkos Naumiestis"
-    ],
-    "name:ger_x_preferred":[
-        "Kudirkos Naumiestis"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03bd\u03c4\u03af\u03c1\u03ba\u03bf\u03c2 \u039d\u03b1\u03bf\u03c5\u03bc\u03b9\u03ad\u03c3\u03c4\u03b9\u03c2"
-    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d3\u05d9\u05e8\u05e7\u05d5\u05e1 \u05e0\u05d0\u05d5\u05de\u05d9\u05d9\u05e1\u05d8\u05d9\u05e1"
     ],
     "name:hsb_x_preferred":[
         "Kudirkos Naumiestis"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0564\u056b\u0580\u056f\u0578\u057d \u0546\u0561\u0578\u0582\u0574\u0565\u057d\u057f\u056b\u057d"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30c7\u30a3\u30eb\u30b3\u30b9\u30fb\u30ca\u30a6\u30df\u30a8\u30b9\u30c6\u30a3\u30b9"
@@ -87,8 +72,8 @@
     "name:lit_x_preferred":[
         "Kudirkos Naumiestis"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u062f\u06cc\u0631\u06a9\u0648\u0633 \u0646\u0648\u0645\u06cc\u0633\u062a\u06cc\u0633"
+    "name:nld_x_preferred":[
+        "Kudirkos Naumiestis"
     ],
     "name:pms_x_preferred":[
         "Kudirkos Naumiestis"
@@ -165,7 +150,7 @@
         }
     ],
     "wof:id":101817977,
-    "wof:lastmodified":1527642454,
+    "wof:lastmodified":1561837296,
     "wof:name":"Kudirkos Naumiestis",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

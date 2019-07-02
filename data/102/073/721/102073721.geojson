@@ -35,17 +35,17 @@
     "name:cat_x_preferred":[
         "Roki\u0161kis"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u57fa\u4ec0\u57fa\u65af\u5730\u5340"
-    ],
     "name:dan_x_preferred":[
         "Roki\u0161kis"
     ],
     "name:deu_x_preferred":[
         "Roki\u0161kis"
     ],
-    "name:dut_x_preferred":[
-        "Roki\u0161kis"
+    "name:deu_x_variant":[
+        "Rajongemeinde Roki\u0161kis"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03b9\u03b1\u03bc\u03b5\u03c1\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03a1\u03bf\u03ba\u03af\u03c3\u03ba\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Rokiskis"
@@ -62,23 +62,17 @@
     "name:fin_x_preferred":[
         "Roki\u0161kisin kunnallispiiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "municipalit\u00e9 du district de Roki\u0161kis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10dd\u10d9\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajongemeinde Roki\u0161kis"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03b9\u03b1\u03bc\u03b5\u03c1\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03a1\u03bf\u03ba\u03af\u03c3\u03ba\u03b9\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05e7\u05d9\u05e9\u05e7\u05d9\u05e1"
     ],
     "name:ita_x_preferred":[
         "Comune distrettuale di Roki\u0161kis"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10d9\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:lav_x_preferred":[
         "Roki\u0161\u0137u rajona pa\u0161vald\u012bba"
@@ -88,6 +82,9 @@
     ],
     "name:lmo_x_preferred":[
         "Municipalitaa distrecc da Roki\u0161kis"
+    ],
+    "name:nld_x_preferred":[
+        "Roki\u0161kis"
     ],
     "name:pol_x_preferred":[
         "Rejon rakiszecki"
@@ -103,6 +100,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u06a9\u0634\u06a9\u0633 \u0636\u0644\u0639 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f85\u57fa\u4ec0\u57fa\u65af\u5730\u5340"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":102073721,
-    "wof:lastmodified":1555038744,
+    "wof:lastmodified":1561837258,
     "wof:name":"Roki\u0161kis",
     "wof:parent_id":85685779,
     "wof:placetype":"county",

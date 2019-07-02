@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000608,
-    "geom:area_square_m":4343954.688724,
+    "geom:area_square_m":4343954.688726,
     "geom:bbox":"25.068702,54.6619325,25.1133505,54.6905385",
     "geom:latitude":54.673278,
     "geom:longitude":25.086891,
@@ -26,16 +26,10 @@
     "name:cat_x_preferred":[
         "Grigi\u0161k\u0117s"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u91cc\u5409\u4ec0\u51f1\u65af"
-    ],
     "name:dan_x_preferred":[
         "Grigi\u0161k\u0117s"
     ],
     "name:deu_x_preferred":[
-        "Grigi\u0161k\u0117s"
-    ],
-    "name:dut_x_preferred":[
         "Grigi\u0161k\u0117s"
     ],
     "name:eng_x_preferred":[
@@ -53,15 +47,6 @@
     "name:fra_x_preferred":[
         "Grigi\u0161k\u0117s"
     ],
-    "name:fre_x_preferred":[
-        "Grigi\u0161k\u0117s"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d8\u10d2\u10d8\u10e8\u10d9\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Grigi\u0161k\u0117s"
-    ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05d9\u05d2\u05d9\u05e9\u05e7\u05d9\u05e1"
     ],
@@ -71,14 +56,17 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30ea\u30ae\u30b7\u30e5\u30b1\u30b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d8\u10d2\u10d8\u10e8\u10d9\u10d4\u10e1\u10d8"
+    ],
     "name:lav_x_preferred":[
         "Gri\u0123i\u0161\u0137es"
     ],
     "name:lit_x_preferred":[
         "Grigi\u0161k\u0117s"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0631\u06cc\u06af\u06cc\u0634\u06a9\u0633"
+    "name:nld_x_preferred":[
+        "Grigi\u0161k\u0117s"
     ],
     "name:pms_x_preferred":[
         "Grigi\u0161k\u0117s"
@@ -103,6 +91,9 @@
     ],
     "name:vol_x_preferred":[
         "Grigi\u0161k\u0117s"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u91cc\u5409\u4ec0\u51f1\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Vilnius",
@@ -148,7 +139,7 @@
         }
     ],
     "wof:id":101754089,
-    "wof:lastmodified":1527641863,
+    "wof:lastmodified":1561837292,
     "wof:name":"Grigi\u0161k\u0117s",
     "wof:parent_id":102073615,
     "wof:placetype":"locality",

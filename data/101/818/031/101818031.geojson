@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":2478741.844031,
+    "geom:area_square_m":2478741.844032,
     "geom:bbox":"21.6829500268,55.3529177068,21.7257977639,55.3719483842",
     "geom:latitude":55.360652,
     "geom:longitude":21.704842,
@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "\u017demai\u010di\u0173 Naumiestis"
     ],
-    "name:dut_x_preferred":[
-        "\u017demai\u010di\u0173 Naumiestis"
-    ],
     "name:eng_x_preferred":[
         "\u017demai\u010di\u0173 Naumiestis"
     ],
@@ -39,9 +36,6 @@
         "\u017demai\u010di\u0173 Naumiestis"
     ],
     "name:fin_x_preferred":[
-        "\u017demai\u010di\u0173 Naumiestis"
-    ],
-    "name:ger_x_preferred":[
         "\u017demai\u010di\u0173 Naumiestis"
     ],
     "name:heb_x_preferred":[
@@ -114,7 +108,7 @@
         }
     ],
     "wof:id":101818031,
-    "wof:lastmodified":1527642219,
+    "wof:lastmodified":1561837293,
     "wof:name":"\u017demai\u010di\u0173 Naumiestis",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

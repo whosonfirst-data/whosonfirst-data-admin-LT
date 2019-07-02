@@ -35,14 +35,14 @@
     "name:cat_x_preferred":[
         "Ignalina"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u683c\u7d0d\u5229\u7d0d\u5730\u5340"
-    ],
     "name:deu_x_preferred":[
         "Ignalina"
     ],
-    "name:dut_x_preferred":[
-        "Ignalina"
+    "name:deu_x_variant":[
+        "Rajongemeinde Ignalina"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03b9\u03b1\u03bc\u03b5\u03c1\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u0399\u03b3\u03ba\u03bd\u03b1\u03bb\u03af\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ignalina"
@@ -62,20 +62,11 @@
     "name:fra_x_preferred":[
         "Ignalina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "municipalit\u00e9 du district d'Ignalina"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d2\u10dc\u10d0\u10da\u10d8\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajongemeinde Ignalina"
     ],
     "name:glg_x_preferred":[
         "Ignalina"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03b9\u03b1\u03bc\u03b5\u03c1\u03af\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u0399\u03b3\u03ba\u03bd\u03b1\u03bb\u03af\u03bd\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05d2\u05e0\u05dc\u05d9\u05e0\u05d4"
@@ -91,6 +82,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10d2\u10dc\u10d0\u10da\u10d8\u10dc\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10d8\u10d2\u10dc\u10d0\u10da\u10d8\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:lav_x_preferred":[
         "Ignalina"
@@ -133,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u683c\u7d0d\u5229\u7d0d"
+    ],
+    "name:zho_x_variant":[
+        "\u4f0a\u683c\u7d0d\u5229\u7d0d\u5730\u5340"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -183,7 +180,7 @@
         }
     ],
     "wof:id":102073685,
-    "wof:lastmodified":1554506196,
+    "wof:lastmodified":1561837257,
     "wof:name":"Ignalina",
     "wof:parent_id":85685783,
     "wof:placetype":"county",

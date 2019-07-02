@@ -31,17 +31,11 @@
     "name:arg_x_preferred":[
         "\u0160iauliai"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0575\u0561\u0578\u0582\u056c\u0575\u0561\u0575"
-    ],
     "name:aym_x_preferred":[
         "Shawllay"
     ],
     "name:aze_x_preferred":[
         "\u015eyaulyay"
-    ],
-    "name:baq_x_preferred":[
-        "\u0160iauliai"
     ],
     "name:bel_x_preferred":[
         "\u0428\u0430\u045e\u043b\u044f\u0439"
@@ -58,8 +52,8 @@
     "name:cat_x_preferred":[
         "\u0160iauliai"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u5965\u5229\u827e"
+    "name:ces_x_preferred":[
+        "\u0160iauliai"
     ],
     "name:cor_x_preferred":[
         "\u0160iauliai"
@@ -67,14 +61,17 @@
     "name:csb_x_preferred":[
         "\u0160iauliai"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "\u0160iauliai"
     ],
     "name:dan_x_preferred":[
         "\u0160iauliai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0160iauliai"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03b1\u03bf\u03c5\u03bb\u03b9\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Siauliai [town]"
@@ -85,23 +82,20 @@
     "name:est_x_preferred":[
         "\u0160iauliai"
     ],
+    "name:eus_x_preferred":[
+        "\u0160iauliai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0648\u0644\u06cc\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "\u0160iauliai"
     ],
-    "name:fre_x_preferred":[
-        "\u0160iauliai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d8\u10d0\u10e3\u10da\u10d8\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0160iauliai"
     ],
     "name:gla_x_preferred":[
         "\u0160iauliai"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03b1\u03bf\u03c5\u03bb\u03b9\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aaf\u0acb\u0ab2\u0abf\u0aaf\u0abe\u0a88"
@@ -121,13 +115,16 @@
     "name:hun_x_preferred":[
         "\u0160iauliai"
     ],
-    "name:ice_x_preferred":[
-        "\u0160iauliai"
+    "name:hye_x_preferred":[
+        "\u0547\u0575\u0561\u0578\u0582\u056c\u0575\u0561\u0575"
     ],
     "name:ile_x_preferred":[
         "\u0160iauliai"
     ],
     "name:ind_x_preferred":[
+        "\u0160iauliai"
+    ],
+    "name:isl_x_preferred":[
         "\u0160iauliai"
     ],
     "name:ita_x_preferred":[
@@ -142,6 +139,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0c86\u0cb2\u0c87\u0c90"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10d0\u10e3\u10da\u10d8\u10d0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0e4\uc6b8\ub7b4\uc774"
     ],
@@ -154,28 +154,31 @@
     "name:ltg_x_preferred":[
         "\u0160auli"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0458\u0430\u0443\u0459\u0430\u0458"
-    ],
-    "name:mao_x_preferred":[
-        "\u0160iauliai"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u092f\u094b\u0932\u093f\u092f\u093e\u092f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Siauliai"
     ],
     "name:mhr_x_preferred":[
         "\u0428\u044f\u0443\u043b\u044f\u0439"
     ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0458\u0430\u0443\u0459\u0430\u0458"
+    ],
     "name:mon_x_preferred":[
         "\u0428\u044f\u0443\u043b\u044f\u0439"
+    ],
+    "name:mri_x_preferred":[
+        "\u0160iauliai"
+    ],
+    "name:msa_x_preferred":[
+        "Siauliai"
     ],
     "name:nah_x_preferred":[
         "\u0160iauliai"
     ],
     "name:nau_x_preferred":[
+        "\u0160iauliai"
+    ],
+    "name:nld_x_preferred":[
         "\u0160iauliai"
     ],
     "name:nno_x_preferred":[
@@ -187,9 +190,6 @@
     "name:oss_x_preferred":[
         "\u0428\u044f\u0443\u043b\u044f\u0439"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0627\u0648\u0644\u06cc\u0627\u06cc"
-    ],
     "name:pms_x_preferred":[
         "\u0160iauliai"
     ],
@@ -199,7 +199,7 @@
     "name:pol_x_preferred":[
         "Szawle"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0160iauliai"
     ],
     "name:rus_x_preferred":[
@@ -214,7 +214,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0dba\u0d8b\u0dbd\u0dba\u0dd2"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "\u0160iauliai"
     ],
     "name:slv_x_preferred":[
@@ -268,8 +268,8 @@
     "name:war_x_preferred":[
         "\u0160iauliai"
     ],
-    "name:wel_x_preferred":[
-        "\u0160iauliai"
+    "name:zho_x_preferred":[
+        "\u5e0c\u5965\u5229\u827e"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -319,7 +319,7 @@
         }
     ],
     "wof:id":102073683,
-    "wof:lastmodified":1554506196,
+    "wof:lastmodified":1561837257,
     "wof:name":"\u0160iauliai",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

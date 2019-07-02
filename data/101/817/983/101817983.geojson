@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000236,
-    "geom:area_square_m":1672511.18369,
+    "geom:area_square_m":1672511.183691,
     "geom:bbox":"22.9666694189,55.0630395282,22.9985937039,55.0846080758",
     "geom:latitude":55.074779,
     "geom:longitude":22.980322,
@@ -30,13 +30,7 @@
     "name:cat_x_preferred":[
         "Gelgaudi\u0161kis"
     ],
-    "name:chi_x_preferred":[
-        "\u84cb\u723e\u9ad8\u8fea\u4ec0\u57fa\u65af"
-    ],
-    "name:cze_x_preferred":[
-        "Gelgaudi\u0161kis"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Gelgaudi\u0161kis"
     ],
     "name:eng_x_preferred":[
@@ -54,9 +48,6 @@
     "name:fra_x_preferred":[
         "Gelgaudi\u0161kis"
     ],
-    "name:fre_x_preferred":[
-        "Gelgaudi\u0161kis"
-    ],
     "name:hsb_x_preferred":[
         "Gelgaudi\u0161kis"
     ],
@@ -66,8 +57,8 @@
     "name:lit_x_preferred":[
         "Gelgaudi\u0161kis"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0644\u06af\u0648\u062f\u06cc\u0634\u06a9\u06cc\u0633"
+    "name:nld_x_preferred":[
+        "Gelgaudi\u0161kis"
     ],
     "name:pms_x_preferred":[
         "Gelgaudi\u0161kis"
@@ -95,6 +86,9 @@
     ],
     "name:vol_x_preferred":[
         "Gelgaudi\u0161kis"
+    ],
+    "name:zho_x_preferred":[
+        "\u84cb\u723e\u9ad8\u8fea\u4ec0\u57fa\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*\u0160akiai",
@@ -146,7 +140,7 @@
         }
     ],
     "wof:id":101817983,
-    "wof:lastmodified":1527642454,
+    "wof:lastmodified":1561837296,
     "wof:name":"Gelgaudi\u0161kis",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

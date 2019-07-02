@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":2090231.76096,
+    "geom:area_square_m":2090231.760959,
     "geom:bbox":"25.7827811808,55.9213431947,25.8190502157,55.9516498385",
     "geom:latitude":55.940008,
     "geom:longitude":25.801012,
@@ -34,17 +34,14 @@
     "name:cat_x_preferred":[
         "Obeliai"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u8c9d\u5229\u827e"
-    ],
     "name:deu_x_preferred":[
-        "Obeliai"
-    ],
-    "name:dut_x_preferred":[
         "Obeliai"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03bc\u03c0\u03ad\u03bb\u03b9\u03b1\u03ca"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03bc\u03c0\u03b5\u03bb\u03b9\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Obeliai"
@@ -61,15 +58,6 @@
     "name:fra_x_preferred":[
         "Obeliai"
     ],
-    "name:fre_x_preferred":[
-        "Obeliai"
-    ],
-    "name:ger_x_preferred":[
-        "Obeliai"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bc\u03c0\u03b5\u03bb\u03b9\u03ac\u03b9"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d1\u05dc\u05d0\u05d9"
     ],
@@ -85,8 +73,8 @@
     "name:lit_x_preferred":[
         "Obeliai"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0628\u0644\u06cc\u0627\u06cc"
+    "name:nld_x_preferred":[
+        "Obeliai"
     ],
     "name:pms_x_preferred":[
         "Obeliai"
@@ -168,7 +156,7 @@
         }
     ],
     "wof:id":101818129,
-    "wof:lastmodified":1527642221,
+    "wof:lastmodified":1561837293,
     "wof:name":"Obeliai",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

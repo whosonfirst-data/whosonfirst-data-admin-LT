@@ -27,12 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u062a\u064a\u0646\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u057f\u0565\u0576\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
-    ],
-    "name:baq_x_preferred":[
-        "Utenako konderria"
-    ],
     "name:bel_x_preferred":[
         "\u0423\u0446\u044f\u043d\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
     ],
@@ -45,20 +39,20 @@
     "name:cat_x_preferred":[
         "Comtat d'Utena"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u7530\u7d0d\u7e23"
+    "name:ces_x_preferred":[
+        "Utensk\u00fd kraj"
     ],
     "name:cor_x_preferred":[
         "Konteth Utena"
     ],
-    "name:cze_x_preferred":[
-        "Utensk\u00fd kraj"
-    ],
     "name:dan_x_preferred":[
         "Utena amt"
     ],
-    "name:dut_x_preferred":[
-        "Utena"
+    "name:deu_x_preferred":[
+        "Bezirk Utena"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039f\u03c5\u03c4\u03b5\u03bd\u03ac"
     ],
     "name:eng_x_preferred":[
         "Utena"
@@ -72,23 +66,20 @@
     "name:est_x_preferred":[
         "Utena maakond"
     ],
+    "name:eus_x_preferred":[
+        "Utenako konderria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0648\u062a\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Utenan l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "apskritis d'Utena"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e2\u10d4\u10dc\u10d8\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Utena"
     ],
     "name:gle_x_preferred":[
         "Contae Utena"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039f\u03c5\u03c4\u03b5\u03bd\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0a9f\u0ac7\u0aa8\u0abe \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -102,6 +93,9 @@
     "name:hrv_x_preferred":[
         "Okrug Utena"
     ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u057f\u0565\u0576\u0561\u0575\u056b \u0563\u0561\u057e\u0561\u057c"
+    ],
     "name:ind_x_preferred":[
         "County Utena"
     ],
@@ -113,6 +107,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c89\u0c9f\u0cc6\u0ca8\u0cbe \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e2\u10d4\u10dc\u10d8\u10e1 \u10db\u10d0\u10d6\u10e0\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc6b0\ud14c\ub098 \uc8fc"
@@ -126,20 +123,20 @@
     "name:lit_x_preferred":[
         "Utenos apskritis"
     ],
-    "name:mac_x_preferred":[
-        "\u0423\u0442\u0435\u043d\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u0924\u0947\u0902\u0928\u093e \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0423\u0442\u0435\u043d\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433"
+    ],
+    "name:msa_x_preferred":[
         "Utena County"
+    ],
+    "name:nld_x_preferred":[
+        "Utena"
     ],
     "name:nob_x_preferred":[
         "Utena fylke"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0648\u062a\u0646\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u062a\u06cc\u0646\u0627 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -150,7 +147,7 @@
     "name:por_x_preferred":[
         "Utena"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jude\u021bul Utena"
     ],
     "name:rus_x_preferred":[
@@ -206,6 +203,9 @@
     ],
     "name:vie_x_preferred":[
         "H\u1ea1t Utena"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u7530\u7d0d\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LTU",
@@ -323,7 +323,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1553550877,
+    "wof:lastmodified":1561837264,
     "wof:name":"Utena",
     "wof:parent_id":85633269,
     "wof:placetype":"region",
