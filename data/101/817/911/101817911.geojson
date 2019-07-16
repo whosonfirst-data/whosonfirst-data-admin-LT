@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Senoji Var\u0117na"
     ],
+    "name:est_x_preferred":[
+        "Senoji Var\u0117na"
+    ],
     "name:fin_x_preferred":[
         "Senoji Var\u0117na"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101817911,
-    "wof:lastmodified":1561837298,
+    "wof:lastmodified":1563319217,
     "wof:name":"Senoji Var\u0117na",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mps:longitude":24.526926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0412\u044b\u0441\u043e\u043a\u0456 \u0414\u0432\u043e\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Auk\u0161tadvaris"
+    ],
     "name:deu_x_preferred":[
         "Auk\u0161tadvaris"
     ],
@@ -54,6 +60,9 @@
         "Auk\u0161tadvaris"
     ],
     "name:swe_x_preferred":[
+        "Auk\u0161tadvaris"
+    ],
+    "name:szl_x_preferred":[
         "Auk\u0161tadvaris"
     ],
     "name:unk_x_variant":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":101817961,
-    "wof:lastmodified":1561837297,
+    "wof:lastmodified":1563319203,
     "wof:name":"Auk\u0161tadvaris",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

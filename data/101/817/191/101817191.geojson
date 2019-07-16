@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0432\u0438\u043b\u0430\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Dovilai"
+    ],
     "name:ces_x_preferred":[
         "Dovilai"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101817191,
-    "wof:lastmodified":1561837297,
+    "wof:lastmodified":1563319204,
     "wof:name":"Dovilai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

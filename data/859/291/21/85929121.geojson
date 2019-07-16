@@ -56,6 +56,9 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0443\u0439\u0438\u043d\u0438\u043d\u043a\u0430\u0439"
     ],
+    "name:sgs_x_preferred":[
+        "Nauj\u0117nink\u0101"
+    ],
     "name:und_x_preferred":[
         "Naujininkai"
     ],
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837263,
+    "wof:lastmodified":1563317716,
     "wof:name":"Naujininkai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

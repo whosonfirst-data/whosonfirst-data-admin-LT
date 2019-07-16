@@ -21,10 +21,19 @@
     "name:bel_x_preferred":[
         "\u0414\u0443\u0431\u0456\u043d\u0433\u0435\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Dubingiai"
+    ],
     "name:deu_x_preferred":[
         "Dubingiai"
     ],
     "name:eng_x_preferred":[
+        "Dubingiai"
+    ],
+    "name:fra_x_preferred":[
+        "Dubingiai"
+    ],
+    "name:ita_x_preferred":[
         "Dubingiai"
     ],
     "name:jpn_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1125942809,
-    "wof:lastmodified":1561837300,
+    "wof:lastmodified":1563319313,
     "wof:name":"Dubingiai",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

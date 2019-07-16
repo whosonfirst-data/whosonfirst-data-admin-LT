@@ -21,7 +21,11 @@
         "\u041c\u044f\u0441\u0442\u044d\u0447\u043a\u0430 \u041a\u0430\u0440\u043c\u0435\u043b\u0430\u0432\u0430"
     ],
     "name:bel_x_variant":[
-        "\u041a\u0430\u0440\u043c\u044f\u043b\u0430\u045e"
+        "\u041a\u0430\u0440\u043c\u044f\u043b\u0430\u045e",
+        "\u041a\u0430\u0440\u043c\u0435\u043b\u0430\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Karm\u0117lava"
     ],
     "name:deu_x_preferred":[
         "Karm\u0117lava"
@@ -42,6 +46,9 @@
         "Karm\u0117lava"
     ],
     "name:fra_x_preferred":[
+        "Karm\u0117lava"
+    ],
+    "name:ita_x_preferred":[
         "Karm\u0117lava"
     ],
     "name:lit_x_preferred":[
@@ -117,7 +124,7 @@
         }
     ],
     "wof:id":101817997,
-    "wof:lastmodified":1561837295,
+    "wof:lastmodified":1563319184,
     "wof:name":"Karm\u0117lava",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

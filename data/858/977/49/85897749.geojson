@@ -25,6 +25,9 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Fabijoni\u0161k\u0117s"
+    ],
     "name:dan_x_preferred":[
         "Fabijoni\u0161k\u0117s"
     ],
@@ -32,6 +35,9 @@
         "Fabijoni\u0161k\u0117s"
     ],
     "name:eng_x_preferred":[
+        "Fabijoni\u0161k\u0117s"
+    ],
+    "name:fra_x_preferred":[
         "Fabijoni\u0161k\u0117s"
     ],
     "name:lav_x_preferred":[
@@ -135,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837265,
+    "wof:lastmodified":1563317735,
     "wof:name":"Fabijoniskes",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

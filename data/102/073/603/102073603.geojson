@@ -25,6 +25,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u044d\u043d\u0430\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u0440\u044b\u0435\u043d\u0430\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:cat_x_preferred":[
         "Districte municipal de Prienai"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Prienai"
+    ],
+    "name:est_x_preferred":[
+        "Prienai rajoon"
     ],
     "name:fin_x_preferred":[
         "Prienain kunnallispiiri"
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":102073603,
-    "wof:lastmodified":1561837256,
+    "wof:lastmodified":1563317413,
     "wof:name":"Prienai",
     "wof:parent_id":85685773,
     "wof:placetype":"county",

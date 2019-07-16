@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":1543273.170888,
+    "geom:area_square_m":1543273.170889,
     "geom:bbox":"24.8092251628,54.508660384,24.8373207222,54.5272936361",
     "geom:latitude":54.517902,
     "geom:longitude":24.825818,
@@ -24,9 +24,13 @@
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0443\u0434\u0437\u0456\u0448\u043a\u0435\u0441"
     ],
     "name:bel_x_variant":[
-        "\u0420\u0443\u0434\u0437\u0456\u0448\u043a\u0456"
+        "\u0420\u0443\u0434\u0437\u0456\u0448\u043a\u0456",
+        "\u0420\u0443\u0434\u0437\u0456\u0448\u043a\u0435\u0441"
     ],
     "name:cat_x_preferred":[
+        "R\u016bdi\u0161k\u0117s"
+    ],
+    "name:ceb_x_preferred":[
         "R\u016bdi\u0161k\u0117s"
     ],
     "name:eng_x_preferred":[
@@ -44,14 +48,53 @@
     "name:fra_x_preferred":[
         "R\u016bdi\u0161k\u0117s"
     ],
+    "name:hsb_x_preferred":[
+        "R\u016bdi\u0161k\u0117s"
+    ],
+    "name:ita_x_preferred":[
+        "R\u016bdi\u0161k\u0117s"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30fc\u30c7\u30a3\u30b7\u30e5\u30b1\u30b9"
+    ],
+    "name:lav_x_preferred":[
+        "R\u016bdi\u0161\u0137es"
+    ],
     "name:lit_x_preferred":[
         "R\u016bdi\u0161k\u0117s"
+    ],
+    "name:nld_x_preferred":[
+        "R\u016bdi\u0161k\u0117s"
+    ],
+    "name:pms_x_preferred":[
+        "R\u016bdi\u0161k\u0117s"
+    ],
+    "name:pol_x_preferred":[
+        "Rudziszki"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0434\u0438\u0448\u043a\u0435\u0441"
     ],
+    "name:sgs_x_preferred":[
+        "R\u016bd\u0117\u0161k\u0117s"
+    ],
+    "name:spa_x_preferred":[
+        "R\u016bdi\u0161k\u0117s"
+    ],
+    "name:swe_x_preferred":[
+        "R\u016bdi\u0161k\u0117s"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0443\u0434\u0438\u0448\u043a\u0435\u0441"
+    ],
     "name:unk_x_variant":[
         "Rudziszki"
+    ],
+    "name:vol_x_preferred":[
+        "R\u016bdi\u0161k\u0117s"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u8fea\u4ec0\u514b\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Trakai",
@@ -99,7 +142,7 @@
         }
     ],
     "wof:id":101817959,
-    "wof:lastmodified":1527642457,
+    "wof:lastmodified":1563319204,
     "wof:name":"R\u016bdi\u0161k\u0117s",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

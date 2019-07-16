@@ -27,17 +27,26 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u064a\u0631\u0627\u064a\u0627\u0645\u0628\u0648\u0644\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0631\u064a\u0627\u0645\u0628\u0648\u0644\u0647"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u044b\u044f\u043c\u043f\u0430\u043b\u044c\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b0\u09bf\u099c\u09be\u09ae\u09cd\u09aa\u09cb\u09b2 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Marijampol\u0117"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438\u044f\u043c\u043f\u043e\u043b\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:cat_x_preferred":[
         "Comtat de Marijampol\u0117"
+    ],
+    "name:ceb_x_preferred":[
+        "Marijampol\u0117s apskritis"
     ],
     "name:ces_x_preferred":[
         "Marijampolsk\u00fd kraj"
@@ -78,6 +87,9 @@
     "name:fra_x_preferred":[
         "apskritis de Marijampol\u0117"
     ],
+    "name:fra_x_variant":[
+        "Marijampol\u0117"
+    ],
     "name:gle_x_preferred":[
         "Contae Marijampol\u0117"
     ],
@@ -110,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ub9ac\uc58c\ud3f4\ub808 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub9ac\uc58c\ud3f4\ub808\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Marijampol\u0117"
@@ -146,6 +161,9 @@
     ],
     "name:ron_x_preferred":[
         "Jude\u021bul Marijampol\u0117"
+    ],
+    "name:ron_x_variant":[
+        "Marijampol\u0117"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0438\u044f\u043c\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0443\u0435\u0437\u0434"
@@ -320,7 +338,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1561837264,
+    "wof:lastmodified":1563317725,
     "wof:name":"Marijampole",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

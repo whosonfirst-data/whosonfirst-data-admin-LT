@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Bit\u0117nai"
     ],
+    "name:est_x_preferred":[
+        "Bit\u0117nai"
+    ],
     "name:lit_x_preferred":[
         "Bit\u0117nai"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125938789,
-    "wof:lastmodified":1561837300,
+    "wof:lastmodified":1563319315,
     "wof:name":"Bit\u0117nai",
     "wof:parent_id":102073623,
     "wof:placetype":"locality",

@@ -28,7 +28,13 @@
     "name:cat_x_preferred":[
         "\u0160ven\u010dionys"
     ],
+    "name:ceb_x_preferred":[
+        "Svencionys"
+    ],
     "name:ces_x_preferred":[
+        "\u0160ven\u010dionys"
+    ],
+    "name:cym_x_preferred":[
         "\u0160ven\u010dionys"
     ],
     "name:deu_x_preferred":[
@@ -58,6 +64,9 @@
     "name:hsb_x_preferred":[
         "\u0160ven\u010dionys"
     ],
+    "name:ita_x_preferred":[
+        "\u0160ven\u010dionys"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30f4\u30a7\u30f3\u30c1\u30e7\u30cb\u30fc\u30b9"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0428\u0432\u0435\u043d\u0447\u0435\u043d\u0438\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0432\u0435\u043d\u0447\u0451\u043d\u0438\u0441"
     ],
     "name:sgs_x_preferred":[
         "\u0160v\u0117n\u010diuon\u0113"
@@ -160,7 +172,7 @@
         }
     ],
     "wof:id":1126010261,
-    "wof:lastmodified":1561837301,
+    "wof:lastmodified":1563319352,
     "wof:name":"\u0160 Ven\u010dionys",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

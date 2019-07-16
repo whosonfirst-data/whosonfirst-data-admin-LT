@@ -25,11 +25,23 @@
     "name:eng_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
     ],
+    "name:est_x_preferred":[
+        "Rum\u0161i\u0161k\u0117s"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645\u0634\u06cc\u0634\u06a9\u0633"
+    ],
     "name:fin_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
     ],
     "name:fra_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05de\u05e9\u05d9\u05e9\u05d5\u05e7"
+    ],
+    "name:lav_x_preferred":[
+        "Rum\u0161i\u0161\u0137es"
     ],
     "name:lit_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
@@ -51,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Rum\u0161i\u0161k\u0117s"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u043c\u0448\u0438\u0448\u043a\u0435\u0441"
     ],
     "name:unk_x_variant":[
         "Rumszyszki"
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":101817985,
-    "wof:lastmodified":1561837296,
+    "wof:lastmodified":1563319200,
     "wof:name":"Rum\u0161i\u0161k\u0117s",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

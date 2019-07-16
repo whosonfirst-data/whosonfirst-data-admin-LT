@@ -25,6 +25,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "\u0160e\u0161kin\u0117"
+    ],
     "name:dan_x_preferred":[
         "\u0160e\u0161kin\u0117"
     ],
@@ -116,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837263,
+    "wof:lastmodified":1563317714,
     "wof:name":"Seskine",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

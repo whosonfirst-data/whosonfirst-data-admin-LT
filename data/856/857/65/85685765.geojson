@@ -27,17 +27,32 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0644\u064a\u062a\u0633"
     ],
+    "name:arg_x_preferred":[
+        "Condato d'Alytus"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u043b\u0438\u0442\u0443\u0441 \u04e9\u0439\u04d9\u0499\u0435"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043b\u0456\u0442\u0443\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
     ],
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09b2\u09bf\u099f\u09be\u09b8 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Alitus"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u0438\u0442\u0443\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:cat_x_preferred":[
         "Comtat d'Alytus"
+    ],
+    "name:cat_x_variant":[
+        "comtat d'Alytus"
+    ],
+    "name:ceb_x_preferred":[
+        "Alytaus apskritis"
     ],
     "name:ces_x_preferred":[
         "Alytusk\u00fd kraj"
@@ -47,6 +62,9 @@
     ],
     "name:cor_x_preferred":[
         "Konteth Alytus"
+    ],
+    "name:crh_x_preferred":[
+        "Alitus nahiyesi"
     ],
     "name:dan_x_preferred":[
         "Alytus amt"
@@ -81,6 +99,9 @@
     "name:fra_x_preferred":[
         "apskritis d'Alytus"
     ],
+    "name:fra_x_variant":[
+        "Alytus"
+    ],
     "name:gle_x_preferred":[
         "Contae Alytus"
     ],
@@ -113,6 +134,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc54c\ub9ac\ud22c\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc54c\ub9ac\ud22c\uc2a4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Alytus"
@@ -185,6 +209,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c3f\u0c1f\u0c38\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0410\u043b\u0438\u0442\u0443\u0441"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e2d\u0e34\u0e17\u0e31\u0e2a"
@@ -321,7 +348,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1561837264,
+    "wof:lastmodified":1563317724,
     "wof:name":"Alytus",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

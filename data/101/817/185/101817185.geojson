@@ -23,7 +23,13 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u044b\u043b\u0430\u043b\u0435"
     ],
+    "name:bel_x_variant":[
+        "\u0428\u044b\u043b\u0430\u043b\u0435"
+    ],
     "name:cat_x_preferred":[
+        "\u0160ilal\u0117"
+    ],
+    "name:ceb_x_preferred":[
         "\u0160ilal\u0117"
     ],
     "name:ces_x_preferred":[
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":101817185,
-    "wof:lastmodified":1561837298,
+    "wof:lastmodified":1563319224,
     "wof:name":"\u0160ilal\u0117",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

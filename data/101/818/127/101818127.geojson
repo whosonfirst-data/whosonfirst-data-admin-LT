@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Roki\u0161kis"
     ],
+    "name:ceb_x_preferred":[
+        "Roki\u0161kis"
+    ],
     "name:cor_x_preferred":[
         "Roki\u0161kis"
     ],
@@ -65,17 +68,26 @@
     "name:ind_x_preferred":[
         "Roki\u0161kis"
     ],
+    "name:ita_x_preferred":[
+        "Roki\u0161kis"
+    ],
     "name:jpn_x_preferred":[
         "\u30ed\u30ad\u30b7\u30e5\u30ad\u30b9"
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10dd\u10d9\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\ub85c\ud0a4\uc288\ud0a4\uc2a4"
+    ],
     "name:lav_x_preferred":[
         "Roki\u0161\u0137i"
     ],
     "name:lit_x_preferred":[
         "Roki\u0161kis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u043a\u0438\u0448\u043a\u0438\u0441"
     ],
     "name:nld_x_preferred":[
         "Roki\u0161kis"
@@ -107,8 +119,14 @@
     "name:swa_x_preferred":[
         "Roki\u0161kis"
     ],
+    "name:swe_x_preferred":[
+        "Roki\u0161kis"
+    ],
     "name:tat_x_preferred":[
         "\u0420\u043e\u043a\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Roki\u0161kis"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043a\u0438\u0448\u043a\u0456\u0441"
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":101818127,
-    "wof:lastmodified":1561837293,
+    "wof:lastmodified":1563319159,
     "wof:name":"Roki\u0161kis",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

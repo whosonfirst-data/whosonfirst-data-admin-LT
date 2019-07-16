@@ -16,6 +16,12 @@
     "mps:longitude":23.938673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043b\u043e\u0432\u0430\u0438\u043d\u0438\u0430\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Klovainiai"
+    ],
     "name:eng_x_preferred":[
         "Klovainiai"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:pol_x_preferred":[
         "K\u0142awany"
+    ],
+    "name:swe_x_preferred":[
+        "Klovainiai"
     ],
     "name:unk_x_variant":[
         "Klovaini\u0173"
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":101818113,
-    "wof:lastmodified":1561837295,
+    "wof:lastmodified":1563319178,
     "wof:name":"Klovainiai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

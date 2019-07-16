@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u043d\u0442\u0430\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kintai"
+    ],
     "name:ces_x_preferred":[
         "Kintai"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125938849,
-    "wof:lastmodified":1561837300,
+    "wof:lastmodified":1563319315,
     "wof:name":"Kintai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

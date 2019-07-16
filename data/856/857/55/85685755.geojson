@@ -33,11 +33,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09af\u09bc\u09be\u0989\u09b2\u09bf\u09af\u09bc\u09be\u0987 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Okrug \u0160iauliai"
+    ],
     "name:bul_x_preferred":[
         "\u0428\u044f\u0443\u043b\u044f\u0439\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:cat_x_preferred":[
         "Comtat de \u0160iauliai"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0160iauli\u0173 apskritis"
     ],
     "name:ces_x_preferred":[
         "\u0160iauliaisk\u00fd kraj"
@@ -81,6 +87,9 @@
     "name:fra_x_preferred":[
         "apskritis de \u0160iauliai"
     ],
+    "name:fra_x_variant":[
+        "\u0160iauliai"
+    ],
     "name:gle_x_preferred":[
         "Contae \u0160iauliai"
     ],
@@ -113,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0e4\uc6b8\ub7b4\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0e4\uc6b8\ub7b4\uc774\uc8fc"
     ],
     "name:lat_x_preferred":[
         "\u0160iauliai"
@@ -185,6 +197,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0b9a\u0bc1\u0bb4\u0bbf\u0baf\u0bbe\u0baf\u0bcd \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u04d9\u04af\u043b\u04d9\u0439 \u04e9\u044f\u0437\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c2f\u0c3e\u0c32\u0c3f\u0c2f\u0c3e \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -326,7 +341,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1561837264,
+    "wof:lastmodified":1563317726,
     "wof:name":"\u0160iauliai",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

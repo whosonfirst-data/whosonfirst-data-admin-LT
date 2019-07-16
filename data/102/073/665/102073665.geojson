@@ -29,7 +29,8 @@
         "\u0421\u0432\u044f\u043d\u0446\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
     "name:bel_x_variant":[
-        "\u0421\u044c\u0432\u044f\u043d\u0446\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+        "\u0421\u044c\u0432\u044f\u043d\u0446\u044f\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+        "\u0428\u0432\u044f\u043d\u0447\u043e\u043d\u0456\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
     "name:cat_x_preferred":[
         "Districte municipal de \u0160ven\u010dionys"
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":102073665,
-    "wof:lastmodified":1561837257,
+    "wof:lastmodified":1563317429,
     "wof:name":"\u0160vencionys",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

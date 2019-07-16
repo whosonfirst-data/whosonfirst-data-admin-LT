@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Kretinga"
     ],
+    "name:ceb_x_preferred":[
+        "Kretinga"
+    ],
     "name:ces_x_preferred":[
         "Kretinga"
     ],
@@ -81,6 +84,9 @@
         "Kretinga"
     ],
     "name:lit_x_preferred":[
+        "Kretinga"
+    ],
+    "name:ltg_x_preferred":[
         "Kretinga"
     ],
     "name:nld_x_preferred":[
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":101817213,
-    "wof:lastmodified":1561837297,
+    "wof:lastmodified":1563319213,
     "wof:name":"Kretinga",
     "wof:parent_id":102073681,
     "wof:placetype":"locality",

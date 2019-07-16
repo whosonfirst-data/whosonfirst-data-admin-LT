@@ -42,6 +42,9 @@
     "name:cor_x_preferred":[
         "Plung\u0117"
     ],
+    "name:cym_x_preferred":[
+        "Plung\u0117"
+    ],
     "name:dan_x_preferred":[
         "Plung\u0117"
     ],
@@ -135,6 +138,9 @@
     "name:tat_x_preferred":[
         "\u041f\u043b\u0443\u043d\u0433\u0435"
     ],
+    "name:tur_x_preferred":[
+        "Plung\u0117"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0443\u043d\u0433\u0435"
     ],
@@ -201,7 +207,7 @@
         }
     ],
     "wof:id":101818083,
-    "wof:lastmodified":1561837292,
+    "wof:lastmodified":1563319148,
     "wof:name":"Plung\u0117",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

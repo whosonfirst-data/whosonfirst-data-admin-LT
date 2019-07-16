@@ -21,13 +21,26 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u0431\u0430\u0440\u0442\u0430\u0439"
     ],
     "name:bel_x_variant":[
-        "\u041a\u0456\u0431\u0430\u0440\u0442\u044b"
+        "\u041a\u0456\u0431\u0430\u0440\u0442\u044b",
+        "\u041a\u0456\u0431\u0430\u0440\u0442\u0430\u0439"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0439\u0431\u0430\u0440\u0442\u0430\u0438"
     ],
     "name:cat_x_preferred":[
         "Kybartai"
     ],
+    "name:ceb_x_preferred":[
+        "Kybartai"
+    ],
+    "name:dan_x_preferred":[
+        "Kybartai"
+    ],
     "name:deu_x_preferred":[
         "Kybartai"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bc\u03c0\u03b1\u03c1\u03c4\u03ac\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kybartai"
@@ -43,6 +56,21 @@
     ],
     "name:fra_x_preferred":[
         "Kybartai"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d1\u05e8\u05d8\u05d0\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Kybartai"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u0562\u0561\u0580\u057f\u0561\u0575"
+    ],
+    "name:ita_x_preferred":[
+        "Kybartai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30fc\u30d0\u30eb\u30bf\u30a4"
     ],
     "name:lav_x_preferred":[
         "\u0136\u012bbarti"
@@ -62,8 +90,26 @@
     "name:pol_x_preferred":[
         "Kibarty"
     ],
+    "name:ron_x_preferred":[
+        "Kybartai"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0431\u0430\u0440\u0442\u0430\u0439"
+    ],
+    "name:sgs_x_preferred":[
+        "K\u012bbart\u0101"
+    ],
+    "name:spa_x_preferred":[
+        "Kybartai"
+    ],
+    "name:swe_x_preferred":[
+        "Kybartai"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0431\u0430\u0440\u0442\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0431\u0430\u0440\u0442\u0430\u0439"
     ],
     "name:unk_x_variant":[
         "Kibarty"
@@ -123,7 +169,7 @@
         }
     ],
     "wof:id":101817939,
-    "wof:lastmodified":1527642449,
+    "wof:lastmodified":1563319183,
     "wof:name":"Kybartai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

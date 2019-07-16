@@ -50,6 +50,12 @@
     "name:hsb_x_preferred":[
         "Garliava"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0561\u0580\u056c\u0575\u0561\u057e\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Garliava"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10e0\u10da\u10d8\u10d0\u10d5\u10d0"
     ],
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":101817995,
-    "wof:lastmodified":1561837297,
+    "wof:lastmodified":1563319203,
     "wof:name":"Garliava",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

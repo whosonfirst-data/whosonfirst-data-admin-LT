@@ -25,11 +25,17 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Pa\u0161ilai\u010diai"
+    ],
     "name:dan_x_preferred":[
         "Pa\u0161ilai\u010diai"
     ],
     "name:deu_x_preferred":[
         "Pa\u0161ilai\u010diai"
+    ],
+    "name:eng_x_preferred":[
+        "Pa\u0161ilai\u010diai eldership"
     ],
     "name:lit_x_preferred":[
         "Pa\u0161ilai\u010di\u0173 seni\u016bnija"
@@ -45,6 +51,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito municipal de Pa\u0161ilai\u010diai"
+    ],
+    "name:swe_x_preferred":[
+        "Pa\u0161ilai\u010diai"
     ],
     "name:und_x_preferred":[
         "Pasilaiciai"
@@ -111,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536864519,
+    "wof:lastmodified":1563317717,
     "wof:name":"Pasilaiciai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

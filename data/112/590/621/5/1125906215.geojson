@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Ka\u010dergin\u0117"
     ],
+    "name:ceb_x_preferred":[
+        "Ka\u010dergin\u0117"
+    ],
     "name:eng_x_preferred":[
         "Ka\u010dergin\u0117"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Ka\u010dergin\u0117"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0447\u044f\u0440\u0433\u0456\u043d\u0435"
     ],
     "name:unk_x_variant":[
         "Pu\u0161ilas"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125906215,
-    "wof:lastmodified":1561837301,
+    "wof:lastmodified":1563319345,
     "wof:name":"Ka\u010dergin\u0117",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

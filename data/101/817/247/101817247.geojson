@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043a\u043c\u044f\u043d\u044d"
     ],
+    "name:bel_x_variant":[
+        "\u0410\u043a\u043c\u044f\u043d\u0435"
+    ],
     "name:bos_x_preferred":[
         "Akmen\u0117"
     ],
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":101817247,
-    "wof:lastmodified":1561837297,
+    "wof:lastmodified":1563319212,
     "wof:name":"Akmen\u0117",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

@@ -20,7 +20,13 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0443\u043f\u0456\u0448\u043a\u0456\u0441"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0443\u043f\u0456\u0448\u043a\u0456\u0441"
+    ],
     "name:cat_x_preferred":[
+        "Kupi\u0161kis"
+    ],
+    "name:ceb_x_preferred":[
         "Kupi\u0161kis"
     ],
     "name:ces_x_preferred":[
@@ -62,8 +68,14 @@
     "name:ind_x_preferred":[
         "Kupi\u0161kis"
     ],
+    "name:ita_x_preferred":[
+        "Kupi\u0161kis"
+    ],
     "name:jpn_x_preferred":[
         "\u30af\u30d4\u30b7\u30e5\u30ad\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10de\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8"
     ],
     "name:lav_x_preferred":[
         "Kupi\u0161\u0137i"
@@ -80,6 +92,9 @@
     "name:pol_x_preferred":[
         "Kupi\u0161kis"
     ],
+    "name:pol_x_variant":[
+        "Kupiszki"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u043f\u0438\u0448\u043a\u0438\u0441"
     ],
@@ -94,6 +109,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u0443\u043f\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Kupi\u0161kis"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043f\u0438\u0448\u043a\u0456\u0441"
@@ -158,7 +176,7 @@
         }
     ],
     "wof:id":101818095,
-    "wof:lastmodified":1561837294,
+    "wof:lastmodified":1563319171,
     "wof:name":"Kupi\u0161kis",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

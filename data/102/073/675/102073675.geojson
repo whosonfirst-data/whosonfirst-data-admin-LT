@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Palanga"
     ],
+    "name:ceb_x_preferred":[
+        "Palanga"
+    ],
     "name:ces_x_preferred":[
         "Palanga"
     ],
@@ -76,6 +79,9 @@
     "name:hrv_x_preferred":[
         "Palanga"
     ],
+    "name:hsb_x_preferred":[
+        "Palanga"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0561\u056c\u0561\u0576\u0563\u0561"
     ],
@@ -106,6 +112,9 @@
     "name:lit_x_preferred":[
         "Palanga"
     ],
+    "name:ltg_x_preferred":[
+        "Palanga"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043b\u0430\u043d\u0433\u0430"
     ],
@@ -122,6 +131,9 @@
         "Po\u0142\u0105ga"
     ],
     "name:por_x_preferred":[
+        "Palanga"
+    ],
+    "name:ron_x_preferred":[
         "Palanga"
     ],
     "name:rus_x_preferred":[
@@ -225,7 +237,7 @@
         }
     ],
     "wof:id":102073675,
-    "wof:lastmodified":1561837255,
+    "wof:lastmodified":1563317400,
     "wof:name":"Palanga",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

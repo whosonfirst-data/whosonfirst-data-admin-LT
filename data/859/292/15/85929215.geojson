@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4630187.077917,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.249828,54.695925,25.249828,54.695925",
     "geom:latitude":54.695925,
     "geom:longitude":25.249828,
@@ -32,10 +32,16 @@
     "name:deu_x_preferred":[
         "\u017dv\u0117rynas"
     ],
+    "name:eng_x_preferred":[
+        "\u017dv\u0117rynas"
+    ],
     "name:lav_x_preferred":[
         "\u017dver\u012bna"
     ],
     "name:lit_x_preferred":[
+        "\u017dv\u0117rynas"
+    ],
+    "name:nld_x_preferred":[
         "\u017dv\u0117rynas"
     ],
     "name:pol_x_preferred":[
@@ -43,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0416\u0432\u0435\u0440\u0438\u043d\u0430\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0432\u0435\u0440\u0456\u043d\u0430\u0441"
     ],
     "name:und_x_preferred":[
         "Zverynas"
@@ -82,11 +91,11 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
+        85685759,
         102191581,
         85633269,
         101753031,
-        102073615,
-        85685759
+        102073615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939118,
+    "wof:lastmodified":1563317715,
     "wof:name":"Zverynas",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

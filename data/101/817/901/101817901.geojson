@@ -19,13 +19,28 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0438\u043f\u0430\u043b\u0438\u043d\u0433\u0438\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Leipalingis"
+    ],
+    "name:deu_x_preferred":[
+        "Leipalingis"
+    ],
     "name:eng_x_preferred":[
         "Leipalingis"
+    ],
+    "name:est_x_preferred":[
+        "Leipalingis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u067e\u0627\u0644\u06cc\u0646\u06af\u06cc\u0633"
     ],
     "name:fin_x_preferred":[
         "Leipalingis"
     ],
     "name:fra_x_preferred":[
+        "Leipalingis"
+    ],
+    "name:ita_x_preferred":[
         "Leipalingis"
     ],
     "name:lit_x_preferred":[
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":101817901,
-    "wof:lastmodified":1561837295,
+    "wof:lastmodified":1563319182,
     "wof:name":"Leipalingis",
     "wof:parent_id":102073579,
     "wof:placetype":"locality",

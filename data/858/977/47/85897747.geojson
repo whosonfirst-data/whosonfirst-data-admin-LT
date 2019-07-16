@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24162722.337414,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.411303,54.692957,25.411303,54.692957",
     "geom:latitude":54.692957,
     "geom:longitude":25.411303,
@@ -24,6 +24,12 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u045e\u0451\u0456-\u0412\u0456\u043b\u044c\u043d\u044f"
+    ],
+    "name:ces_x_preferred":[
+        "Nowa Wilejka"
+    ],
     "name:dan_x_preferred":[
         "Naujoji Vilnia"
     ],
@@ -33,20 +39,44 @@
     "name:eng_x_preferred":[
         "Naujoji Vilnia"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0648\u06cc\u0648\u06cc\u06cc \u0648\u06cc\u0644\u0646\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Naujoji Vilnia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d0\u05d5\u05d9\u05d5\u05d0\u05d9 \u05d5\u05d9\u05dc\u05e0\u05d9\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30a6\u30e8\u30a4\u30fb\u30f4\u30a3\u30eb\u30cd"
+    ],
     "name:lav_x_preferred":[
         "Naujoji Vi\u013c\u0146a"
     ],
     "name:lit_x_preferred":[
         "Naujoji Vilnia"
     ],
+    "name:nld_x_preferred":[
+        "Naujoji Vilnia"
+    ],
     "name:pol_x_preferred":[
         "Nowa Wilejka"
+    ],
+    "name:pol_x_variant":[
+        "Fabijoniskes"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0443\u0439\u043e\u0439\u0438-\u0412\u0438\u043b\u044c\u043d\u044f"
     ],
     "name:rus_x_variant":[
         "\u041d\u043e\u0432\u043e\u0432\u0438\u043b\u044c\u043d\u044f"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0430\u0443\u0439\u043e\u0438-\u0412\u0438\u043b\u043d\u04d9"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0412\u0456\u043b\u044c\u043d\u044f"
     ],
     "name:und_x_preferred":[
         "Naujoji Vilnia"
@@ -87,11 +117,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":274,
     "wof:belongsto":[
+        85685759,
         102191581,
         85633269,
         101753031,
-        102073615,
-        85685759
+        102073615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931931,
+    "wof:lastmodified":1563317735,
     "wof:name":"Naujoji Vilnia",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

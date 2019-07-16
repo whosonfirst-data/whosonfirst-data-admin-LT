@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0433\u043b\u0438\u0430\u0443\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Igliauka"
+    ],
     "name:eng_x_preferred":[
         "Igliauka"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101817925,
-    "wof:lastmodified":1561837296,
+    "wof:lastmodified":1563319201,
     "wof:name":"Igliauka",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

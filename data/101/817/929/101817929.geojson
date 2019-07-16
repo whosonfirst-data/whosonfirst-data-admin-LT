@@ -24,9 +24,13 @@
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0430\u043b\u044c\u0447\u044b\u043d\u0456\u043d\u043a\u0430\u0439"
     ],
     "name:bel_x_variant":[
-        "\u0421\u0430\u043b\u0435\u0447\u043d\u0456\u043a\u0456"
+        "\u0421\u0430\u043b\u0435\u0447\u043d\u0456\u043a\u0456",
+        "\u0428\u0430\u043b\u044c\u0447\u044b\u043d\u0456\u043d\u043a\u0430\u0439"
     ],
     "name:cat_x_preferred":[
+        "\u0160al\u010dininkai"
+    ],
+    "name:ceb_x_preferred":[
         "\u0160al\u010dininkai"
     ],
     "name:ces_x_preferred":[
@@ -68,6 +72,9 @@
     "name:hun_x_preferred":[
         "\u0160al\u010dininkai"
     ],
+    "name:ita_x_preferred":[
+        "\u0160al\u010dininkai"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30eb\u30c1\u30cb\u30f3\u30ab\u30a4"
     ],
@@ -103,6 +110,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0428\u0430\u043b\u044c\u0447\u0438\u043d\u0438\u043d\u043a\u0430\u0439"
+    ],
+    "name:tur_x_preferred":[
+        "\u0160al\u010dininkai"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043b\u044c\u0447\u0438\u043d\u0456\u043d\u043a\u0430\u0439"
@@ -164,7 +174,7 @@
         }
     ],
     "wof:id":101817929,
-    "wof:lastmodified":1561837298,
+    "wof:lastmodified":1563319218,
     "wof:name":"\u0160al\u010dininkai",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

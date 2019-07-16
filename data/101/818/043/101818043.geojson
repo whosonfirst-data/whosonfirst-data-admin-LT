@@ -16,6 +16,9 @@
     "mps:longitude":21.992269,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kv\u0117darna"
+    ],
     "name:eng_x_preferred":[
         "Kv\u0117darna"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0432\u0435\u0434\u0430\u0440\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "kvedarna"
     ],
     "name:sgs_x_preferred":[
         "Kviedarna"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":101818043,
-    "wof:lastmodified":1561837294,
+    "wof:lastmodified":1563319169,
     "wof:name":"Kv\u0117darna",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

@@ -20,10 +20,16 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0401\u043d\u0456\u0448\u043a\u0456\u0441"
     ],
+    "name:bel_x_variant":[
+        "\u0401\u043d\u0456\u0448\u043a\u0456\u0441"
+    ],
     "name:bul_x_preferred":[
         "\u0419\u043e\u043d\u0438\u0448\u043a\u0438\u0441"
     ],
     "name:cat_x_preferred":[
+        "Joni\u0161kis"
+    ],
+    "name:ceb_x_preferred":[
         "Joni\u0161kis"
     ],
     "name:ces_x_preferred":[
@@ -62,11 +68,17 @@
     "name:hsb_x_preferred":[
         "Joni\u0161kis"
     ],
+    "name:ita_x_preferred":[
+        "Joni\u0161kis"
+    ],
     "name:jpn_x_preferred":[
         "\u30e8\u30cb\u30b7\u30e5\u30ad\u30b9"
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10dd\u10dc\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc694\ub2c8\uc288\ud0a4\uc2a4"
     ],
     "name:lav_x_preferred":[
         "Joni\u0161\u0137i"
@@ -92,6 +104,9 @@
     "name:rus_x_preferred":[
         "\u0419\u043e\u043d\u0438\u0448\u043a\u0438\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u0418\u043e\u043d\u0438\u0448\u043a\u0438\u0441"
+    ],
     "name:sgs_x_preferred":[
         "Juon\u0117\u0161kis"
     ],
@@ -106,6 +121,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0419\u043e\u043d\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Joni\u0161kis"
     ],
     "name:ukr_x_preferred":[
         "\u0419\u043e\u043d\u0456\u0448\u043a\u0456\u0441"
@@ -170,7 +188,7 @@
         }
     ],
     "wof:id":101818131,
-    "wof:lastmodified":1561837293,
+    "wof:lastmodified":1563319162,
     "wof:name":"Joni\u0161kis",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

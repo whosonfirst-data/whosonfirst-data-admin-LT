@@ -37,6 +37,9 @@
     "name:lav_x_preferred":[
         "Karolini\u0161\u0137es"
     ],
+    "name:lav_x_variant":[
+        "Karolini\u0161kes"
+    ],
     "name:lit_x_preferred":[
         "Karolini\u0161k\u0117s"
     ],
@@ -119,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837263,
+    "wof:lastmodified":1563317714,
     "wof:name":"Karoliniskes",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

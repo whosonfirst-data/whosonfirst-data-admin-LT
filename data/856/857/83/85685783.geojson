@@ -27,17 +27,29 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u062a\u064a\u0646\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Condato d'Utena"
+    ],
+    "name:bak_x_preferred":[
+        "\u0423\u0442\u0435\u043d \u04e9\u0439\u04d9\u0499\u0435"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u0446\u044f\u043d\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
     ],
     "name:ben_x_preferred":[
         "\u0989\u099f\u09c7\u09a8\u09be \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Utena"
+    ],
     "name:bul_x_preferred":[
         "\u0423\u0442\u0435\u043d\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:cat_x_preferred":[
         "Comtat d'Utena"
+    ],
+    "name:ceb_x_preferred":[
+        "Utenos apskritis"
     ],
     "name:ces_x_preferred":[
         "Utensk\u00fd kraj"
@@ -78,6 +90,9 @@
     "name:fra_x_preferred":[
         "apskritis d'Utena"
     ],
+    "name:fra_x_variant":[
+        "Utena"
+    ],
     "name:gle_x_preferred":[
         "Contae Utena"
     ],
@@ -113,6 +128,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b0\ud14c\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\ud14c\ub098\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Utena"
@@ -323,7 +341,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1561837264,
+    "wof:lastmodified":1563317729,
     "wof:name":"Utena",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

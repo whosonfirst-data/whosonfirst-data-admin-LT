@@ -21,10 +21,16 @@
     "name:afr_x_preferred":[
         "Ginu\u010diai"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0456\u043d\u0443\u0447\u044d\u0439"
+    ],
     "name:eng_x_preferred":[
         "Ginu\u010diai"
     ],
     "name:epo_x_preferred":[
+        "Ginu\u010diai"
+    ],
+    "name:ita_x_preferred":[
         "Ginu\u010diai"
     ],
     "name:lit_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125891373,
-    "wof:lastmodified":1561837301,
+    "wof:lastmodified":1563319338,
     "wof:name":"Ginu\u010diai",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

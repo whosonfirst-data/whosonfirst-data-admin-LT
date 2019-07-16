@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Plateliai"
     ],
+    "name:ceb_x_preferred":[
+        "Plateliai"
+    ],
     "name:ces_x_preferred":[
         "Plateliai"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101817223,
-    "wof:lastmodified":1561837297,
+    "wof:lastmodified":1563319211,
     "wof:name":"Plateliai",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

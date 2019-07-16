@@ -22,7 +22,13 @@
     "name:eng_x_preferred":[
         "Sv\u0117dasai"
     ],
+    "name:est_x_preferred":[
+        "Sv\u0117dasai"
+    ],
     "name:fra_x_preferred":[
+        "Sv\u0117dasai"
+    ],
+    "name:ita_x_preferred":[
         "Sv\u0117dasai"
     ],
     "name:lit_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":101818077,
-    "wof:lastmodified":1561837292,
+    "wof:lastmodified":1563319148,
     "wof:name":"Sv\u0117dasai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

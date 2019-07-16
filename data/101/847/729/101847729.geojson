@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":278729.158286,
+    "geom:area_square_m":278729.158285,
     "geom:bbox":"21.0856685246,55.4094805316,21.1037670922,55.4176534979",
     "geom:latitude":55.413598,
     "geom:longitude":21.094688,
@@ -16,6 +16,105 @@
     "mps:longitude":21.094688,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Neringa"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0631\u064a\u0646\u063a\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Nerinqa"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u044f\u0440\u044b\u043d\u0433\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Neringa"
+    ],
+    "name:deu_x_preferred":[
+        "Neringa"
+    ],
+    "name:eng_x_preferred":[
+        "Neringa"
+    ],
+    "name:epo_x_preferred":[
+        "Neringa"
+    ],
+    "name:est_x_preferred":[
+        "Neringa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0631\u06cc\u0646\u06af\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Neringan kunta"
+    ],
+    "name:fra_x_preferred":[
+        "Neringa"
+    ],
+    "name:frr_x_preferred":[
+        "Neringa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e8\u05d9\u05e0\u05d2\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Neringa"
+    ],
+    "name:ind_x_preferred":[
+        "Neringa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30ea\u30f3\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\ub124\ub9c1\uac00"
+    ],
+    "name:lav_x_preferred":[
+        "Neringa"
+    ],
+    "name:lit_x_preferred":[
+        "Neringa"
+    ],
+    "name:nld_x_preferred":[
+        "Neringa"
+    ],
+    "name:nob_x_preferred":[
+        "Neringa kommune"
+    ],
+    "name:pol_x_preferred":[
+        "Nerynga"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Neringa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u0438\u043d\u0433\u0430"
+    ],
+    "name:sgs_x_preferred":[
+        "Neringa"
+    ],
+    "name:spa_x_preferred":[
+        "Neringa"
+    ],
+    "name:swa_x_preferred":[
+        "Neringa"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0435\u0440\u0438\u043d\u0433\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044f\u0440\u0456\u043d\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0631\u0646\u06af\u0627 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:vol_x_preferred":[
+        "Neringa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u6797\u52a0"
+    ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Neringa",
     "qs:a1r":"0Klaipeda",
@@ -56,7 +155,7 @@
         }
     ],
     "wof:id":101847729,
-    "wof:lastmodified":1527714983,
+    "wof:lastmodified":1563319229,
     "wof:name":"Neringa (Pervalka)",
     "wof:parent_id":102073645,
     "wof:placetype":"locality",

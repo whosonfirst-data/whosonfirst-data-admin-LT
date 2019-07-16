@@ -28,6 +28,12 @@
     "name:aze_x_preferred":[
         "Anik\u015f\u00e7yay"
     ],
+    "name:aze_x_variant":[
+        "Anik\u015f\u00e7yay rayonu"
+    ],
+    "name:bak_x_preferred":[
+        "\u0410\u043d\u0438\u043a\u0449\u044f\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043d\u0456\u043a\u0448\u0447\u044d\u0439"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:epo_x_preferred":[
         "Anyk\u0161\u010diai"
+    ],
+    "name:est_x_preferred":[
+        "Anyk\u0161\u010diai rajoon"
     ],
     "name:fin_x_preferred":[
         "Anyk\u0161\u010diain kunnallispiiri"
@@ -158,7 +167,7 @@
         }
     ],
     "wof:id":102073687,
-    "wof:lastmodified":1561837255,
+    "wof:lastmodified":1563317403,
     "wof:name":"Anyk\u0161ciai",
     "wof:parent_id":85685783,
     "wof:placetype":"county",

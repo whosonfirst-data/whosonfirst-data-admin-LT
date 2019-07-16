@@ -33,11 +33,17 @@
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09b2\u09b8\u09bf\u09af\u09bc\u09be\u0987 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Tel\u0161iai"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u043b\u0448\u044f\u0439\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:cat_x_preferred":[
         "Comtat de Tel\u0161iai"
+    ],
+    "name:ceb_x_preferred":[
+        "Tel\u0161i\u0173 apskritis"
     ],
     "name:ces_x_preferred":[
         "Tel\u0161iajsk\u00fd kraj"
@@ -81,6 +87,9 @@
     "name:fra_x_preferred":[
         "apskritis de Tel\u0161iai"
     ],
+    "name:fra_x_variant":[
+        "Tel\u0161iai"
+    ],
     "name:gle_x_preferred":[
         "Contae Tel\u0161iai"
     ],
@@ -113,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud154\uc0e4\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud154\uc0e4\uc774\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Tel\u0161iai"
@@ -326,7 +338,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1561837264,
+    "wof:lastmodified":1563317728,
     "wof:name":"Tel\u0161iai",
     "wof:parent_id":85633269,
     "wof:placetype":"region",
