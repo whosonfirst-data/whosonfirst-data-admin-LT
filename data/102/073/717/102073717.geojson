@@ -25,8 +25,14 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043a\u0440\u0443\u043e\u0439\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u043a\u0440\u0443\u043e\u0439\u0456\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:cat_x_preferred":[
         "Districte municipal de Pakruojis"
+    ],
+    "name:ceb_x_preferred":[
+        "Pakruojis"
     ],
     "name:deu_x_preferred":[
         "Rajongemeinde Pakruojis"
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":102073717,
-    "wof:lastmodified":1561837258,
+    "wof:lastmodified":1563317433,
     "wof:name":"Pakruojis",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

@@ -19,6 +19,9 @@
     "name:cat_x_preferred":[
         "Mos\u0117dis"
     ],
+    "name:ceb_x_preferred":[
+        "Mos\u0117dis"
+    ],
     "name:ces_x_preferred":[
         "Mos\u0117dis"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101817237,
-    "wof:lastmodified":1561837298,
+    "wof:lastmodified":1563319216,
     "wof:name":"Mos\u0117dis",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

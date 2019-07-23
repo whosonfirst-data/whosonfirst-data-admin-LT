@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Tel\u0161iai"
     ],
+    "name:ceb_x_preferred":[
+        "Telsiai"
+    ],
     "name:ces_x_preferred":[
         "Tel\u0161iai"
     ],
@@ -111,6 +114,9 @@
     "name:lit_x_preferred":[
         "Tel\u0161iai"
     ],
+    "name:ltg_x_preferred":[
+        "Te\u013c\u0161i"
+    ],
     "name:mkd_x_preferred":[
         "\u0422\u0435\u043b\u0448\u0458\u0430\u0458"
     ],
@@ -159,8 +165,14 @@
     "name:swe_x_preferred":[
         "Tel\u0161iai"
     ],
+    "name:szl_x_preferred":[
+        "Tel\u0161iai"
+    ],
     "name:tat_x_preferred":[
         "Tel\u0161iai"
+    ],
+    "name:tat_x_variant":[
+        "\u0422\u0435\u043b\u0448\u04d9\u0439"
     ],
     "name:tur_x_preferred":[
         "Tel\u0161iai"
@@ -236,7 +248,7 @@
         }
     ],
     "wof:id":101818085,
-    "wof:lastmodified":1561837292,
+    "wof:lastmodified":1563319150,
     "wof:name":"Tel\u0161iai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Avi\u017eieniai"
     ],
+    "name:fra_x_preferred":[
+        "Avi\u017eieniai"
+    ],
     "name:lit_x_preferred":[
         "Avi\u017eieniai"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125955195,
-    "wof:lastmodified":1514470296,
+    "wof:lastmodified":1563319320,
     "wof:name":"Avi\u017eieniai",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

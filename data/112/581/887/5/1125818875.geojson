@@ -21,6 +21,9 @@
     "name:bel_x_preferred":[
         "\u041c\u044f\u0441\u0442\u044d\u0447\u043a\u0430 \u0414\u0437\u0456\u0435\u0432\u044f\u043d\u0456\u0448\u043a\u0435\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Dieveni\u0161k\u0117s"
+    ],
     "name:deu_x_preferred":[
         "Dieveni\u0161k\u0117s"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125818875,
-    "wof:lastmodified":1561837300,
+    "wof:lastmodified":1563319332,
     "wof:name":"Dieveni\u0161k\u0117s",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

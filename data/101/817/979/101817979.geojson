@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
+    "name:ceb_x_preferred":[
+        "Gri\u0161kab\u016bdis"
+    ],
     "name:ces_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
@@ -148,6 +151,9 @@
     "name:rus_x_preferred":[
         "\u0413\u0440\u0438\u0448\u043a\u0430\u0431\u0443\u0434\u0438\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u0413\u0440\u0438\u0441\u043a\u0430\u0431\u0443\u0434\u0438\u0441"
+    ],
     "name:scn_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
@@ -170,6 +176,9 @@
         "Gri\u0161kab\u016bdis"
     ],
     "name:swe_x_preferred":[
+        "Gri\u0161kab\u016bdis"
+    ],
+    "name:szl_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
     "name:tur_x_preferred":[
@@ -230,7 +239,7 @@
         }
     ],
     "wof:id":101817979,
-    "wof:lastmodified":1561837296,
+    "wof:lastmodified":1563319196,
     "wof:name":"Gri\u0161kab\u016bdis",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

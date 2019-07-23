@@ -47,6 +47,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e0\u05d0\u05e8"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0578\u0582\u056f\u0577\u057f\u0565\u0575\u056b \u054a\u0561\u0576\u0575\u0561\u0580\u0575\u0561\u0575"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30cd\u30ea\u30a2\u30a4"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0443\u043a\u0448\u0442\u0435\u0439\u0438-\u041f\u0430\u043d\u044f\u0440\u044f\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u043d\u0435\u0440\u044f\u0439"
     ],
     "name:swe_x_preferred":[
         "Paneriai"
@@ -146,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837263,
+    "wof:lastmodified":1563317715,
     "wof:name":"Aukstieji Paneriai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

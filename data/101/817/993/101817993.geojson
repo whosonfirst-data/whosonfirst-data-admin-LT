@@ -20,11 +20,17 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043b\u0430\u0443\u0442\u0443\u0432\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kulautuva"
+    ],
     "name:eng_x_preferred":[
         "Kulautuva"
     ],
     "name:est_x_preferred":[
         "Kulautuva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d5\u05d8\u05d5\u05d1\u05d4"
     ],
     "name:lit_x_preferred":[
         "Kulautuva"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101817993,
-    "wof:lastmodified":1561837297,
+    "wof:lastmodified":1563319206,
     "wof:name":"Kulautuva",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

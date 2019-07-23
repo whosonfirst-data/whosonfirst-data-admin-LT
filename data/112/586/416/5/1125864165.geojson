@@ -24,10 +24,16 @@
     "name:cat_x_preferred":[
         "\u017dasliai"
     ],
+    "name:ceb_x_preferred":[
+        "\u017dasliai"
+    ],
     "name:deu_x_preferred":[
         "\u017dasliai"
     ],
     "name:eng_x_preferred":[
+        "\u017dasliai"
+    ],
+    "name:est_x_preferred":[
         "\u017dasliai"
     ],
     "name:fin_x_preferred":[
@@ -38,6 +44,9 @@
     ],
     "name:glg_x_preferred":[
         "\u017dasliai"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d5\u05e1\u05dc\u05d4"
     ],
     "name:lit_x_preferred":[
         "\u017dasliai"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":1125864165,
-    "wof:lastmodified":1561837300,
+    "wof:lastmodified":1563319331,
     "wof:name":"\u017dasliai",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

@@ -25,9 +25,13 @@
     ],
     "name:bel_x_variant":[
         "\u0413\u0435\u043b\u0433\u0443\u0434\u044b\u0448\u043a\u0456",
-        "\u0413\u043e\u0440\u0430\u0434 \u0413\u0435\u043b\u0433\u0430\u045e\u0434\u0437\u0456\u0448\u043a\u0456\u0441"
+        "\u0413\u043e\u0440\u0430\u0434 \u0413\u0435\u043b\u0433\u0430\u045e\u0434\u0437\u0456\u0448\u043a\u0456\u0441",
+        "\u0413\u044f\u043b\u0433\u0430\u045e\u0434\u0437\u0456\u0448\u043a\u0456\u0441"
     ],
     "name:cat_x_preferred":[
+        "Gelgaudi\u0161kis"
+    ],
+    "name:ceb_x_preferred":[
         "Gelgaudi\u0161kis"
     ],
     "name:ces_x_preferred":[
@@ -49,6 +53,9 @@
         "Gelgaudi\u0161kis"
     ],
     "name:hsb_x_preferred":[
+        "Gelgaudi\u0161kis"
+    ],
+    "name:ita_x_preferred":[
         "Gelgaudi\u0161kis"
     ],
     "name:lav_x_preferred":[
@@ -140,7 +147,7 @@
         }
     ],
     "wof:id":101817983,
-    "wof:lastmodified":1561837296,
+    "wof:lastmodified":1563319195,
     "wof:name":"Gelgaudi\u0161kis",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u062f\u0629 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b \u0433\u043e\u0440\u0430\u0434"
     ],
@@ -43,6 +46,9 @@
     "name:eng_x_preferred":[
         "Vilnius Old Town"
     ],
+    "name:est_x_preferred":[
+        "Vilniuse vanalinn"
+    ],
     "name:fin_x_preferred":[
         "Vilnan vanhakaupunki"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:ind_x_preferred":[
         "Kota Tua Vilnius"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30ea\u30cb\u30e5\u30b9\u65e7\u5e02\u8857"
     ],
     "name:kat_x_preferred":[
         "\u10eb\u10d5\u10d4\u10da\u10d8 \u10d5\u10d8\u10da\u10dc\u10d8\u10e3\u10e1\u10d8"
@@ -84,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Gamla staden"
+    ],
+    "name:tur_x_preferred":[
+        "Eski \u015eehir"
     ],
     "name:und_x_preferred":[
         "Senamiestis"
@@ -152,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837263,
+    "wof:lastmodified":1563317713,
     "wof:name":"Senamiestis",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

@@ -21,9 +21,16 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u044f\u043d\u0442\u0432\u0430\u0440\u044b\u0441"
     ],
     "name:bel_x_variant":[
-        "\u041b\u044f\u043d\u0434\u0432\u0430\u0440\u043e\u0432\u0430"
+        "\u041b\u044f\u043d\u0434\u0432\u0430\u0440\u043e\u0432\u0430",
+        "\u041b\u044f\u043d\u0442\u0432\u0430\u0440\u044b\u0441"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u043d\u0442\u0432\u0430\u0440\u0438\u0441"
     ],
     "name:cat_x_preferred":[
+        "Lentvaris"
+    ],
+    "name:ceb_x_preferred":[
         "Lentvaris"
     ],
     "name:ces_x_preferred":[
@@ -37,6 +44,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03ad\u03bd\u03c4\u03b2\u03b1\u03c1\u03b9\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b5\u03bd\u03c4\u03b2\u03ac\u03c1\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Lentvaris"
@@ -53,7 +63,16 @@
     "name:fra_x_preferred":[
         "Lentvaris"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e0\u05d8\u05d1\u05d0\u05e8\u05d9\u05e1"
+    ],
+    "name:hsb_x_preferred":[
+        "Lentvaris"
+    ],
     "name:ind_x_preferred":[
+        "Lentvaris"
+    ],
+    "name:ita_x_preferred":[
         "Lentvaris"
     ],
     "name:kat_x_preferred":[
@@ -85,6 +104,9 @@
     ],
     "name:swe_x_preferred":[
         "Lentvaris"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u04d9\u043d\u0442\u0432\u0430\u0440\u0438\u0441"
     ],
     "name:unk_x_variant":[
         "Lyandvarovo"
@@ -144,7 +166,7 @@
         }
     ],
     "wof:id":101817957,
-    "wof:lastmodified":1527642457,
+    "wof:lastmodified":1563319202,
     "wof:name":"Lentvaris",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

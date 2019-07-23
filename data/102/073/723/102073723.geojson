@@ -27,7 +27,8 @@
     ],
     "name:bel_x_variant":[
         "\u042f\u043d\u0456\u0448\u043a\u0456",
-        "\u0401\u043d\u0456\u0448\u043a\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+        "\u0401\u043d\u0456\u0448\u043a\u0441\u043a\u0456 \u0440\u0430\u0451\u043d",
+        "\u0401\u043d\u0456\u0448\u043a\u0456\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
     "name:bul_x_preferred":[
         "\u0419\u043e\u043d\u0438\u0448\u043a\u0438\u0441"
@@ -55,6 +56,9 @@
     ],
     "name:est_x_preferred":[
         "Joni\u0161kis"
+    ],
+    "name:est_x_variant":[
+        "Joni\u0161kise rajoon"
     ],
     "name:fin_x_preferred":[
         "Joni\u0161kisin kunnallispiiri"
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":102073723,
-    "wof:lastmodified":1561837256,
+    "wof:lastmodified":1563317416,
     "wof:name":"Joni\u0161kis",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

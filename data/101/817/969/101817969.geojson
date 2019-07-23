@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Vievis"
     ],
+    "name:ceb_x_preferred":[
+        "Vievis"
+    ],
     "name:deu_x_preferred":[
         "Vievis"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u0587\u056b\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Vievis"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d4\u10d5\u10d8\u10e1\u10d8"
@@ -95,6 +101,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0404\u0432'\u0454"
+    ],
+    "name:ukr_x_variant":[
+        "\u0404\u0432\u2019\u0454"
     ],
     "name:unk_x_variant":[
         "Anastasevskaya"
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":101817969,
-    "wof:lastmodified":1561837297,
+    "wof:lastmodified":1563319208,
     "wof:name":"Vievis",
     "wof:parent_id":102073613,
     "wof:placetype":"locality",

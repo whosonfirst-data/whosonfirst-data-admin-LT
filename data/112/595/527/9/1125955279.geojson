@@ -18,10 +18,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0435\u0441\u0438\u043a\u0430\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Siesikai"
+    ],
     "name:deu_x_preferred":[
         "Siesikai"
     ],
     "name:eng_x_preferred":[
+        "Siesikai"
+    ],
+    "name:est_x_preferred":[
         "Siesikai"
     ],
     "name:fra_x_preferred":[
@@ -38,6 +47,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0441\u0438\u043a\u0430\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Siesikai"
     ],
     "name:unk_x_variant":[
         "Siyesikay"
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1125955279,
-    "wof:lastmodified":1561837300,
+    "wof:lastmodified":1563319320,
     "wof:name":"Siesikai",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

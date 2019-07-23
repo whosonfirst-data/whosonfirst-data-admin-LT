@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Districte municipal de Kretinga"
     ],
+    "name:ceb_x_preferred":[
+        "Kretinga"
+    ],
     "name:deu_x_preferred":[
         "Rajongemeinde Kretinga"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":102073681,
-    "wof:lastmodified":1561837255,
+    "wof:lastmodified":1563317400,
     "wof:name":"Kretinga",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

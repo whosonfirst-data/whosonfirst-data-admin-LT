@@ -50,11 +50,17 @@
     "name:est_x_preferred":[
         "\u0160irvintos"
     ],
+    "name:est_x_variant":[
+        "\u0160irvintose rajoon"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0631\u0648\u06cc\u0646\u062a\u0648\u0633"
     ],
     "name:fin_x_preferred":[
         "\u0160irvintos"
+    ],
+    "name:fin_x_variant":[
+        "\u0160irvintosin kunnallispiiri"
     ],
     "name:fra_x_preferred":[
         "\u0160irvintos"
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":102073633,
-    "wof:lastmodified":1561837255,
+    "wof:lastmodified":1563317408,
     "wof:name":"\u0160irvintos",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

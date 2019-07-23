@@ -16,6 +16,9 @@
     "mps:longitude":23.995405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u017deimelis"
+    ],
     "name:ces_x_preferred":[
         "\u017deimelis"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d9\u05d9\u05de\u05dc\u05e1"
+    ],
+    "name:heb_x_variant":[
+        "\u05d6'\u05d9\u05d9\u05de\u05dc\u05d9\u05e1"
     ],
     "name:lav_x_preferred":[
         "\u017deimele"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101818115,
-    "wof:lastmodified":1561837295,
+    "wof:lastmodified":1563319177,
     "wof:name":"\u017deimelis",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

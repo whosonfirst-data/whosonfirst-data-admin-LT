@@ -24,9 +24,13 @@
         "\u0413\u043e\u0440\u0430\u0434 \u0415\u0437\u043d\u0430\u0441"
     ],
     "name:bel_x_variant":[
-        "\u0415\u0437\u043d\u0430"
+        "\u0415\u0437\u043d\u0430",
+        "\u0415\u0437\u043d\u0430\u0441"
     ],
     "name:cat_x_preferred":[
+        "Jieznas"
+    ],
+    "name:ceb_x_preferred":[
         "Jieznas"
     ],
     "name:deu_x_preferred":[
@@ -49,6 +53,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05d9\u05d6\u05e0\u05e1"
+    ],
+    "name:hsb_x_preferred":[
+        "Jieznas"
+    ],
+    "name:ita_x_preferred":[
+        "Jieznas"
     ],
     "name:lav_x_preferred":[
         "Jiezna"
@@ -138,7 +148,7 @@
         }
     ],
     "wof:id":101817951,
-    "wof:lastmodified":1561837297,
+    "wof:lastmodified":1563319209,
     "wof:name":"Jieznas",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

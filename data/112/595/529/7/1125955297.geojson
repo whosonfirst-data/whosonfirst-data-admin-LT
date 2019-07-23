@@ -30,6 +30,9 @@
     "name:pol_x_preferred":[
         "Turgiele"
     ],
+    "name:sgs_x_preferred":[
+        "Torgel\u0113"
+    ],
     "name:unk_x_variant":[
         "Turgelyay"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125955297,
-    "wof:lastmodified":1514483812,
+    "wof:lastmodified":1563319321,
     "wof:name":"Turgeliai",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

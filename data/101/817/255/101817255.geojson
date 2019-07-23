@@ -19,6 +19,9 @@
     "name:bel_x_variant":[
         "\u0421\u0430\u043b\u0430\u0442\u044b"
     ],
+    "name:ceb_x_preferred":[
+        "Salo\u010diai"
+    ],
     "name:eng_x_preferred":[
         "Salo\u010diai"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101817255,
-    "wof:lastmodified":1561837298,
+    "wof:lastmodified":1563319217,
     "wof:name":"Salo\u010diai",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

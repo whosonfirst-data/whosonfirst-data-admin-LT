@@ -33,11 +33,17 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09a8\u09be\u09b8 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Kaunas"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0443\u043d\u0430\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:cat_x_preferred":[
         "Comtat de Kaunas"
+    ],
+    "name:ceb_x_preferred":[
+        "Kauno apskritis"
     ],
     "name:ces_x_preferred":[
         "Kaunask\u00fd kraj"
@@ -47,6 +53,9 @@
     ],
     "name:dan_x_preferred":[
         "Kaunas amt"
+    ],
+    "name:dan_x_variant":[
+        "Kaunas apskritis"
     ],
     "name:deu_x_preferred":[
         "Bezirk Kaunas"
@@ -77,6 +86,9 @@
     ],
     "name:fra_x_preferred":[
         "apskritis de Kaunas"
+    ],
+    "name:fra_x_variant":[
+        "Kaunas"
     ],
     "name:gle_x_preferred":[
         "Contae Kaunas"
@@ -110,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\uc6b0\ub098\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\uc6b0\ub098\uc2a4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Couna"
@@ -183,11 +198,20 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bcc\u0ba9\u0bb8\u0bcd \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0443\u043d\u0430\u0441 \u04e9\u044f\u0437\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4c\u0c28\u0c3e\u0c38\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
     ],
+    "name:tgk_x_preferred":[
+        "\u0448\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d\u0438 \u041a\u0430\u0443\u043d\u0430\u0441"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e04\u0e32\u0e2d\u0e39\u0e19\u0e31\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e40\u0e04\u0e32\u0e19\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Kaunas County"
@@ -320,7 +344,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1561837264,
+    "wof:lastmodified":1563317723,
     "wof:name":"Kaunas",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

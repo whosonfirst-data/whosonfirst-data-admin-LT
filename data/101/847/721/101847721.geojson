@@ -19,11 +19,20 @@
     "name:bel_x_preferred":[
         "\u0421\u0435\u0439\u0440\u044b\u044f\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Seirijai"
+    ],
     "name:deu_x_preferred":[
         "Seirijai"
     ],
     "name:eng_x_preferred":[
         "Seirijai"
+    ],
+    "name:est_x_preferred":[
+        "Seirijai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0631\u06cc\u0627\u06cc"
     ],
     "name:fin_x_preferred":[
         "Seirijai"
@@ -33,6 +42,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e8\u05d4\u05d9\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Seirijai"
     ],
     "name:lit_x_preferred":[
         "Seirijai"
@@ -45,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0439\u0440\u0438\u044f\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Seirijai"
     ],
     "name:unk_x_variant":[
         "Sereje"
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":101847721,
-    "wof:lastmodified":1561837298,
+    "wof:lastmodified":1563319228,
     "wof:name":"Seirijai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

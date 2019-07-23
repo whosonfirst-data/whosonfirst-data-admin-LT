@@ -25,11 +25,20 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Pilait\u0117"
+    ],
     "name:dan_x_preferred":[
         "Pilait\u0117"
     ],
     "name:deu_x_preferred":[
         "Pilait\u0117"
+    ],
+    "name:eng_x_preferred":[
+        "Pilait\u0117 eldership"
+    ],
+    "name:lav_x_preferred":[
+        "Pilaite"
     ],
     "name:lit_x_preferred":[
         "Pilait\u0117"
@@ -45,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito municipal de Pilait\u0117"
+    ],
+    "name:swe_x_preferred":[
+        "Pilait\u0117"
     ],
     "name:und_x_preferred":[
         "Pilaite"
@@ -111,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1536864519,
+    "wof:lastmodified":1563317713,
     "wof:name":"Pilaite",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

@@ -21,7 +21,8 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0435\u0442\u0430\u0439"
     ],
     "name:bel_x_variant":[
-        "\u041c\u0430\u043b\u044f\u0442\u044b"
+        "\u041c\u0430\u043b\u044f\u0442\u044b",
+        "\u041c\u0430\u043b\u0435\u0442\u0430\u0439"
     ],
     "name:cat_x_preferred":[
         "Mol\u0117tai"
@@ -54,6 +55,9 @@
         "\u05de\u05d5\u05dc\u05d9\u05d9\u05d8\u05d9"
     ],
     "name:hsb_x_preferred":[
+        "Mol\u0117tai"
+    ],
+    "name:ita_x_preferred":[
         "Mol\u0117tai"
     ],
     "name:jpn_x_preferred":[
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":101818049,
-    "wof:lastmodified":1561837292,
+    "wof:lastmodified":1563319151,
     "wof:name":"Mol\u0117tai",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

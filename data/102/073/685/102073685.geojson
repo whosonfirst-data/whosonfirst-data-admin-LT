@@ -53,11 +53,17 @@
     "name:est_x_preferred":[
         "Ignalina"
     ],
+    "name:est_x_variant":[
+        "Ignalina rajoon"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u06af\u0646\u0627\u0644\u06cc\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Ignalina"
+    ],
+    "name:fin_x_variant":[
+        "Ignalinan kunnallispiiri"
     ],
     "name:fra_x_preferred":[
         "Ignalina"
@@ -80,6 +86,9 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30b0\u30ca\u30ea\u30ca"
     ],
+    "name:jpn_x_variant":[
+        "\u30a4\u30b0\u30ca\u30ea\u30ca\u5730\u533a\u81ea\u6cbb\u4f53"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10d2\u10dc\u10d0\u10da\u10d8\u10dc\u10d0"
     ],
@@ -101,8 +110,14 @@
     "name:pol_x_preferred":[
         "Ignalino"
     ],
+    "name:pol_x_variant":[
+        "Rejon ignali\u0144ski"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0433\u043d\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u0433\u043d\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:sgs_x_preferred":[
         "\u0116gnal\u0117nas rajuons"
@@ -113,11 +128,17 @@
     "name:swe_x_preferred":[
         "Ignalina"
     ],
+    "name:swe_x_variant":[
+        "Ignalina distrikt"
+    ],
     "name:tur_x_preferred":[
         "Ignalina"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0433\u043d\u0430\u043b\u0456\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0406\u0433\u043d\u0430\u043b\u0456\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0646\u0627\u0644\u06cc\u0646\u0627"
@@ -180,7 +201,7 @@
         }
     ],
     "wof:id":102073685,
-    "wof:lastmodified":1561837257,
+    "wof:lastmodified":1563317421,
     "wof:name":"Ignalina",
     "wof:parent_id":85685783,
     "wof:placetype":"county",

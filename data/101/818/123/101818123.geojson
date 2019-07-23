@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
-    "geom:area_square_m":1871227.403932,
+    "geom:area_square_m":1871227.403931,
     "geom:bbox":"25.2166244782,56.0082261993,25.2489123475,56.0351231203",
     "geom:latitude":56.021594,
     "geom:longitude":25.229027,
@@ -24,9 +24,13 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u043d\u0434\u044d\u043b\u0456\u0441"
     ],
     "name:bel_x_variant":[
-        "\u041f\u0430\u043d\u044f\u0434\u0437\u0435\u043b\u0456"
+        "\u041f\u0430\u043d\u044f\u0434\u0437\u0435\u043b\u0456",
+        "\u041f\u0430\u043d\u0434\u044d\u043b\u0456\u0441"
     ],
     "name:cat_x_preferred":[
+        "Pand\u0117lys"
+    ],
+    "name:ceb_x_preferred":[
         "Pand\u0117lys"
     ],
     "name:deu_x_preferred":[
@@ -47,11 +51,53 @@
     "name:fra_x_preferred":[
         "Pand\u0117lys"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e0\u05d3\u05dc\u05d9\u05e1"
+    ],
+    "name:hsb_x_preferred":[
+        "Pand\u0117lys"
+    ],
+    "name:ita_x_preferred":[
+        "Pand\u0117lys"
+    ],
+    "name:lav_x_preferred":[
+        "Pand\u0113le"
+    ],
+    "name:lit_x_preferred":[
+        "Pand\u0117lys"
+    ],
+    "name:nld_x_preferred":[
+        "Pand\u0117lys"
+    ],
+    "name:pms_x_preferred":[
+        "Pand\u0117lys"
+    ],
+    "name:pol_x_preferred":[
+        "Ponedele"
+    ],
     "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0434\u0435\u043b\u0438\u0441"
+    ],
+    "name:sgs_x_preferred":[
+        "Pondiel\u012bs"
+    ],
+    "name:swe_x_preferred":[
+        "Pand\u0117lys"
+    ],
+    "name:szl_x_preferred":[
+        "Pand\u0117lys"
+    ],
+    "name:tat_x_preferred":[
         "\u041f\u0430\u043d\u0434\u0435\u043b\u0438\u0441"
     ],
     "name:unk_x_variant":[
         "Ponedeli"
+    ],
+    "name:vol_x_preferred":[
+        "Pand\u0117lys"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u5fb7\u5229\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Roki\u0161kis",
@@ -101,7 +147,7 @@
         }
     ],
     "wof:id":101818123,
-    "wof:lastmodified":1527642229,
+    "wof:lastmodified":1563319177,
     "wof:name":"Pand\u0117lys",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

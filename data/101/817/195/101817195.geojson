@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Garg\u017edai"
     ],
+    "name:ceb_x_preferred":[
+        "Garg\u017edai"
+    ],
     "name:ces_x_preferred":[
         "Garg\u017edai"
     ],
@@ -88,6 +91,9 @@
         "Gor\u017cdy"
     ],
     "name:por_x_preferred":[
+        "Garg\u017edai"
+    ],
+    "name:ron_x_preferred":[
         "Garg\u017edai"
     ],
     "name:rus_x_preferred":[
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":101817195,
-    "wof:lastmodified":1561837295,
+    "wof:lastmodified":1563319182,
     "wof:name":"Garg\u017edai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

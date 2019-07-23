@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Zarasai"
     ],
+    "name:ceb_x_preferred":[
+        "Zarasai"
+    ],
     "name:ces_x_preferred":[
         "Zarasai"
     ],
@@ -72,6 +75,9 @@
         "\u0536\u0561\u0580\u0561\u057d\u0561\u0575"
     ],
     "name:ind_x_preferred":[
+        "Zarasai"
+    ],
+    "name:ita_x_preferred":[
         "Zarasai"
     ],
     "name:jpn_x_preferred":[
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":101818099,
-    "wof:lastmodified":1561837293,
+    "wof:lastmodified":1563319154,
     "wof:name":"Zarasai",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

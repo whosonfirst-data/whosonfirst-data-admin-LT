@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "A\u017eulauke"
     ],
+    "name:eng_x_variant":[
+        "A\u017eulauk\u0117"
+    ],
     "name:lit_x_preferred":[
         "A\u017eulauk\u0117"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125982997,
-    "wof:lastmodified":1514470296,
+    "wof:lastmodified":1563319351,
     "wof:name":"A\u017eulauke",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

@@ -16,7 +16,13 @@
     "mps:longitude":23.729766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Veiveriai"
+    ],
     "name:eng_x_preferred":[
+        "Veiveriai"
+    ],
+    "name:est_x_preferred":[
         "Veiveriai"
     ],
     "name:fas_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":101817949,
-    "wof:lastmodified":1561837296,
+    "wof:lastmodified":1563319200,
     "wof:name":"Veiveriai",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

@@ -24,9 +24,16 @@
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0430\u0431\u0430\u043b\u044c\u043d\u0456\u043d\u043a\u0430\u0441"
     ],
     "name:bel_x_variant":[
-        "\u0412\u0430\u0431\u043e\u043b\u044c\u043d\u0456\u043a\u0456"
+        "\u0412\u0430\u0431\u043e\u043b\u044c\u043d\u0456\u043a\u0456",
+        "\u0412\u0430\u0431\u0430\u043b\u044c\u043d\u0456\u043d\u043a\u0430\u0441"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0431\u0430\u043b\u043d\u0438\u043d\u043a\u0430\u0441"
     ],
     "name:cat_x_preferred":[
+        "Vabalninkas"
+    ],
+    "name:ceb_x_preferred":[
         "Vabalninkas"
     ],
     "name:ces_x_preferred":[
@@ -62,6 +69,9 @@
     "name:ind_x_preferred":[
         "Vabalninkas"
     ],
+    "name:ita_x_preferred":[
+        "Vabalninkas"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10d1\u10d0\u10da\u10dc\u10d8\u10dc\u10d9\u10d0\u10e1\u10d8"
     ],
@@ -85,6 +95,9 @@
     ],
     "name:sgs_x_preferred":[
         "Vabalninks"
+    ],
+    "name:swe_x_preferred":[
+        "Vabalninkas"
     ],
     "name:tat_x_preferred":[
         "\u0412\u0430\u0431\u0430\u043b\u043d\u0438\u043d\u043a\u0430\u0441"
@@ -146,7 +159,7 @@
         }
     ],
     "wof:id":101818133,
-    "wof:lastmodified":1561837292,
+    "wof:lastmodified":1563319143,
     "wof:name":"Vabalninkas",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:arg_x_preferred":[
         "\u0160iauliai"
     ],
+    "name:ast_x_preferred":[
+        "\u0160iauliai"
+    ],
     "name:aym_x_preferred":[
         "Shawllay"
     ],
@@ -55,6 +58,9 @@
     "name:cat_x_preferred":[
         "\u0160iauliai"
     ],
+    "name:ceb_x_preferred":[
+        "\u0160iauliai"
+    ],
     "name:ces_x_preferred":[
         "\u0160iauliai"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:dan_x_preferred":[
         "Siauliai"
+    ],
+    "name:dan_x_variant":[
+        "\u0160iauliai"
     ],
     "name:deu_x_preferred":[
         "\u0160iauliai"
@@ -135,6 +144,9 @@
     ],
     "name:ita_x_preferred":[
         "Comune urbano di \u0160iauliai"
+    ],
+    "name:ita_x_variant":[
+        "\u0160iauliai"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e3\u30a6\u30ec\u30a4"
@@ -247,6 +259,9 @@
     "name:swe_x_preferred":[
         "\u0160iauliai"
     ],
+    "name:szl_x_preferred":[
+        "\u0160iauliai"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0baf\u0bcb\u0bb2\u0bbf\u0baf\u0bbe\u0baf\u0bcd"
     ],
@@ -285,6 +300,9 @@
     ],
     "name:war_x_preferred":[
         "\u0160iauliai"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e9\u05d0\u05b8\u05f0\u05dc"
     ],
     "name:zho_x_preferred":[
         "\u5e0c\u5965\u5229\u827e"
@@ -431,7 +449,7 @@
         }
     ],
     "wof:id":101752753,
-    "wof:lastmodified":1561837291,
+    "wof:lastmodified":1563319128,
     "wof:name":"\u0160iauliai",
     "wof:parent_id":102073683,
     "wof:placetype":"locality",

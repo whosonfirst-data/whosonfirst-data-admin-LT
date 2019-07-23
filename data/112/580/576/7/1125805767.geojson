@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Punia"
     ],
+    "name:est_x_preferred":[
+        "Punia"
+    ],
     "name:fin_x_preferred":[
         "Punia"
     ],
@@ -34,6 +37,9 @@
         "Punia"
     ],
     "name:nld_x_preferred":[
+        "Punia"
+    ],
+    "name:pol_x_preferred":[
         "Punia"
     ],
     "name:unk_x_variant":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125805767,
-    "wof:lastmodified":1561837301,
+    "wof:lastmodified":1563319342,
     "wof:name":"Punia",
     "wof:parent_id":102073591,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:bre_x_preferred":[
         "U\u017epaliai"
     ],
+    "name:ceb_x_preferred":[
+        "U\u017epaliai"
+    ],
     "name:deu_x_preferred":[
         "U\u017epaliai"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125801115,
-    "wof:lastmodified":1561837301,
+    "wof:lastmodified":1563319339,
     "wof:name":"U\u017epaliai",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

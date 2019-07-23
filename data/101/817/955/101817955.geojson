@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Trakai"
     ],
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0627\u0643\u064a"
+    ],
     "name:ast_x_preferred":[
         "Trakai"
     ],
@@ -29,13 +32,22 @@
     "name:bel_x_preferred":[
         "\u0422\u0440\u043e\u043a\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u0422\u0440\u0430\u043a\u0430\u0439"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0440\u0430\u043a\u0430\u0439"
     ],
     "name:cat_x_preferred":[
         "Trakai"
     ],
+    "name:ceb_x_preferred":[
+        "Trakai"
+    ],
     "name:ces_x_preferred":[
+        "Trakai"
+    ],
+    "name:cym_x_preferred":[
         "Trakai"
     ],
     "name:dan_x_preferred":[
@@ -158,6 +170,9 @@
     "name:tat_x_preferred":[
         "Trakai"
     ],
+    "name:tat_x_variant":[
+        "\u0422\u0440\u0430\u043a\u0430\u0439"
+    ],
     "name:tur_x_preferred":[
         "Trakai"
     ],
@@ -170,8 +185,14 @@
     "name:urd_x_preferred":[
         "\u062a\u0631\u0627\u06a9\u0626\u06cc"
     ],
+    "name:uzb_x_preferred":[
+        "Trakay"
+    ],
     "name:vol_x_preferred":[
         "Trakai"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d8\u05e8\u05d0\u05e7"
     ],
     "name:zho_x_preferred":[
         "\u7279\u62c9\u51f1"
@@ -225,7 +246,7 @@
         }
     ],
     "wof:id":101817955,
-    "wof:lastmodified":1561837295,
+    "wof:lastmodified":1563319186,
     "wof:name":"Trakai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

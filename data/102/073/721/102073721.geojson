@@ -56,6 +56,9 @@
     "name:est_x_preferred":[
         "Roki\u0161kis"
     ],
+    "name:est_x_variant":[
+        "Roki\u0161kise rajoon"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u06a9\u06cc\u0634\u06a9\u06cc\u0633"
     ],
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":102073721,
-    "wof:lastmodified":1561837258,
+    "wof:lastmodified":1563317432,
     "wof:name":"Roki\u0161kis",
     "wof:parent_id":85685779,
     "wof:placetype":"county",

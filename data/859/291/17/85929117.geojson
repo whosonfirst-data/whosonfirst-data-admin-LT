@@ -35,6 +35,12 @@
     "name:eng_x_preferred":[
         "\u0160nipi\u0161k\u0117s"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e0\u05d9\u05e4\u05d9\u05e9\u05d5\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0160nipi\u0161k\u0117s"
+    ],
     "name:lav_x_preferred":[
         "\u0160nipi\u0161\u0137es"
     ],
@@ -117,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561837263,
+    "wof:lastmodified":1563317716,
     "wof:name":"Snipiskes",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

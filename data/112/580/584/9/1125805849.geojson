@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u0448\u0446\u0456\u0446\u0456\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Vi\u0161tytis"
+    ],
     "name:deu_x_preferred":[
         "Vi\u0161tytis"
     ],
@@ -33,6 +39,9 @@
     "name:fra_x_preferred":[
         "Vi\u0161tytis"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e9\u05d8\u05d9\u05d8\u05d9\u05e1"
+    ],
     "name:lit_x_preferred":[
         "Vi\u0161tytis"
     ],
@@ -44,6 +53,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0448\u0442\u0438\u0442\u0438\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0438\u0448\u0442\u044b\u043d\u0435\u0446"
     ],
     "name:sgs_x_preferred":[
         "V\u0117\u0161t\u012btis"
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1125805849,
-    "wof:lastmodified":1561837301,
+    "wof:lastmodified":1563319342,
     "wof:name":"Vi\u0161tytis",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:cat_x_preferred":[
         "Panev\u0117\u017eys"
     ],
+    "name:ceb_x_preferred":[
+        "Panev\u0117\u017eys"
+    ],
     "name:ces_x_preferred":[
         "Panev\u0117\u017eys"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:dan_x_preferred":[
         "Panevezys"
+    ],
+    "name:dan_x_variant":[
+        "Panev\u0117\u017eys"
     ],
     "name:deu_x_preferred":[
         "Panev\u0117\u017eys"
@@ -77,6 +83,9 @@
     ],
     "name:eng_x_preferred":[
         "Panevezys"
+    ],
+    "name:eng_x_variant":[
+        "Panev\u0117\u017eys"
     ],
     "name:epo_x_preferred":[
         "Panev\u0117\u017eys"
@@ -107,6 +116,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e0\u05d9\u05d1\u05d6"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d5\u05e0\u05d9\u05d1\u05d6'"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0928\u0935\u0947\u091c\u093c\u093f\u0938"
@@ -149,6 +161,9 @@
     ],
     "name:lit_x_preferred":[
         "Panev\u0117\u017eys"
+    ],
+    "name:ltg_x_preferred":[
+        "Panevie\u017es"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0945\u0928\u0935\u094d\u0939\u0940\u091c"
@@ -413,7 +428,7 @@
         }
     ],
     "wof:id":101752751,
-    "wof:lastmodified":1561837291,
+    "wof:lastmodified":1563319133,
     "wof:name":"Panev\u0117\u017eys",
     "wof:parent_id":102073677,
     "wof:placetype":"locality",

@@ -30,11 +30,17 @@
     "name:bel_x_preferred":[
         "\u041a\u043b\u0430\u0439\u043f\u0435\u0434\u0441\u043a\u0456 \u043f\u0430\u0432\u0435\u0442"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Klaip\u0117da"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043b\u0430\u0439\u043f\u0435\u0434\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:cat_x_preferred":[
         "Comtat de Klaip\u0117da"
+    ],
+    "name:ceb_x_preferred":[
+        "Klaip\u0117dos apskritis"
     ],
     "name:ces_x_preferred":[
         "Klaip\u0117dsk\u00fd kraj"
@@ -75,6 +81,9 @@
     "name:fra_x_preferred":[
         "apskritis de Klaip\u0117da"
     ],
+    "name:fra_x_variant":[
+        "Klaip\u0117da"
+    ],
     "name:gle_x_preferred":[
         "Contae Klaip\u0117da"
     ],
@@ -101,6 +110,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud074\ub77c\uc774\ud398\ub2e4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud074\ub77c\uc774\ud398\ub2e4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Memela"
@@ -159,8 +171,17 @@
     "name:swe_x_preferred":[
         "Klaip\u0117da"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u043b\u0430\u0439\u043f\u0435\u0434\u0430 \u04e9\u044f\u0437\u0435"
+    ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041a\u043b\u0430\u0439\u043f\u0435\u0434\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e44\u0e04\u0e25\u0e40\u0e1e\u0e14\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Klaip\u0117da"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u0430\u0439\u043f\u0435\u0434\u0441\u044c\u043a\u0438\u0439 \u043f\u043e\u0432\u0456\u0442"
@@ -287,7 +308,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1561837264,
+    "wof:lastmodified":1563317729,
     "wof:name":"Klaipeda",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

@@ -45,6 +45,9 @@
     "name:ast_x_preferred":[
         "Vilnius"
     ],
+    "name:ava_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u043d\u044e\u0441"
+    ],
     "name:aym_x_preferred":[
         "Wil\u00f1us"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u043b\u044c\u043d\u044e\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u0456\u043b\u044c\u043d\u044e\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b2\u09a8\u09bf\u0989\u09b8"
@@ -79,6 +85,9 @@
         "V\u00edlnius"
     ],
     "name:cdo_x_preferred":[
+        "Vilnius"
+    ],
+    "name:ceb_x_preferred":[
         "Vilnius"
     ],
     "name:ces_x_preferred":[
@@ -397,6 +406,9 @@
     "name:oci_x_preferred":[
         "V\u00edlnius"
     ],
+    "name:olo_x_preferred":[
+        "Vil\u2019nussu"
+    ],
     "name:oss_x_preferred":[
         "\u0412\u0438\u043b\u044c\u043d\u044e\u0441"
     ],
@@ -526,6 +538,9 @@
     "name:tha_x_preferred":[
         "\u0e27\u0e34\u0e25\u0e19\u0e35\u0e2d\u0e38\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e27\u0e34\u0e25\u0e19\u0e35\u0e2d\u0e31\u0e2a"
+    ],
     "name:tpi_x_preferred":[
         "Vilnius"
     ],
@@ -534,6 +549,9 @@
     ],
     "name:tur_x_preferred":[
         "Viln\u00fcs"
+    ],
+    "name:tur_x_variant":[
+        "Vilnius"
     ],
     "name:udm_x_preferred":[
         "\u0412\u0438\u043b\u044c\u043d\u044e\u0441"
@@ -570,6 +588,9 @@
     ],
     "name:wol_x_preferred":[
         "Wilniyus"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7ef4\u5c14\u7ebd\u65af"
     ],
     "name:xmf_x_preferred":[
         "\u10d5\u10d8\u10da\u10dc\u10d8\u10e3\u10e1\u10d8"
@@ -733,7 +754,7 @@
         }
     ],
     "wof:id":101753031,
-    "wof:lastmodified":1561837292,
+    "wof:lastmodified":1563319140,
     "wof:megacity":0,
     "wof:name":"Vilnius",
     "wof:parent_id":102073615,

@@ -62,6 +62,9 @@
     "name:ind_x_preferred":[
         "Tytuv\u0117nai"
     ],
+    "name:ita_x_preferred":[
+        "Tytuv\u0117nai"
+    ],
     "name:lav_x_preferred":[
         "T\u012btuv\u0113ni"
     ],
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101818065,
-    "wof:lastmodified":1561837293,
+    "wof:lastmodified":1563319152,
     "wof:name":"Tytuv\u0117nai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

@@ -33,11 +33,17 @@
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09a8\u09bf\u09af\u09bc\u09be\u09b8 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
+    "name:bos_x_preferred":[
+        "Okrug Vilnius"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u043d\u044e\u0441\u043a\u0438 \u043e\u043a\u0440\u044a\u0433"
     ],
     "name:cat_x_preferred":[
         "Comtat de V\u00edlnius"
+    ],
+    "name:ceb_x_preferred":[
+        "Vilniaus apskritis"
     ],
     "name:ces_x_preferred":[
         "Vilniusk\u00fd kraj"
@@ -78,6 +84,9 @@
     "name:fra_x_preferred":[
         "apskritis de Vilnius"
     ],
+    "name:fra_x_variant":[
+        "Vilnius"
+    ],
     "name:gle_x_preferred":[
         "Contae Vilnius"
     ],
@@ -92,6 +101,9 @@
     ],
     "name:hrv_x_preferred":[
         "Okrug Vilnius"
+    ],
+    "name:hun_x_preferred":[
+        "Vilnius megye"
     ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u056c\u0576\u0575\u0578\u0582\u057d\u056b \u056f\u0578\u0574\u057d\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
@@ -113,6 +125,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube4c\ub274\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ube4c\ub274\uc2a4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Vilna"
@@ -188,6 +203,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3f\u0c32\u0c4d\u0c28\u0c3f\u0c2f\u0c38\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0412\u0438\u043b\u043d\u044e\u0441"
     ],
     "name:tha_x_preferred":[
         "\u0e27\u0e34\u0e25\u0e19\u0e35\u0e2d\u0e38\u0e2a"
@@ -324,7 +342,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1561837263,
+    "wof:lastmodified":1563317721,
     "wof:name":"Vilnius",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

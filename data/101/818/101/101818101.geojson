@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0419\u043b\u0430\u043a\u0438\u0430\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ylakiai"
+    ],
     "name:ces_x_preferred":[
         "Ylakiai"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101818101,
-    "wof:lastmodified":1561837293,
+    "wof:lastmodified":1563319163,
     "wof:name":"Ylakiai",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Tytuv\u0117n\u0117liai"
     ],
+    "name:eng_x_variant":[
+        "Tytuv\u0117nai"
+    ],
     "name:est_x_preferred":[
         "Tytuv\u0117nai"
     ],
@@ -59,6 +62,9 @@
         "\u054f\u056b\u057f\u0578\u0582\u057e\u0565\u0576\u0561\u0575"
     ],
     "name:ind_x_preferred":[
+        "Tytuv\u0117nai"
+    ],
+    "name:ita_x_preferred":[
         "Tytuv\u0117nai"
     ],
     "name:lav_x_preferred":[
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1125862251,
-    "wof:lastmodified":1561837300,
+    "wof:lastmodified":1563319331,
     "wof:name":"Tytuv\u0117n\u0117liai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",
