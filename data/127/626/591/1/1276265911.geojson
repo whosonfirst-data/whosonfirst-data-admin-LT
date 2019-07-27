@@ -26,11 +26,32 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stakli\u0161k\u0117s"
+    ],
     "name:eng_x_preferred":[
         "Stakli\u0161k\u0117s"
     ],
+    "name:est_x_preferred":[
+        "Stakli\u0161k\u0117s"
+    ],
+    "name:fin_x_preferred":[
+        "Stakli\u0161k\u0117s"
+    ],
+    "name:fra_x_preferred":[
+        "Stakli\u0161k\u0117s"
+    ],
+    "name:lit_x_preferred":[
+        "Stakli\u0161k\u0117s"
+    ],
+    "name:pol_x_preferred":[
+        "Stokliszki"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u043a\u043b\u0438\u0448\u043a\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Stakli\u0161k\u0117s"
     ],
     "name:und_x_variant":[
         "Staklishkes",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1276265911,
-    "wof:lastmodified":1537661963,
+    "wof:lastmodified":1564191663,
     "wof:name":"Stakliskes",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

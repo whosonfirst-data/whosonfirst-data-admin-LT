@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Kretkampis"
+    ],
     "name:und_x_variant":[
         "Kretkompe",
         "Kretkampis"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276260693,
-    "wof:lastmodified":1537662222,
+    "wof:lastmodified":1564191670,
     "wof:name":"Kretkampis",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

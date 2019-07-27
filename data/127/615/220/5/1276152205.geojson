@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Geruliai"
+    ],
     "name:lit_x_preferred":[
         "Geruliai"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276152205,
-    "wof:lastmodified":1537662315,
+    "wof:lastmodified":1564191789,
     "wof:name":"Geruliai",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

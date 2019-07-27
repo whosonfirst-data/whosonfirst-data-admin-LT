@@ -26,8 +26,38 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kazanka"
+    ],
+    "name:ces_x_preferred":[
+        "Kazanka"
+    ],
+    "name:deu_x_preferred":[
+        "Kasanka"
+    ],
+    "name:fra_x_preferred":[
+        "Kazanka"
+    ],
+    "name:hun_x_preferred":[
+        "Kazanka"
+    ],
     "name:lit_x_preferred":[
         "Kazanka"
+    ],
+    "name:pol_x_preferred":[
+        "Kazanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kasanka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1260320449,
-    "wof:lastmodified":1537662812,
+    "wof:lastmodified":1564192519,
     "wof:name":"Kazanka",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

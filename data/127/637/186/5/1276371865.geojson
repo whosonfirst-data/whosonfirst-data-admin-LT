@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Steigviliai"
+    ],
+    "name:pol_x_preferred":[
+        "Steigviliai"
+    ],
     "name:und_x_variant":[
         "Steigvil\u0173",
         "Steygvilyay",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276371865,
-    "wof:lastmodified":1537661959,
+    "wof:lastmodified":1564191938,
     "wof:name":"Steigviliai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

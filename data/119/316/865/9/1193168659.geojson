@@ -26,8 +26,17 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Osija"
+    ],
+    "name:fra_x_preferred":[
+        "Osija"
+    ],
     "name:lit_x_preferred":[
         "Osija"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0438\u0458\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1193168659,
-    "wof:lastmodified":1537662794,
+    "wof:lastmodified":1564192383,
     "wof:name":"Osija",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

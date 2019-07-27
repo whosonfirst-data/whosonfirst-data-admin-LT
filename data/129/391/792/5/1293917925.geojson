@@ -26,11 +26,38 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Musninkai"
+    ],
     "name:eng_x_preferred":[
         "Musninkai"
     ],
+    "name:est_x_preferred":[
+        "Musninkai"
+    ],
+    "name:ind_x_preferred":[
+        "Musninkai"
+    ],
+    "name:lit_x_preferred":[
+        "Musninkai"
+    ],
+    "name:nld_x_preferred":[
+        "Musninkai"
+    ],
+    "name:pol_x_preferred":[
+        "Mu\u015bniki"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0441\u043d\u0438\u043d\u043a\u0430\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "Musninkai"
+    ],
+    "name:swe_x_preferred":[
+        "Musninkai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u043d\u0456\u043d\u043a\u0430\u0439"
     ],
     "name:und_x_variant":[
         "Mu\u015bniki",
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1293917925,
-    "wof:lastmodified":1537662143,
+    "wof:lastmodified":1564191300,
     "wof:name":"Musninkai",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

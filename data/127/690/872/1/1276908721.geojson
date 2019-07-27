@@ -29,6 +29,9 @@
     "name:lit_x_preferred":[
         "Auk\u0161takalniai"
     ],
+    "name:lit_x_variant":[
+        "Auk\u0161takalnis"
+    ],
     "name:und_x_variant":[
         "Aukshtokal\u2019nis",
         "Aukt\u0161akalnis",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276908721,
-    "wof:lastmodified":1537662421,
+    "wof:lastmodified":1564191832,
     "wof:name":"Aukstakalniai",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

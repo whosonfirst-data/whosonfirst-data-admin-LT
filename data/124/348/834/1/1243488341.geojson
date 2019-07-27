@@ -26,6 +26,21 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alki\u0161kiai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u06cc\u0633\u06a9\u06cc\u0627"
+    ],
+    "name:lit_x_preferred":[
+        "Alki\u0161kiai"
+    ],
+    "name:pol_x_preferred":[
+        "Alki\u0161kiai"
+    ],
+    "name:swe_x_preferred":[
+        "Alki\u0161kiai"
+    ],
     "name:und_x_variant":[
         "Alkishkyay",
         "Alki\u0161ki\u0173",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243488341,
-    "wof:lastmodified":1537662434,
+    "wof:lastmodified":1564193158,
     "wof:name":"Alkiskiai",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

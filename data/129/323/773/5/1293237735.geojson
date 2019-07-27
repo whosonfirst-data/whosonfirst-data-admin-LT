@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Masali\u0161k\u0117s"
+    ],
     "name:und_x_variant":[
         "Masalishkyay",
         "Masali\u0161kiai",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1293237735,
-    "wof:lastmodified":1537662170,
+    "wof:lastmodified":1564191421,
     "wof:name":"Masaliskes",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

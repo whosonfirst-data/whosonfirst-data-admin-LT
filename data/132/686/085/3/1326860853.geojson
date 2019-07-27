@@ -26,6 +26,18 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u0439\u043a\u0456\u043d\u0435\u0439"
+    ],
+    "name:ita_x_preferred":[
+        "Ceikiniai"
+    ],
+    "name:lit_x_preferred":[
+        "Ceikiniai"
+    ],
+    "name:pol_x_preferred":[
+        "Cejkinie"
+    ],
     "name:und_x_variant":[
         "Tseykinyay",
         "Cejkinie",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1326860853,
-    "wof:lastmodified":1537662371,
+    "wof:lastmodified":1564190712,
     "wof:name":"Ceikiniai",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

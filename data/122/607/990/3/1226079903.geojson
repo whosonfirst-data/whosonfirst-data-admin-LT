@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Poci\u016bnai"
+    ],
+    "name:pol_x_preferred":[
+        "Poci\u016bnai"
+    ],
     "name:und_x_variant":[
         "Poci\u016bnai"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226079903,
-    "wof:lastmodified":1537662057,
+    "wof:lastmodified":1564193836,
     "wof:name":"Pociunai",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

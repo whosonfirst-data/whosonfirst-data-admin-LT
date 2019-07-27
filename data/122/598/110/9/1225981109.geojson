@@ -26,6 +26,27 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u043c\u0431\u0430\u0441"
+    ],
+    "name:fin_x_preferred":[
+        "Lembas"
+    ],
+    "name:ita_x_preferred":[
+        "Lembas"
+    ],
+    "name:nor_x_preferred":[
+        "Lembas"
+    ],
+    "name:por_x_preferred":[
+        "Lembas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043c\u0431\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Lembas"
+    ],
     "name:und_x_variant":[
         "Lembo",
         "Lembas"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1225981109,
-    "wof:lastmodified":1537662192,
+    "wof:lastmodified":1564193725,
     "wof:name":"Lembas",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

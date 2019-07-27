@@ -29,6 +29,21 @@
     "name:eng_x_preferred":[
         "Salakas"
     ],
+    "name:fra_x_preferred":[
+        "Salakas"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05dc\u05e7\u05d0\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Salakas"
+    ],
+    "name:lit_x_preferred":[
+        "Salakas"
+    ],
+    "name:pol_x_preferred":[
+        "So\u0142oki"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043a\u0430\u0441"
     ],
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1209953623,
-    "wof:lastmodified":1537662012,
+    "wof:lastmodified":1564192161,
     "wof:name":"Salakas",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

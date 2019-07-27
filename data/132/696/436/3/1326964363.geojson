@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Mantviloniai"
+    ],
     "name:und_x_variant":[
         "Montvilaynyay",
         "Montvilany",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1326964363,
-    "wof:lastmodified":1537662172,
+    "wof:lastmodified":1564190903,
     "wof:name":"Mantviloniai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

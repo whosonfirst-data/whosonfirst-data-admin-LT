@@ -26,6 +26,24 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kulva"
+    ],
+    "name:deu_x_preferred":[
+        "Kulva"
+    ],
+    "name:est_x_preferred":[
+        "Kulva"
+    ],
+    "name:lit_x_preferred":[
+        "Kulva"
+    ],
+    "name:pol_x_preferred":[
+        "Kulwa"
+    ],
+    "name:swe_x_preferred":[
+        "Kulva"
+    ],
     "name:und_x_variant":[
         "Kulvos",
         "Kulva"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1344087575,
-    "wof:lastmodified":1537662213,
+    "wof:lastmodified":1564191054,
     "wof:name":"Kulva",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

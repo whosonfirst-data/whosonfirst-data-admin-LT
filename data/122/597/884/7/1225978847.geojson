@@ -29,8 +29,17 @@
     "name:deu_x_preferred":[
         "Nimmersatt"
     ],
+    "name:deu_x_variant":[
+        "Nemirseta"
+    ],
     "name:lit_x_preferred":[
         "Nemerzat\u0117"
+    ],
+    "name:lit_x_variant":[
+        "Nemirseta"
+    ],
+    "name:ron_x_preferred":[
+        "Nemirseta"
     ],
     "name:und_x_variant":[
         "N\u0117mer\u017eata",
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1225978847,
-    "wof:lastmodified":1537662130,
+    "wof:lastmodified":1564193711,
     "wof:name":"Nemirseta",
     "wof:parent_id":102073675,
     "wof:placetype":"locality",

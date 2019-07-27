@@ -29,6 +29,12 @@
     "name:cat_x_preferred":[
         "\u017didikai"
     ],
+    "name:ceb_x_preferred":[
+        "\u017didikai"
+    ],
+    "name:ces_x_preferred":[
+        "\u017didikai"
+    ],
     "name:deu_x_preferred":[
         "\u017didikai"
     ],
@@ -38,8 +44,14 @@
     "name:eng_x_preferred":[
         "\u017didikai"
     ],
+    "name:est_x_preferred":[
+        "\u017didikai"
+    ],
     "name:fra_x_preferred":[
         "\u017didikai"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d9\u05d3\u05d9\u05e7"
     ],
     "name:ita_x_preferred":[
         "\u017didikai"
@@ -48,6 +60,9 @@
         "\u017didiki"
     ],
     "name:lit_x_preferred":[
+        "\u017didikai"
+    ],
+    "name:pol_x_preferred":[
         "\u017didikai"
     ],
     "name:por_x_preferred":[
@@ -59,6 +74,9 @@
     "name:spa_x_preferred":[
         "\u017didikai"
     ],
+    "name:swe_x_preferred":[
+        "\u017didikai"
+    ],
     "name:und_x_variant":[
         "Zhidiki",
         "Zidikiai",
@@ -66,6 +84,9 @@
         "\u017didik\u0173",
         "Zhidikai",
         "\u017didikai"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5e95\u51ef"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +112,7 @@
         }
     ],
     "wof:id":1210050803,
-    "wof:lastmodified":1537661864,
+    "wof:lastmodified":1564192334,
     "wof:name":"Zidikai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

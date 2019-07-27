@@ -26,11 +26,23 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u016adrija"
+    ],
     "name:eng_x_preferred":[
+        "\u016adrija"
+    ],
+    "name:fin_x_preferred":[
+        "\u016adrija"
+    ],
+    "name:lit_x_preferred":[
         "\u016adrija"
     ],
     "name:rus_x_preferred":[
         "\u0423\u0434\u0440\u0438\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "\u016adrija"
     ],
     "name:und_x_variant":[
         "Udriya",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1226081053,
-    "wof:lastmodified":1537661925,
+    "wof:lastmodified":1564193822,
     "wof:name":"Udrija",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

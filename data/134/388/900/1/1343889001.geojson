@@ -26,11 +26,50 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043f\u0447\u0430\u043c\u0456\u0435\u0441\u0446\u0456\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Kap\u010diamiestis"
+    ],
+    "name:deu_x_preferred":[
+        "Kap\u010diamiestis"
+    ],
     "name:eng_x_preferred":[
         "Kap\u010diamiestis"
     ],
+    "name:est_x_preferred":[
+        "Kap\u010diamiestis"
+    ],
+    "name:fin_x_preferred":[
+        "Kap\u010diamiestis"
+    ],
+    "name:fra_x_preferred":[
+        "Kap\u010diamiestis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e4\u05e6'\u05d5\u05d5\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kap\u010diamiestis"
+    ],
+    "name:ita_x_preferred":[
+        "Kap\u010diamiestis"
+    ],
+    "name:lav_x_preferred":[
+        "Kap\u010damiests"
+    ],
+    "name:lit_x_preferred":[
+        "Kap\u010diamiestis"
+    ],
+    "name:pol_x_preferred":[
+        "Kopciowo"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043f\u0447\u044f\u043c\u0435\u0441\u0442\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Kap\u010diamiestis"
     ],
     "name:und_x_variant":[
         "Kapchyamestis",
@@ -64,7 +103,7 @@
         }
     ],
     "wof:id":1343889001,
-    "wof:lastmodified":1537662252,
+    "wof:lastmodified":1564191274,
     "wof:name":"Kapciamiestis",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

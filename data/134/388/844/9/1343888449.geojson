@@ -26,11 +26,38 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160e\u0161tokai"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160e\u0161tokai"
+    ],
     "name:eng_x_preferred":[
         "\u0160e\u0161tokai"
     ],
+    "name:est_x_preferred":[
+        "\u0160e\u0161tokai"
+    ],
+    "name:fin_x_preferred":[
+        "\u0160e\u0161tokai"
+    ],
+    "name:ita_x_preferred":[
+        "\u0160e\u0161tokai"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160e\u0161tokai"
+    ],
+    "name:nld_x_preferred":[
+        "\u0160e\u0161tokai"
+    ],
+    "name:pol_x_preferred":[
+        "Szostak\u00f3w"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0435\u0448\u0442\u043e\u043a\u0430\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160e\u0161tokai"
     ],
     "name:und_x_variant":[
         "Shostakov",
@@ -65,7 +92,7 @@
         }
     ],
     "wof:id":1343888449,
-    "wof:lastmodified":1537661995,
+    "wof:lastmodified":1564191276,
     "wof:name":"Sestokai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

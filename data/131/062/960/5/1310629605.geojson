@@ -26,8 +26,65 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0627\u0644\u064a\u0646\u064a\u0646\u0643\u0627\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u043c\u0430\u043b\u0456\u043d\u0456\u043d\u043a\u0430\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:ceb_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:deu_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:est_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0645\u0627\u0644\u06cc\u0646\u06cc\u0646\u06a9\u0627\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:fra_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:hsb_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:ita_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:lav_x_preferred":[
+        "Smalininki"
+    ],
     "name:lit_x_preferred":[
         "Smalininkai"
+    ],
+    "name:pms_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:pol_x_preferred":[
+        "Smolniki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u0430\u043b\u0438\u043d\u0438\u043d\u043a\u0430\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:swe_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:vol_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u99ac\u5229\u5be7\u51f1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +109,7 @@
         }
     ],
     "wof:id":1310629605,
-    "wof:lastmodified":1537662834,
+    "wof:lastmodified":1564192611,
     "wof:name":"Smalininkai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

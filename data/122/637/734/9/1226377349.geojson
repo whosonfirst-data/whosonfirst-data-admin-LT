@@ -26,6 +26,18 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bat\u0117gala"
+    ],
+    "name:deu_x_preferred":[
+        "Bat\u0117gala"
+    ],
+    "name:lit_x_preferred":[
+        "Bat\u0117gala"
+    ],
+    "name:swe_x_preferred":[
+        "Bat\u0117gala"
+    ],
     "name:und_x_variant":[
         "Bat\u0117gala"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1226377349,
-    "wof:lastmodified":1537662399,
+    "wof:lastmodified":1564193807,
     "wof:name":"Bategala",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

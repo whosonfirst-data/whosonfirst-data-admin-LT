@@ -26,11 +26,38 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160iluva"
+    ],
+    "name:deu_x_preferred":[
+        "\u0160iluva"
+    ],
     "name:eng_x_preferred":[
         "\u0160iluva"
     ],
+    "name:epo_x_preferred":[
+        "\u0160iluva"
+    ],
+    "name:est_x_preferred":[
+        "\u0160iluva"
+    ],
+    "name:fin_x_preferred":[
+        "\u0160iluva"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160iluva"
+    ],
+    "name:pol_x_preferred":[
+        "Szyd\u0142owo"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0443\u043b\u0443\u0432\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0438\u043b\u0443\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160iluva"
     ],
     "name:und_x_variant":[
         "Szyd\u0142owo",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1209136971,
-    "wof:lastmodified":1537661987,
+    "wof:lastmodified":1564192144,
     "wof:name":"Siluva",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:lit_x_preferred":[
         "Karmazinai"
     ],
+    "name:pol_x_preferred":[
+        "Karmazyny"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242814449,
-    "wof:lastmodified":1537662735,
+    "wof:lastmodified":1564193115,
     "wof:name":"Karmazinai",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

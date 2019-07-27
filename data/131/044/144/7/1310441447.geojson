@@ -29,6 +29,9 @@
     "name:lit_x_preferred":[
         "Pam\u016b\u0161iai"
     ],
+    "name:lit_x_variant":[
+        "Pamusiai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310441447,
-    "wof:lastmodified":1537662939,
+    "wof:lastmodified":1564192678,
     "wof:name":"Pamusiai",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

@@ -25,6 +25,45 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0644\u0639"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0642\u0644\u0639"
+    ],
+    "name:ceb_x_preferred":[
+        "Mekla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0642\u0644\u0639"
+    ],
+    "name:fra_x_preferred":[
+        "Mekla"
+    ],
+    "name:ita_x_preferred":[
+        "Mekla"
+    ],
+    "name:kab_x_preferred":[
+        "Meqle\u025b"
+    ],
+    "name:msa_x_preferred":[
+        "Mekla"
+    ],
+    "name:por_x_preferred":[
+        "Mekla"
+    ],
+    "name:ron_x_preferred":[
+        "Mekla"
+    ],
+    "name:spa_x_preferred":[
+        "Mekla"
+    ],
+    "name:vie_x_preferred":[
+        "Mekla"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u514b\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1326844869,
-    "wof:lastmodified":1537029206,
+    "wof:lastmodified":1564190895,
     "wof:name":"Mekla",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

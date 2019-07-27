@@ -29,6 +29,9 @@
     "name:lit_x_preferred":[
         "Barysiai"
     ],
+    "name:pol_x_preferred":[
+        "Borysie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326860929,
-    "wof:lastmodified":1537662866,
+    "wof:lastmodified":1564190728,
     "wof:name":"Barysiai",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

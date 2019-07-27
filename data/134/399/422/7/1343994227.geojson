@@ -26,8 +26,29 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Skudai"
+    ],
+    "name:epo_x_preferred":[
+        "Skudai"
+    ],
     "name:lit_x_preferred":[
         "Skudai"
+    ],
+    "name:msa_x_preferred":[
+        "Skudai"
+    ],
+    "name:spa_x_preferred":[
+        "Skudai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06a9\u0648\u062f\u0627\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Skudai"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u59d1\u6765"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1343994227,
-    "wof:lastmodified":1537662693,
+    "wof:lastmodified":1564191033,
     "wof:name":"Skudai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

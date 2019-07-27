@@ -29,6 +29,12 @@
     "name:lit_x_preferred":[
         "Giria"
     ],
+    "name:por_x_preferred":[
+        "Giria"
+    ],
+    "name:vie_x_preferred":[
+        "Giria"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276152513,
-    "wof:lastmodified":1537662670,
+    "wof:lastmodified":1564191791,
     "wof:name":"Giria",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Noruliai"
+    ],
     "name:und_x_variant":[
         "Narulyantsy",
         "Noruli\u0173",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327469969,
-    "wof:lastmodified":1537662124,
+    "wof:lastmodified":1564190822,
     "wof:name":"Noruliai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

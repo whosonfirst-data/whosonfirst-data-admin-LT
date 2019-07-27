@@ -26,11 +26,44 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zyarvinos"
+    ],
+    "name:bel_x_preferred":[
+        "\u0417\u044f\u0440\u0432\u0456\u043d\u0430\u0441"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b5\u03c1\u03b2\u03af\u03bd\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
+        "Zervynos"
+    ],
+    "name:est_x_preferred":[
+        "Zervynos"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u0947\u0930\u094d\u0935\u0940\u0928\u094b\u0938"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u0575\u0561\u0580\u057e\u056b\u0576\u0578\u057d"
+    ],
+    "name:lit_x_preferred":[
+        "Zervynos"
+    ],
+    "name:nld_x_preferred":[
+        "Zervynos"
+    ],
+    "name:pol_x_preferred":[
+        "Zerwiny"
+    ],
+    "name:ron_x_preferred":[
         "Zervynos"
     ],
     "name:rus_x_preferred":[
         "\u0417\u044f\u0440\u0432\u0438\u043d\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Zervynos"
     ],
     "name:und_x_variant":[
         "Zervinos",
@@ -62,7 +95,7 @@
         }
     ],
     "wof:id":1276911835,
-    "wof:lastmodified":1537661865,
+    "wof:lastmodified":1564191972,
     "wof:name":"Zervynos",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

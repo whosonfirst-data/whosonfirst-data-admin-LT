@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4195766.649301,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.264768,54.680141,25.264768,54.680141",
     "geom:latitude":54.680141,
     "geom:longitude":25.264768,
@@ -25,6 +25,12 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Naujamiestis"
+    ],
+    "name:swe_x_preferred":[
+        "Naujamiestis"
+    ],
     "name:und_x_preferred":[
         "Naujamiestis"
     ],
@@ -61,11 +67,11 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":45,
     "wof:belongsto":[
+        85685759,
         102191581,
         85633269,
         101753031,
-        102073615,
-        85685759
+        102073615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939120,
+    "wof:lastmodified":1564191285,
     "wof:name":"Naujamiestis",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

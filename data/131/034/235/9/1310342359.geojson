@@ -26,11 +26,32 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Duoki\u0161kis"
+    ],
     "name:eng_x_preferred":[
         "Duoki\u0161kis"
     ],
+    "name:est_x_preferred":[
+        "Duoki\u0161kis"
+    ],
+    "name:ita_x_preferred":[
+        "Duoki\u0161kis"
+    ],
+    "name:lit_x_preferred":[
+        "Duoki\u0161kis"
+    ],
+    "name:nld_x_preferred":[
+        "Duoki\u0161kis"
+    ],
+    "name:pol_x_preferred":[
+        "Dokiszki"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0443\u043e\u043a\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Duoki\u0161kis"
     ],
     "name:und_x_variant":[
         "Duoki\u0161kio",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1310342359,
-    "wof:lastmodified":1537662336,
+    "wof:lastmodified":1564192732,
     "wof:name":"Duokiskis",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

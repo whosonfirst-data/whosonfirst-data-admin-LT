@@ -26,8 +26,95 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Budos"
+    ],
+    "name:cat_x_preferred":[
+        "Bud\u00f2s"
+    ],
+    "name:ceb_x_preferred":[
+        "Budos"
+    ],
+    "name:deu_x_preferred":[
+        "Budos"
+    ],
+    "name:eus_x_preferred":[
+        "Bud\u00f2s"
+    ],
+    "name:fra_x_preferred":[
+        "Budos"
+    ],
+    "name:hun_x_preferred":[
+        "Budos"
+    ],
+    "name:ind_x_preferred":[
+        "Budos"
+    ],
+    "name:ita_x_preferred":[
+        "Budos"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044e\u0434\u043e\u0441"
+    ],
+    "name:lat_x_preferred":[
+        "Budos"
+    ],
     "name:lit_x_preferred":[
         "B\u016bdos"
+    ],
+    "name:mlg_x_preferred":[
+        "Budos"
+    ],
+    "name:msa_x_preferred":[
+        "Budos"
+    ],
+    "name:nld_x_preferred":[
+        "Budos"
+    ],
+    "name:nor_x_preferred":[
+        "Budos"
+    ],
+    "name:oci_x_preferred":[
+        "Bud\u00f2s"
+    ],
+    "name:pms_x_preferred":[
+        "Budos"
+    ],
+    "name:pol_x_preferred":[
+        "Budos"
+    ],
+    "name:por_x_preferred":[
+        "Budos"
+    ],
+    "name:ron_x_preferred":[
+        "Budos"
+    ],
+    "name:slk_x_preferred":[
+        "Budos"
+    ],
+    "name:spa_x_preferred":[
+        "Budos"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0434\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Budos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044e\u0434\u043e\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Budos"
+    ],
+    "name:vie_x_preferred":[
+        "Budos"
+    ],
+    "name:vol_x_preferred":[
+        "Budos"
+    ],
+    "name:war_x_preferred":[
+        "Budos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +139,7 @@
         }
     ],
     "wof:id":1326666967,
-    "wof:lastmodified":1537662908,
+    "wof:lastmodified":1564190799,
     "wof:name":"Budos",
     "wof:parent_id":102073593,
     "wof:placetype":"locality",

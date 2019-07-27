@@ -29,6 +29,9 @@
     "name:lit_x_preferred":[
         "Marcelina"
     ],
+    "name:vie_x_preferred":[
+        "Marcelina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309749267,
-    "wof:lastmodified":1537662622,
+    "wof:lastmodified":1564192974,
     "wof:name":"Marcelina",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

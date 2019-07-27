@@ -26,8 +26,26 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "P\u00e9lekas"
+    ],
+    "name:deu_x_preferred":[
+        "Pelekas"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03bb\u03b5\u03ba\u03b1\u03c2 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2"
+    ],
+    "name:fin_x_preferred":[
+        "P\u00e9lekas"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00e9lekas"
+    ],
     "name:lit_x_preferred":[
         "Pelekas"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e9lekas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293619493,
-    "wof:lastmodified":1537662516,
+    "wof:lastmodified":1564191475,
     "wof:name":"Pelekas",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

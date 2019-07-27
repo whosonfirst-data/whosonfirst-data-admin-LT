@@ -26,7 +26,37 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Ruszinka"
+    ],
+    "name:ita_x_preferred":[
+        "Rusinka"
+    ],
+    "name:kir_x_preferred":[
+        "Rusinka"
+    ],
     "name:lit_x_preferred":[
+        "Rusinka"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0443\u0441\u0438\u043d\u043a\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "Rusinka"
+    ],
+    "name:pol_x_preferred":[
+        "Rusinka"
+    ],
+    "name:por_x_preferred":[
+        "Rusinka"
+    ],
+    "name:swe_x_preferred":[
+        "Rusinka"
+    ],
+    "name:tur_x_preferred":[
+        "Rusinka"
+    ],
+    "name:ukr_x_preferred":[
         "Rusinka"
     ],
     "src:geom":"geonames",
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1276371101,
-    "wof:lastmodified":1537662016,
+    "wof:lastmodified":1564191941,
     "wof:name":"Rusinka",
     "wof:parent_id":102073607,
     "wof:placetype":"locality",

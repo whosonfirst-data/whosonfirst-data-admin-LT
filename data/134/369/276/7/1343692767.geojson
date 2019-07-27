@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Man\u010diagir\u0117"
+    ],
     "name:und_x_variant":[
         "Manchig\u2019yeri",
         "Man\u010diagir\u0117"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343692767,
-    "wof:lastmodified":1537662174,
+    "wof:lastmodified":1564191182,
     "wof:name":"Manciagire",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

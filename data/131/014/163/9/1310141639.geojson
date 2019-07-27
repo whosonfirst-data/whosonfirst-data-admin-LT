@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "Jauni\u016bnai"
     ],
+    "name:est_x_preferred":[
+        "Jauni\u016bnai"
+    ],
+    "name:lit_x_preferred":[
+        "Jauni\u016bnai"
+    ],
     "name:rus_x_preferred":[
         "\u042f\u0443\u043d\u044e\u043d\u0430\u0439"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1310141639,
-    "wof:lastmodified":1537662282,
+    "wof:lastmodified":1564192599,
     "wof:name":"Jauniunai",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

@@ -26,11 +26,35 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0421\u043a\u0456\u0440\u0441\u043d\u044f\u043c\u0443\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Skirsnemun\u0117"
+    ],
+    "name:deu_x_preferred":[
+        "Skirsnemun\u0117"
+    ],
     "name:eng_x_preferred":[
+        "Skirsnemun\u0117"
+    ],
+    "name:est_x_preferred":[
+        "Skirsnemun\u0117"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d9\u10d8\u10e0\u10e1\u10dc\u10d4\u10db\u10e3\u10dc\u10d4"
+    ],
+    "name:lit_x_preferred":[
+        "Skirsnemun\u0117"
+    ],
+    "name:pol_x_preferred":[
         "Skirsnemun\u0117"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043a\u0438\u0440\u0441\u043d\u0435\u043c\u0443\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Skirsnemun\u0117"
     ],
     "name:und_x_variant":[
         "Skirstymon",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1310537621,
-    "wof:lastmodified":1537661979,
+    "wof:lastmodified":1564192616,
     "wof:name":"Skirsnemune",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

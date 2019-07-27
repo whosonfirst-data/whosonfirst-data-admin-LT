@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Poci\u0161k\u0117"
+    ],
     "name:und_x_variant":[
         "Paci\u0161ke",
         "Potsishki",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259519929,
-    "wof:lastmodified":1537662057,
+    "wof:lastmodified":1564193497,
     "wof:name":"Pociske",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

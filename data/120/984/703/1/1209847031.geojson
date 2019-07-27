@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gudakiemis"
+    ],
+    "name:lit_x_preferred":[
+        "Gudakiemis"
+    ],
+    "name:swe_x_preferred":[
+        "Gudakiemis"
+    ],
     "name:und_x_variant":[
         "Gudakemyay",
         "Gudakiemio",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209847031,
-    "wof:lastmodified":1537662296,
+    "wof:lastmodified":1564192081,
     "wof:name":"Gudakiemis",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

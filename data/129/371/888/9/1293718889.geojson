@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Naujamiestis"
+    ],
+    "name:swe_x_preferred":[
+        "Naujamiestis"
+    ],
     "name:und_x_variant":[
         "Nauios Viyetoye",
         "Naujamiestis"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293718889,
-    "wof:lastmodified":1537662138,
+    "wof:lastmodified":1564191435,
     "wof:name":"Naujamiestis",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

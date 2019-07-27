@@ -26,8 +26,23 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Veliuona"
+    ],
+    "name:est_x_preferred":[
+        "Veliuona"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u0648\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Veliuona"
+    ],
     "name:lit_x_preferred":[
         "Veliuona"
+    ],
+    "name:pol_x_preferred":[
+        "Wielona"
     ],
     "name:und_x_variant":[
         "Velivana",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1242908621,
-    "wof:lastmodified":1537661897,
+    "wof:lastmodified":1564193280,
     "wof:name":"Veliuona",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

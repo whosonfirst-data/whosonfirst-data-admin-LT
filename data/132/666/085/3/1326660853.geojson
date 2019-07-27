@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kabeliai"
+    ],
+    "name:lit_x_preferred":[
+        "Kabeliai"
+    ],
+    "name:swe_x_preferred":[
+        "Kabeliai"
+    ],
     "name:und_x_variant":[
         "Kabelyay",
         "Kobiele",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326660853,
-    "wof:lastmodified":1537662264,
+    "wof:lastmodified":1564190781,
     "wof:name":"Kabeliai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

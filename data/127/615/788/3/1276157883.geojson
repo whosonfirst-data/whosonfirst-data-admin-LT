@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ukrinai"
+    ],
+    "name:lit_x_preferred":[
+        "Ukrinai"
+    ],
+    "name:swe_x_preferred":[
+        "Ukrinai"
+    ],
     "name:und_x_variant":[
         "Ukrin\u0173",
         "Ukrinos",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1276157883,
-    "wof:lastmodified":1537661925,
+    "wof:lastmodified":1564191803,
     "wof:name":"Ukrinai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

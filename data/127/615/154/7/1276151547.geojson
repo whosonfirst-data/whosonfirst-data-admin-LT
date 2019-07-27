@@ -29,6 +29,12 @@
     "name:lit_x_preferred":[
         "Volia"
     ],
+    "name:nld_x_preferred":[
+        "Volia"
+    ],
+    "name:spa_x_preferred":[
+        "Volia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276151547,
-    "wof:lastmodified":1537662808,
+    "wof:lastmodified":1564191797,
     "wof:name":"Volia",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

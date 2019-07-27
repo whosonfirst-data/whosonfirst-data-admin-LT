@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Lyne\u017eeris"
+    ],
+    "name:pol_x_preferred":[
+        "Linica"
+    ],
     "name:und_x_variant":[
         "Linitsa",
         "Liny\u010dia",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293423841,
-    "wof:lastmodified":1537662178,
+    "wof:lastmodified":1564191562,
     "wof:name":"Lynezeris",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

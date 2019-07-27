@@ -26,11 +26,26 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u044f\u043b\u0442\u0443\u0432\u0430"
+    ],
     "name:eng_x_preferred":[
         "Deltuva"
     ],
+    "name:est_x_preferred":[
+        "Deltuva"
+    ],
+    "name:lit_x_preferred":[
+        "Deltuva"
+    ],
+    "name:pol_x_preferred":[
+        "Dziewa\u0142t\u00f3w"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u044f\u043b\u0442\u0443\u0432\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Deltuva"
     ],
     "name:und_x_variant":[
         "Konstantinovo",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1344092451,
-    "wof:lastmodified":1537662351,
+    "wof:lastmodified":1564191062,
     "wof:name":"Deltuva",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

@@ -26,9 +26,24 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Schloss Panemun\u0117"
+    ],
+    "name:est_x_preferred":[
+        "Panemun\u0117 loss"
+    ],
+    "name:lit_x_preferred":[
+        "Panemun\u0117s pilis"
+    ],
+    "name:pol_x_preferred":[
+        "Zamek Gie\u0142gud\u00f3w"
+    ],
     "name:und_x_variant":[
         "Panemunis",
         "Panemun\u0117"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5c3c\u59c6\u5c3c\u57ce\u5821"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1327165161,
-    "wof:lastmodified":1537662092,
+    "wof:lastmodified":1564190958,
     "wof:name":"Panemune",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

@@ -26,11 +26,38 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Perloja"
+    ],
+    "name:deu_x_preferred":[
+        "Perloja"
+    ],
     "name:eng_x_preferred":[
         "Perloja"
     ],
+    "name:est_x_preferred":[
+        "Perloja"
+    ],
+    "name:fin_x_preferred":[
+        "Perloja"
+    ],
+    "name:fra_x_preferred":[
+        "Perloja"
+    ],
+    "name:ind_x_preferred":[
+        "Perloja"
+    ],
+    "name:lit_x_preferred":[
+        "Perloja"
+    ],
+    "name:pol_x_preferred":[
+        "Prze\u0142aje"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u043b\u043e\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Perloja"
     ],
     "name:und_x_variant":[
         "Prelai",
@@ -65,7 +92,7 @@
         }
     ],
     "wof:id":1260014537,
-    "wof:lastmodified":1537662070,
+    "wof:lastmodified":1564192435,
     "wof:name":"Perloja",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

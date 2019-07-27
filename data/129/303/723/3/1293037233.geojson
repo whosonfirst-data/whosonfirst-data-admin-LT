@@ -26,6 +26,18 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u010ci\u010dinai"
+    ],
+    "name:deu_x_preferred":[
+        "\u010ci\u010dinai"
+    ],
+    "name:lit_x_preferred":[
+        "\u010ci\u010dinai"
+    ],
+    "name:swe_x_preferred":[
+        "\u010ci\u010dinai"
+    ],
     "name:und_x_variant":[
         "Chichinay",
         "\u010ci\u010dinai"
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1293037233,
-    "wof:lastmodified":1537662369,
+    "wof:lastmodified":1564191500,
     "wof:name":"Cicinai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

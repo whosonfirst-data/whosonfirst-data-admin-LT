@@ -26,7 +26,37 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ferma"
+    ],
+    "name:chv_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Ferma"
+    ],
+    "name:lav_x_preferred":[
+        "Ferma"
+    ],
     "name:lit_x_preferred":[
+        "Ferma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ferma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0435\u0440\u043c\u0430"
+    ],
+    "name:uzb_x_preferred":[
         "Ferma"
     ],
     "src:geom":"geonames",
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1226478903,
-    "wof:lastmodified":1537662766,
+    "wof:lastmodified":1564193754,
     "wof:name":"Ferma",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

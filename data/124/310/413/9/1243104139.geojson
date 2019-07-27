@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gud\u017eioniai"
+    ],
+    "name:lit_x_preferred":[
+        "Gud\u017eioniai"
+    ],
     "name:und_x_variant":[
         "Gudzhionyay",
         "Gud\u017eioniai"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243104139,
-    "wof:lastmodified":1537662293,
+    "wof:lastmodified":1564193343,
     "wof:name":"Gudzioniai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

@@ -26,6 +26,27 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lygumai"
+    ],
+    "name:est_x_preferred":[
+        "Lygumai"
+    ],
+    "name:fra_x_preferred":[
+        "Lygumai"
+    ],
+    "name:lit_x_preferred":[
+        "Lygumai"
+    ],
+    "name:nld_x_preferred":[
+        "Lygumai"
+    ],
+    "name:pol_x_preferred":[
+        "Ligumy"
+    ],
+    "name:swe_x_preferred":[
+        "Lygumai"
+    ],
     "name:und_x_variant":[
         "Ligum",
         "Ligumay",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1276152299,
-    "wof:lastmodified":1537662178,
+    "wof:lastmodified":1564191788,
     "wof:name":"Lygumai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

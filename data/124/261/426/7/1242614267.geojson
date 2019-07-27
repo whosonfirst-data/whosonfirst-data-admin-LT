@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Murai"
+    ],
+    "name:ind_x_preferred":[
+        "Murai"
+    ],
     "name:lit_x_preferred":[
         "M\u016brai"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242614267,
-    "wof:lastmodified":1537662710,
+    "wof:lastmodified":1564193132,
     "wof:name":"Murai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

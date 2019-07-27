@@ -26,11 +26,32 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kri\u016bkai"
+    ],
     "name:eng_x_preferred":[
         "Kri\u016bkai"
     ],
+    "name:est_x_preferred":[
+        "Kri\u016bkai"
+    ],
+    "name:fin_x_preferred":[
+        "Kri\u016bkai"
+    ],
+    "name:lit_x_preferred":[
+        "Kri\u016bkai"
+    ],
+    "name:nld_x_preferred":[
+        "Kri\u016bkai"
+    ],
+    "name:pol_x_preferred":[
+        "Kruki"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u044e\u043a\u0430\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Kri\u016bkai"
     ],
     "name:und_x_variant":[
         "Kriuk\u0173",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1209951635,
-    "wof:lastmodified":1537662220,
+    "wof:lastmodified":1564192171,
     "wof:name":"Kriukai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

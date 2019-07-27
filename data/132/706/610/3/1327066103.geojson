@@ -26,6 +26,36 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Apuole"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043f\u0443\u043e\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Apuol\u0117"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c0\u03bf\u03c5\u03bf\u03bb\u03ad"
+    ],
+    "name:est_x_preferred":[
+        "Apuol\u0117"
+    ],
+    "name:lav_x_preferred":[
+        "Ap\u016ble"
+    ],
+    "name:lit_x_preferred":[
+        "Apuol\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Apuol\u0117"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u0443\u043e\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Apuol\u0117"
+    ],
     "name:und_x_variant":[
         "Opule",
         "Apuol\u0117s",
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1327066103,
-    "wof:lastmodified":1537662426,
+    "wof:lastmodified":1564190652,
     "wof:name":"Apuole",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

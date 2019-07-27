@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Genionys"
+    ],
     "name:und_x_variant":[
         "Genioni\u0173",
         "Genionis",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344092611,
-    "wof:lastmodified":1537662316,
+    "wof:lastmodified":1564191065,
     "wof:name":"Genionys",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

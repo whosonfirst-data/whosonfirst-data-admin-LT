@@ -26,11 +26,38 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Survili\u0161kis"
+    ],
+    "name:deu_x_preferred":[
+        "Survili\u0161kis"
+    ],
     "name:eng_x_preferred":[
         "Survili\u0161kis"
     ],
+    "name:est_x_preferred":[
+        "Survili\u0161kis"
+    ],
+    "name:lit_x_preferred":[
+        "Survili\u0161kis"
+    ],
+    "name:nld_x_preferred":[
+        "Survili\u0161kis"
+    ],
+    "name:pol_x_preferred":[
+        "Surwiliszki"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u0440\u0432\u0438\u043b\u0438\u0448\u043a\u0435\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0443\u0440\u0432\u0438\u043b\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Survili\u0161kis"
+    ],
+    "name:tuk_x_preferred":[
+        "Surwili\u015fkis"
     ],
     "name:und_x_variant":[
         "Survili\u0161kio",
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1309939843,
-    "wof:lastmodified":1537661948,
+    "wof:lastmodified":1564192923,
     "wof:name":"Surviliskis",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

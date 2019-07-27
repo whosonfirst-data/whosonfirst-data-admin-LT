@@ -22,7 +22,16 @@
     "mps:longitude":21.033072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Neringa"
+    ],
     "name:eng_x_preferred":[
+        "Neringa"
+    ],
+    "name:lit_x_preferred":[
+        "Neringa"
+    ],
+    "name:swe_x_preferred":[
         "Neringa"
     ],
     "qs:a0":"Lietuva",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":102073645,
-    "wof:lastmodified":1554506198,
+    "wof:lastmodified":1564190980,
     "wof:name":"Neringa",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

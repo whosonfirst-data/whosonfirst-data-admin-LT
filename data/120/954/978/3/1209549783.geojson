@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Kani\u016bkai"
     ],
+    "name:lit_x_preferred":[
+        "Bago\u010diai"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u044e\u043a\u0430\u0439"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209549783,
-    "wof:lastmodified":1537662253,
+    "wof:lastmodified":1564192021,
     "wof:name":"Kaniukai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

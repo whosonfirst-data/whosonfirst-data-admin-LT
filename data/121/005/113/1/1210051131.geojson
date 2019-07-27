@@ -26,8 +26,23 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sarkis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06a9\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Sarkis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30eb\u30ad\u30b9"
+    ],
     "name:lit_x_preferred":[
         "\u0160arkis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u0438\u0441"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1210051131,
-    "wof:lastmodified":1537662789,
+    "wof:lastmodified":1564192343,
     "wof:name":"Sarkis",
     "wof:parent_id":102073585,
     "wof:placetype":"locality",

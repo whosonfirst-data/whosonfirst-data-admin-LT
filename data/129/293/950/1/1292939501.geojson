@@ -26,11 +26,29 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krokialaukis"
+    ],
     "name:eng_x_preferred":[
         "Krokialaukis"
     ],
+    "name:est_x_preferred":[
+        "Krokialaukis"
+    ],
+    "name:lit_x_preferred":[
+        "Krokialaukis"
+    ],
+    "name:nld_x_preferred":[
+        "Krokialaukis"
+    ],
+    "name:pol_x_preferred":[
+        "Krakopol"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u043e\u043a\u0438\u043b\u0430\u0443\u043a\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Krokialaukis"
     ],
     "name:und_x_variant":[
         "Krokyalaukis",
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1292939501,
-    "wof:lastmodified":1537662219,
+    "wof:lastmodified":1564191384,
     "wof:name":"Krokialaukis",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

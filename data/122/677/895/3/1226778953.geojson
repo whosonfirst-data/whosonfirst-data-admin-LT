@@ -26,7 +26,16 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karkliniai"
+    ],
+    "name:deu_x_preferred":[
+        "Karkliniai"
+    ],
     "name:lit_x_preferred":[
+        "Karkliniai"
+    ],
+    "name:swe_x_preferred":[
         "Karkliniai"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226778953,
-    "wof:lastmodified":1537662839,
+    "wof:lastmodified":1564193783,
     "wof:name":"Karkliniai",
     "wof:parent_id":102073607,
     "wof:placetype":"locality",

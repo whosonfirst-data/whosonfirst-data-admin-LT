@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kiju\u010diai"
+    ],
+    "name:lit_x_preferred":[
+        "Kiju\u010diai"
+    ],
+    "name:swe_x_preferred":[
+        "Kiju\u010diai"
+    ],
     "name:und_x_variant":[
         "Kaledonys",
         "Kiju\u010diai"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1360218315,
-    "wof:lastmodified":1537662234,
+    "wof:lastmodified":1564192850,
     "wof:name":"Kijuciai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

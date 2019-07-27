@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Novo\u010d\u0117b\u0117"
+    ],
     "name:und_x_variant":[
         "Novochebe",
         "Naujasod\u0117",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209451525,
-    "wof:lastmodified":1537662137,
+    "wof:lastmodified":1564192271,
     "wof:name":"Novocebe",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

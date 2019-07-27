@@ -26,7 +26,28 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lazdynai"
+    ],
+    "name:dan_x_preferred":[
+        "Lazdynai"
+    ],
+    "name:deu_x_preferred":[
+        "Lazdynai"
+    ],
+    "name:lav_x_preferred":[
+        "Lazd\u012bnu se\u0146\u016bnija"
+    ],
     "name:lit_x_preferred":[
+        "Lazdynai"
+    ],
+    "name:pol_x_preferred":[
+        "Leszczyniaki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0437\u0434\u0438\u043d\u0430\u0439"
+    ],
+    "name:swe_x_preferred":[
         "Lazdynai"
     ],
     "src:geom":"geonames",
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1210052883,
-    "wof:lastmodified":1537662817,
+    "wof:lastmodified":1564192325,
     "wof:name":"Lazdynai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

@@ -26,11 +26,26 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaltin\u0117nai"
+    ],
     "name:eng_x_preferred":[
         "Kaltin\u0117nai"
     ],
+    "name:est_x_preferred":[
+        "Kaltin\u0117nai"
+    ],
+    "name:lit_x_preferred":[
+        "Kaltin\u0117nai"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0142tyniany"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u044c\u0442\u0438\u043d\u0435\u043d\u0430\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Kaltin\u0117nai"
     ],
     "name:und_x_variant":[
         "Kaltinenay",
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1293523339,
-    "wof:lastmodified":1537662257,
+    "wof:lastmodified":1564191354,
     "wof:name":"Kaltinenai",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

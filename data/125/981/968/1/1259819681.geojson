@@ -26,7 +26,22 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matuizos"
+    ],
+    "name:est_x_preferred":[
+        "Matuizos"
+    ],
+    "name:fin_x_preferred":[
+        "Matuizos"
+    ],
     "name:lit_x_preferred":[
+        "Matuizos"
+    ],
+    "name:pol_x_preferred":[
+        "Matujzy"
+    ],
+    "name:swe_x_preferred":[
         "Matuizos"
     ],
     "src:geom":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1259819681,
-    "wof:lastmodified":1537662632,
+    "wof:lastmodified":1564193525,
     "wof:name":"Matuizos",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

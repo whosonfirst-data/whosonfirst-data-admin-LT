@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pamusiai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1327370775,
-    "wof:lastmodified":1537568074,
+    "wof:lastmodified":1564190678,
     "wof:name":"Pamusiai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

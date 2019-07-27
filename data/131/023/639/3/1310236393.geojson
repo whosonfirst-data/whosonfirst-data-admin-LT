@@ -26,7 +26,16 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Natalina"
+    ],
     "name:lit_x_preferred":[
+        "Natalina"
+    ],
+    "name:por_x_preferred":[
+        "Natalina"
+    ],
+    "name:rus_x_preferred":[
         "Natalina"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1310236393,
-    "wof:lastmodified":1537662830,
+    "wof:lastmodified":1564192573,
     "wof:name":"Natalina",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

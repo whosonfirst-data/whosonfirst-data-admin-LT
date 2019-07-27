@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Silai"
+    ],
+    "name:swe_x_preferred":[
+        "Silai"
+    ],
     "name:und_x_variant":[
         "Shilay",
         "\u0160ilai"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1292941581,
-    "wof:lastmodified":1537661990,
+    "wof:lastmodified":1564191361,
     "wof:name":"Silai",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

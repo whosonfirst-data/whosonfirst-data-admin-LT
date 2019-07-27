@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dainava"
+    ],
     "name:lit_x_preferred":[
         "Dainava"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293525205,
-    "wof:lastmodified":1537662365,
+    "wof:lastmodified":1564191349,
     "wof:name":"Dainava",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",
