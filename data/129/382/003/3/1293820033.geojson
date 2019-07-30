@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Urkionys"
+    ],
+    "name:lit_x_preferred":[
+        "Urkionys"
+    ],
+    "name:swe_x_preferred":[
+        "Urkionys"
+    ],
     "name:und_x_variant":[
         "Yurkyantsy",
         "Jurkioniai",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1293820033,
-    "wof:lastmodified":1537661923,
+    "wof:lastmodified":1564191450,
     "wof:name":"Urkionys",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

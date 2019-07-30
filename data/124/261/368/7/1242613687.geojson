@@ -26,7 +26,16 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Liepiai"
+    ],
+    "name:deu_x_preferred":[
+        "Liepiai"
+    ],
     "name:lit_x_preferred":[
+        "Liepiai"
+    ],
+    "name:swe_x_preferred":[
         "Liepiai"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1242613687,
-    "wof:lastmodified":1537662656,
+    "wof:lastmodified":1564193131,
     "wof:name":"Liepiai",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

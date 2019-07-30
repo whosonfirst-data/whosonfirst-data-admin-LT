@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sarapini\u0161k\u0117s"
+    ],
+    "name:lit_x_preferred":[
+        "Sarapini\u0161k\u0117s"
+    ],
+    "name:swe_x_preferred":[
+        "Sarapini\u0161k\u0117s"
+    ],
     "name:und_x_variant":[
         "Sarapini\u0161k\u0117s"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1225880425,
-    "wof:lastmodified":1537662008,
+    "wof:lastmodified":1564193676,
     "wof:name":"Sarapiniskes",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

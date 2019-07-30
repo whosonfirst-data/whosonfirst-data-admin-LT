@@ -26,6 +26,18 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Migonys"
+    ],
+    "name:lit_x_preferred":[
+        "Migonys"
+    ],
+    "name:pol_x_preferred":[
+        "Miga\u0144ce"
+    ],
+    "name:swe_x_preferred":[
+        "Migonys"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293622683,
-    "wof:lastmodified":1537568080,
+    "wof:lastmodified":1564191318,
     "wof:name":"Migonys",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

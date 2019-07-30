@@ -26,11 +26,23 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160lapaber\u017e\u0117"
+    ],
     "name:eng_x_preferred":[
+        "\u0160lapaber\u017e\u0117"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160lapaber\u017e\u0117"
+    ],
+    "name:pol_x_preferred":[
         "\u0160lapaber\u017e\u0117"
     ],
     "name:rus_x_preferred":[
         "\u0428\u043b\u0430\u043f\u0430\u0431\u044f\u0440\u0436\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160lapaber\u017e\u0117"
     ],
     "name:und_x_variant":[
         "Shlapoberzhe",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1293137517,
-    "wof:lastmodified":1537661974,
+    "wof:lastmodified":1564191465,
     "wof:name":"Slapaberze",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

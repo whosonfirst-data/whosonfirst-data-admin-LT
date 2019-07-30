@@ -26,6 +26,18 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Did\u017eiosios Kabi\u0161k\u0117s"
+    ],
+    "name:dan_x_preferred":[
+        "Did\u017eiosios Kabi\u0161k\u0117s"
+    ],
+    "name:lit_x_preferred":[
+        "Did\u017eiosios Kabi\u0161k\u0117s"
+    ],
+    "name:swe_x_preferred":[
+        "Did\u017eiosios Kabi\u0161k\u0117s"
+    ],
     "name:und_x_variant":[
         "Did\u017eiosios Kabi\u0161k\u0117s"
     ],
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1343991729,
-    "wof:lastmodified":1537662348,
+    "wof:lastmodified":1564191039,
     "wof:name":"Didziosios Kabiskes",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

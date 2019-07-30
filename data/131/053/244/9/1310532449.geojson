@@ -26,6 +26,36 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barsty\u010diai"
+    ],
+    "name:ces_x_preferred":[
+        "Barsty\u010diai"
+    ],
+    "name:deu_x_preferred":[
+        "Barsty\u010diai"
+    ],
+    "name:est_x_preferred":[
+        "Barsty\u010diai"
+    ],
+    "name:fin_x_preferred":[
+        "Barsty\u010diai"
+    ],
+    "name:lit_x_preferred":[
+        "Barsty\u010diai"
+    ],
+    "name:nld_x_preferred":[
+        "Barsty\u010diai"
+    ],
+    "name:pol_x_preferred":[
+        "Barszczyce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0441\u0442\u0438\u0447\u044f\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Barsty\u010diai"
+    ],
     "name:und_x_variant":[
         "Barsty\u010di\u0173",
         "Barstichyay",
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1310532449,
-    "wof:lastmodified":1537662402,
+    "wof:lastmodified":1564192620,
     "wof:name":"Barstyciai",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

@@ -32,8 +32,17 @@
     "name:eng_x_preferred":[
         "Dreverna"
     ],
+    "name:fin_x_preferred":[
+        "Dreverna"
+    ],
+    "name:lit_x_preferred":[
+        "Dreverna"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0440\u0435\u0432\u0435\u0440\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dreverna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1327263375,
-    "wof:lastmodified":1537662341,
+    "wof:lastmodified":1564190919,
     "wof:name":"Dreverna",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

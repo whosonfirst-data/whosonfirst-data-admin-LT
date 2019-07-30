@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Punia"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u0942\u0928\u093f\u092f\u093e"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u043d\u044f"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276991007,
-    "wof:lastmodified":1537662049,
+    "wof:lastmodified":1564191828,
     "wof:name":"Punia",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

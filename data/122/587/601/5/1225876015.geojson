@@ -26,7 +26,25 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Surdegis"
+    ],
+    "name:est_x_preferred":[
+        "Surdegis"
+    ],
+    "name:ita_x_preferred":[
+        "Surdegis"
+    ],
     "name:lit_x_preferred":[
+        "Surdegis"
+    ],
+    "name:nld_x_preferred":[
+        "Surdegis"
+    ],
+    "name:pol_x_preferred":[
+        "Surdegi"
+    ],
+    "name:swe_x_preferred":[
         "Surdegis"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1225876015,
-    "wof:lastmodified":1537662612,
+    "wof:lastmodified":1564193694,
     "wof:name":"Surdegis",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

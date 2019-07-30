@@ -22,8 +22,149 @@
     "mps:longitude":22.368372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0633\u064a\u0627\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0426\u044f\u043b\u044c\u0448\u044d\u0439"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043b\u0448\u0430\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:ceb_x_preferred":[
+        "Telsiai"
+    ],
+    "name:ces_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:cor_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:dan_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:deu_x_preferred":[
+        "Tel\u0161iai"
+    ],
     "name:eng_x_preferred":[
         "Telsiai"
+    ],
+    "name:epo_x_preferred":[
+        "Tel\u015diao"
+    ],
+    "name:est_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u0634\u06cc\u0627\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:fra_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05dc\u05d6"
+    ],
+    "name:hsb_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0565\u056c\u0577\u0575\u0561\u0575"
+    ],
+    "name:ind_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:ita_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30eb\u30b7\u30a7\u30a4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10da\u10e8\u10d8\u10d0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud154\uc0e4\uc774"
+    ],
+    "name:lav_x_preferred":[
+        "Tel\u0161i"
+    ],
+    "name:lit_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:ltg_x_preferred":[
+        "Te\u013c\u0161i"
+    ],
+    "name:mri_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:nau_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:nld_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:nor_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:pms_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u06cc\u0644\u0634\u06cc\u0627\u0626\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Telsze"
+    ],
+    "name:por_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:ron_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u044c\u0448\u044f\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u043b\u0448\u0458\u0430\u0458"
+    ],
+    "name:swa_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:swe_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:szl_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:tur_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043b\u044c\u0448\u044f\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0644\u0634\u0626\u06cc\u06cc"
+    ],
+    "name:vep_x_preferred":[
+        "Tel'\u0161\u00e4i"
+    ],
+    "name:vie_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:vol_x_preferred":[
+        "Tel\u0161iai"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u723e\u5e0c\u827e"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -73,7 +214,7 @@
         }
     ],
     "wof:id":102073699,
-    "wof:lastmodified":1554506196,
+    "wof:lastmodified":1564190990,
     "wof:name":"Tel\u0161iai",
     "wof:parent_id":85685741,
     "wof:placetype":"county",

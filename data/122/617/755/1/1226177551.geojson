@@ -26,14 +26,32 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Buivyd\u017eiai"
+    ],
     "name:eng_x_preferred":[
         "Buivyd\u017eiai"
+    ],
+    "name:fra_x_preferred":[
+        "Buivyd\u017eiai"
+    ],
+    "name:lit_x_preferred":[
+        "Buivyd\u017eiai"
+    ],
+    "name:pol_x_preferred":[
+        "Bujwidze"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0439\u0432\u0438\u0434\u0436\u044f\u0439"
     ],
     "name:sgs_x_preferred":[
         "Boiv\u012bd\u0113"
+    ],
+    "name:swe_x_preferred":[
+        "Buivyd\u017eiai"
+    ],
+    "name:szl_x_preferred":[
+        "Buivyd\u017eiai"
     ],
     "name:und_x_variant":[
         "Buivyd\u017eiai I",
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1226177551,
-    "wof:lastmodified":1537662379,
+    "wof:lastmodified":1564193546,
     "wof:name":"Buivydziai I",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

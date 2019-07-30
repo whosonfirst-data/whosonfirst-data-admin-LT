@@ -26,11 +26,29 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lyduokiai"
+    ],
     "name:eng_x_preferred":[
         "Lyduokiai"
     ],
+    "name:est_x_preferred":[
+        "Lyduokiai"
+    ],
+    "name:lit_x_preferred":[
+        "Lyduokiai"
+    ],
+    "name:nld_x_preferred":[
+        "Lyduokiai"
+    ],
+    "name:pol_x_preferred":[
+        "Nidoki"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0434\u0443\u043e\u043a\u044f\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Lyduokiai"
     ],
     "name:und_x_variant":[
         "Liduokiai",
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":1310537877,
-    "wof:lastmodified":1537662179,
+    "wof:lastmodified":1564192640,
     "wof:name":"Lyduokiai",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

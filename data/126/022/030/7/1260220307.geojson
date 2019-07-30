@@ -26,6 +26,27 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paj\u016bris"
+    ],
+    "name:deu_x_preferred":[
+        "Paj\u016bris"
+    ],
+    "name:est_x_preferred":[
+        "Paj\u016bris"
+    ],
+    "name:lit_x_preferred":[
+        "Paj\u016bris"
+    ],
+    "name:nld_x_preferred":[
+        "Paj\u016bris"
+    ],
+    "name:pol_x_preferred":[
+        "Pojurze"
+    ],
+    "name:swe_x_preferred":[
+        "Paj\u016bris"
+    ],
     "name:und_x_variant":[
         "Poyursh",
         "Paj\u016brio",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1260220307,
-    "wof:lastmodified":1537662106,
+    "wof:lastmodified":1564192405,
     "wof:name":"Pajuris",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

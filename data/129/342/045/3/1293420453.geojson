@@ -27,11 +27,26 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bezdonys"
+    ],
+    "name:deu_x_preferred":[
+        "Bezdonys"
+    ],
     "name:eng_x_preferred":[
         "Bezdonys"
     ],
+    "name:lit_x_preferred":[
+        "Bezdonys"
+    ],
+    "name:pol_x_preferred":[
+        "Bezdany"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0437\u0434\u043e\u043d\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Bezdonys"
     ],
     "name:und_x_variant":[
         "Bezdany",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1293420453,
-    "wof:lastmodified":1537662392,
+    "wof:lastmodified":1564191568,
     "wof:name":"Bezdonys",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

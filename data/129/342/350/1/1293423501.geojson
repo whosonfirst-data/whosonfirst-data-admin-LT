@@ -29,6 +29,18 @@
     "name:eng_x_preferred":[
         "\u0160iaul\u0117nai"
     ],
+    "name:est_x_preferred":[
+        "\u0160iaul\u0117nai"
+    ],
+    "name:fra_x_preferred":[
+        "\u0160iaul\u0117nai"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160iaul\u0117nai"
+    ],
+    "name:pol_x_preferred":[
+        "Szawlany"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u044f\u0443\u043b\u0435\u043d\u0430\u0439"
     ],
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1293423501,
-    "wof:lastmodified":1537661993,
+    "wof:lastmodified":1564191564,
     "wof:name":"Siaulenai",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

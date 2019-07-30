@@ -19,6 +19,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Dainava"
+    ],
+    "name:deu_x_preferred":[
+        "Dainava"
+    ],
+    "name:est_x_preferred":[
+        "Dainava"
+    ],
+    "name:lit_x_preferred":[
+        "Dainava"
+    ],
+    "name:swe_x_preferred":[
+        "Dainava"
+    ],
     "qs_pg:aaroncc":"LT",
     "qs_pg:gn_country":"LT",
     "qs_pg:gn_fcode":"PPLX",
@@ -34,11 +49,11 @@
     "src:lbl:centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
+        85685773,
         102191581,
         85633269,
         101752745,
-        102073611,
-        85685773
+        102073611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1126071593,
-    "wof:lastmodified":1509410704,
+    "wof:lastmodified":1564193007,
     "wof:name":"Dainava (Kaunas)",
     "wof:parent_id":101752745,
     "wof:placetype":"neighbourhood",

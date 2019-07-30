@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Petra\u0161i\u016bnai"
+    ],
+    "name:est_x_preferred":[
+        "Petra\u0161i\u016bnai"
+    ],
+    "name:lit_x_preferred":[
+        "Petra\u0161i\u016bnai"
+    ],
     "name:und_x_variant":[
         "Petrashyunyay",
         "Petra\u0161i\u016bnai"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1193168011,
-    "wof:lastmodified":1537662067,
+    "wof:lastmodified":1564192384,
     "wof:name":"Petrasiunai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ilgininkai"
+    ],
+    "name:lit_x_preferred":[
+        "Ilgininkai"
+    ],
+    "name:swe_x_preferred":[
+        "Ilgininkai"
+    ],
     "name:und_x_variant":[
         "Il\u2019giniki",
         "Ilginink\u0173",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243299857,
-    "wof:lastmodified":1537662289,
+    "wof:lastmodified":1564193326,
     "wof:name":"Navasodai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

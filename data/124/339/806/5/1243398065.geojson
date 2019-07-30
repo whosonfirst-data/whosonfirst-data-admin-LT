@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0104\u017euolai\u010diai"
+    ],
+    "name:lit_x_preferred":[
+        "\u0104\u017euolai\u010diai"
+    ],
+    "name:swe_x_preferred":[
+        "\u0104\u017euolai\u010diai"
+    ],
     "name:und_x_variant":[
         "Dubiai",
         "\u0104\u017euolai\u010diai"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243398065,
-    "wof:lastmodified":1537662417,
+    "wof:lastmodified":1564193085,
     "wof:name":"Azuolaiciai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

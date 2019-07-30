@@ -26,11 +26,32 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pakuonis"
+    ],
     "name:eng_x_preferred":[
         "Pakuonis"
     ],
+    "name:est_x_preferred":[
+        "Pakuonis"
+    ],
+    "name:fin_x_preferred":[
+        "Pakuonis"
+    ],
+    "name:fra_x_preferred":[
+        "Pakuonis"
+    ],
+    "name:lit_x_preferred":[
+        "Pakuonis"
+    ],
+    "name:pol_x_preferred":[
+        "Pokojnie"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043a\u0443\u043e\u043d\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Pakuonis"
     ],
     "name:und_x_variant":[
         "Pokojnie",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1343298611,
-    "wof:lastmodified":1537662100,
+    "wof:lastmodified":1564191234,
     "wof:name":"Pakuonis",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

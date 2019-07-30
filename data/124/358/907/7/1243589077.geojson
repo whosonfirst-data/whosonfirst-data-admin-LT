@@ -26,8 +26,32 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Musninkai"
+    ],
+    "name:est_x_preferred":[
+        "Musninkai"
+    ],
+    "name:ind_x_preferred":[
+        "Musninkai"
+    ],
     "name:lit_x_preferred":[
         "Musninkai"
+    ],
+    "name:nld_x_preferred":[
+        "Musninkai"
+    ],
+    "name:pol_x_preferred":[
+        "Mu\u015bniki"
+    ],
+    "name:sco_x_preferred":[
+        "Musninkai"
+    ],
+    "name:swe_x_preferred":[
+        "Musninkai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u043d\u0456\u043d\u043a\u0430\u0439"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1243589077,
-    "wof:lastmodified":1537662914,
+    "wof:lastmodified":1564193195,
     "wof:name":"Musninkai",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

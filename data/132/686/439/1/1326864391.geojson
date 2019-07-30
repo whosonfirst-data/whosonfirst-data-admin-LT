@@ -26,8 +26,14 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631\u064a\u0646"
+    ],
     "name:lit_x_preferred":[
         "Darin\u0117"
+    ],
+    "name:msa_x_preferred":[
+        "Darine"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326864391,
-    "wof:lastmodified":1537662533,
+    "wof:lastmodified":1564190713,
     "wof:name":"Darine",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

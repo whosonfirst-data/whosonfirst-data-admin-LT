@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Maksimonys"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1292939615,
-    "wof:lastmodified":1537568082,
+    "wof:lastmodified":1564191385,
     "wof:name":"Maksimonys",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

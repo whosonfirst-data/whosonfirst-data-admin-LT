@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Andri\u016bnai"
+    ],
     "name:und_x_variant":[
         "Andruny",
         "Andryunay",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344194513,
-    "wof:lastmodified":1537662431,
+    "wof:lastmodified":1564191210,
     "wof:name":"Andriunai",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

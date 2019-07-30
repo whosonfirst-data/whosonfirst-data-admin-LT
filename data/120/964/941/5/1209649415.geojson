@@ -26,6 +26,27 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Miklus\u0117nai"
+    ],
+    "name:est_x_preferred":[
+        "Miklus\u0117nai"
+    ],
+    "name:fin_x_preferred":[
+        "Miklus\u0117nai"
+    ],
+    "name:ita_x_preferred":[
+        "Miklus\u0117nai"
+    ],
+    "name:lit_x_preferred":[
+        "Miklus\u0117nai"
+    ],
+    "name:pol_x_preferred":[
+        "Mik\u0142usiany"
+    ],
+    "name:swe_x_preferred":[
+        "Miklus\u0117nai"
+    ],
     "name:und_x_variant":[
         "Miklus\u0117n\u0173",
         "Miklusyany",
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1209649415,
-    "wof:lastmodified":1537662154,
+    "wof:lastmodified":1564192048,
     "wof:name":"Miklusenai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

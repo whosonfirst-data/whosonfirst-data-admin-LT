@@ -26,7 +26,28 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09c1\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:ita_x_preferred":[
+        "Buria"
+    ],
     "name:lit_x_preferred":[
+        "Buria"
+    ],
+    "name:msa_x_preferred":[
+        "Buria"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0941\u0930\u093f\u092f\u093e"
+    ],
+    "name:por_x_preferred":[
+        "Buria"
+    ],
+    "name:vie_x_preferred":[
         "Buria"
     ],
     "src:geom":"geonames",
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1260219021,
-    "wof:lastmodified":1537662709,
+    "wof:lastmodified":1564192498,
     "wof:name":"Buria",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

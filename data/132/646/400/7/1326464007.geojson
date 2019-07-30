@@ -26,6 +26,21 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Luksn\u0117nai"
+    ],
+    "name:fin_x_preferred":[
+        "Luksn\u0117nai"
+    ],
+    "name:lit_x_preferred":[
+        "Luksn\u0117nai"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141uk\u015bniany"
+    ],
+    "name:swe_x_preferred":[
+        "Luksn\u0117nai"
+    ],
     "name:und_x_variant":[
         "Luksn\u0117nai"
     ],
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1326464007,
-    "wof:lastmodified":1537662180,
+    "wof:lastmodified":1564190881,
     "wof:name":"Luksnenai",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

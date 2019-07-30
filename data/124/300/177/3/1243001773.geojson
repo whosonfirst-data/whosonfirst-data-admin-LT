@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Degsn\u0117s"
+    ],
+    "name:pol_x_preferred":[
+        "Deksznia"
+    ],
     "name:und_x_variant":[
         "Degsn\u0117s"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243001773,
-    "wof:lastmodified":1537662352,
+    "wof:lastmodified":1564193040,
     "wof:name":"Degsnes",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

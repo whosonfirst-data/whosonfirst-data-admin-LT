@@ -26,8 +26,71 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0643\u064a\u062c\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u043a\u0456\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Vilkija"
+    ],
+    "name:ceb_x_preferred":[
+        "Vilkija"
+    ],
+    "name:deu_x_preferred":[
+        "Vilkija"
+    ],
+    "name:est_x_preferred":[
+        "Vilkija"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u06a9\u06cc\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Vilkija"
+    ],
+    "name:fra_x_preferred":[
+        "Vilkija"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05dc\u05e7\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Vilkija"
+    ],
+    "name:ita_x_preferred":[
+        "Vilkija"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30eb\u30ad\u30e4"
+    ],
+    "name:lav_x_preferred":[
+        "Vilkija"
+    ],
     "name:lit_x_preferred":[
         "Vilkija"
+    ],
+    "name:pms_x_preferred":[
+        "Vilkija"
+    ],
+    "name:pol_x_preferred":[
+        "Wilki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u043a\u0438\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Vilkija"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u044c\u043a\u0456\u044f"
+    ],
+    "name:vol_x_preferred":[
+        "Vilkija"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u723e\u57fa\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +115,7 @@
         }
     ],
     "wof:id":1193047391,
-    "wof:lastmodified":1537662931,
+    "wof:lastmodified":1564192346,
     "wof:name":"Vilkija",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

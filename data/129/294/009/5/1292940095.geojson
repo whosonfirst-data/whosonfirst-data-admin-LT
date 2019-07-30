@@ -26,6 +26,30 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nem\u0117\u017eis"
+    ],
+    "name:hun_x_preferred":[
+        "Nem\u0117\u017eis"
+    ],
+    "name:lit_x_preferred":[
+        "Nem\u0117\u017eis"
+    ],
+    "name:pol_x_preferred":[
+        "Niemie\u017c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044f\u043c\u0435\u0436\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Nem\u0117\u017eis"
+    ],
+    "name:spa_x_preferred":[
+        "Nem\u0117\u017eis"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0435\u043c\u0435\u0436"
+    ],
     "name:und_x_variant":[
         "Nemezhis",
         "Nem\u0117\u017e\u0117",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1292940095,
-    "wof:lastmodified":1537662131,
+    "wof:lastmodified":1564191366,
     "wof:name":"Nemezis",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

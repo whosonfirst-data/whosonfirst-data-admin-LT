@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Burokai"
+    ],
+    "name:pol_x_preferred":[
+        "Buraki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u043a\u0456"
+    ],
     "name:und_x_variant":[
         "Buraki",
         "Burok\u0173",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343889229,
-    "wof:lastmodified":1537662375,
+    "wof:lastmodified":1564191279,
     "wof:name":"Burokai",
     "wof:parent_id":102073585,
     "wof:placetype":"locality",

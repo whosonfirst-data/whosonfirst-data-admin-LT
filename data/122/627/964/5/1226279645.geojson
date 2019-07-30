@@ -26,6 +26,18 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pamerkiai"
+    ],
+    "name:lit_x_preferred":[
+        "Pamerkiai"
+    ],
+    "name:pol_x_preferred":[
+        "Pomerecz"
+    ],
+    "name:swe_x_preferred":[
+        "Pamerkiai"
+    ],
     "name:und_x_variant":[
         "Pomerech\u2019",
         "Pamerkis",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1226279645,
-    "wof:lastmodified":1537662093,
+    "wof:lastmodified":1564193579,
     "wof:name":"Pamerkiai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

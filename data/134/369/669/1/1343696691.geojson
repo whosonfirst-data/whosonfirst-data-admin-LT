@@ -26,8 +26,20 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u0440\u0430\u0432\u0430\u043d\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Murovanka"
+    ],
+    "name:est_x_preferred":[
+        "Muravanka"
+    ],
     "name:lit_x_preferred":[
         "M\u016bravanka"
+    ],
+    "name:swe_x_preferred":[
+        "Murovanka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343696691,
-    "wof:lastmodified":1537662639,
+    "wof:lastmodified":1564191172,
     "wof:name":"Muravanka",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Subartonys"
+    ],
+    "name:pol_x_preferred":[
+        "Subortowicze"
+    ],
     "name:und_x_variant":[
         "Subartoni\u0173",
         "Subortovichi",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343698357,
-    "wof:lastmodified":1537661953,
+    "wof:lastmodified":1564191172,
     "wof:name":"Subartonys",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

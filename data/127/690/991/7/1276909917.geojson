@@ -26,6 +26,12 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jaugeli\u0161kiai"
+    ],
+    "name:lit_x_preferred":[
+        "Jaugeli\u0161kiai"
+    ],
     "name:und_x_variant":[
         "Yaugelishkyay",
         "Jaugeli\u0161kiai"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276909917,
-    "wof:lastmodified":1537662282,
+    "wof:lastmodified":1564191830,
     "wof:name":"Jaugeliskiai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

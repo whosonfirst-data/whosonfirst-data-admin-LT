@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Girija"
+    ],
     "name:lit_x_preferred":[
         "Girija"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1344087887,
-    "wof:lastmodified":1537662658,
+    "wof:lastmodified":1564191056,
     "wof:name":"Girija",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

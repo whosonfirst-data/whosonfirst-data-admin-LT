@@ -29,6 +29,18 @@
     "name:lit_x_preferred":[
         "Tatarka"
     ],
+    "name:rus_x_preferred":[
+        "Tatarka"
+    ],
+    "name:sqi_x_preferred":[
+        "Tatarka"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0440\u0438\u043d\u0430 \u0421\u043c\u0435\u043b\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "Tatarka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633269
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209249443,
-    "wof:lastmodified":1537662966,
+    "wof:lastmodified":1564192108,
     "wof:name":"Tatarka",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

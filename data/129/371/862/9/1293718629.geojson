@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Pavar\u0117nis"
+    ],
     "name:und_x_variant":[
         "Poverantsy",
         "Pavar\u0117nis"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293718629,
-    "wof:lastmodified":1537662077,
+    "wof:lastmodified":1564191441,
     "wof:name":"Pavarenis",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

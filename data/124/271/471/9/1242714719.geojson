@@ -26,11 +26,23 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kivyliai"
+    ],
     "name:eng_x_preferred":[
+        "Kivyliai"
+    ],
+    "name:lit_x_preferred":[
+        "Kivyliai"
+    ],
+    "name:pol_x_preferred":[
         "Kivyliai"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0432\u0438\u043b\u044f\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Kivyliai"
     ],
     "name:und_x_variant":[
         "Kivilyay",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1242714719,
-    "wof:lastmodified":1537662230,
+    "wof:lastmodified":1564193236,
     "wof:name":"Kivyliai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

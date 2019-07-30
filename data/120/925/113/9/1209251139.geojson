@@ -26,7 +26,19 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alka"
+    ],
+    "name:deu_x_preferred":[
+        "Alka"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932\u0915\u093e"
+    ],
     "name:lit_x_preferred":[
+        "Alka"
+    ],
+    "name:swe_x_preferred":[
         "Alka"
     ],
     "src:geom":"geonames",
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209251139,
-    "wof:lastmodified":1537662649,
+    "wof:lastmodified":1564192133,
     "wof:name":"Alka",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

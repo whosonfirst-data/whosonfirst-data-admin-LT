@@ -26,11 +26,29 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u043c\u0448\u044d"
+    ],
+    "name:ceb_x_preferred":[
+        "Rim\u0161\u0117"
+    ],
     "name:eng_x_preferred":[
         "Rim\u0161\u0117"
     ],
+    "name:ita_x_preferred":[
+        "Rim\u0161\u0117"
+    ],
+    "name:lit_x_preferred":[
+        "Rim\u0161\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Rymszany"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043c\u0448\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Rim\u0161\u0117"
     ],
     "name:und_x_variant":[
         "Rymshany",
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":1293236939,
-    "wof:lastmodified":1537662029,
+    "wof:lastmodified":1564191402,
     "wof:name":"Rimse",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

@@ -26,8 +26,23 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0632\u0628\u06a9\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Z\u0259b\u0259ka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0628\u06a9\u0627"
+    ],
     "name:lit_x_preferred":[
         "Zabaka"
+    ],
+    "name:msa_x_preferred":[
+        "Zabaka"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0628\u06a9\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209351443,
-    "wof:lastmodified":1537662737,
+    "wof:lastmodified":1564192184,
     "wof:name":"Zabaka",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

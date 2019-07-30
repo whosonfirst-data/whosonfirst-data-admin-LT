@@ -26,8 +26,32 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Mituva"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u0438\u0442\u0443\u0432\u0430"
+    ],
+    "name:est_x_preferred":[
+        "Mituva"
+    ],
     "name:lit_x_preferred":[
         "Mituva"
+    ],
+    "name:nno_x_preferred":[
+        "Mituva"
+    ],
+    "name:pol_x_preferred":[
+        "Mitwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442\u0443\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0442\u0443\u0432\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5716\u74e6\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1293918391,
-    "wof:lastmodified":1537662692,
+    "wof:lastmodified":1564191307,
     "wof:name":"Mituva",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Molav\u0117nai"
+    ],
     "name:und_x_variant":[
         "Malovenay",
         "Molav\u0117nai"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310241967,
-    "wof:lastmodified":1537662145,
+    "wof:lastmodified":1564192553,
     "wof:name":"Molavenai",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

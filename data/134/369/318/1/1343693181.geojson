@@ -26,11 +26,32 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Truskava"
+    ],
     "name:eng_x_preferred":[
         "Truskava"
     ],
+    "name:est_x_preferred":[
+        "Truskava"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u0633\u06a9\u0627\u0648\u0627"
+    ],
+    "name:lit_x_preferred":[
+        "Truskava"
+    ],
+    "name:nld_x_preferred":[
+        "Truskava"
+    ],
+    "name:pol_x_preferred":[
+        "Trusk\u00f3w"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u0443\u0441\u043a\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Truskava"
     ],
     "name:und_x_variant":[
         "Truskay",
@@ -65,7 +86,7 @@
         }
     ],
     "wof:id":1343693181,
-    "wof:lastmodified":1537661929,
+    "wof:lastmodified":1564191189,
     "wof:name":"Truskava",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

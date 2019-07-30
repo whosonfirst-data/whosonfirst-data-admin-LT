@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0432\u0456\u043a\u0430\u0439"
+    ],
     "name:lit_x_preferred":[
         "Navikai"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327267797,
-    "wof:lastmodified":1537662548,
+    "wof:lastmodified":1564190932,
     "wof:name":"Navikai",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

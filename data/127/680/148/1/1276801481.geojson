@@ -26,6 +26,33 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0417\u0430\u043b\u0430\u0432\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Zalavas"
+    ],
+    "name:lit_x_preferred":[
+        "Zalavas"
+    ],
+    "name:nau_x_preferred":[
+        "Zalavas"
+    ],
+    "name:pol_x_preferred":[
+        "Zu\u0142owo"
+    ],
+    "name:por_x_preferred":[
+        "Zalavas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043b\u0430\u0432\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Zalavas"
+    ],
+    "name:swe_x_preferred":[
+        "Zalavas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1276801481,
-    "wof:lastmodified":1537568053,
+    "wof:lastmodified":1564191692,
     "wof:name":"Zalavas",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

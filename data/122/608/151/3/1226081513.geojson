@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krakiai"
+    ],
+    "name:lit_x_preferred":[
+        "Krakiai"
+    ],
+    "name:swe_x_preferred":[
+        "Krakiai"
+    ],
     "name:und_x_variant":[
         "Krakyay",
         "Kraki\u0173",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226081513,
-    "wof:lastmodified":1537662224,
+    "wof:lastmodified":1564193823,
     "wof:name":"Krakiai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tverai"
+    ],
+    "name:ces_x_preferred":[
+        "Tverai"
+    ],
+    "name:deu_x_preferred":[
+        "Tverai"
+    ],
+    "name:est_x_preferred":[
+        "Tverai"
+    ],
+    "name:fra_x_preferred":[
+        "Tverai"
+    ],
+    "name:lit_x_preferred":[
+        "Tverai"
+    ],
+    "name:pol_x_preferred":[
+        "Twery"
+    ],
+    "name:swe_x_preferred":[
+        "Tverai"
+    ],
     "name:und_x_variant":[
         "Tver\u0173",
         "Tver",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1310039543,
-    "wof:lastmodified":1537661927,
+    "wof:lastmodified":1564192702,
     "wof:name":"Tverai",
     "wof:parent_id":102073669,
     "wof:placetype":"locality",

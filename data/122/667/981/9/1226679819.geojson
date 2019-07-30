@@ -26,11 +26,29 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salduti\u0161kis"
+    ],
     "name:eng_x_preferred":[
         "Salduti\u0161kis"
     ],
+    "name:fra_x_preferred":[
+        "Salduti\u0161kis"
+    ],
+    "name:ita_x_preferred":[
+        "Salduti\u0161kis"
+    ],
+    "name:lit_x_preferred":[
+        "Salduti\u0161kis"
+    ],
+    "name:pol_x_preferred":[
+        "Sy\u0142gudyszki"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u0434\u0443\u0442\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Salduti\u0161kis"
     ],
     "name:und_x_variant":[
         "Saldati\u0161kio",
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1226679819,
-    "wof:lastmodified":1537662012,
+    "wof:lastmodified":1564193626,
     "wof:name":"Saldutiskis",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

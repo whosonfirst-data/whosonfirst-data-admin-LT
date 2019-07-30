@@ -26,8 +26,14 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Silai"
+    ],
     "name:lit_x_preferred":[
         "\u0160ilai"
+    ],
+    "name:swe_x_preferred":[
+        "Silai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259514429,
-    "wof:lastmodified":1537662924,
+    "wof:lastmodified":1564193502,
     "wof:name":"Silai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

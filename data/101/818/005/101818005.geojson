@@ -15,11 +15,21 @@
     "mps:latitude":54.940536,
     "mps:longitude":25.231987,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "name:eng_x_preferred":[
         "Paber\u017e\u0117"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d1\u05e8\u05d6'\u05d4"
+    ],
     "name:lit_x_preferred":[
         "Ber\u017eel\u0117"
+    ],
+    "name:lit_x_variant":[
+        "Paber\u017e\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Podbrzezie"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0436\u0435\u043b\u0435"
@@ -72,7 +82,7 @@
         }
     ],
     "wof:id":101818005,
-    "wof:lastmodified":1501214876,
+    "wof:lastmodified":1564192882,
     "wof:name":"Paber\u017e\u0117",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

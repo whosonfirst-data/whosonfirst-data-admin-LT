@@ -26,6 +26,15 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gud\u017eiai"
+    ],
+    "name:lit_x_preferred":[
+        "Gud\u017eiai"
+    ],
+    "name:swe_x_preferred":[
+        "Gud\u017eiai"
+    ],
     "name:und_x_variant":[
         "Gudzi",
         "Gud\u017eiai"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259514741,
-    "wof:lastmodified":1537662293,
+    "wof:lastmodified":1564193502,
     "wof:name":"Gudziai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

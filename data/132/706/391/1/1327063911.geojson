@@ -26,6 +26,24 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Leckava"
+    ],
+    "name:est_x_preferred":[
+        "Leckava"
+    ],
+    "name:lit_x_preferred":[
+        "Leckava"
+    ],
+    "name:nld_x_preferred":[
+        "Leckava"
+    ],
+    "name:pol_x_preferred":[
+        "Lack\u00f3w"
+    ],
+    "name:swe_x_preferred":[
+        "Leckava"
+    ],
     "name:und_x_variant":[
         "Leckavas",
         "Leckavos",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1327063911,
-    "wof:lastmodified":1537662194,
+    "wof:lastmodified":1564190648,
     "wof:name":"Leckava",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

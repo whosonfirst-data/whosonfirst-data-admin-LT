@@ -29,6 +29,9 @@
     "name:lit_x_preferred":[
         "Tarakai"
     ],
+    "name:pus_x_preferred":[
+        "\u062a\u0631\u0647 \u06a9\u064a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343495555,
-    "wof:lastmodified":1537662967,
+    "wof:lastmodified":1564191121,
     "wof:name":"Tarakai",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

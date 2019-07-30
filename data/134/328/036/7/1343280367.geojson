@@ -26,6 +26,30 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Krosna"
+    ],
+    "name:deu_x_preferred":[
+        "Krosna"
+    ],
+    "name:est_x_preferred":[
+        "Krosna"
+    ],
+    "name:fin_x_preferred":[
+        "Krosna"
+    ],
+    "name:ita_x_preferred":[
+        "Krosna"
+    ],
+    "name:lit_x_preferred":[
+        "Krosna"
+    ],
+    "name:pol_x_preferred":[
+        "Krasna"
+    ],
+    "name:swe_x_preferred":[
+        "Krosna"
+    ],
     "name:und_x_variant":[
         "Krasne",
         "Krosna"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1343280367,
-    "wof:lastmodified":1537662218,
+    "wof:lastmodified":1564191273,
     "wof:name":"Krosna",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

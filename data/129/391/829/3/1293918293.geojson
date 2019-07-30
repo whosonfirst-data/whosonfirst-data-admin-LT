@@ -38,8 +38,17 @@
     "name:eng_x_preferred":[
         "Smiltyn\u0117"
     ],
+    "name:epo_x_preferred":[
+        "Smiltyn\u0117"
+    ],
     "name:est_x_preferred":[
         "Smiltyn\u0117"
+    ],
+    "name:ind_x_preferred":[
+        "Smiltyn\u0117"
+    ],
+    "name:lav_x_preferred":[
+        "Smilt\u012bne"
     ],
     "name:lit_x_preferred":[
         "Smiltyn\u0117"
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1293918293,
-    "wof:lastmodified":1537661969,
+    "wof:lastmodified":1564191290,
     "wof:name":"Smiltyne",
     "wof:parent_id":102073647,
     "wof:placetype":"locality",

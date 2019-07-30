@@ -26,11 +26,29 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Raguv\u0117l\u0117"
+    ],
     "name:eng_x_preferred":[
+        "Raguv\u0117l\u0117"
+    ],
+    "name:est_x_preferred":[
+        "Raguv\u0117l\u0117"
+    ],
+    "name:ita_x_preferred":[
+        "Raguv\u0117l\u0117"
+    ],
+    "name:lit_x_preferred":[
+        "Raguv\u0117l\u0117"
+    ],
+    "name:pol_x_preferred":[
         "Raguv\u0117l\u0117"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0433\u0443\u0432\u0435\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Raguv\u0117l\u0117"
     ],
     "name:und_x_variant":[
         "Roguvele",
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1243299713,
-    "wof:lastmodified":1537662040,
+    "wof:lastmodified":1564193326,
     "wof:name":"Raguvele",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

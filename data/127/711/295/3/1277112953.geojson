@@ -26,11 +26,29 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Onu\u0161kis"
+    ],
     "name:eng_x_preferred":[
         "Onu\u0161kis"
     ],
+    "name:fra_x_preferred":[
+        "Onu\u0161kis"
+    ],
+    "name:lit_x_preferred":[
+        "Onu\u0161kis"
+    ],
+    "name:pol_x_preferred":[
+        "Hanuszyszki"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u043d\u0443\u0448\u043a\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Onu\u0161kis"
+    ],
+    "name:swe_x_preferred":[
+        "Onu\u0161kis"
     ],
     "name:und_x_variant":[
         "Hanuszyszki",
@@ -65,7 +83,7 @@
         }
     ],
     "wof:id":1277112953,
-    "wof:lastmodified":1537662121,
+    "wof:lastmodified":1564192000,
     "wof:name":"Onuskis",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Senieji Trakai"
     ],
+    "name:hrv_x_preferred":[
+        "Senijei Trakai"
+    ],
     "name:kat_x_preferred":[
         "\u10eb\u10d5\u10d4\u10da\u10d8 \u10e2\u10e0\u10d0\u10d9\u10d0\u10d8"
     ],
@@ -40,6 +43,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b\u0439 \u0422\u0440\u0430\u043a\u0430\u0439"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0422\u0440\u0430\u043a\u0430\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Senieji Trakai"
     ],
     "name:und_x_variant":[
         "Troki Stare",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1344191729,
-    "wof:lastmodified":1537661998,
+    "wof:lastmodified":1564191202,
     "wof:name":"Senieji Trakai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

@@ -25,26 +25,71 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043c\u0430\u043b\u0456\u043d\u0456\u043d\u043a\u0430\u0439"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u043c\u0430\u043b\u0456\u043d\u0456\u043d\u043a\u0430\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:ceb_x_preferred":[
+        "Smalininkai"
+    ],
     "name:deu_x_preferred":[
         "Schmalleningken"
     ],
+    "name:deu_x_variant":[
+        "Smalininkai"
+    ],
     "name:eng_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:est_x_preferred":[
         "Smalininkai"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0645\u0627\u0644\u06cc\u0646\u06cc\u0646\u06a9\u0627\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:fra_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:hsb_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:ita_x_preferred":[
+        "Smalininkai"
+    ],
     "name:lav_x_preferred":[
         "Smalininki"
+    ],
+    "name:lit_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:pms_x_preferred":[
+        "Smalininkai"
+    ],
+    "name:pol_x_preferred":[
+        "Smolniki"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043c\u0430\u043b\u0438\u043d\u0438\u043d\u043a\u0430\u0439"
     ],
+    "name:sco_x_preferred":[
+        "Smalininkai"
+    ],
     "name:sgs_x_preferred":[
         "Smal\u0117nink\u0101"
     ],
+    "name:swe_x_preferred":[
+        "Smalininkai"
+    ],
     "name:unk_x_variant":[
         "Smolniki"
+    ],
+    "name:vol_x_preferred":[
+        "Smalininkai"
     ],
     "name:zho_x_preferred":[
         "\u65af\u99ac\u5229\u5be7\u51f1"
@@ -87,7 +132,7 @@
         }
     ],
     "wof:id":1125839491,
-    "wof:lastmodified":1509395194,
+    "wof:lastmodified":1564193011,
     "wof:name":"Smalininkai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

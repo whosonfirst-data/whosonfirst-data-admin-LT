@@ -30,7 +30,11 @@
         "O\u017ekabaliai I"
     ],
     "name:lit_x_variant":[
-        "O\u017ekabaliai II"
+        "O\u017ekabaliai II",
+        "O\u017ekabaliai"
+    ],
+    "name:pol_x_preferred":[
+        "O\u017ekabaliai"
     ],
     "name:und_x_variant":[
         "O\u0161kabali\u0173",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310235283,
-    "wof:lastmodified":1537662120,
+    "wof:lastmodified":1564192565,
     "wof:name":"Ozkabaliai I",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

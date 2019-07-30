@@ -26,6 +26,18 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Kalnujai"
+    ],
+    "name:fra_x_preferred":[
+        "Kalnujai"
+    ],
+    "name:lit_x_preferred":[
+        "Kalnujai"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u043d\u0443\u044f\u0439"
+    ],
     "name:und_x_variant":[
         "Kalnuyay",
         "Kallkuggen",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1193172229,
-    "wof:lastmodified":1537662257,
+    "wof:lastmodified":1564192397,
     "wof:name":"Kalnujai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

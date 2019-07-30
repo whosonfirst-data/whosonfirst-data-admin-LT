@@ -22,8 +22,122 @@
     "mps:longitude":23.635691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0434\u0437\u0432\u0456\u043b\u0456\u0448\u043a\u0456\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:ces_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:cor_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:dan_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:deu_x_preferred":[
+        "Radvili\u0161kis"
+    ],
     "name:eng_x_preferred":[
         "Radviliskis"
+    ],
+    "name:epo_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:est_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062f\u0648\u06cc\u0644\u06cc\u0634\u06a9\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:fra_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:glg_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d3\u05d5\u05d5\u05d9\u05dc\u05d9\u05e9\u05e7\u05d9\u05e1"
+    ],
+    "name:hsb_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:hun_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:ind_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:ita_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c9\u30f4\u30a3\u30ea\u30b7\u30e5\u30ad\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10d3\u10d5\u10d8\u10da\u10d8\u10e8\u10d9\u10d8\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub4dc\ube4c\ub9ac\uc288\ud0a4\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Radvili\u0161\u0137i"
+    ],
+    "name:lit_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:nld_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:pms_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:pol_x_preferred":[
+        "Radziwiliszki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0432\u0438\u043b\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:spa_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:sqi_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0434\u0432\u0438\u043b\u0438\u0448\u043a\u0438\u0441"
+    ],
+    "name:swa_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:swe_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:tur_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u0432\u0456\u043b\u0456\u0448\u043a\u0456\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u062f\u0648\u06cc\u0644\u0634\u06a9\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:vol_x_preferred":[
+        "Radvili\u0161kis"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5fb7\u7dad\u5229\u4ec0\u57fa\u65af"
     ],
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -72,7 +186,7 @@
         }
     ],
     "wof:id":102073679,
-    "wof:lastmodified":1554506196,
+    "wof:lastmodified":1564190989,
     "wof:name":"Radvili\u0161kis",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

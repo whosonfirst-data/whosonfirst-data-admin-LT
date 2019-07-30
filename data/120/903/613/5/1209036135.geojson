@@ -26,8 +26,17 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Reva"
+    ],
+    "name:deu_x_preferred":[
+        "Reva"
+    ],
     "name:lit_x_preferred":[
         "R\u0117va"
+    ],
+    "name:swe_x_preferred":[
+        "Reva"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209036135,
-    "wof:lastmodified":1537662583,
+    "wof:lastmodified":1564192193,
     "wof:name":"Reva",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

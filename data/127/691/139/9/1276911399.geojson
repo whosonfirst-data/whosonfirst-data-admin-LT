@@ -26,6 +26,18 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ju\u0161konys"
+    ],
+    "name:deu_x_preferred":[
+        "Ju\u0161konys"
+    ],
+    "name:lit_x_preferred":[
+        "Ju\u0161konys"
+    ],
+    "name:swe_x_preferred":[
+        "Ju\u0161konys"
+    ],
     "name:und_x_variant":[
         "Yushkonis",
         "Ju\u0161koniai",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1276911399,
-    "wof:lastmodified":1537662264,
+    "wof:lastmodified":1564191970,
     "wof:name":"Juskonys",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

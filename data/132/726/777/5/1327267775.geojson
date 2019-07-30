@@ -26,8 +26,14 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alne"
+    ],
     "name:lit_x_preferred":[
         "Aln\u0117"
+    ],
+    "name:swe_x_preferred":[
+        "Alne"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327267775,
-    "wof:lastmodified":1537662560,
+    "wof:lastmodified":1564190932,
     "wof:name":"Alne",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

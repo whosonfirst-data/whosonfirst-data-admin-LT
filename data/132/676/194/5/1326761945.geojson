@@ -29,6 +29,9 @@
     "name:lit_x_preferred":[
         "Mateikonys"
     ],
+    "name:pol_x_preferred":[
+        "Motejkany"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326761945,
-    "wof:lastmodified":1537662632,
+    "wof:lastmodified":1564190850,
     "wof:name":"Mateikonys",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

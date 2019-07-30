@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Varnikai"
+    ],
     "name:lit_x_preferred":[
         "Varnikai"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1309843075,
-    "wof:lastmodified":1537662744,
+    "wof:lastmodified":1564192902,
     "wof:name":"Varnikai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

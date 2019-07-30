@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "Pa\u0161iau\u0161\u0117"
     ],
+    "name:lit_x_preferred":[
+        "Pa\u0161iau\u0161\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Poszawsze"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0448\u044f\u0443\u0448\u0435"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1309940035,
-    "wof:lastmodified":1537662084,
+    "wof:lastmodified":1564192943,
     "wof:name":"Pasiause",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

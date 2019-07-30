@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "No\u0161k\u016bnai"
+    ],
     "name:und_x_variant":[
         "Nashkuntsy",
         "No\u0161k\u016bnai"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327367787,
-    "wof:lastmodified":1537662123,
+    "wof:lastmodified":1564190694,
     "wof:name":"Noskunai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

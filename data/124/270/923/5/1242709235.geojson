@@ -26,6 +26,9 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lit_x_preferred":[
+        "Roduka"
+    ],
     "name:und_x_variant":[
         "Raduka",
         "Radovka",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242709235,
-    "wof:lastmodified":1537662026,
+    "wof:lastmodified":1564193226,
     "wof:name":"Roduka",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

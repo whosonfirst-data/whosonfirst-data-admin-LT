@@ -26,7 +26,13 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dumsiai"
+    ],
     "name:lit_x_preferred":[
+        "Dumsiai"
+    ],
+    "name:swe_x_preferred":[
         "Dumsiai"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276365901,
-    "wof:lastmodified":1537662962,
+    "wof:lastmodified":1564191979,
     "wof:name":"Dumsiai",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

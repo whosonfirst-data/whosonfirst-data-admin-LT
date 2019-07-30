@@ -26,11 +26,35 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Antaliept\u0117"
+    ],
+    "name:deu_x_preferred":[
+        "Antaliept\u0117"
+    ],
     "name:eng_x_preferred":[
         "Antaliept\u0117"
     ],
+    "name:fra_x_preferred":[
+        "Antaliept\u0117"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d8\u05dc\u05d9\u05d9\u05e4\u05d8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Antaliept\u0117"
+    ],
+    "name:lit_x_preferred":[
+        "Antaliept\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Antolepty"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043b\u0435\u043f\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Antaliept\u0117"
     ],
     "name:und_x_variant":[
         "Antaliept\u0117s",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1209648925,
-    "wof:lastmodified":1537662429,
+    "wof:lastmodified":1564192046,
     "wof:name":"Antaliepte",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

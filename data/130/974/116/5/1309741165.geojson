@@ -26,8 +26,14 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lav_x_preferred":[
+        "Latava"
+    ],
     "name:lit_x_preferred":[
         "Latava"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5854\u74e6\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1309741165,
-    "wof:lastmodified":1537662698,
+    "wof:lastmodified":1564192959,
     "wof:name":"Latava",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0160ventybrastis"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ventybrastis"
+    ],
+    "name:pol_x_preferred":[
+        "\u015awi\u0119tobro\u015b\u0107"
+    ],
+    "name:spa_x_preferred":[
+        "\u0160ventybrastis"
+    ],
+    "name:swe_x_preferred":[
+        "\u0160ventybrastis"
+    ],
     "name:und_x_variant":[
         "Sventobrosts\u2019",
         "\u0160ventybras\u010dio",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1310040777,
-    "wof:lastmodified":1537661945,
+    "wof:lastmodified":1564192715,
     "wof:name":"Sventybrastis",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

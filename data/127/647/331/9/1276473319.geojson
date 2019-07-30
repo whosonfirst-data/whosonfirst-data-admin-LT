@@ -29,6 +29,9 @@
     "name:lit_x_preferred":[
         "Vladislava"
     ],
+    "name:slv_x_preferred":[
+        "Vladislava"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276473319,
-    "wof:lastmodified":1537662950,
+    "wof:lastmodified":1564191762,
     "wof:name":"Vladislava",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

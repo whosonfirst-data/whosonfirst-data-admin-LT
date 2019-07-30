@@ -29,6 +29,15 @@
     "name:eng_x_preferred":[
         "Stelmu\u017e\u0117"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30eb\u30e0\u30b8\u30a7\u30fc"
+    ],
+    "name:lav_x_preferred":[
+        "Stelmu\u017ee"
+    ],
+    "name:lit_x_preferred":[
+        "Stelmu\u017e\u0117"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0435\u043b\u044c\u043c\u0443\u0436\u0435"
     ],
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1343888537,
-    "wof:lastmodified":1537661959,
+    "wof:lastmodified":1564191282,
     "wof:name":"Stelmuze",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",
