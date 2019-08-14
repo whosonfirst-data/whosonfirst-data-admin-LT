@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AS"
+    ],
     "lbl:latitude":54.24616,
     "lbl:longitude":24.141565,
     "mps:latitude":54.24616,
@@ -348,7 +351,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1563317724,
+    "wof:lastmodified":1565726748,
     "wof:name":"Alytus",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

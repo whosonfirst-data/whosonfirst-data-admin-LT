@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SH"
+    ],
     "lbl:latitude":55.963148,
     "lbl:longitude":23.324582,
     "mps:latitude":55.963148,
@@ -341,7 +344,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1563317726,
+    "wof:lastmodified":1565726749,
     "wof:name":"\u0160iauliai",
     "wof:parent_id":85633269,
     "wof:placetype":"region",
