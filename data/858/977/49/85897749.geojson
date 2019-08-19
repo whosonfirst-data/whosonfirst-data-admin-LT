@@ -107,7 +107,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":54.733333,
     "wd:longitude":25.241667,
     "wd:wordcount":32,
@@ -141,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563317735,
+    "wof:lastmodified":1566247516,
     "wof:name":"Fabijoniskes",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

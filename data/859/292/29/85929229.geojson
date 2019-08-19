@@ -133,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85685759,
         102191581,
@@ -164,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563317713,
+    "wof:lastmodified":1566247583,
     "wof:name":"Senamiestis",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

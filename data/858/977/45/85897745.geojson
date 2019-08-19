@@ -147,7 +147,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         85685759,
@@ -181,7 +181,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563317735,
+    "wof:lastmodified":1566247516,
     "wof:name":"Grigiskes",
     "wof:parent_id":101754089,
     "wof:placetype":"neighbourhood",

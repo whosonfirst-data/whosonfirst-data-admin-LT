@@ -91,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":153,
     "wof:belongsto":[
         85685759,
@@ -123,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563317713,
+    "wof:lastmodified":1566247582,
     "wof:name":"Pilaite",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",
