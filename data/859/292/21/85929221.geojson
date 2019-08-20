@@ -104,7 +104,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":54.667778,
     "wd:longitude":25.203056,
     "wd:wordcount":277,
@@ -139,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563317714,
+    "wof:lastmodified":1566247583,
     "wof:name":"Lazdynai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

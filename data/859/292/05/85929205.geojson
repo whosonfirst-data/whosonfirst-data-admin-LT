@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17891340.518053,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.301475,54.719114,25.301475,54.719114",
     "geom:latitude":54.719114,
     "geom:longitude":25.301475,
@@ -76,13 +76,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85685759,
         102191581,
         85633269,
         101753031,
-        102073615,
-        85685759
+        102073615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939116,
+    "wof:lastmodified":1566247583,
     "wof:name":"Zirmunai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

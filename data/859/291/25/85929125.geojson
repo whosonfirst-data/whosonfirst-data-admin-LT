@@ -98,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"wk",
     "wd:latitude":54.75,
     "wd:longitude":25.366667,
@@ -136,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563317718,
+    "wof:lastmodified":1566247582,
     "wof:name":"Antakalnis",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

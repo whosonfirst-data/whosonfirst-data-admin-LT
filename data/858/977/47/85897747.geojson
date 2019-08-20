@@ -114,7 +114,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":274,
     "wof:belongsto":[
         85685759,
@@ -148,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563317735,
+    "wof:lastmodified":1566247518,
     "wof:name":"Naujoji Vilnia",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

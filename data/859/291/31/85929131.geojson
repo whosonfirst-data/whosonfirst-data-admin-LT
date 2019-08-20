@@ -137,7 +137,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"wk",
     "wd:latitude":55.15,
     "wd:longitude":24.575,
@@ -175,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563317717,
+    "wof:lastmodified":1566247582,
     "wof:name":"Verkiai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",
