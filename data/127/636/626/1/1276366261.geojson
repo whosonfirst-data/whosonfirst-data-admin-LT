@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.10362,54.76054,24.14362,54.80054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pilivonos",
         "Pilena",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276366261,
-    "wof:lastmodified":1537662062,
+    "wof:lastmodified":1566597307,
     "wof:name":"Piliuona",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

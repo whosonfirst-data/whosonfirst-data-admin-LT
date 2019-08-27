@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.60328,56.12644,23.64328,56.16644",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gashchyunay",
         "Gas\u010di\u016bnai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293620095,
-    "wof:lastmodified":1537662324,
+    "wof:lastmodified":1566596927,
     "wof:name":"Gasciunai",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

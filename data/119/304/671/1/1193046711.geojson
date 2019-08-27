@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.24345,54.86056,23.28345,54.90056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Polobe",
         "Paluob\u0117",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193046711,
-    "wof:lastmodified":1537662094,
+    "wof:lastmodified":1566597548,
     "wof:name":"Paluobiai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

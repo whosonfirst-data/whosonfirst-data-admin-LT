@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.90307,54.55093,22.94307,54.59093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Stolauk\u0117lis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326861259,
-    "wof:lastmodified":1537662792,
+    "wof:lastmodified":1566596557,
     "wof:name":"Stolaukelis",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

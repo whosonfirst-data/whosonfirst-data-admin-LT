@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.10573,56.31273,22.14573,56.35273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kukiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327467829,
-    "wof:lastmodified":1537662764,
+    "wof:lastmodified":1566596621,
     "wof:name":"Kukiai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

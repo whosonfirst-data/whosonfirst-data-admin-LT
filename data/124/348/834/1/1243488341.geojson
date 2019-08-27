@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.81695,56.24754,22.85695,56.28754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alki\u0161kiai"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "Alkishkyay",
-        "Alki\u0161ki\u0173",
-        "Alki\u0161kiai"
+        "Alki\u0161ki\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1243488341,
-    "wof:lastmodified":1564193158,
+    "wof:lastmodified":1566598137,
     "wof:name":"Alkiskiai",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

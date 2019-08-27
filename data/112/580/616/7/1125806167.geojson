@@ -9,14 +9,18 @@
     "geom:bbox":"23.56667,54.3,23.56667,54.3",
     "geom:latitude":54.3,
     "geom:longitude":23.56667,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LT",
+    "lbl:bbox":"23.54667,54.28,23.58667,54.32",
     "lbl:latitude":54.3,
     "lbl:longitude":23.56667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Verstaminai"
@@ -33,7 +37,7 @@
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0441\u0442\u0430\u043c\u0438\u043d\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verstominy"
     ],
     "qs_pg:aaroncc":"LT",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":479510,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
     "woe:name_adm1":"Alytaus Apskritis",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1125806167,
-    "wof:lastmodified":1561837301,
+    "wof:lastmodified":1566598026,
     "wof:name":"Verstaminai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

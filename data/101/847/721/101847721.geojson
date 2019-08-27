@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.229356,
     "lbl:longitude":23.815871,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":54.229356,
     "mps:longitude":23.815871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0435\u0439\u0440\u044b\u044f\u0439"
     ],
@@ -61,9 +64,6 @@
     "name:swe_x_preferred":[
         "Seirijai"
     ],
-    "name:unk_x_variant":[
-        "Sereje"
-    ],
     "name:zho_x_preferred":[
         "\u585e\u91cc\u8cc8\u4f0a"
     ],
@@ -81,7 +81,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":54.230556,
     "wd:longitude":23.813889,
@@ -97,7 +97,7 @@
     "wof:concordances":{
         "gn:id":594848,
         "gp:id":478278,
-        "qs:id":215265,
+        "qs_pg:id":215265,
         "wd:id":"Q1811561",
         "wk:page":"Seirijai"
     },
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":101847721,
-    "wof:lastmodified":1563319228,
+    "wof:lastmodified":1566597939,
     "wof:name":"Seirijai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

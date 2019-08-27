@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.24454,55.12058,23.28454,55.16058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pelyutelyay",
         "Pelyuteli",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225881237,
-    "wof:lastmodified":1537662071,
+    "wof:lastmodified":1566598477,
     "wof:name":"Peluteliai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.940694,
     "lbl:longitude":23.656478,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.940694,
     "mps:longitude":23.656478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u043b\u0430\u0443\u0442\u0443\u0432\u0430"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Kulautuva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dachi Kolotovo"
     ],
     "qs:a0":"Lietuva",
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":54.938889,
     "wd:longitude":23.65,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":597881,
         "gp:id":475804,
-        "qs:id":260676,
         "qs_pg:id":260676,
         "wd:id":"Q2097414",
         "wk:page":"Kulautuva"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101817993,
-    "wof:lastmodified":1563319206,
+    "wof:lastmodified":1566597933,
     "wof:name":"Kulautuva",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

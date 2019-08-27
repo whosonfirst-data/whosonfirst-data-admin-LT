@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.49524,54.38317,23.53524,54.42317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naujavalaki\u0173",
         "Novevloki",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310235977,
-    "wof:lastmodified":1537662136,
+    "wof:lastmodified":1566597697,
     "wof:name":"Naujavalakiai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

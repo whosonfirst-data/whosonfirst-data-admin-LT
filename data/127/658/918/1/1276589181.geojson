@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.10207,55.71947,22.14207,55.75947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhilaychyay",
         "\u017dilai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276589181,
-    "wof:lastmodified":1537661863,
+    "wof:lastmodified":1566597220,
     "wof:name":"Zilaiciai",
     "wof:parent_id":102073669,
     "wof:placetype":"locality",

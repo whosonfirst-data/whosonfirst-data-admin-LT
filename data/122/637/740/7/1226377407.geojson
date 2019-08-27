@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.40518,55.40616,23.44518,55.44616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Agelai\u010di\u0173",
         "Agelai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226377407,
-    "wof:lastmodified":1537662439,
+    "wof:lastmodified":1566598563,
     "wof:name":"Agelaiciai",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

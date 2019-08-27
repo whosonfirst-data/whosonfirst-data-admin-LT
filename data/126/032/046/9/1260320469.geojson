@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.14894,55.84645,21.18894,55.88645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kibelk\u0161\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260320469,
-    "wof:lastmodified":1537662235,
+    "wof:lastmodified":1566597659,
     "wof:name":"Kibelksciai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

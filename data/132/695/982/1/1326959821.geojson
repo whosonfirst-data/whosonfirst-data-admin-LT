@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.88466,54.95982,25.92466,54.99982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Balyuli",
         "Balyulay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326959821,
-    "wof:lastmodified":1537662409,
+    "wof:lastmodified":1566596607,
     "wof:name":"Baliuliai",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.13892,
     "lbl:longitude":21.911329,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.13892,
     "mps:longitude":21.911329,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u063a\u064a\u063a\u064a\u0627\u064a"
     ],
@@ -102,9 +105,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0433\u0435\u0433\u044f\u0439"
     ],
-    "name:unk_x_variant":[
-        "Pojegi"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u06af\u06cc\u06af\u06cc\u0626\u06cc"
     ],
@@ -131,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -143,7 +143,6 @@
     "wof:concordances":{
         "gn:id":596399,
         "gp:id":476990,
-        "qs:id":125955,
         "qs_pg:id":125955,
         "wd:id":"Q643376",
         "wk:page":"Pag\u0117giai"
@@ -160,7 +159,7 @@
         }
     ],
     "wof:id":101817991,
-    "wof:lastmodified":1563319181,
+    "wof:lastmodified":1566597927,
     "wof:name":"Pag\u0117giai",
     "wof:parent_id":102073623,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.37476,55.83147,22.41476,55.87147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhomsugaylas",
         "\u017d\u0105s\u016bgala"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243101431,
-    "wof:lastmodified":1537661870,
+    "wof:lastmodified":1566598254,
     "wof:name":"Zasugala",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

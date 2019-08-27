@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.99602,54.584,25.03602,54.624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Piloluaka",
         "Pilialaukis"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243584485,
-    "wof:lastmodified":1537662063,
+    "wof:lastmodified":1566598161,
     "wof:name":"Pilialaukis",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

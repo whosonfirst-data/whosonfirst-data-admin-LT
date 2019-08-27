@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.93412,55.29756,25.97412,55.33756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0456\u043d\u043a\u043c\u044f\u043d\u0456\u0441"
     ],
@@ -50,9 +54,7 @@
     "name:und_x_variant":[
         "Linkmennes",
         "Linkmenis",
-        "Lyngmyany",
-        "\u0141yngmiany",
-        "Linkmenys"
+        "Lyngmyany"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1276803421,
-    "wof:lastmodified":1564191691,
+    "wof:lastmodified":1566597183,
     "wof:name":"Linkmenys",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

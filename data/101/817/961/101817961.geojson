@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.581634,
     "lbl:longitude":24.526926,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.581634,
     "mps:longitude":24.526926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0412\u044b\u0441\u043e\u043a\u0456 \u0414\u0432\u043e\u0440"
     ],
@@ -65,9 +68,6 @@
     "name:szl_x_preferred":[
         "Auk\u0161tadvaris"
     ],
-    "name:unk_x_variant":[
-        "Wysoki Dw\u00f3r"
-    ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Trakai",
     "qs:a1r":"0Vilnius",
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -97,7 +97,6 @@
     "wof:concordances":{
         "gn:id":600896,
         "gp:id":473343,
-        "qs:id":900080,
         "qs_pg:id":900080,
         "wd:id":"Q2667459",
         "wk:page":"Auk\u0161tadvaris"
@@ -114,7 +113,7 @@
         }
     ],
     "wof:id":101817961,
-    "wof:lastmodified":1563319203,
+    "wof:lastmodified":1566597932,
     "wof:name":"Auk\u0161tadvaris",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

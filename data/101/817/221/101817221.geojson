@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":56.029616,
     "lbl:longitude":22.044343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.029616,
     "mps:longitude":22.044343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Als\u0117d\u017eiai"
     ],
@@ -43,9 +46,6 @@
     "name:sgs_x_preferred":[
         "Alsied\u0113"
     ],
-    "name:unk_x_variant":[
-        "Olsiady"
-    ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Plunge",
     "qs:a1r":"0Tel\u0161iai",
@@ -60,7 +60,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":206,
     "wof:belongsto":[
         102191581,
@@ -72,7 +72,7 @@
     "wof:concordances":{
         "gn:id":601105,
         "gp:id":473188,
-        "qs:id":291562,
+        "qs_pg:id":291562,
         "wd:id":"Q4735905",
         "wk:page":"Als\u0117d\u017eiai"
     },
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101817221,
-    "wof:lastmodified":1561837296,
+    "wof:lastmodified":1566597929,
     "wof:name":"Als\u0117d\u017eiai",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

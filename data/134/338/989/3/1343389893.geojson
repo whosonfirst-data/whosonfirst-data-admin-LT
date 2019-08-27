@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.8646,55.79085,22.9046,55.83085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0160auk\u0117nai"
     ],
@@ -55,11 +59,9 @@
     ],
     "name:und_x_variant":[
         "Shavkyany",
-        "Szawkiany",
         "Szayikiany",
         "Shaukenay",
-        "\u0160auk\u0117n\u0173",
-        "\u0160auk\u0117nai"
+        "\u0160auk\u0117n\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":1343389893,
-    "wof:lastmodified":1564190995,
+    "wof:lastmodified":1566596728,
     "wof:name":"Saukenai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

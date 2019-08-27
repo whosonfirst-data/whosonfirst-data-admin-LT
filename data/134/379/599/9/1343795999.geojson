@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.39263,55.04706,23.43263,55.08706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bozhishki",
         "Buo\u017eiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343795999,
-    "wof:lastmodified":1537662377,
+    "wof:lastmodified":1566596788,
     "wof:name":"Buoziai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

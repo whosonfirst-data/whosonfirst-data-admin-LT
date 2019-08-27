@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.14651,55.03052,24.18651,55.07052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bartoniai"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Bartonys",
         "Bartoni\u0173",
-        "Bartonyay",
-        "Bartoniai"
+        "Bartonyay"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0631\u0679\u0648\u0646\u06cc\u0627\u0626\u06cc"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293129839,
-    "wof:lastmodified":1564191426,
+    "wof:lastmodified":1566596993,
     "wof:name":"Bartoniai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

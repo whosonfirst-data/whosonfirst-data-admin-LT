@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.89101,55.87421,25.93101,55.91421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Cigeln\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293526319,
-    "wof:lastmodified":1537662547,
+    "wof:lastmodified":1566596947,
     "wof:name":"Cigelne",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

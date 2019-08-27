@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.98367,55.88702,25.02367,55.92702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Po\u0142awe\u0144",
         "Po\u0142owienek",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209851417,
-    "wof:lastmodified":1537662098,
+    "wof:lastmodified":1566597400,
     "wof:name":"Palevenele",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.04349,55.77219,22.08349,55.81219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laurinaychyay",
         "Laurynai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360120391,
-    "wof:lastmodified":1537662196,
+    "wof:lastmodified":1566597831,
     "wof:name":"Laurynaiciai",
     "wof:parent_id":102073669,
     "wof:placetype":"locality",

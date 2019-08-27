@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.76558,55.14154,23.80558,55.18154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kilbisai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310241003,
-    "wof:lastmodified":1537662890,
+    "wof:lastmodified":1566597688,
     "wof:name":"Kilbisai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

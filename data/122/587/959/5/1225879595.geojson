@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.92753,55.69783,21.96753,55.73783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vatu\u0161i\u0173",
         "Vatushey",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225879595,
-    "wof:lastmodified":1537661899,
+    "wof:lastmodified":1566598484,
     "wof:name":"Vatusiai",
     "wof:parent_id":102073669,
     "wof:placetype":"locality",

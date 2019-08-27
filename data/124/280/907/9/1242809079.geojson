@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.47059,54.7505,23.51059,54.7905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yura"
     ],
@@ -53,9 +57,6 @@
     "name:swe_x_preferred":[
         "Yura"
     ],
-    "name:und_x_variant":[
-        "J\u016br\u0117"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1242809079,
-    "wof:lastmodified":1564193091,
+    "wof:lastmodified":1566598093,
     "wof:name":"Yura",
     "wof:parent_id":102073607,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":25.182761,
     "gn:id":"",
     "iso:country":"LT",
+    "lbl:bbox":"25.177761,54.701948,25.187761,54.711948",
     "lbl:latitude":54.706948,
     "lbl:longitude":25.182761,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.704371,
     "mps:longitude":25.178978,
     "mz:hierarchy_label":0,
@@ -58,12 +60,6 @@
     "name:swe_x_preferred":[
         "Pilait\u0117"
     ],
-    "name:und_x_preferred":[
-        "Pilaite"
-    ],
-    "name:unk_x_variant":[
-        "Pilaite"
-    ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_id":0,
     "qs:gn_local":593116,
@@ -103,7 +99,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55848102,
-        "qs:id":1267873,
         "qs_pg:id":1267873,
         "wd:id":"Q1005578"
     },
@@ -123,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566596903,
     "wof:name":"Pilaite",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

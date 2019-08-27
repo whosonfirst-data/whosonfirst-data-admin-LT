@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.744418,
     "lbl:longitude":22.369529,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.744418,
     "mps:longitude":22.369529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0646\u064a\u0627\u064a"
     ],
@@ -109,7 +112,7 @@
     "name:tat_x_preferred":[
         "\u0412\u0430\u0440\u043d\u04d9\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Medininkai"
     ],
     "name:vol_x_preferred":[
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":182,
     "wof:belongsto":[
@@ -148,7 +151,6 @@
     "wof:concordances":{
         "gn:id":593378,
         "gp:id":479428,
-        "qs:id":125930,
         "qs_pg:id":125930,
         "wd:id":"Q621181",
         "wk:page":"Varniai"
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":101818087,
-    "wof:lastmodified":1563319164,
+    "wof:lastmodified":1566597922,
     "wof:name":"Varniai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

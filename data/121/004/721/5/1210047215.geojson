@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.18625,54.86178,24.22625,54.90178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Vosyli\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210047215,
-    "wof:lastmodified":1537662921,
+    "wof:lastmodified":1566597525,
     "wof:name":"Vosyliskes",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

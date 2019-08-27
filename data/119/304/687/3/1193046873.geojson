@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.80415,55.4194,23.84415,55.4594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mantvili\u0161kis"
     ],
@@ -40,8 +44,7 @@
         "Mantvili\u0161kio",
         "Mantvili\u0161kiai",
         "Mantvili\u0161ki\u0173",
-        "Mantvilishkis",
-        "Mantvili\u0161kis"
+        "Mantvilishkis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1193046873,
-    "wof:lastmodified":1564192348,
+    "wof:lastmodified":1566597544,
     "wof:name":"Mantviliskis",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

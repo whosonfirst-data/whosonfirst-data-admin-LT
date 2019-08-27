@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.39457,54.58805,25.43457,54.62805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Skrabin\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309940553,
-    "wof:lastmodified":1537662669,
+    "wof:lastmodified":1566597977,
     "wof:name":"Skrabine",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

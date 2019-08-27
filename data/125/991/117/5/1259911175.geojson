@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.62914,54.66118,24.66914,54.70118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Aleksandrava"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259911175,
-    "wof:lastmodified":1537662328,
+    "wof:lastmodified":1566598272,
     "wof:name":"Aleksandrava",
     "wof:parent_id":102073613,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.81277,56.34064,22.85277,56.38064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Klykuoli\u0173",
         "Klikolyay",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243077797,
-    "wof:lastmodified":1537662226,
+    "wof:lastmodified":1566598038,
     "wof:name":"Klykoliai",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

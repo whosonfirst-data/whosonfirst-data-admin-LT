@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.381146,
     "lbl:longitude":23.127711,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.381146,
     "mps:longitude":23.127711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0420\u0430\u0441\u0435\u0439\u043d\u044f\u0439"
     ],
@@ -117,7 +120,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0441\u0435\u0439\u043d\u044f\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reseiniai"
     ],
     "name:urd_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -157,7 +160,6 @@
     "wof:concordances":{
         "gn:id":595378,
         "gp:id":477861,
-        "qs:id":125953,
         "qs_pg:id":125953,
         "wd:id":"Q658562",
         "wk:page":"Raseiniai District Municipality"
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":101817183,
-    "wof:lastmodified":1563319219,
+    "wof:lastmodified":1566597937,
     "wof:name":"Raseiniai",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

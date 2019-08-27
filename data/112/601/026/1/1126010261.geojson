@@ -9,15 +9,18 @@
     "geom:bbox":"26.16667,55.15,26.16667,55.15",
     "geom:latitude":55.15,
     "geom:longitude":26.16667,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5538,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
     "gn:population":5538,
     "iso:country":"LT",
+    "lbl:bbox":"26.14667,55.13,26.18667,55.17",
     "lbl:latitude":55.15,
     "lbl:longitude":26.16667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u0641\u064a\u0646\u064a\u062a\u0634\u0648\u0646\u064a\u0633"
@@ -109,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0432\u044f\u043d\u0447\u0435\u043d\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shvenchionis"
     ],
     "name:urd_x_preferred":[
@@ -140,7 +143,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":478895,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":1126010261,
-    "wof:lastmodified":1563319352,
+    "wof:lastmodified":1566598034,
     "wof:name":"\u0160 Ven\u010dionys",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

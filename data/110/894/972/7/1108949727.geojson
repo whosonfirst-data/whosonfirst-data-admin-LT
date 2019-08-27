@@ -10,8 +10,10 @@
     "geom:latitude":54.741831,
     "geom:longitude":25.274544,
     "iso:country":"LT",
+    "lbl:bbox":"25.2695441893,54.73683105,25.2795441893,54.74683105",
     "lbl:latitude":54.741831,
     "lbl:longitude":25.274544,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -42,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0440\u0443\u0437\u0430\u043b\u0435"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85685759,
         102191581,
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":1108949727,
-    "wof:lastmodified":1564192545,
+    "wof:lastmodified":1566597682,
     "wof:name":"Jeruzale",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

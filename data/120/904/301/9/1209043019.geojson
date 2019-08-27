@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.06638,55.3859,25.10638,55.4259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Moliakalnis"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209043019,
-    "wof:lastmodified":1537662709,
+    "wof:lastmodified":1566597443,
     "wof:name":"Moliakalnis",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

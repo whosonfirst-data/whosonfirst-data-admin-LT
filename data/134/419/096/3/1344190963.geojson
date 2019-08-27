@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.75252,55.09797,25.79252,55.13797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meld\u017ei\u016bnai"
     ],
@@ -36,8 +40,7 @@
         "\u041c\u0430\u043b\u044c\u0434\u0436\u044e\u043d\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "Mal\u2019dzyuny",
-        "Meld\u017ei\u016bnai"
+        "Mal\u2019dzyuny"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1344190963,
-    "wof:lastmodified":1537662161,
+    "wof:lastmodified":1566596851,
     "wof:name":"Maldziunai",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.33397,55.33213,25.37397,55.37213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Marcelina"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309749267,
-    "wof:lastmodified":1564192974,
+    "wof:lastmodified":1566598007,
     "wof:name":"Marcelina",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.34873,55.34118,23.38873,55.38118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Betygala"
     ],
@@ -64,9 +68,7 @@
     ],
     "name:und_x_variant":[
         "Betigala",
-        "Betigola",
-        "Betygalos",
-        "Betygala"
+        "Betygalos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1226176271,
-    "wof:lastmodified":1564193553,
+    "wof:lastmodified":1566598392,
     "wof:name":"Betygala",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

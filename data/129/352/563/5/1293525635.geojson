@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.68984,55.40863,25.72984,55.44863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kachunay",
         "Ka\u010di\u016bnai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293525635,
-    "wof:lastmodified":1537662263,
+    "wof:lastmodified":1566596944,
     "wof:name":"Kaciunai",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

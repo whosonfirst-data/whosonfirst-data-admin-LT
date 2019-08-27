@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.2925,55.23607,23.3325,55.27607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Mituva"
     ],
@@ -51,8 +55,7 @@
         "\u041c\u0456\u0442\u0443\u0432\u0430"
     ],
     "name:und_x_variant":[
-        "Trakai",
-        "Mituva"
+        "Trakai"
     ],
     "name:zho_x_preferred":[
         "\u7c73\u5716\u74e6\u6cb3"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1260323243,
-    "wof:lastmodified":1564192515,
+    "wof:lastmodified":1566597662,
     "wof:name":"Mituva",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

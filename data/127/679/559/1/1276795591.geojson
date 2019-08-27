@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.83809,54.53974,23.87809,54.57974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Medvizhe",
         "Medvi\u0161iai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276795591,
-    "wof:lastmodified":1537662163,
+    "wof:lastmodified":1566597259,
     "wof:name":"Medvisiai",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

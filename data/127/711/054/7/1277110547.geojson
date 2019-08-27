@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.90024,56.16315,23.94024,56.20315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Visheykyay",
         "Vi\u0161eikiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277110547,
-    "wof:lastmodified":1537662445,
+    "wof:lastmodified":1566597322,
     "wof:name":"Viseikiai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

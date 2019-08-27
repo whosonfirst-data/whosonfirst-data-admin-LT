@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.67207,54.68074,24.71207,54.72074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pakaln\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259719559,
-    "wof:lastmodified":1537662959,
+    "wof:lastmodified":1566598314,
     "wof:name":"Pakalnes",
     "wof:parent_id":102073613,
     "wof:placetype":"locality",

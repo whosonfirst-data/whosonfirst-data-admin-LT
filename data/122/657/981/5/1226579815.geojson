@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.59364,56.24483,24.63364,56.28483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pa\u010deriauk\u0161t\u0117 I"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226579815,
-    "wof:lastmodified":1537662447,
+    "wof:lastmodified":1566598471,
     "wof:name":"Paceriaukste I",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

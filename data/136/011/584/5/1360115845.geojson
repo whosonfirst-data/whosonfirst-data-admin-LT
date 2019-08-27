@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.05812,55.8269,25.09812,55.8669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuosenay",
         "Kuosin\u0173",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360115845,
-    "wof:lastmodified":1537662210,
+    "wof:lastmodified":1566597882,
     "wof:name":"Kuosenai",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.56287,55.428,25.60287,55.468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Paraud\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242713901,
-    "wof:lastmodified":1537662563,
+    "wof:lastmodified":1566598183,
     "wof:name":"Paraude",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

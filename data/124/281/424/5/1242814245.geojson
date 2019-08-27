@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.743,55.90103,25.783,55.94103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Papilyay",
         "Papiliai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242814245,
-    "wof:lastmodified":1537662089,
+    "wof:lastmodified":1566598102,
     "wof:name":"Papiliai",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

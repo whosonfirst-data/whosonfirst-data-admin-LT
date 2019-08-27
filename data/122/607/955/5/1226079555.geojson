@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.32773,55.35412,23.36773,55.39412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Maskvitai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226079555,
-    "wof:lastmodified":1537662855,
+    "wof:lastmodified":1566598587,
     "wof:name":"Maskvitai",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

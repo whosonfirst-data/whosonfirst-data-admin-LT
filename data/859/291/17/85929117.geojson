@@ -12,8 +12,10 @@
     "gn:latitude":54.70766,
     "gn:longitude":25.27285,
     "iso:country":"LT",
+    "lbl:bbox":"25.268601,54.692375,25.278601,54.702375",
     "lbl:latitude":54.697375,
     "lbl:longitude":25.273601,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.701225,
     "mps:longitude":25.281377,
     "mz:hierarchy_label":0,
@@ -56,10 +58,7 @@
     "name:rus_x_preferred":[
         "\u0428\u043d\u0438\u043f\u0438\u0448\u043a\u0435\u0441"
     ],
-    "name:und_x_preferred":[
-        "Snipiskes"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Snipiskes"
     ],
     "qs:gn_adm0_cc":"LT",
@@ -102,7 +101,6 @@
     "wof:concordances":{
         "gn:id":6955407,
         "gp:id":55848088,
-        "qs:id":1198562,
         "qs_pg:id":1198562,
         "wd:id":"Q2573951",
         "wk:page":"\u0160nipi\u0161k\u0117s"
@@ -123,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566596903,
     "wof:name":"Snipiskes",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

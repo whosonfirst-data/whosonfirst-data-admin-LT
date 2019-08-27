@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.835282,
     "lbl:longitude":24.986845,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.835282,
     "mps:longitude":24.986845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0443\u043f\u0456\u0448\u043a\u0456\u0441"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043f\u0438\u0448\u043a\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myasto Kupishkis"
     ],
     "name:urd_x_preferred":[
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":55.833333,
     "wd:longitude":24.966667,
@@ -160,7 +163,6 @@
     "wof:concordances":{
         "gn:id":597806,
         "gp:id":475865,
-        "qs:id":125987,
         "qs_pg:id":125987,
         "wd:id":"Q820024"
     },
@@ -176,7 +178,7 @@
         }
     ],
     "wof:id":101818095,
-    "wof:lastmodified":1563319171,
+    "wof:lastmodified":1566597924,
     "wof:name":"Kupi\u0161kis",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.68376,55.51186,22.72376,55.55186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laplega",
         "Laplegyay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327364285,
-    "wof:lastmodified":1537662200,
+    "wof:lastmodified":1566596537,
     "wof:name":"Laplegiai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

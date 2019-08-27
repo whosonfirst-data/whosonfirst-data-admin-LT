@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.90039,56.20758,23.94039,56.24758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160ulai\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243007283,
-    "wof:lastmodified":1537662902,
+    "wof:lastmodified":1566598056,
     "wof:name":"Sulaiciai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"24.85,54.88333,24.85,54.88333",
     "geom:latitude":54.88333,
     "geom:longitude":24.85,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":272,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LT",
+    "lbl:bbox":"24.83,54.86333,24.87,54.90333",
     "lbl:latitude":54.88333,
     "lbl:longitude":24.85,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Kernav\u0117"
@@ -136,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u043d\u0430\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kernovo"
     ],
     "name:vie_x_preferred":[
@@ -166,7 +169,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":475534,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":1125882215,
-    "wof:lastmodified":1563319333,
+    "wof:lastmodified":1566598024,
     "wof:name":"Kernav\u0117",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

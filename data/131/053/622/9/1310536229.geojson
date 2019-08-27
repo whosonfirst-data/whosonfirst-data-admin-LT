@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.84426,54.52979,23.88426,54.56979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Zaslona"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310536229,
-    "wof:lastmodified":1537662878,
+    "wof:lastmodified":1566597740,
     "wof:name":"Zaslona",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

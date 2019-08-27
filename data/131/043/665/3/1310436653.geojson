@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.53158,56.22405,23.57158,56.26405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mikolai\u010diunai",
         "Kal\u2019nyalis",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310436653,
-    "wof:lastmodified":1537662259,
+    "wof:lastmodified":1566597788,
     "wof:name":"Kalnelis",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

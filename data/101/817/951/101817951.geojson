@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.599629,
     "lbl:longitude":24.177399,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.599629,
     "mps:longitude":24.177399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0632\u0646\u0627\u0633"
     ],
@@ -93,7 +96,7 @@
     "name:tat_x_preferred":[
         "\u0415\u0437\u043d\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yeznas"
     ],
     "name:vol_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":343,
     "wof:belongsto":[
@@ -131,7 +134,6 @@
     "wof:concordances":{
         "gn:id":598854,
         "gp:id":475022,
-        "qs:id":297510,
         "qs_pg:id":297510,
         "wd:id":"Q47068",
         "wk:page":"Jieznas"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101817951,
-    "wof:lastmodified":1563319209,
+    "wof:lastmodified":1566597933,
     "wof:name":"Jieznas",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

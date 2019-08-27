@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.71429,56.14189,23.75429,56.18189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rimdzhyunay",
         "Rimd\u017ei\u016bnai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326564497,
-    "wof:lastmodified":1537662030,
+    "wof:lastmodified":1566596568,
     "wof:name":"Rimdziunai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

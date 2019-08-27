@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.78689,54.36864,23.82689,54.40864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Santayka",
         "Santakos",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343494819,
-    "wof:lastmodified":1537662010,
+    "wof:lastmodified":1566596807,
     "wof:name":"Santaika",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

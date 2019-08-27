@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.4246,55.81428,25.4646,55.85428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Gyviai"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209243323,
-    "wof:lastmodified":1537662604,
+    "wof:lastmodified":1566597386,
     "wof:name":"Gyviai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.84125,56.28027,23.88125,56.32027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Myg\u016bnai III"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293619821,
-    "wof:lastmodified":1537662902,
+    "wof:lastmodified":1566597029,
     "wof:name":"Mygunai III",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

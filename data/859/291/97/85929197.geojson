@@ -11,8 +11,10 @@
     "geom:longitude":25.226635,
     "gn:id":"",
     "iso:country":"LT",
+    "lbl:bbox":"25.221635,54.724465,25.231635,54.734465",
     "lbl:latitude":54.729465,
     "lbl:longitude":25.226635,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.736514,
     "mps:longitude":25.209523,
     "mz:hierarchy_label":0,
@@ -55,10 +57,7 @@
     "name:swe_x_preferred":[
         "Pa\u0161ilai\u010diai"
     ],
-    "name:und_x_preferred":[
-        "Pasilaiciai"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pasilaiciai"
     ],
     "qs:gn_adm0_cc":"LT",
@@ -100,7 +99,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55848099,
-        "qs:id":991745,
         "qs_pg:id":991745,
         "wd:id":"Q1507762"
     },
@@ -120,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566596904,
     "wof:name":"Pasilaiciai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

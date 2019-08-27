@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.39574,56.08202,25.43574,56.12202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u010cedasai"
     ],
@@ -54,10 +58,8 @@
         "\u010cedasai"
     ],
     "name:und_x_variant":[
-        "Czadosy",
         "\u010cedas\u0173",
-        "Chedasay",
-        "\u010cedasai"
+        "Chedasay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1343992731,
-    "wof:lastmodified":1564191033,
+    "wof:lastmodified":1566596752,
     "wof:name":"Cedasai",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

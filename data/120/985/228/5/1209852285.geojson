@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.426,54.27544,24.466,54.31544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Druck\u016bnai"
     ],
@@ -45,8 +49,7 @@
         "Druck\u016bn\u0173",
         "Drutskunay",
         "Drutskuny",
-        "Drutskutsay",
-        "Druck\u016bnai"
+        "Drutskutsay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209852285,
-    "wof:lastmodified":1564192111,
+    "wof:lastmodified":1566597393,
     "wof:name":"Druckunai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

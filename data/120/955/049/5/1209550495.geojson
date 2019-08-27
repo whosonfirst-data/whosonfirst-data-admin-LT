@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.05394,55.3998,23.09394,55.4398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u016anikiai"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Upninkay",
-        "Upiki",
-        "\u016anikiai"
+        "Upiki"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209550495,
-    "wof:lastmodified":1537661924,
+    "wof:lastmodified":1566597361,
     "wof:name":"Unikiai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

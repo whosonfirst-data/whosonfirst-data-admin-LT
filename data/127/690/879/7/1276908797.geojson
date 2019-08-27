@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.60668,55.23837,22.64668,55.27837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rudze",
         "Rud\u017eiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276908797,
-    "wof:lastmodified":1537662021,
+    "wof:lastmodified":1566597279,
     "wof:name":"Rudziai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

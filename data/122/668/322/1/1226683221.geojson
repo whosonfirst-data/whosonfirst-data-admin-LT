@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.59202,55.24784,25.63202,55.28784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Stirni\u0173",
         "Stirnyay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226683221,
-    "wof:lastmodified":1537661958,
+    "wof:lastmodified":1566598448,
     "wof:name":"Stirniai",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

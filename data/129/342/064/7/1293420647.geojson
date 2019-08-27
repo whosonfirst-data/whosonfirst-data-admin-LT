@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.56227,54.33539,23.60227,54.37539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Atesninkai I"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293420647,
-    "wof:lastmodified":1537662422,
+    "wof:lastmodified":1566597093,
     "wof:name":"Atesninkai I",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.16651,54.02365,24.20651,54.06365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Randamonys"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Randamonis",
         "Rondomantsy",
-        "Rondoma\u0144ce",
-        "Randamonys"
+        "Rondoma\u0144ce"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1327364799,
-    "wof:lastmodified":1537662036,
+    "wof:lastmodified":1566596531,
     "wof:name":"Randamonys",
     "wof:parent_id":102073579,
     "wof:placetype":"locality",

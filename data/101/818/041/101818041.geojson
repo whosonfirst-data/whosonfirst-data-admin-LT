@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.26038,
     "lbl:longitude":23.48358,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.26038,
     "mps:longitude":23.48358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0622\u0631\u064a\u0648\u063a\u0627\u0644\u0627"
     ],
@@ -102,9 +105,6 @@
     "name:tat_x_preferred":[
         "\u0410\u0440\u04e9\u0433\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ejrago\u0142a"
-    ],
     "name:vol_x_preferred":[
         "Ariogala"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.263889,
     "wd:longitude":23.469444,
@@ -142,7 +142,6 @@
     "wof:concordances":{
         "gn:id":600962,
         "gp:id":473294,
-        "qs:id":1064363,
         "qs_pg:id":1064363,
         "wd:id":"Q1004320",
         "wk:page":"Ariogala"
@@ -159,7 +158,7 @@
         }
     ],
     "wof:id":101818041,
-    "wof:lastmodified":1563319147,
+    "wof:lastmodified":1566597917,
     "wof:name":"Ariogala",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

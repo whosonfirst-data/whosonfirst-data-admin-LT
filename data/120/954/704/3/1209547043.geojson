@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.24216,55.67538,26.28216,55.71538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Minaukos",
         "Minauka"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209547043,
-    "wof:lastmodified":1537662150,
+    "wof:lastmodified":1566597337,
     "wof:name":"Minauka",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

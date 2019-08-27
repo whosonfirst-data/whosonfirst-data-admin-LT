@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.53,55.26333,21.57,55.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mazhellen",
         "Ma\u017eeliai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243077673,
-    "wof:lastmodified":1537662168,
+    "wof:lastmodified":1566598038,
     "wof:name":"Mazeliai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

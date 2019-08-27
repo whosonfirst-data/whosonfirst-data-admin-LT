@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.13364,56.34064,22.17364,56.38064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Dap\u0161iai"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209445529,
-    "wof:lastmodified":1537662362,
+    "wof:lastmodified":1566597503,
     "wof:name":"Dapsiai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

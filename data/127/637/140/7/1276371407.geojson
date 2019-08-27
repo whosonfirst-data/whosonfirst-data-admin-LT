@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.81729,54.87299,24.85729,54.91299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Svist\u016bnai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276371407,
-    "wof:lastmodified":1537662728,
+    "wof:lastmodified":1566597300,
     "wof:name":"Svistunai",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

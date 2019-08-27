@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.52607,55.64105,22.56607,55.68105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Eyutsse",
         "Eju\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259717179,
-    "wof:lastmodified":1537662330,
+    "wof:lastmodified":1566598325,
     "wof:name":"Ejuciai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

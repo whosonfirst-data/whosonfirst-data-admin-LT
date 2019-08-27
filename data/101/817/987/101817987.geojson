@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.806209,
     "lbl:longitude":24.44005,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":54.806209,
     "mps:longitude":24.44005,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u062c\u0645\u0627\u0631\u064a\u0627\u064a"
     ],
@@ -105,9 +108,6 @@
     "name:tgk_x_preferred":[
         "\u0416\u0435\u0436\u043c\u0430\u0440\u044f\u0439"
     ],
-    "name:unk_x_variant":[
-        "\u017by\u017cmory"
-    ],
     "name:vol_x_preferred":[
         "\u017die\u017emariai"
     ],
@@ -131,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.805556,
     "wd:longitude":24.438889,
@@ -146,7 +146,6 @@
     "wof:concordances":{
         "gn:id":592778,
         "gp:id":479879,
-        "qs:id":252003,
         "qs_pg:id":252003,
         "wd:id":"Q4178675",
         "wk:page":"\u017die\u017emariai"
@@ -163,7 +162,7 @@
         }
     ],
     "wof:id":101817987,
-    "wof:lastmodified":1563319218,
+    "wof:lastmodified":1566597936,
     "wof:name":"\u017die\u017emariai",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

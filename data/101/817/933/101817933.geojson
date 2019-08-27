@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.435652,
     "lbl:longitude":25.315217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.435652,
     "mps:longitude":25.315217,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0451\u0441\u043a\u0430 \u042f\u0448\u0443\u043d\u0430\u0439"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0448\u044e\u043d\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yashyunay"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":678,
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":598887,
         "gp:id":474996,
-        "qs:id":962574,
+        "qs_pg:id":962574,
         "wd:id":"Q3646791",
         "wk:page":"Ja\u0161i\u016bnai"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101817933,
-    "wof:lastmodified":1563319210,
+    "wof:lastmodified":1566597934,
     "wof:name":"Ja\u0161i\u016bnai",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

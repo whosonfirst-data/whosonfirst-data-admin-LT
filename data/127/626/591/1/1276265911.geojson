@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.30954,54.57005,24.34954,54.61005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Stakli\u0161k\u0117s"
     ],
@@ -55,10 +59,8 @@
     ],
     "name:und_x_variant":[
         "Staklishkes",
-        "Stokliszki",
         "Stoklishki",
-        "Stakli\u0161ki\u0173",
-        "Stakli\u0161k\u0117s"
+        "Stakli\u0161ki\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1276265911,
-    "wof:lastmodified":1564191663,
+    "wof:lastmodified":1566597164,
     "wof:name":"Stakliskes",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.17781,55.66651,22.21781,55.70651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shuraychyay",
         "\u0160iurai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276156841,
-    "wof:lastmodified":1537661982,
+    "wof:lastmodified":1566597252,
     "wof:name":"Siuraiciai",
     "wof:parent_id":102073669,
     "wof:placetype":"locality",

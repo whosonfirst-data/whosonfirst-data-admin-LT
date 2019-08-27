@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.03441,54.22057,24.07441,54.26057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Savilionys"
     ],
@@ -34,7 +38,6 @@
     ],
     "name:und_x_variant":[
         "Savilianiai",
-        "Savilionys",
         "Sovilyantsy",
         "Savilioni\u0173",
         "Savilenis"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1326563707,
-    "wof:lastmodified":1537662002,
+    "wof:lastmodified":1566596573,
     "wof:name":"Savilionys",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

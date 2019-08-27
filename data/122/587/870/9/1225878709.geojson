@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.64492,54.22945,23.68492,54.26945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Burakavas"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225878709,
-    "wof:lastmodified":1537662871,
+    "wof:lastmodified":1566598485,
     "wof:name":"Burakavas",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

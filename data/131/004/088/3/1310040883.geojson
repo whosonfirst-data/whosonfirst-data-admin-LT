@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.33936,55.78302,22.37936,55.82302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Rotkalnis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310040883,
-    "wof:lastmodified":1537662759,
+    "wof:lastmodified":1566597807,
     "wof:name":"Rotkalnis",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

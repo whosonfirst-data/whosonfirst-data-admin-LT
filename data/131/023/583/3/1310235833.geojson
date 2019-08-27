@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.41921,55.23515,22.45921,55.27515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Liutkai\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310235833,
-    "wof:lastmodified":1537662772,
+    "wof:lastmodified":1566597703,
     "wof:name":"Liutkaiciai",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

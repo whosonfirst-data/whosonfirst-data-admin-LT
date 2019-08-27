@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.98345,55.15316,24.02345,55.19316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Savie\u010dioniai",
         "Save\u010dion\u0173",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260218839,
-    "wof:lastmodified":1537662002,
+    "wof:lastmodified":1566597651,
     "wof:name":"Savieciai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

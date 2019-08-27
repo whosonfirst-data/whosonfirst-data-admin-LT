@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.08026,55.06655,24.12026,55.10655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Preisiogal\u0117l\u0117"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360320157,
-    "wof:lastmodified":1537662052,
+    "wof:lastmodified":1566597900,
     "wof:name":"Preisiogalele",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

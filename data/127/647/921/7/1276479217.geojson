@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.37404,54.25448,24.41404,54.29448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tal\u2019kuny",
         "Tolk\u016bnai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276479217,
-    "wof:lastmodified":1537661934,
+    "wof:lastmodified":1566597238,
     "wof:name":"Tolkunai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

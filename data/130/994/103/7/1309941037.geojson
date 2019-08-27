@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.87088,55.55476,25.91088,55.59476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160io\u017einiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309941037,
-    "wof:lastmodified":1537662556,
+    "wof:lastmodified":1566597974,
     "wof:name":"Sioziniai",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

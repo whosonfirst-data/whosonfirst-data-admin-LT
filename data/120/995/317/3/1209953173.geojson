@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.26801,56.08851,22.30801,56.12851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nevar\u0117nai"
     ],
@@ -51,8 +55,7 @@
         "Nevarany",
         "Niewierany",
         "Nevar\u0117n\u0173",
-        "Nevarenay",
-        "Nevar\u0117nai"
+        "Nevarenay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1209953173,
-    "wof:lastmodified":1564192177,
+    "wof:lastmodified":1566597431,
     "wof:name":"Nevarenai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

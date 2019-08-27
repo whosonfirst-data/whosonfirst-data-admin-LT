@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.05183,55.7945,22.09183,55.8345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Meding\u0117nai"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Medingenay",
-        "Medingen\u0173",
-        "Meding\u0117nai"
+        "Medingen\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1327467817,
-    "wof:lastmodified":1537662165,
+    "wof:lastmodified":1566596627,
     "wof:name":"Medingenai",
     "wof:parent_id":102073669,
     "wof:placetype":"locality",

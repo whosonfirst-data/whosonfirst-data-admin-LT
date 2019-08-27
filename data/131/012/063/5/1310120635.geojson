@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.26377,55.01081,25.30377,55.05081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Juodonys"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310120635,
-    "wof:lastmodified":1537662270,
+    "wof:lastmodified":1566597703,
     "wof:name":"Juodonys",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.29581,54.8042,24.33581,54.8442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Bijautonys"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193173503,
-    "wof:lastmodified":1537662922,
+    "wof:lastmodified":1566597575,
     "wof:name":"Bijautonys",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.48166,55.62802,26.52166,55.66802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Zavisi\u0161k\u0117"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343992141,
-    "wof:lastmodified":1537661870,
+    "wof:lastmodified":1566596758,
     "wof:name":"Zavisiske",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

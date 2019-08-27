@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.79637,56.11902,23.83637,56.15902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Nor\u0161oniai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360016759,
-    "wof:lastmodified":1537662899,
+    "wof:lastmodified":1566597859,
     "wof:name":"Norsoniai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

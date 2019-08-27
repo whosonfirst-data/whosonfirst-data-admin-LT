@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.37609,55.09895,25.41609,55.13895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bijuti\u0161kis"
     ],
     "name:und_x_variant":[
-        "Biyutishkis",
-        "Bijuti\u0161kis"
+        "Biyutishkis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1243590703,
-    "wof:lastmodified":1537662391,
+    "wof:lastmodified":1566598155,
     "wof:name":"Bijutiskis",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

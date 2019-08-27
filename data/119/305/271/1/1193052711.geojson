@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.63601,54.65462,23.67601,54.69462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pluti\u0161k\u0117s"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Plutishki",
         "Pluti\u0161ki\u0173",
-        "Pluti\u0161kis",
-        "Pluti\u0161k\u0117s"
+        "Pluti\u0161kis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1193052711,
-    "wof:lastmodified":1537662057,
+    "wof:lastmodified":1566597559,
     "wof:name":"Plutiskes",
     "wof:parent_id":102073607,
     "wof:placetype":"locality",

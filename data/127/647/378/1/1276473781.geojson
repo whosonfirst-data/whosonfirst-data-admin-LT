@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.62148,56.26298,24.66148,56.30298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sodyalishkyay",
         "Sodeli\u0161kiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276473781,
-    "wof:lastmodified":1537661967,
+    "wof:lastmodified":1566597233,
     "wof:name":"Sodeliskiai",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

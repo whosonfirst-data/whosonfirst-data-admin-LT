@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.84061,54.16982,23.88061,54.20982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Cib\u016bliai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326965209,
-    "wof:lastmodified":1537662873,
+    "wof:lastmodified":1566596668,
     "wof:name":"Cibuliai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

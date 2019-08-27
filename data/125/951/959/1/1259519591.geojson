@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.64909,54.16802,24.68909,54.20802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bar\u010diai"
     ],
@@ -37,8 +41,7 @@
         "Barchyay",
         "Barteliai",
         "Bartelyay",
-        "Borteli",
-        "Bar\u010diai"
+        "Borteli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259519591,
-    "wof:lastmodified":1537662404,
+    "wof:lastmodified":1566598354,
     "wof:name":"Barciai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

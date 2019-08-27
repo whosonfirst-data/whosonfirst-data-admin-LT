@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.49328,54.95628,23.53328,54.99628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Vincentavas"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343292495,
-    "wof:lastmodified":1537662849,
+    "wof:lastmodified":1566596877,
     "wof:name":"Vincentavas",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

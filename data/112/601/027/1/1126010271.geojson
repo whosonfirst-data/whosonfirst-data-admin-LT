@@ -9,15 +9,18 @@
     "geom:bbox":"23.76667,55.76667,23.76667,55.76667",
     "geom:latitude":55.76667,
     "geom:longitude":23.76667,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3321,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
     "gn:population":3321,
     "iso:country":"LT",
+    "lbl:bbox":"23.74667,55.74667,23.78667,55.78667",
     "lbl:latitude":55.76667,
     "lbl:longitude":23.76667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u064a\u062f\u0648\u0641\u0627"
@@ -88,7 +91,7 @@
     "name:tat_x_preferred":[
         "\u0428\u04d9\u0434\u0443\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160eduvos"
     ],
     "name:vol_x_preferred":[
@@ -116,7 +119,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":478268,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1126010271,
-    "wof:lastmodified":1563319352,
+    "wof:lastmodified":1566598034,
     "wof:name":"\u0160 Eduva",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.60588,55.30064,25.64588,55.34064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Matel\u0117nai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259813947,
-    "wof:lastmodified":1537662560,
+    "wof:lastmodified":1566598373,
     "wof:name":"Matelenai",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

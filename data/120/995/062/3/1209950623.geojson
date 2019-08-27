@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.3635,54.36106,25.4035,54.40106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u0160al\u010dinink\u0117liai"
     ],
@@ -36,8 +40,7 @@
         "Malyye Solechniki",
         "Shal\u2019chininkelyay",
         "\u0160al\u010dink\u0117liai",
-        "Soleczniki Ma\u0142e",
-        "\u0160al\u010dinink\u0117liai"
+        "Soleczniki Ma\u0142e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209950623,
-    "wof:lastmodified":1537662012,
+    "wof:lastmodified":1566597425,
     "wof:name":"Salcininkeliai",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

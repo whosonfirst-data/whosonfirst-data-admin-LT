@@ -11,8 +11,10 @@
     "geom:longitude":25.301475,
     "gn:id":"",
     "iso:country":"LT",
+    "lbl:bbox":"25.296475,54.714114,25.306475,54.724114",
     "lbl:latitude":54.719114,
     "lbl:longitude":25.301475,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.719061,
     "mps:longitude":25.306696,
     "mz:hierarchy_label":0,
@@ -43,10 +45,7 @@
     "name:rus_x_preferred":[
         "\u0416\u0438\u0440\u043c\u0443\u043d\u0430\u0439"
     ],
-    "name:und_x_preferred":[
-        "Zirmunai"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zirmunai"
     ],
     "qs:gn_adm0_cc":"LT",
@@ -87,7 +86,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55848100,
-        "qs:id":1091108,
         "qs_pg:id":1091108
     },
     "wof:country":"LT",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566596903,
     "wof:name":"Zirmunai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

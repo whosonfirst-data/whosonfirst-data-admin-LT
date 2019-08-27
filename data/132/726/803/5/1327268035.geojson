@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.20854,55.50293,26.24854,55.54293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Dirvoni\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327268035,
-    "wof:lastmodified":1537662510,
+    "wof:lastmodified":1566596680,
     "wof:name":"Dirvoniskes",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

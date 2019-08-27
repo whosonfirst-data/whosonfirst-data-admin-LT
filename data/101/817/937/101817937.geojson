@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.650735,
     "lbl:longitude":23.036371,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":54.650735,
     "mps:longitude":23.036371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u043a\u0430\u0432\u0456\u0448\u043a\u0456\u0441"
     ],
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043b\u043a\u0430\u0432\u0438\u0448\u043a\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vilkavi\u0161kio"
     ],
     "name:urd_x_preferred":[
@@ -144,7 +147,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.666667,
     "wd:longitude":23.033333,
@@ -159,7 +162,6 @@
     "wof:concordances":{
         "gn:id":593153,
         "gp:id":479591,
-        "qs:id":900186,
         "qs_pg:id":900186,
         "wd:id":"Q852272"
     },
@@ -175,7 +177,7 @@
         }
     ],
     "wof:id":101817937,
-    "wof:lastmodified":1563319183,
+    "wof:lastmodified":1566597928,
     "wof:name":"Vilkavi\u0161kis",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

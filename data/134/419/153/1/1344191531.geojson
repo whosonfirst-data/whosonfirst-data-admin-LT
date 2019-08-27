@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.12912,55.64065,23.16912,55.68065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Johampol\u0117",
         "Joni\u0161kis",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344191531,
-    "wof:lastmodified":1537662280,
+    "wof:lastmodified":1566596853,
     "wof:name":"Johampolis",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

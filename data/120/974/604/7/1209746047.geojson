@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.72966,55.26697,23.76966,55.30697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ongiry",
         "Angiryay",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209746047,
-    "wof:lastmodified":1537662431,
+    "wof:lastmodified":1566597479,
     "wof:name":"Angiriai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

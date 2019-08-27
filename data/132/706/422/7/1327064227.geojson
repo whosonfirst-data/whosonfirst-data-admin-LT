@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.38663,54.65596,23.42663,54.69596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Givaltovo",
         "Gavaltuva"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327064227,
-    "wof:lastmodified":1537662322,
+    "wof:lastmodified":1566596509,
     "wof:name":"Gavaltuva",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

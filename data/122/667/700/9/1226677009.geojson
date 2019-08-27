@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.10554,54.57231,24.14554,54.61231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sokovichi",
         "Sokonys"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226677009,
-    "wof:lastmodified":1537661967,
+    "wof:lastmodified":1566598433,
     "wof:name":"Sokonys",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

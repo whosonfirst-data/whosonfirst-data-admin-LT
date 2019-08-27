@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.86951,55.70336,22.90951,55.74336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poroma",
         "Paramatis",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293328981,
-    "wof:lastmodified":1537662087,
+    "wof:lastmodified":1566597072,
     "wof:name":"Paramotis",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

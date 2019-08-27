@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.28823,54.27081,25.32823,54.31081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160ven\u010dius"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259617107,
-    "wof:lastmodified":1537662677,
+    "wof:lastmodified":1566598343,
     "wof:name":"Svencius",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

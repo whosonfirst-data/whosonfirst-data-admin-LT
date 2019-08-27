@@ -12,8 +12,10 @@
     "gn:latitude":54.5,
     "gn:longitude":25.05,
     "iso:country":"LT",
+    "lbl:bbox":"25.244828,54.690925,25.254828,54.700925",
     "lbl:latitude":54.695925,
     "lbl:longitude":25.249828,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.695265,
     "mps:longitude":25.248993,
     "mz:hierarchy_label":0,
@@ -53,12 +55,9 @@
     "name:ukr_x_preferred":[
         "\u0416\u0432\u0435\u0440\u0456\u043d\u0430\u0441"
     ],
-    "name:und_x_preferred":[
-        "Zverynas"
-    ],
-    "name:unk_x_variant":[
-        "Zverinets",
-        "Zverynas"
+    "name:und_x_variant":[
+        "Zverynas",
+        "Zverinets"
     ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_fcode":"PPL",
@@ -101,7 +100,6 @@
     "wof:concordances":{
         "gn:id":592685,
         "gp:id":55848103,
-        "qs:id":1063052,
         "qs_pg:id":1063052,
         "wd:id":"Q394349",
         "wk:page":"\u017dv\u0117rynas"
@@ -122,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566596903,
     "wof:name":"Zverynas",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

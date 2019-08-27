@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.60334,54.56362,23.64334,54.60362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Ma\u010diuli\u0161kiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243397141,
-    "wof:lastmodified":1537662876,
+    "wof:lastmodified":1566598078,
     "wof:name":"Maciuliskiai",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

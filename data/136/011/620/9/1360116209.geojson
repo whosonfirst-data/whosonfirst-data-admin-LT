@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.44432,55.39977,21.48432,55.43977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Szameitkehmen"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Shameytkamis",
         "Zhyamaytkemis",
-        "\u017demaitkiemiai",
-        "Szameitkehmen"
+        "\u017demaitkiemiai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1360116209,
-    "wof:lastmodified":1537661867,
+    "wof:lastmodified":1566597872,
     "wof:name":"Zemaitkiemis",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

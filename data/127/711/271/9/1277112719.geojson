@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.28826,55.72979,25.32826,55.76979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adomin\u0117s",
         "Adomine",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277112719,
-    "wof:lastmodified":1537662440,
+    "wof:lastmodified":1566597329,
     "wof:name":"Adomyne",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

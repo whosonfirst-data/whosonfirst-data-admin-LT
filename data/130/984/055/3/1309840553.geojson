@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.90917,54.56245,22.94917,54.60245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shukyay",
         "\u0160ukiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309840553,
-    "wof:lastmodified":1537661951,
+    "wof:lastmodified":1566597957,
     "wof:name":"Sukiai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

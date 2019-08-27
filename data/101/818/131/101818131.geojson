@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":56.239363,
     "lbl:longitude":23.614068,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":56.239363,
     "mps:longitude":23.614068,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0401\u043d\u0456\u0448\u043a\u0456\u0441"
     ],
@@ -128,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u043d\u0456\u0448\u043a\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yonishkis"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.24335,
     "wd:longitude":23.617859,
@@ -172,7 +175,6 @@
     "wof:concordances":{
         "gn:id":598796,
         "gp:id":475067,
-        "qs:id":125993,
         "qs_pg:id":125993,
         "wd:id":"Q847715"
     },
@@ -188,7 +190,7 @@
         }
     ],
     "wof:id":101818131,
-    "wof:lastmodified":1563319162,
+    "wof:lastmodified":1566597922,
     "wof:name":"Joni\u0161kis",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

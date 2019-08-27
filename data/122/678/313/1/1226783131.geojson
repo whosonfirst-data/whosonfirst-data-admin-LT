@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.81427,55.87684,24.85427,55.91684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Astravai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226783131,
-    "wof:lastmodified":1537662686,
+    "wof:lastmodified":1566598537,
     "wof:name":"Astravai",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

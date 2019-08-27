@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.73,55.31333,22.77,55.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tadeushev",
         "Tadau\u0161aya",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243378059,
-    "wof:lastmodified":1537661942,
+    "wof:lastmodified":1566598070,
     "wof:name":"Tadaiciai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

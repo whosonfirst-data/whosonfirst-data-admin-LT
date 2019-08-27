@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.71117,56.14238,22.75117,56.18238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urbonai\u010diai",
         "Kalni\u0161kiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226682859,
-    "wof:lastmodified":1537662258,
+    "wof:lastmodified":1566598450,
     "wof:name":"Kalniskiai",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

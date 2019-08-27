@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.44667,55.49667,22.48667,55.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yakaychyay",
         "Jakai\u010di\u0173",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310711707,
-    "wof:lastmodified":1537662286,
+    "wof:lastmodified":1566597722,
     "wof:name":"Jakaiciai",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

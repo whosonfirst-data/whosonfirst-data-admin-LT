@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.07733,55.78215,26.11733,55.82215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u0982\u09b8"
     ],
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1209951115,
-    "wof:lastmodified":1564192168,
+    "wof:lastmodified":1566597426,
     "wof:name":"Kamsa",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.64839,55.21954,24.68839,55.25954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u0437\u044f\u043b\u0442\u0443\u0432\u0430"
     ],
@@ -49,9 +53,7 @@
     ],
     "name:und_x_variant":[
         "Konstantinovo",
-        "Deltuvos",
-        "Dziewa\u0142t\u00f3w",
-        "Deltuva"
+        "Deltuvos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1344092451,
-    "wof:lastmodified":1564191062,
+    "wof:lastmodified":1566596770,
     "wof:name":"Deltuva",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

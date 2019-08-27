@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.99499,53.97914,24.03499,54.01914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ratny\u010dia"
     ],
@@ -37,8 +41,7 @@
         "Rotnitsa",
         "Rotnica",
         "Ratnicha",
-        "Ratnica",
-        "Ratny\u010dia"
+        "Ratnica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209751825,
-    "wof:lastmodified":1537662036,
+    "wof:lastmodified":1566597519,
     "wof:name":"Ratnycia",
     "wof:parent_id":102073579,
     "wof:placetype":"locality",

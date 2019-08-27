@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.802987,
     "lbl:longitude":24.893622,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.802987,
     "mps:longitude":24.893622,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pal\u0117ven\u0117"
     ],
@@ -34,9 +37,6 @@
     "name:swe_x_preferred":[
         "Pal\u0117ven\u0117"
     ],
-    "name:unk_x_variant":[
-        "Po\u0142awe\u0144"
-    ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Kupi\u0161kis",
     "qs:a1r":"0Paneve\u017eys",
@@ -51,7 +51,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -63,7 +63,7 @@
     "wof:concordances":{
         "gn:id":596220,
         "gp:id":476838,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1845764",
         "wk:page":"Pal\u0117ven\u0117"
     },
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101817235,
-    "wof:lastmodified":1563319191,
+    "wof:lastmodified":1566597930,
     "wof:name":"Pal\u0117ven\u0117",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

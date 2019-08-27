@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.08459,56.09245,24.12459,56.13245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160lapeliai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226478801,
-    "wof:lastmodified":1537662939,
+    "wof:lastmodified":1566598515,
     "wof:name":"Slapeliai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

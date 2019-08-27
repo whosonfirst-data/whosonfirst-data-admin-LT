@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.34687,55.0896,23.38687,55.1296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Klausu\u010diai"
     ],
@@ -37,8 +41,7 @@
         "Piktsyuny",
         "Pik\u010di\u016bnai",
         "Pik\u010diunai Pirmieji",
-        "Pyk\u010di\u016bn\u0173",
-        "Klausu\u010diai"
+        "Pyk\u010di\u016bn\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243488333,
-    "wof:lastmodified":1537662229,
+    "wof:lastmodified":1566598136,
     "wof:name":"Klausuciai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

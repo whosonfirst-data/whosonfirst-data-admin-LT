@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.07638,56.38319,22.11638,56.42319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Juodeik\u0117li\u0173",
         "Iuodelkelyay",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209646655,
-    "wof:lastmodified":1537662272,
+    "wof:lastmodified":1566597357,
     "wof:name":"Juodeikeliai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

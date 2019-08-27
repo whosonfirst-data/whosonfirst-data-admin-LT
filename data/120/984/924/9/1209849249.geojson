@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.63388,54.70653,23.67388,54.74653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Baltreli\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209849249,
-    "wof:lastmodified":1537662882,
+    "wof:lastmodified":1566597371,
     "wof:name":"Baltreliskes",
     "wof:parent_id":102073607,
     "wof:placetype":"locality",

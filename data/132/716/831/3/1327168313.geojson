@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.74543,55.94385,23.78543,55.98385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pashkanchyay",
         "Po\u0161kie\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327168313,
-    "wof:lastmodified":1537662055,
+    "wof:lastmodified":1566596705,
     "wof:name":"Poskieciai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

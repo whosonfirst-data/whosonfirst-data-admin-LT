@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.42326,55.35364,22.46326,55.39364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "V\u0117\u017ealaukis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360315879,
-    "wof:lastmodified":1537662771,
+    "wof:lastmodified":1566597850,
     "wof:name":"Vezalaukis",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

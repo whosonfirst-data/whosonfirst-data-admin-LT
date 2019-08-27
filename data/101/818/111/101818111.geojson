@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":56.195146,
     "lbl:longitude":22.694223,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":56.195146,
     "mps:longitude":22.694223,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u062a\u0627"
     ],
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":56.194444,
     "wd:longitude":22.7,
@@ -134,7 +137,6 @@
     "wof:concordances":{
         "gn:id":593303,
         "gp:id":56069678,
-        "qs:id":78799,
         "qs_pg:id":78799,
         "wd:id":"Q1104010",
         "wk:page":"Venta"
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101818111,
-    "wof:lastmodified":1563319159,
+    "wof:lastmodified":1566597921,
     "wof:name":"Venta",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

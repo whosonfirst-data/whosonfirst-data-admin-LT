@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.08996,55.95125,24.12996,55.99125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Norgelay",
         "Norg\u0117li\u0173",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243400069,
-    "wof:lastmodified":1537662125,
+    "wof:lastmodified":1566598152,
     "wof:name":"Norgelai",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

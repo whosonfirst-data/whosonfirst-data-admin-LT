@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.9796,55.20947,22.0196,55.24947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Robkojen"
     ],
     "name:und_x_variant":[
         "Ropkoyay",
-        "Ropkojai",
-        "Robkojen"
+        "Ropkojai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1260323377,
-    "wof:lastmodified":1537662025,
+    "wof:lastmodified":1566597657,
     "wof:name":"Ropkojai",
     "wof:parent_id":102073623,
     "wof:placetype":"locality",

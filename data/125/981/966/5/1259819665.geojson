@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.2886,55.20577,24.3286,55.24577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kachenay",
         "Ka\u010d\u0117nai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259819665,
-    "wof:lastmodified":1537662263,
+    "wof:lastmodified":1566598372,
     "wof:name":"Kacenai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

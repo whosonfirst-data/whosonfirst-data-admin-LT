@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.73743,54.62505,23.77743,54.66505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u017darstos",
         "Zharstvo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309936273,
-    "wof:lastmodified":1537661870,
+    "wof:lastmodified":1566597965,
     "wof:name":"Zarsta",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

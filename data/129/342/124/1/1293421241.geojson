@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.20055,55.11786,25.24055,55.15786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Juozapuvka"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293421241,
-    "wof:lastmodified":1537662637,
+    "wof:lastmodified":1566597103,
     "wof:name":"Juozapuvka",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

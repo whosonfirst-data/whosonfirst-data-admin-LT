@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.51379,54.69345,24.55379,54.73345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lingiai",
         "Zhukharony",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343397823,
-    "wof:lastmodified":1537661863,
+    "wof:lastmodified":1566596743,
     "wof:name":"Zikaronys",
     "wof:parent_id":102073613,
     "wof:placetype":"locality",

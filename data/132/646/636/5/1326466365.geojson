@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.7205,54.7973,25.7605,54.8373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Veselucha"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326466365,
-    "wof:lastmodified":1537662583,
+    "wof:lastmodified":1566596660,
     "wof:name":"Veselucha",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

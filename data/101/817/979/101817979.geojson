@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.850371,
     "lbl:longitude":23.165724,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.850371,
     "mps:longitude":23.165724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
@@ -184,7 +187,7 @@
     "name:tur_x_preferred":[
         "Gri\u0161kab\u016bdis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bluwisz"
     ],
     "name:vec_x_preferred":[
@@ -211,7 +214,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -223,7 +226,7 @@
     "wof:concordances":{
         "gn:id":599140,
         "gp:id":474801,
-        "qs:id":1010337,
+        "qs_pg:id":1010337,
         "wd:id":"Q935042",
         "wk:page":"Gri\u0161kab\u016bdis"
     },
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":101817979,
-    "wof:lastmodified":1563319196,
+    "wof:lastmodified":1566597931,
     "wof:name":"Gri\u0161kab\u016bdis",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

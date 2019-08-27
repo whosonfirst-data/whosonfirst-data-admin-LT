@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.87282,54.843,24.91282,54.883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mie\u017eionys"
     ],
@@ -39,7 +43,6 @@
         "Mie\u017eionys"
     ],
     "name:und_x_variant":[
-        "Mie\u017eionys",
         "Me\u017eonys",
         "Mezhantsy"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1293818585,
-    "wof:lastmodified":1564191584,
+    "wof:lastmodified":1566597110,
     "wof:name":"Miezionys",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

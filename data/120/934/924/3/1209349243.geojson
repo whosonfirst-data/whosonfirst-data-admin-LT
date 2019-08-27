@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.98861,55.48682,22.02861,55.52682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Visdziaugai"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209349243,
-    "wof:lastmodified":1537661882,
+    "wof:lastmodified":1566597466,
     "wof:name":"Visdziaugai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

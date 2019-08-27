@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.00906,55.30619,26.04906,55.34619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Mork\u016bni\u0161k\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243588271,
-    "wof:lastmodified":1537662514,
+    "wof:lastmodified":1566598160,
     "wof:name":"Morkuniske",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

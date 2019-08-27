@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.98446,56.08906,24.02446,56.12906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Mici\u0161kiai"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209036037,
-    "wof:lastmodified":1537662938,
+    "wof:lastmodified":1566597438,
     "wof:name":"Miciskiai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

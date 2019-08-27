@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.80117,55.79858,23.84117,55.83858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Slekay",
         "Sliekiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343695781,
-    "wof:lastmodified":1537661973,
+    "wof:lastmodified":1566596845,
     "wof:name":"Sliekiai",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

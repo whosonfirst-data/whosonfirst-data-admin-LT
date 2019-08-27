@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.90686,55.40377,23.94686,55.44377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0160lapaber\u017e\u0117"
     ],
@@ -47,8 +51,7 @@
     "name:und_x_variant":[
         "Shlapoberzhe",
         "Slapaber\u017e\u0117s",
-        "\u0160lapaber\u017eio",
-        "\u0160lapaber\u017e\u0117"
+        "\u0160lapaber\u017eio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293137517,
-    "wof:lastmodified":1564191465,
+    "wof:lastmodified":1566597021,
     "wof:name":"Slapaberze",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

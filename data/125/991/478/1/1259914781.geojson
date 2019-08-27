@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.07137,55.25731,22.11137,55.29731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guk\u0161tupiai",
         "Aukshtupe",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259914781,
-    "wof:lastmodified":1537662420,
+    "wof:lastmodified":1566598265,
     "wof:name":"Aukstupiai",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.28,55.43,21.32,55.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Macblyd\u017eiai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344167223,
-    "wof:lastmodified":1537662178,
+    "wof:lastmodified":1566596861,
     "wof:name":"Macblydziai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

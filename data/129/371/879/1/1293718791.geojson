@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.76492,55.69275,22.80492,55.73275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pikeliai"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1293718791,
-    "wof:lastmodified":1564191439,
+    "wof:lastmodified":1566597000,
     "wof:name":"Pikeliai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

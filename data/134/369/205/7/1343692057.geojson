@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.26046,55.59868,22.30046,55.63868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gul\u2019benay",
         "Gulb\u0117s"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343692057,
-    "wof:lastmodified":1537662292,
+    "wof:lastmodified":1566596836,
     "wof:name":"Gulbes",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

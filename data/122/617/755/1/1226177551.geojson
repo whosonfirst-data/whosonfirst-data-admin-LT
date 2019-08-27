@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.71095,54.81569,25.75095,54.85569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buivyd\u017eiai"
     ],
@@ -55,10 +59,8 @@
     ],
     "name:und_x_variant":[
         "Buivyd\u017eiai I",
-        "Bujwidze",
         "Buyvidzhyay",
-        "Buyvidzy",
-        "Buivyd\u017eiai"
+        "Buyvidzy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1226177551,
-    "wof:lastmodified":1564193546,
+    "wof:lastmodified":1566598385,
     "wof:name":"Buivydziai I",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.04687,55.50958,25.08687,55.54958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "A\u017eupie\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293328441,
-    "wof:lastmodified":1537662699,
+    "wof:lastmodified":1566597062,
     "wof:name":"Azupieciai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.12063,54.28493,24.16063,54.32493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dushnyany",
         "Du\u0161nionys"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343889317,
-    "wof:lastmodified":1537662335,
+    "wof:lastmodified":1566596896,
     "wof:name":"Dusnionys",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

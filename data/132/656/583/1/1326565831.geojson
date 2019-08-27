@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.21405,55.93491,22.25405,55.97491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u017delvai\u010diai"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326565831,
-    "wof:lastmodified":1537662345,
+    "wof:lastmodified":1566596585,
     "wof:name":"Zelvaiciai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

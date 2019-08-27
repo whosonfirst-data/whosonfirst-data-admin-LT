@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.89823,55.26023,23.93823,55.30023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Keleri\u0161kiai"
     ],
@@ -36,8 +40,7 @@
         "Keleri\u0161kiai"
     ],
     "name:und_x_variant":[
-        "Kyalyarishkyay",
-        "Keleri\u0161kiai"
+        "Kyalyarishkyay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243102125,
-    "wof:lastmodified":1564193354,
+    "wof:lastmodified":1566598257,
     "wof:name":"Keleriskiai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

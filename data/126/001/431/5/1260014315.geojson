@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.8535,55.36316,25.8935,55.40316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Klevi\u0161kis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260014315,
-    "wof:lastmodified":1537662567,
+    "wof:lastmodified":1566597606,
     "wof:name":"Kleviskis",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.4869,56.02368,23.5269,56.06368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adomishkyay",
         "Adomi\u0161kiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243009639,
-    "wof:lastmodified":1537662442,
+    "wof:lastmodified":1566598041,
     "wof:name":"Adomiskiai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.34453,55.51429,25.38453,55.55429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Katl\u0117ri\u0161kiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277113001,
-    "wof:lastmodified":1537662609,
+    "wof:lastmodified":1566597319,
     "wof:name":"Katleriskiai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

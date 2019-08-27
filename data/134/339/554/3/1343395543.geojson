@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.74556,54.8458,23.78556,54.8858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poderishki",
         "Poderi\u0161k\u0117s",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343395543,
-    "wof:lastmodified":1537662056,
+    "wof:lastmodified":1566596746,
     "wof:name":"Poderiskiai",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

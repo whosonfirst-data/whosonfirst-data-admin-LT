@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.13047,54.88244,25.17047,54.92244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Balk\u016bnai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293302743,
-    "wof:lastmodified":1537662450,
+    "wof:lastmodified":1566596936,
     "wof:name":"Balkunai",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

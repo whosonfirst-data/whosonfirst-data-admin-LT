@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.03618,56.22655,22.07618,56.26655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Sk\u0117riai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343598139,
-    "wof:lastmodified":1537661980,
+    "wof:lastmodified":1566596823,
     "wof:name":"Skeriai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

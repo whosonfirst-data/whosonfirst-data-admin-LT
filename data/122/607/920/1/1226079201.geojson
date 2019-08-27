@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.20577,54.40968,25.24577,54.44968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "O\u017ekelai\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226079201,
-    "wof:lastmodified":1537662671,
+    "wof:lastmodified":1566598598,
     "wof:name":"Ozkelaiciai",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

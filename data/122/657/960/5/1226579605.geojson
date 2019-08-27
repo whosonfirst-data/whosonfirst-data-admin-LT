@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.70012,55.75716,25.74012,55.79716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u044a\u0440\u043d\u0430\u0432\u0430"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226579605,
-    "wof:lastmodified":1564193660,
+    "wof:lastmodified":1566598463,
     "wof:name":"Tarnava",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

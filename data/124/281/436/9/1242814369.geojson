@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.42401,55.42739,22.46401,55.46739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upyna"
     ],
@@ -59,9 +63,7 @@
     "name:und_x_variant":[
         "Upyno",
         "Upynas",
-        "Upina",
-        "Upinas",
-        "Upyna"
+        "Upinas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1242814369,
-    "wof:lastmodified":1564193108,
+    "wof:lastmodified":1566598104,
     "wof:name":"Upyna",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

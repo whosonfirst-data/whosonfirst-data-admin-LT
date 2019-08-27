@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.58219,55.29337,26.62219,55.33337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0426\u0432\u044f\u0440\u0430\u0447\u0443\u0441"
     ],
@@ -58,9 +62,7 @@
     ],
     "name:und_x_variant":[
         "Tverech\u2019",
-        "Twerecz",
-        "Tverechyus",
-        "Tvere\u010dius"
+        "Tverechyus"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":1310334053,
-    "wof:lastmodified":1564192751,
+    "wof:lastmodified":1566597825,
     "wof:name":"Tverecius",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

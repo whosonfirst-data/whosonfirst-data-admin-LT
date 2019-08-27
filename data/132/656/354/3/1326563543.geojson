@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.16097,54.60616,25.20097,54.64616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Paneriai"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1326563543,
-    "wof:lastmodified":1564190747,
+    "wof:lastmodified":1566596567,
     "wof:name":"Aukstieji Paneriai",
     "wof:parent_id":102073615,
     "wof:placetype":"locality",

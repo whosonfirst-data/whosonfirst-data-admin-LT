@@ -11,8 +11,10 @@
     "geom:longitude":25.293911,
     "gn:id":"",
     "iso:country":"LT",
+    "lbl:bbox":"25.288911,54.665796,25.298911,54.675796",
     "lbl:latitude":54.670796,
     "lbl:longitude":25.293911,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.67646,
     "mps:longitude":25.326659,
     "mz:hierarchy_label":0,
@@ -25,10 +27,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Rasos"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rasos"
     ],
     "qs:gn_adm0_cc":"LT",
@@ -70,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55848105,
-        "qs:id":1310966,
         "qs_pg:id":1310966
     },
     "wof:country":"LT",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566596903,
     "wof:name":"Rasos",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

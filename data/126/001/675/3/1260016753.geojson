@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.09761,54.85004,25.13761,54.89004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Maz\u016bri\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260016753,
-    "wof:lastmodified":1537662734,
+    "wof:lastmodified":1566597601,
     "wof:name":"Mazuriskes",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

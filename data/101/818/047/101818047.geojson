@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.248614,
     "lbl:longitude":23.83422,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.248614,
     "mps:longitude":23.83422,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Josvainiai"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Josvainiai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yasvoyni"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":55.247222,
     "wd:longitude":23.833333,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":598787,
         "gp:id":475075,
-        "qs:id":1010340,
+        "qs_pg:id":1010340,
         "wd:id":"Q1663750",
         "wk:page":"Josvainiai"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101818047,
-    "wof:lastmodified":1563319151,
+    "wof:lastmodified":1566597918,
     "wof:name":"Josvainiai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

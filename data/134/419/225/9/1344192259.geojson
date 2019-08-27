@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.17445,54.89574,23.21445,54.93574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160ilgaliai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344192259,
-    "wof:lastmodified":1537662802,
+    "wof:lastmodified":1566596856,
     "wof:name":"Silgaliai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

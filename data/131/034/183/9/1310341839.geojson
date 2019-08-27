@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.98375,54.95407,24.02375,54.99407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lap\u0117s"
     ],
@@ -51,9 +55,7 @@
     "name:und_x_variant":[
         "Ma\u017eieji Lapiai",
         "Lapi\u0173",
-        "\u0141opie",
-        "Lopi",
-        "Lap\u0117s"
+        "Lopi"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u067e\u06cc\u0633"
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1310341839,
-    "wof:lastmodified":1564192739,
+    "wof:lastmodified":1566597817,
     "wof:name":"Lapes",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

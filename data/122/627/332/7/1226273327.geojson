@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.14577,55.18784,22.18577,55.22784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Laugszargen"
     ],
@@ -40,9 +44,7 @@
         "Laugzhargen",
         "Lauksarg\u0117",
         "Lauksargi\u0173",
-        "Lauksargyay",
-        "Lauksargiai",
-        "Laugszargen"
+        "Lauksargyay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1226273327,
-    "wof:lastmodified":1537662197,
+    "wof:lastmodified":1566598419,
     "wof:name":"Lauksargiai",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

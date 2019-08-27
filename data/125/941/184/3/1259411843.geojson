@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.22091,55.00977,23.26091,55.04977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Antonishki",
         "Antani\u0161kiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259411843,
-    "wof:lastmodified":1537662428,
+    "wof:lastmodified":1566598309,
     "wof:name":"Antaniskiai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

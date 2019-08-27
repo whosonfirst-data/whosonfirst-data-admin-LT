@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.34565,55.56281,25.38565,55.60281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Aknystos"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1343698571,
-    "wof:lastmodified":1564191171,
+    "wof:lastmodified":1566596835,
     "wof:name":"Aknystos",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

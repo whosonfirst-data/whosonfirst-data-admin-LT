@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.90784,54.39555,22.94784,54.43555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vigrele",
         "Vygreliai",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326664435,
-    "wof:lastmodified":1537661877,
+    "wof:lastmodified":1566596597,
     "wof:name":"Vygreliai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

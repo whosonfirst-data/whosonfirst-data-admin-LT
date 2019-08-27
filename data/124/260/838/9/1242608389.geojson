@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.65672,54.9823,22.69672,55.0223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rezhuki",
         "R\u0117\u017ei\u016bkai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242608389,
-    "wof:lastmodified":1537662031,
+    "wof:lastmodified":1566598129,
     "wof:name":"Reziukai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

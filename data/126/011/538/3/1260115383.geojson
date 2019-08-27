@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.77624,54.85019,25.81624,54.89019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0646\u0627\u064a"
     ],
@@ -117,9 +121,7 @@
         "\u041f\u0440\u0435\u043d\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "Preny",
-        "Prenay",
-        "Prienai"
+        "Prenay"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u06cc\u0626\u0646\u0627\u0626\u06cc"
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":1260115383,
-    "wof:lastmodified":1564192471,
+    "wof:lastmodified":1566597632,
     "wof:name":"Prienai",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

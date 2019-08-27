@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.84035,54.47115,24.88035,54.51115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Karali\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360019879,
-    "wof:lastmodified":1537662746,
+    "wof:lastmodified":1566597868,
     "wof:name":"Karaliskes",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

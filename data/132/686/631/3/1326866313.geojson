@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.39559,55.06228,23.43559,55.10228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sered\u017eius"
     ],
@@ -52,8 +56,7 @@
         "Srednike",
         "Sered\u017eia\u016bs",
         "Seredzhus",
-        "Seredzhyus",
-        "Sered\u017eius"
+        "Seredzhyus"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1326866313,
-    "wof:lastmodified":1564190730,
+    "wof:lastmodified":1566596556,
     "wof:name":"Seredzius",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

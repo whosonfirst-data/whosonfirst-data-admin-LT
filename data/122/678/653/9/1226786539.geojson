@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.35926,56.1465,22.39926,56.1865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Piyevenay",
         "Pievien\u0173",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226786539,
-    "wof:lastmodified":1537662065,
+    "wof:lastmodified":1566598542,
     "wof:name":"Pievenai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

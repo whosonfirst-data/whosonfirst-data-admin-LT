@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.24447,56.13587,24.28447,56.17587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Titkonis",
         "Titkoni\u0173",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343795997,
-    "wof:lastmodified":1537661935,
+    "wof:lastmodified":1566596789,
     "wof:name":"Titkoniai",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

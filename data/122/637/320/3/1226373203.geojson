@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.99197,54.61817,23.03197,54.65817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Lobi\u0161kiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226373203,
-    "wof:lastmodified":1537662794,
+    "wof:lastmodified":1566598574,
     "wof:name":"Lobiskiai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

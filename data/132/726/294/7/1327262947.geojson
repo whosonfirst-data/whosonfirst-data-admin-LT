@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.29772,54.98402,23.33772,55.02402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Markay",
         "Morki",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327262947,
-    "wof:lastmodified":1537662144,
+    "wof:lastmodified":1566596681,
     "wof:name":"Morkai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

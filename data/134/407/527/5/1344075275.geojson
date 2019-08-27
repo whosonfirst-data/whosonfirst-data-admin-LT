@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.28328,54.57801,25.32328,54.61801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Bara\u0161kos"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344075275,
-    "wof:lastmodified":1537662449,
+    "wof:lastmodified":1566596779,
     "wof:name":"Baraskos",
     "wof:parent_id":102073615,
     "wof:placetype":"locality",

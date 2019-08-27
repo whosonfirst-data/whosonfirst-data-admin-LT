@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.68801,55.21135,23.72801,55.25135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rug\u0117n\u0173",
         "Rugenay",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326564115,
-    "wof:lastmodified":1537662020,
+    "wof:lastmodified":1566596579,
     "wof:name":"Rugenai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

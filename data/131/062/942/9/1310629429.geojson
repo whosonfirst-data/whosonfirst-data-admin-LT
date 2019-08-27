@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.16159,54.20959,24.20159,54.24959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Gudaraistis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310629429,
-    "wof:lastmodified":1537662906,
+    "wof:lastmodified":1566597724,
     "wof:name":"Gudaraistis",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

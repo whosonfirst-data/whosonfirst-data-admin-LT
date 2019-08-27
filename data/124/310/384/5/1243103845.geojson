@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.33936,55.78012,21.37936,55.82012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhvirbley",
         "\u017dvirbliai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243103845,
-    "wof:lastmodified":1537661857,
+    "wof:lastmodified":1566598253,
     "wof:name":"Zvirbliai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.91815,55.28604,23.95815,55.32604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kropilai"
     ],
@@ -33,8 +37,7 @@
         "Krapilai",
         "Kropilay",
         "Krapilay",
-        "Kropily",
-        "Kropilai"
+        "Kropily"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1226079249,
-    "wof:lastmodified":1564193842,
+    "wof:lastmodified":1566598591,
     "wof:name":"Kropilai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

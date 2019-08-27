@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.53077,55.58338,22.57077,55.62338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dargishki",
         "Dargi\u0161k\u0117"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276905427,
-    "wof:lastmodified":1537662361,
+    "wof:lastmodified":1566597277,
     "wof:name":"Dargiske",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.27935,56.11755,22.31935,56.15755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Dadotkai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226777947,
-    "wof:lastmodified":1537662763,
+    "wof:lastmodified":1566598549,
     "wof:name":"Dadotkai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

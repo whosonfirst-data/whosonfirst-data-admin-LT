@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.06686,54.27481,24.10686,54.31481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Dubriai"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310242119,
-    "wof:lastmodified":1537662904,
+    "wof:lastmodified":1566597685,
     "wof:name":"Dubriai",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

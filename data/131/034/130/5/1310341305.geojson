@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.34135,55.63722,24.38135,55.67722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160ilai\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310341305,
-    "wof:lastmodified":1537662933,
+    "wof:lastmodified":1566597815,
     "wof:name":"Silaiciai",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

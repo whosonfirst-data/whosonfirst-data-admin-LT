@@ -24,8 +24,12 @@
     "gn:population":4457,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.37573,54.59398,25.41573,54.63398",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Skaidi\u0161k\u0117s"
     ],
@@ -36,9 +40,6 @@
         "Skojdziszki"
     ],
     "name:swe_x_preferred":[
-        "Skaidi\u0161k\u0117s"
-    ],
-    "name:und_x_variant":[
         "Skaidi\u0161k\u0117s"
     ],
     "src:geom":"geonames",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1225981703,
-    "wof:lastmodified":1564193728,
+    "wof:lastmodified":1566598511,
     "wof:name":"Skaidiskes",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

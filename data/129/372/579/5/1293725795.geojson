@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Kaliningrad",
     "iso:country":"LT",
+    "lbl:bbox":"22.68795,54.95658,22.72795,54.99658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhuryay",
         "\u017di\u016bri\u0173",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293725795,
-    "wof:lastmodified":1537661861,
+    "wof:lastmodified":1566597135,
     "wof:name":"Ziuriai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

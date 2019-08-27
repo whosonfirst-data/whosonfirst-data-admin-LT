@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.24397,56.31348,22.28397,56.35348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kurmai\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327470389,
-    "wof:lastmodified":1537662765,
+    "wof:lastmodified":1566596612,
     "wof:name":"Kurmaiciai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

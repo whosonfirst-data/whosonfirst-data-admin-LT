@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.66983,54.84978,24.70983,54.88978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Tatarka"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209249443,
-    "wof:lastmodified":1564192108,
+    "wof:lastmodified":1566597390,
     "wof:name":"Tatarka",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

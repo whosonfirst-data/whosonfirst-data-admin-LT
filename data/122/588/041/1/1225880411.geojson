@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.27476,55.74536,25.31476,55.78536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Beregiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225880411,
-    "wof:lastmodified":1537662603,
+    "wof:lastmodified":1566598472,
     "wof:name":"Beregiai",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"24.6,54.86667,24.6,54.86667",
     "geom:latitude":54.86667,
     "geom:longitude":24.6,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LT",
+    "lbl:bbox":"24.58,54.84667,24.62,54.88667",
     "lbl:latitude":54.86667,
     "lbl:longitude":24.6,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0416\u0430\u0441\u043b\u0435\u0439"
@@ -72,7 +76,7 @@
     "name:swe_x_preferred":[
         "\u017dasliai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u017dasli\u0173"
     ],
     "qs_pg:aaroncc":"LT",
@@ -96,7 +100,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":479804,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
     "woe:name_adm1":"Kauno Apskritis",
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":1125864165,
-    "wof:lastmodified":1563319331,
+    "wof:lastmodified":1566598023,
     "wof:name":"\u017dasliai",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

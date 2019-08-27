@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.89737,55.68562,23.93737,55.72562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Mi\u0161kiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343595325,
-    "wof:lastmodified":1537662893,
+    "wof:lastmodified":1566596813,
     "wof:name":"Miskiai",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

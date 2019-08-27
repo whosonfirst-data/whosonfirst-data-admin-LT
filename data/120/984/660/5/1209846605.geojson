@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.39578,54.61183,24.43578,54.65183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Budos"
     ],
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":1209846605,
-    "wof:lastmodified":1564192077,
+    "wof:lastmodified":1566597369,
     "wof:name":"Budos",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

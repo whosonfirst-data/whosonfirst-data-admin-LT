@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.65607,54.32805,24.69607,54.36805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Striel\u010di\u0161k\u0117s"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276796173,
-    "wof:lastmodified":1537662946,
+    "wof:lastmodified":1566597260,
     "wof:name":"Strielciskes",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

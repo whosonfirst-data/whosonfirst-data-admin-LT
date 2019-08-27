@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.50752,55.72307,25.54752,55.76307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Duoki\u0161kis"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "Duoki\u0161kio",
-        "Duokishkis",
-        "Duoki\u0161kis"
+        "Duokishkis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1310342359,
-    "wof:lastmodified":1564192732,
+    "wof:lastmodified":1566597813,
     "wof:name":"Duokiskis",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

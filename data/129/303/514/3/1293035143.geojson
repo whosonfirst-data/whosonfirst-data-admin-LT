@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.45117,54.76903,25.49117,54.80903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Auk\u0161tuol\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293035143,
-    "wof:lastmodified":1537662668,
+    "wof:lastmodified":1566597054,
     "wof:name":"Aukstuole",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

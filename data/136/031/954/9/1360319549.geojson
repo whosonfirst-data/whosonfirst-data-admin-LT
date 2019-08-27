@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.31319,55.69621,21.35319,55.73621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shlap-Shile",
         "\u0160lap\u0161il\u0117"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360319549,
-    "wof:lastmodified":1537661974,
+    "wof:lastmodified":1566597845,
     "wof:name":"Slapsile",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

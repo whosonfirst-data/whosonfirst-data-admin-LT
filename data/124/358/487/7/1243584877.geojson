@@ -24,16 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.08901,55.25876,26.12901,55.29876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "R\u0117ku\u010diai"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u043a\u0443\u0447\u044f\u0439"
-    ],
-    "name:und_x_variant":[
-        "R\u0117ku\u010diai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1243584877,
-    "wof:lastmodified":1537662032,
+    "wof:lastmodified":1566598170,
     "wof:name":"Rekuciai",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

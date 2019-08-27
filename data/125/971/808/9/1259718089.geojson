@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.96926,55.95001,22.00926,55.99001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Payshintay",
         "Pai\u0161iotai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259718089,
-    "wof:lastmodified":1537662108,
+    "wof:lastmodified":1566598323,
     "wof:name":"Paisiotai",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

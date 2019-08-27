@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.77021,55.76247,24.81021,55.80247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Skvarbai",
         "Skvarb\u0173",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360215293,
-    "wof:lastmodified":1537661975,
+    "wof:lastmodified":1566597889,
     "wof:name":"Skverbai",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

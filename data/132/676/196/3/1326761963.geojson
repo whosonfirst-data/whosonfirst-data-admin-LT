@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.08385,55.12662,25.12385,55.16662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "U\u017ed\u017eionys"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326761963,
-    "wof:lastmodified":1537662721,
+    "wof:lastmodified":1566596639,
     "wof:name":"Uzdzionys",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

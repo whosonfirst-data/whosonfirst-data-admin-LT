@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.13899,56.24102,22.17899,56.28102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u017demal\u0117s",
         "\u017bemelany",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360219073,
-    "wof:lastmodified":1537661866,
+    "wof:lastmodified":1566597884,
     "wof:name":"Zemale",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

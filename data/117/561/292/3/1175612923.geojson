@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.372928,
     "lbl:longitude":21.065627,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.372928,
     "mps:longitude":21.065627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Neringa"
     ],
@@ -113,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u044f\u0440\u0456\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Preyla"
     ],
     "name:urd_x_preferred":[
@@ -140,7 +143,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":562,
     "wof:belongsto":[
@@ -154,7 +157,7 @@
     "wof:concordances":{
         "gn:id":596643,
         "gp:id":476797,
-        "qs:id":489828,
+        "qs_pg:id":489828,
         "wd:id":"Q27892"
     },
     "wof:country":"LT",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":1175612923,
-    "wof:lastmodified":1563318820,
+    "wof:lastmodified":1566597683,
     "wof:name":"Neringa (Preila)",
     "wof:parent_id":102073645,
     "wof:placetype":"locality",

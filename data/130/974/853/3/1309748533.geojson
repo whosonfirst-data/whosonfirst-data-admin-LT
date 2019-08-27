@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.62152,55.02177,23.66152,55.06177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yagminay",
         "Jagmini\u0161kiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309748533,
-    "wof:lastmodified":1537662286,
+    "wof:lastmodified":1566598004,
     "wof:name":"Jagminiskiai",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

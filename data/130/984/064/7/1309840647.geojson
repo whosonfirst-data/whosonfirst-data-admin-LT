@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.98499,54.66183,25.02499,54.70183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Lebed\u017eiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309840647,
-    "wof:lastmodified":1537662742,
+    "wof:lastmodified":1566597957,
     "wof:name":"Lebedziai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

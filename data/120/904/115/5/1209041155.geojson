@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.34287,54.46139,23.38287,54.50139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u044e\u0434\u0437\u0432\u0456\u043d\u0430\u0432\u0430\u0441"
     ],
@@ -48,13 +52,11 @@
         "Liudvinavas"
     ],
     "name:und_x_variant":[
-        "Ludwin\u00f3w",
         "Lyudvinov",
         "Lyudvinavas",
         "Lyudvinav",
         "Ludvinavas",
-        "Liudvinavo",
-        "Liudvinavas"
+        "Liudvinavo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1209041155,
-    "wof:lastmodified":1564192213,
+    "wof:lastmodified":1566597453,
     "wof:name":"Liudvinavas",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

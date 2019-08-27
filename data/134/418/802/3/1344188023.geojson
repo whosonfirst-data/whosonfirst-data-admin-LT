@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.87149,56.3804,24.91149,56.4204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Beinoras"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344188023,
-    "wof:lastmodified":1537662678,
+    "wof:lastmodified":1566596863,
     "wof:name":"Beinoras",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",
