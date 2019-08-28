@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.456342,
     "lbl:longitude":25.11973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.456342,
     "mps:longitude":25.11973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u062a\u0648\u064a\u064a"
     ],
@@ -89,7 +92,7 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u043b\u0442\u043e\u0439\u0438-\u0412\u043e\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Waka Bia\u0142a"
     ],
     "name:vol_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.45,
     "wd:longitude":25.133333,
     "wd:wordcount":25,
@@ -128,10 +131,12 @@
     "wof:concordances":{
         "gn:id":600688,
         "gp:id":473514,
-        "qs:id":4,
-        "qs_pg:id":550234,
+        "qs_pg:id":4,
         "wd:id":"Q2045352",
         "wk:page":"Baltoji Vok\u0117"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":550234
     },
     "wof:country":"LT",
     "wof:geomhash":"19a393c6aa9c5687142f52a2edb22b78",
@@ -145,7 +150,7 @@
         }
     ],
     "wof:id":101817935,
-    "wof:lastmodified":1563319205,
+    "wof:lastmodified":1566597933,
     "wof:name":"Baltoji Vok\u0117",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

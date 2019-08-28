@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.863757,
     "lbl:longitude":24.444504,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.863757,
     "mps:longitude":24.444504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0430\u0439\u0448\u0430\u0434\u043e\u0440\u044b\u0441"
     ],
@@ -104,7 +107,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0439\u0448\u044f\u0434\u043e\u0440\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koshedary"
     ],
     "name:urd_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":598567,
         "gp:id":475252,
-        "qs:id":900113,
         "qs_pg:id":900113,
         "wd:id":"Q614855"
     },
@@ -161,7 +163,7 @@
         }
     ],
     "wof:id":101817989,
-    "wof:lastmodified":1563319220,
+    "wof:lastmodified":1566597937,
     "wof:name":"Kai\u0161iadorys",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

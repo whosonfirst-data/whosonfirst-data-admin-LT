@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.3344,55.6121,26.3744,55.6521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Smalv\u0173 Aik\u0161t\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293525723,
-    "wof:lastmodified":1537662512,
+    "wof:lastmodified":1566596942,
     "wof:name":"Smalvu Aikste",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

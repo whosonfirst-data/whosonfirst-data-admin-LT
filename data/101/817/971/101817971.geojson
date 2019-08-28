@@ -9,15 +9,18 @@
     "geom:bbox":"23.0101053275,54.93639847,23.0841009897,54.965773795",
     "geom:latitude":54.953944,
     "geom:longitude":23.047542,
-    "geonames:id":"595043,595044",
+    "gn:id":"595043,595044",
     "gn:population":6613,
     "iso:country":"LT",
     "lbl:latitude":54.953454,
     "lbl:longitude":23.054269,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.953454,
     "mps:longitude":23.054269,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "\u0160akiai"
     ],
@@ -213,7 +216,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043a\u044f\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shaki"
     ],
     "name:urd_x_preferred":[
@@ -248,7 +251,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.955556,
     "wd:longitude":23.044444,
@@ -263,7 +266,7 @@
     "wof:concordances":{
         "gn:id":595044,
         "gp:id":478128,
-        "qs:id":125951,
+        "qs_pg:id":125951,
         "wd:id":"Q390969"
     },
     "wof:country":"LT",
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":101817971,
-    "wof:lastmodified":1563319200,
+    "wof:lastmodified":1566597931,
     "wof:name":"\u0160akiai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

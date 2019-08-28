@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.89538,55.61934,23.93538,55.65934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "O\u017eai\u010diai"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Ozhaytse",
-        "Ozhaychyay",
-        "O\u017eai\u010diai"
+        "Ozhaychyay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259817607,
-    "wof:lastmodified":1537662120,
+    "wof:lastmodified":1566598372,
     "wof:name":"Ozaiciai",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

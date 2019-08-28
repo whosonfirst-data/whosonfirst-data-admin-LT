@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.244687,
     "lbl:longitude":24.766536,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":55.244687,
     "mps:longitude":24.766536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u043a\u043c\u044f\u0440\u0433\u0435"
     ],
@@ -159,7 +162,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043a\u043c\u0435\u0440\u0433\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vilkmerg\u0117"
     ],
     "name:urd_x_preferred":[
@@ -194,7 +197,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.266667,
     "wd:longitude":24.75,
@@ -209,7 +212,6 @@
     "wof:concordances":{
         "gn:id":593733,
         "gp:id":479143,
-        "qs:id":1165569,
         "qs_pg:id":1165569,
         "wd:id":"Q213127",
         "wk:page":"Ukmerg\u0117"
@@ -226,7 +228,7 @@
         }
     ],
     "wof:id":101818051,
-    "wof:lastmodified":1563319175,
+    "wof:lastmodified":1566597925,
     "wof:name":"Ukmerg\u0117",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

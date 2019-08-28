@@ -9,14 +9,18 @@
     "geom:bbox":"25.71667,55.06667,25.71667,55.06667",
     "geom:latitude":55.06667,
     "geom:longitude":25.71667,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LT",
+    "lbl:bbox":"25.69667,55.04667,25.73667,55.08667",
     "lbl:latitude":55.06667,
     "lbl:longitude":25.71667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Arnionys I"
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0410\u0440\u043d\u0435\u043d\u0438\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orniany"
     ],
     "qs_pg:aaroncc":"LT",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":473306,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
     "woe:name_adm1":"Utenos Apskritis",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1125954077,
-    "wof:lastmodified":1509402875,
+    "wof:lastmodified":1566598013,
     "wof:name":"Arnionys I",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.55614,55.40699,25.59614,55.44699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Artmani\u0161kis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326761557,
-    "wof:lastmodified":1537662629,
+    "wof:lastmodified":1566596640,
     "wof:name":"Artmaniskis",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

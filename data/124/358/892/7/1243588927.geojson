@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.93877,55.69477,25.97877,55.73477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kuikiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243588927,
-    "wof:lastmodified":1537662545,
+    "wof:lastmodified":1566598163,
     "wof:name":"Kuikiai",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

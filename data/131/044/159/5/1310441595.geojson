@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.71861,55.98558,24.75861,56.02558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Motskunay",
         "Mock\u016bnai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310441595,
-    "wof:lastmodified":1537662146,
+    "wof:lastmodified":1566597770,
     "wof:name":"Mockunai",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

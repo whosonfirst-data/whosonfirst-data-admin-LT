@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":56.277788,
     "lbl:longitude":21.854678,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":56.277788,
     "mps:longitude":21.854678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0419\u043b\u0430\u043a\u0438\u0430\u0438"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "Ylakiai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "I\u0142\u0142oki"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":56.277986,
     "wd:longitude":21.856594,
@@ -91,7 +94,7 @@
     "wof:concordances":{
         "gn:id":592961,
         "gp:id":479735,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2204282",
         "wk:page":"Ylakiai"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101818101,
-    "wof:lastmodified":1563319163,
+    "wof:lastmodified":1566597922,
     "wof:name":"Ylakiai",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

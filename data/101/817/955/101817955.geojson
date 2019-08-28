@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.629137,
     "lbl:longitude":24.928166,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.629137,
     "mps:longitude":24.928166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Trakai"
     ],
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0430\u043a\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novyye Troki"
     ],
     "name:urd_x_preferred":[
@@ -214,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.633333,
     "wd:longitude":24.933333,
@@ -229,7 +232,6 @@
     "wof:concordances":{
         "gn:id":593871,
         "gp:id":479040,
-        "qs:id":240976,
         "qs_pg:id":240976,
         "wd:id":"Q191015",
         "wk:page":"Trakai"
@@ -246,7 +248,7 @@
         }
     ],
     "wof:id":101817955,
-    "wof:lastmodified":1563319186,
+    "wof:lastmodified":1566597928,
     "wof:name":"Trakai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

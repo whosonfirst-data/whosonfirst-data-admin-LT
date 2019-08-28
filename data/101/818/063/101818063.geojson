@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.717014,
     "lbl:longitude":21.469486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.717014,
     "mps:longitude":21.469486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "V\u0117\u017eai\u010diai"
     ],
@@ -49,9 +52,6 @@
     "name:swe_x_preferred":[
         "V\u0117\u017eai\u010diai"
     ],
-    "name:unk_x_variant":[
-        "Wie\u017cajcie"
-    ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Klaipeda",
     "qs:a1r":"0Klaipeda",
@@ -66,7 +66,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -78,7 +78,7 @@
     "wof:concordances":{
         "gn:id":593254,
         "gp:id":479520,
-        "qs:id":1010473,
+        "qs_pg:id":1010473,
         "wd:id":"Q949809",
         "wk:page":"V\u0117\u017eai\u010diai"
     },
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":101818063,
-    "wof:lastmodified":1563319155,
+    "wof:lastmodified":1566597920,
     "wof:name":"V\u0117\u017eai\u010diai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

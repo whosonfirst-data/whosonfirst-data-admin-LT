@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.913799,
     "lbl:longitude":21.067224,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.913799,
     "mps:longitude":21.067224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Palanga"
     ],
@@ -176,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u0430\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polanga"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -223,7 +226,6 @@
     "wof:concordances":{
         "gn:id":596238,
         "gp:id":477139,
-        "qs:id":1295755,
         "qs_pg:id":1295755,
         "wd:id":"Q2047414",
         "wk:page":"Palanga"
@@ -240,7 +242,7 @@
         }
     ],
     "wof:id":101817205,
-    "wof:lastmodified":1563319193,
+    "wof:lastmodified":1566597930,
     "wof:name":"Palanga",
     "wof:parent_id":102073675,
     "wof:placetype":"locality",

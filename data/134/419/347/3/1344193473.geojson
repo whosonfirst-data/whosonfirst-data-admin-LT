@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.61359,54.3495,23.65359,54.3895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kaimynai"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344193473,
-    "wof:lastmodified":1537662877,
+    "wof:lastmodified":1566596852,
     "wof:name":"Kaimynai",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

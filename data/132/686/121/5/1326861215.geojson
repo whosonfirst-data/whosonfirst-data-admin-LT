@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.36744,55.15449,26.40744,55.19449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Dauk\u0161i\u0161k\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326861215,
-    "wof:lastmodified":1537662492,
+    "wof:lastmodified":1566596549,
     "wof:name":"Dauksiske",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

@@ -10,9 +10,12 @@
     "geom:latitude":54.655842,
     "geom:longitude":25.196953,
     "iso:country":"LT",
+    "lbl:bbox":"25.1919532078,54.6508423245,25.2019532078,54.6608423245",
     "lbl:latitude":54.655842,
     "lbl:longitude":25.196953,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:lit_x_preferred":[
         "Naujieji Buk\u010diai"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85685759,
         102191581,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108949919,
-    "wof:lastmodified":1497292361,
+    "wof:lastmodified":1566597670,
     "wof:name":"Naujieji Bukciai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

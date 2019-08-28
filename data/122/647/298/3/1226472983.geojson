@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.34085,55.98062,25.38085,56.02062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kazli\u0161kis"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Kozlishki",
         "Kazlishkis",
-        "Kazli\u0161kio",
-        "Kazli\u0161kis"
+        "Kazli\u0161kio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226472983,
-    "wof:lastmodified":1537662241,
+    "wof:lastmodified":1566598527,
     "wof:name":"Kazliskis",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

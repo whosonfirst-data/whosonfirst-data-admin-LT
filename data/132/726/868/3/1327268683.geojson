@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.49209,55.66165,21.53209,55.70165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Girinink\u0173",
         "Girininkay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327268683,
-    "wof:lastmodified":1537662308,
+    "wof:lastmodified":1566596680,
     "wof:name":"Girininkai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

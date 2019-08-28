@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.62693,54.42936,24.66693,54.46936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Gruo\u017enink\u0117liai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242713941,
-    "wof:lastmodified":1537662952,
+    "wof:lastmodified":1566598188,
     "wof:name":"Gruozninkeliai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

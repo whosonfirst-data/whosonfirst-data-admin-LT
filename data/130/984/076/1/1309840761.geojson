@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.8177,54.71887,22.8577,54.75887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Keturkaimis"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309840761,
-    "wof:lastmodified":1537662448,
+    "wof:lastmodified":1566597955,
     "wof:name":"Keturkaimis",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

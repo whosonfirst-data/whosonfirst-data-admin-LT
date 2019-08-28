@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.53991,55.42524,22.57991,55.46524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Anglodegay",
         "Angladegiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209950773,
-    "wof:lastmodified":1537662430,
+    "wof:lastmodified":1566597424,
     "wof:name":"Angladegiai",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

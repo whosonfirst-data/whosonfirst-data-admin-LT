@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.72324,55.38724,21.76324,55.42724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shilyay",
         "\u0160ili\u0173",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276912173,
-    "wof:lastmodified":1537661943,
+    "wof:lastmodified":1566597302,
     "wof:name":"Syliai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

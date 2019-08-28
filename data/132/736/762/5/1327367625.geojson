@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.73208,54.04956,23.77208,54.08956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Novarti\u0161k\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327367625,
-    "wof:lastmodified":1537662869,
+    "wof:lastmodified":1566596529,
     "wof:name":"Novartiske",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

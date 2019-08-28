@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.02974,55.56641,24.06974,55.60641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Virzhany",
         "Vir\u017eonai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193047493,
-    "wof:lastmodified":1537661882,
+    "wof:lastmodified":1566597546,
     "wof:name":"Virzonai",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

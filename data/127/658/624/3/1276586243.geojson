@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.9305,54.80634,24.9705,54.84634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Bradeli\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276586243,
-    "wof:lastmodified":1537662732,
+    "wof:lastmodified":1566597216,
     "wof:name":"Bradeliskes",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

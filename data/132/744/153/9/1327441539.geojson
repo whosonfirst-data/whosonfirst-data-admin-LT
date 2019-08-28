@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.19667,55.13,24.23667,55.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kripchyay",
         "Krip\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327441539,
-    "wof:lastmodified":1537662220,
+    "wof:lastmodified":1566596675,
     "wof:name":"Kripciai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

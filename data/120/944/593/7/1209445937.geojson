@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.59839,55.75252,23.63839,55.79252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Velzhyay",
         "Vel\u017eiai"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209445937,
-    "wof:lastmodified":1537661897,
+    "wof:lastmodified":1566597497,
     "wof:name":"Velziai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

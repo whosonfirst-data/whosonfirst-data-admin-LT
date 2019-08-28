@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.9919,55.0709,23.0319,55.1109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pakal\u2019niski",
         "Pakalni\u0161ki\u0173",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360216013,
-    "wof:lastmodified":1537662105,
+    "wof:lastmodified":1566597895,
     "wof:name":"Pakalniskiai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

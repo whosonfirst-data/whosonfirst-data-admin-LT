@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.39132,55.65711,26.43132,55.69711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Dirvonai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293817627,
-    "wof:lastmodified":1537662481,
+    "wof:lastmodified":1566597107,
     "wof:name":"Dirvonai",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

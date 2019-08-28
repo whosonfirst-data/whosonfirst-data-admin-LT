@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.516111,
     "lbl:longitude":21.625715,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.516111,
     "mps:longitude":21.625715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Szweksznie"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "\u0160v\u0117k\u0161na"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shvekshna"
     ],
     "qs:a0":"Lietuva",
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":300,
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":594072,
         "gp:id":478891,
-        "qs:id":473183,
         "qs_pg:id":473183,
         "wd:id":"Q606181",
         "wk:page":"\u0160v\u0117k\u0161na"
@@ -100,7 +102,7 @@
         }
     ],
     "wof:id":101818025,
-    "wof:lastmodified":1563319149,
+    "wof:lastmodified":1566597918,
     "wof:name":"\u0160v\u0117k\u0161na",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

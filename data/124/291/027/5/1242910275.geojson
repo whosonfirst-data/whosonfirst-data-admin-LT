@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.83896,56.10567,22.87896,56.14567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pagam\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242910275,
-    "wof:lastmodified":1537662821,
+    "wof:lastmodified":1566598195,
     "wof:name":"Pagame",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

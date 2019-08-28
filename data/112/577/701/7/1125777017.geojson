@@ -9,15 +9,18 @@
     "geom:bbox":"21.89194,55.09333,21.89194,55.09333",
     "geom:latitude":55.09333,
     "geom:longitude":21.89194,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":313,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
     "gn:population":313,
     "iso:country":"LT",
+    "lbl:bbox":"21.87194,55.07333,21.91194,55.11333",
     "lbl:latitude":55.09333,
     "lbl:longitude":21.89194,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u0645\u0648\u0646\u0647"
@@ -94,7 +97,7 @@
     "name:tat_x_preferred":[
         "\u041f\u0430\u043d\u04d9\u043c\u0443\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panemun\u0117s"
     ],
     "name:vol_x_preferred":[
@@ -124,7 +127,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":477222,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1125777017,
-    "wof:lastmodified":1563319360,
+    "wof:lastmodified":1566598037,
     "wof:name":"Panemun\u0117",
     "wof:parent_id":102073623,
     "wof:placetype":"locality",

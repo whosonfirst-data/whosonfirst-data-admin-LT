@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.76204,54.61188,22.80204,54.65188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Daug\u0117laiciai"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226273191,
-    "wof:lastmodified":1537662359,
+    "wof:lastmodified":1566598428,
     "wof:name":"Daugelaiciai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

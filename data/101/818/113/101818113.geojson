@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.949581,
     "lbl:longitude":23.938673,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":55.949581,
     "mps:longitude":23.938673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043b\u043e\u0432\u0430\u0438\u043d\u0438\u0430\u0438"
     ],
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Klovainiai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klovaini\u0173"
     ],
     "qs:a0":"Lietuva",
@@ -57,7 +60,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":55.933333,
     "wd:longitude":23.95,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":598054,
         "gp:id":475667,
-        "qs:id":215215,
+        "qs_pg:id":215215,
         "wd:id":"Q5618527",
         "wk:page":"Klovainiai"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101818113,
-    "wof:lastmodified":1563319178,
+    "wof:lastmodified":1566597926,
     "wof:name":"Klovainiai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":2807,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.80411,54.8764,23.84411,54.9164",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Akademija"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1344193401,
-    "wof:lastmodified":1564191202,
+    "wof:lastmodified":1566596852,
     "wof:name":"Akademija (Kaunas)",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

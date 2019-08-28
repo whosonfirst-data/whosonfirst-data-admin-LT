@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.12963,55.43678,22.16963,55.47678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "K\u016btymai"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276266449,
-    "wof:lastmodified":1537662206,
+    "wof:lastmodified":1566597157,
     "wof:name":"Kutymai",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

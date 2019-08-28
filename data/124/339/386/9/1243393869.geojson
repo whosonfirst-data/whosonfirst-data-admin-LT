@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.75614,56.00022,24.79614,56.04022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ilgalauki\u0173",
         "Ilgalaukyay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243393869,
-    "wof:lastmodified":1537662289,
+    "wof:lastmodified":1566598091,
     "wof:name":"Ilgalaukiai",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

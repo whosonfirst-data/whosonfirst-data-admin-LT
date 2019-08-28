@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.62717,55.49403,22.66717,55.53403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhirnayne",
         "\u017dirnainiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344187631,
-    "wof:lastmodified":1537661861,
+    "wof:lastmodified":1566596861,
     "wof:name":"Zirnainiai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.82026,54.47313,23.86026,54.51313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Matskyay",
         "Mats\u2019ki",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243490871,
-    "wof:lastmodified":1537662177,
+    "wof:lastmodified":1566598149,
     "wof:name":"Mackiai",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

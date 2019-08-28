@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.99044,55.73105,22.03044,55.77105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Giliogiris"
     ],
@@ -37,8 +41,7 @@
     ],
     "name:und_x_variant":[
         "Gilegirey",
-        "Giliogeris",
-        "Giliogiris"
+        "Giliogeris"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310241135,
-    "wof:lastmodified":1564192557,
+    "wof:lastmodified":1566597690,
     "wof:name":"Giliogiris",
     "wof:parent_id":102073669,
     "wof:placetype":"locality",

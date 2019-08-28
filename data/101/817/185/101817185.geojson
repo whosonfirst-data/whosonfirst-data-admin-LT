@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.491355,
     "lbl:longitude":22.186284,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.491355,
     "mps:longitude":22.186284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0644\u0627\u0644\u0647"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u043b\u0430\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Szyiele"
     ],
     "name:urd_x_preferred":[
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":55.491667,
     "wd:longitude":22.177778,
@@ -152,7 +155,6 @@
     "wof:concordances":{
         "gn:id":594693,
         "gp:id":478398,
-        "qs:id":1213222,
         "qs_pg:id":1213222,
         "wd:id":"Q391582"
     },
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":101817185,
-    "wof:lastmodified":1563319224,
+    "wof:lastmodified":1566597938,
     "wof:name":"\u0160ilal\u0117",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

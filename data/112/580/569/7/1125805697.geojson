@@ -9,14 +9,18 @@
     "geom:bbox":"24.96667,54.83333,24.96667,54.83333",
     "geom:latitude":54.83333,
     "geom:longitude":24.96667,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LT",
+    "lbl:bbox":"24.94667,54.81333,24.98667,54.85333",
     "lbl:latitude":54.83333,
     "lbl:longitude":24.96667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "D\u016bk\u0161tos"
@@ -24,7 +28,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0443\u043a\u0448\u0442\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dukszty"
     ],
     "qs_pg:aaroncc":"LT",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":474325,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
     "woe:name_adm1":"Vilniaus Apskritis",
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1125805697,
-    "wof:lastmodified":1509393281,
+    "wof:lastmodified":1566598026,
     "wof:name":"D\u016bk\u0161tos",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

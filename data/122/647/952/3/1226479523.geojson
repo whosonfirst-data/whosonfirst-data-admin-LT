@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.37552,55.49623,21.41552,55.53623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wilkieten"
     ],
@@ -36,8 +40,7 @@
         "\u0412\u0438\u043b\u044c\u043a\u0438\u0447\u044f\u0439"
     ],
     "name:und_x_variant":[
-        "Vilkichey",
-        "Vilky\u010diai"
+        "Vilkichey"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226479523,
-    "wof:lastmodified":1537661885,
+    "wof:lastmodified":1566598514,
     "wof:name":"Vilkyciai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.955518,
     "lbl:longitude":25.589327,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.955518,
     "mps:longitude":25.589327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0643\u064a\u0633\u0643\u064a\u0633"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043a\u0438\u0448\u043a\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myasto Rokishkis"
     ],
     "name:urd_x_preferred":[
@@ -160,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.961578,
     "wd:longitude":25.580703,
@@ -175,7 +178,6 @@
     "wof:concordances":{
         "gn:id":595213,
         "gp:id":477986,
-        "qs:id":118855,
         "qs_pg:id":118855,
         "wd:id":"Q1693963"
     },
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":101818127,
-    "wof:lastmodified":1563319159,
+    "wof:lastmodified":1566597921,
     "wof:name":"Roki\u0161kis",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.08771,55.40325,25.12771,55.44325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kurkliai II"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Kurkliai",
-        "Kurkliai 2",
-        "Kurkliai II"
+        "Kurkliai 2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1260110733,
-    "wof:lastmodified":1537662208,
+    "wof:lastmodified":1566597632,
     "wof:name":"Kurkliai II",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

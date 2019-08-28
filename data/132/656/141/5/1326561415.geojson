@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.12717,55.9391,21.16717,55.9791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "\u017dibininkai"
     ],
@@ -36,8 +40,7 @@
         "\u017dibininkai"
     ],
     "name:und_x_variant":[
-        "Zhibininkay",
-        "\u017dibininkai"
+        "Zhibininkay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1326561415,
-    "wof:lastmodified":1564190772,
+    "wof:lastmodified":1566596584,
     "wof:name":"Zibininkai",
     "wof:parent_id":102073681,
     "wof:placetype":"locality",

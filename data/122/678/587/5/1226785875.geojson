@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.32497,55.9891,23.36497,56.0291",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Briday",
         "Bridai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226785875,
-    "wof:lastmodified":1537662386,
+    "wof:lastmodified":1566598538,
     "wof:name":"Bridai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.05394,54.95959,24.09394,54.99959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kaukazas"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310535483,
-    "wof:lastmodified":1537662920,
+    "wof:lastmodified":1566597748,
     "wof:name":"Kaukazas",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

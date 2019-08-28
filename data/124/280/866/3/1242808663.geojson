@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.8107,55.45334,24.8507,55.49334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Ma\u017eeikoniai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242808663,
-    "wof:lastmodified":1537662700,
+    "wof:lastmodified":1566598094,
     "wof:name":"Mazeikoniai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.71815,55.44851,24.75815,55.48851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Juodgiris"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293525475,
-    "wof:lastmodified":1537662978,
+    "wof:lastmodified":1566596948,
     "wof:name":"Juodgiris",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

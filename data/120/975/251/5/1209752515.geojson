@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.56071,56.10491,23.60071,56.14491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Stupuray",
         "Stupurai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209752515,
-    "wof:lastmodified":1537661953,
+    "wof:lastmodified":1566597513,
     "wof:name":"Stupurai",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

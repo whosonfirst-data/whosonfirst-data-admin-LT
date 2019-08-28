@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.47734,54.99522,25.51734,55.03522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Dvailiniai"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209946165,
-    "wof:lastmodified":1537662355,
+    "wof:lastmodified":1566597455,
     "wof:name":"Dvailiniai",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

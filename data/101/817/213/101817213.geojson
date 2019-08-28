@@ -9,14 +9,17 @@
     "geom:bbox":"21.2050664646,55.8637943027,21.2792947841,55.9093990744",
     "geom:latitude":55.889378,
     "geom:longitude":21.242128,
-    "geonames:id":"597987,597984,597989",
+    "gn:id":"597987,597984,597989",
     "iso:country":"LT",
     "lbl:latitude":55.890633,
     "lbl:longitude":21.254437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.890633,
     "mps:longitude":21.254437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kretinga"
     ],
@@ -125,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0435\u0442\u0438\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myasto Kretinga"
     ],
     "name:urd_x_preferred":[
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.894211,
     "wd:longitude":21.247172,
     "wd:wordcount":814,
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":101817213,
-    "wof:lastmodified":1563319213,
+    "wof:lastmodified":1566597935,
     "wof:name":"Kretinga",
     "wof:parent_id":102073681,
     "wof:placetype":"locality",

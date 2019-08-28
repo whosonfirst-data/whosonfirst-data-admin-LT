@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.79805,55.21817,21.83805,55.25817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mattsshtubern",
         "Stubryay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243009271,
-    "wof:lastmodified":1537661955,
+    "wof:lastmodified":1566598054,
     "wof:name":"Stubriai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

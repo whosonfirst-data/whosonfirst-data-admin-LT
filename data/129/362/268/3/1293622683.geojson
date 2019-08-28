@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.01934,55.72365,25.05934,55.76365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Migonys"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293622683,
-    "wof:lastmodified":1564191318,
+    "wof:lastmodified":1566596926,
     "wof:name":"Migonys",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

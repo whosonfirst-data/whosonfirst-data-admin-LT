@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.8187,54.56758,23.8587,54.60758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vart\u0173",
         "Varty",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276796211,
-    "wof:lastmodified":1537661900,
+    "wof:lastmodified":1566597260,
     "wof:name":"Vartai",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

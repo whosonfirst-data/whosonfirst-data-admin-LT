@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.30934,55.42819,25.34934,55.46819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Trakiniai"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209140053,
-    "wof:lastmodified":1537662623,
+    "wof:lastmodified":1566597421,
     "wof:name":"Trakiniai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.64602,55.11549,23.68602,55.15549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Karalgiris"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360016551,
-    "wof:lastmodified":1537662251,
+    "wof:lastmodified":1566597866,
     "wof:name":"Karalgiris",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

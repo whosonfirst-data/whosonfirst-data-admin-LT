@@ -24,8 +24,12 @@
     "gn:population":50,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.19977,55.8072,26.23977,55.8472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Stelmu\u017e\u0117"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "Stelmuzhe",
-        "Steinsee",
-        "Stelmu\u017e\u0117"
+        "Steinsee"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1343888537,
-    "wof:lastmodified":1564191282,
+    "wof:lastmodified":1566596901,
     "wof:name":"Stelmuze",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

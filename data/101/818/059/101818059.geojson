@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.982575,
     "lbl:longitude":25.763203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.982575,
     "mps:longitude":25.763203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0430\u0431\u0440\u0430\u0434\u0437\u0435"
     ],
@@ -96,7 +99,7 @@
     "name:tat_x_preferred":[
         "\u041f\u0430\u0431\u0440\u0430\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maloye Podbrodze"
     ],
     "name:vol_x_preferred":[
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.980556,
     "wd:longitude":25.766667,
@@ -137,7 +140,6 @@
     "wof:concordances":{
         "gn:id":596473,
         "gp:id":476925,
-        "qs:id":125956,
         "qs_pg:id":125956,
         "wd:id":"Q1004328",
         "wk:page":"Pabrad\u0117"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101818059,
-    "wof:lastmodified":1563319172,
+    "wof:lastmodified":1566597925,
     "wof:name":"Pabrad\u0117",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

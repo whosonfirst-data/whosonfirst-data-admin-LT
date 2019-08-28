@@ -9,15 +9,18 @@
     "geom:bbox":"24.91667,55.43333,24.91667,55.43333",
     "geom:latitude":55.43333,
     "geom:longitude":24.91667,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":755,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
     "gn:population":755,
     "iso:country":"LT",
+    "lbl:bbox":"24.89667,55.41333,24.93667,55.45333",
     "lbl:latitude":55.43333,
     "lbl:longitude":24.91667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u0627\u0631\u0633\u0643\u0627\u0633"
@@ -70,9 +73,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0432\u0430\u0440\u0441\u043a\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Kowarsk"
-    ],
     "name:vol_x_preferred":[
         "Kavarskas"
     ],
@@ -96,7 +96,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":475467,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1126002013,
-    "wof:lastmodified":1564193006,
+    "wof:lastmodified":1566598035,
     "wof:name":"Kavarskas",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

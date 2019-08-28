@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.95894,54.6689,24.99894,54.7089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Padvari\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259517219,
-    "wof:lastmodified":1537662739,
+    "wof:lastmodified":1566598359,
     "wof:name":"Padvariskes",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

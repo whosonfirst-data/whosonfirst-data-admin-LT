@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.726965,
     "lbl:longitude":23.213343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.726965,
     "mps:longitude":23.213343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pilvi\u0161kiai"
     ],
@@ -52,9 +55,6 @@
     "name:swe_x_preferred":[
         "Pilvi\u0161kiai"
     ],
-    "name:unk_x_variant":[
-        "Pilwiszki"
-    ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Vilkavi\u0161kis",
     "qs:a1r":"0Marijampole",
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":117,
     "wof:belongsto":[
         102191581,
@@ -83,7 +83,6 @@
     "wof:concordances":{
         "gn:id":595746,
         "gp:id":477559,
-        "qs:id":495812,
         "qs_pg:id":495812,
         "wd:id":"Q2219812",
         "wk:page":"Pilvi\u0161kiai"
@@ -100,7 +99,7 @@
         }
     ],
     "wof:id":101817941,
-    "wof:lastmodified":1563319197,
+    "wof:lastmodified":1566597931,
     "wof:name":"Pilvi\u0161kiai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

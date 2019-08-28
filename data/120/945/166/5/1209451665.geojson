@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.70123,54.58766,25.74123,54.62766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0428\u0443\u043c\u0441\u043a\u0430\u0441"
     ],
@@ -55,9 +59,7 @@
     ],
     "name:und_x_variant":[
         "Shumskas",
-        "Szumsk",
-        "Shumsk",
-        "\u0160umskas"
+        "Shumsk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1209451665,
-    "wof:lastmodified":1564192266,
+    "wof:lastmodified":1566597490,
     "wof:name":"Sumskas",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

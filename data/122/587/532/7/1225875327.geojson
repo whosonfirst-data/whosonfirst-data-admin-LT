@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.79021,56.09049,24.83021,56.13049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Geid\u017ei\u016bnai"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Geydzhyunay",
-        "Geid\u017ei\u016bn\u0173",
-        "Geid\u017ei\u016bnai"
+        "Geid\u017ei\u016bn\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1225875327,
-    "wof:lastmodified":1537662318,
+    "wof:lastmodified":1566598479,
     "wof:name":"Geidziunai",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.64168,55.28714,24.68168,55.32714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Gervinai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209851835,
-    "wof:lastmodified":1537662976,
+    "wof:lastmodified":1566597400,
     "wof:name":"Gervinai",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

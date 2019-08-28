@@ -12,6 +12,7 @@
     "iso:country":"LT",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:bel_x_variant":[
         "\u041f\u0430\u0446\u044e\u043d\u0441\u043a\u0456 \u0430\u044d\u0440\u0430\u0434\u0440\u043e\u043c"
     ],
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":102543977,
-    "wof:lastmodified":1563317396,
+    "wof:lastmodified":1566596713,
     "wof:name":"Prienai Airport",
     "wof:parent_id":85685773,
     "wof:placetype":"campus",

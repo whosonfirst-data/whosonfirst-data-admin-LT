@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.52378,
     "lbl:longitude":26.327724,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.52378,
     "mps:longitude":26.327724,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0643\u0634\u062a\u0627\u0633"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043a\u0448\u0442\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Dukszty"
-    ],
     "name:vol_x_preferred":[
         "D\u016bk\u0161tas"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.517858,
     "wd:longitude":26.332142,
@@ -133,7 +133,6 @@
     "wof:concordances":{
         "gn:id":599727,
         "gp:id":474324,
-        "qs:id":291741,
         "qs_pg:id":291741,
         "wd:id":"Q2356406",
         "wk:page":"D\u016bk\u0161tas"
@@ -150,7 +149,7 @@
         }
     ],
     "wof:id":101817217,
-    "wof:lastmodified":1563319190,
+    "wof:lastmodified":1566597929,
     "wof:name":"D\u016bk\u0161tas",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

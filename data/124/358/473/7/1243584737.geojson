@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.00977,55.47425,22.04977,55.51425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loma"
     ],
@@ -61,7 +65,6 @@
     ],
     "name:und_x_variant":[
         "Lomo",
-        "Loma",
         "Lomay",
         "Lomai"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1243584737,
-    "wof:lastmodified":1564193215,
+    "wof:lastmodified":1566598170,
     "wof:name":"Loma",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

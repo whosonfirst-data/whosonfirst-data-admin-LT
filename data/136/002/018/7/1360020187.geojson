@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.07984,54.89394,25.11984,54.93394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Levani\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360020187,
-    "wof:lastmodified":1537662734,
+    "wof:lastmodified":1566597912,
     "wof:name":"Levaniskes",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

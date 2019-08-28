@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.64821,55.88857,22.68821,55.92857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gintalyay",
         "Ginteniai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293523575,
-    "wof:lastmodified":1537662310,
+    "wof:lastmodified":1566596944,
     "wof:name":"Ginteniai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

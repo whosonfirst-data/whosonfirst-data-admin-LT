@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.32931,56.09382,24.36931,56.13382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tetirvinai"
     ],
@@ -36,8 +40,7 @@
         "Tetervinai",
         "Tetirvinay",
         "Tetirvin\u0173",
-        "Tyatirvinay",
-        "Tetirvinai"
+        "Tyatirvinay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226173611,
-    "wof:lastmodified":1537661936,
+    "wof:lastmodified":1566598397,
     "wof:name":"Tetirvinai",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

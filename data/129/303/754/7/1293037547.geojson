@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.50223,54.81802,25.54223,54.85802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Gamern\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293037547,
-    "wof:lastmodified":1537662664,
+    "wof:lastmodified":1566597038,
     "wof:name":"Gamerne",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.82118,54.72768,23.86118,54.76768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Arnswald",
         "Grabavos",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226081413,
-    "wof:lastmodified":1537662304,
+    "wof:lastmodified":1566598584,
     "wof:name":"Grabava",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

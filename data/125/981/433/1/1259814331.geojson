@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.52225,55.01653,23.56225,55.05653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Novosady",
         "Nosiedai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259814331,
-    "wof:lastmodified":1537662123,
+    "wof:lastmodified":1566598376,
     "wof:name":"Nosiedai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

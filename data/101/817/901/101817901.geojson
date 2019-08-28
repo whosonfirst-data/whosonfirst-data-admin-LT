@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.091221,
     "lbl:longitude":23.863065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.091221,
     "mps:longitude":23.863065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0438\u043f\u0430\u043b\u0438\u043d\u0433\u0438\u0441"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Leipalingis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leiauny"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +81,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":597568,
         "gp:id":476053,
-        "qs:id":1213051,
+        "qs_pg:id":1213051,
         "wd:id":"Q2436073",
         "wk:page":"Leipalingis"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101817901,
-    "wof:lastmodified":1563319182,
+    "wof:lastmodified":1566597927,
     "wof:name":"Leipalingis",
     "wof:parent_id":102073579,
     "wof:placetype":"locality",

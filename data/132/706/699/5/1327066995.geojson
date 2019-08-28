@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.50082,55.40256,21.54082,55.44256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gross Barvey",
         "Barvay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327066995,
-    "wof:lastmodified":1537662400,
+    "wof:lastmodified":1566596518,
     "wof:name":"Barvai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

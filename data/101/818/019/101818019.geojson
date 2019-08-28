@@ -9,14 +9,17 @@
     "geom:bbox":"22.5624460597,55.4002106151,22.6054433836,55.4167815925",
     "geom:latitude":55.407007,
     "geom:longitude":22.586892,
-    "geonames:id":"594562,594563",
+    "gn:id":"594562,594563",
     "iso:country":"LT",
     "lbl:latitude":55.407335,
     "lbl:longitude":22.593733,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.407335,
     "mps:longitude":22.593733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0643\u0648\u062f\u0641\u064a\u0644\u0647"
     ],
@@ -90,7 +93,7 @@
     "name:tat_x_preferred":[
         "\u0421\u043a\u0430\u0443\u0434\u0432\u0438\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skaudvil\u0117s"
     ],
     "name:vol_x_preferred":[
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":55.4075,
     "wd:longitude":22.5825,
     "wd:wordcount":74,
@@ -129,10 +132,12 @@
     "wof:concordances":{
         "gn:id":594562,
         "gp:id":478497,
-        "qs:id":1010443,
         "qs_pg:id":125947,
         "wd:id":"Q3284743",
         "wk:page":"Skaudvil\u0117"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1010443
     },
     "wof:country":"LT",
     "wof:geomhash":"3a1d0265bcd690fcc1cf620ed1fb9a5b",
@@ -146,7 +151,7 @@
         }
     ],
     "wof:id":101818019,
-    "wof:lastmodified":1563319169,
+    "wof:lastmodified":1566597924,
     "wof:name":"Skaudvil\u0117",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":25.089111,
     "gn:population":11555,
     "iso:country":"LT",
+    "lbl:bbox":"25.084111,54.662741,25.094111,54.672741",
     "lbl:latitude":54.667741,
     "lbl:longitude":25.089111,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.688122,
     "mps:longitude":25.079041,
     "mz:hierarchy_label":0,
@@ -100,17 +102,12 @@
     "name:tat_x_preferred":[
         "\u0413\u0440\u0438\u0433\u0438\u0448\u043a\u0435\u0441"
     ],
-    "name:und_x_preferred":[
-        "Grigiskes"
-    ],
     "name:und_x_variant":[
+        "Grigiskes",
         "Grigishkes",
         "Grigiskiu",
-        "Grigor'yevo"
-    ],
-    "name:unk_x_variant":[
-        "Grigor\u2019yevo",
-        "Grigiskes"
+        "Grigor'yevo",
+        "Grigor\u2019yevo"
     ],
     "name:vol_x_preferred":[
         "Grigi\u0161k\u0117s"
@@ -160,7 +157,6 @@
     "wof:concordances":{
         "gn:id":599161,
         "gp:id":474780,
-        "qs:id":126008,
         "qs_pg:id":126008,
         "wd:id":"Q950639",
         "wk:page":"Grigi\u0161k\u0117s"
@@ -181,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247516,
+    "wof:lastmodified":1566596908,
     "wof:name":"Grigiskes",
     "wof:parent_id":101754089,
     "wof:placetype":"neighbourhood",

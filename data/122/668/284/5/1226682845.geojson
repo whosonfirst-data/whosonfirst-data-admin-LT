@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.86135,54.65969,23.90135,54.69969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160iauli\u0161kiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226682845,
-    "wof:lastmodified":1537661992,
+    "wof:lastmodified":1566598449,
     "wof:name":"Siauliskiai",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.27789,55.00755,24.31789,55.04755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dumsiai"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276689693,
-    "wof:lastmodified":1564191758,
+    "wof:lastmodified":1566597225,
     "wof:name":"Dumsiai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

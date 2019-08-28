@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":56.227499,
     "lbl:longitude":24.410844,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.227499,
     "mps:longitude":24.410844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u0421\u0430\u043b\u0430\u0442\u044b"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Salo\u010diai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salochyay"
     ],
     "qs:a0":"Lietuva",
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":595003,
         "gp:id":478153,
-        "qs:id":215256,
+        "qs_pg:id":215256,
         "wd:id":"Q1846876",
         "wk:page":"Salo\u010diai"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101817255,
-    "wof:lastmodified":1563319217,
+    "wof:lastmodified":1566597935,
     "wof:name":"Salo\u010diai",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

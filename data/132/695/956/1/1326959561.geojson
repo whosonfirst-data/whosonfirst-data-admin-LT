@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.78164,56.00663,21.82164,56.04663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pamedin\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326959561,
-    "wof:lastmodified":1537662469,
+    "wof:lastmodified":1566596609,
     "wof:name":"Pamedinciai",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

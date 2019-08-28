@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.979966,
     "lbl:longitude":24.747928,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.979966,
     "mps:longitude":24.747928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0628\u0627\u0644\u0646\u064a\u0646\u0643\u0627\u0633"
     ],
@@ -102,7 +105,7 @@
     "name:tat_x_preferred":[
         "\u0412\u0430\u0431\u0430\u043b\u043d\u0438\u043d\u043a\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zabalninkas"
     ],
     "name:vol_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.980556,
     "wd:longitude":24.747222,
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":593561,
         "gp:id":479276,
-        "qs:id":260696,
         "qs_pg:id":260696,
         "wd:id":"Q2000579",
         "wk:page":"Vabalninkas"
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101818133,
-    "wof:lastmodified":1563319143,
+    "wof:lastmodified":1566597916,
     "wof:name":"Vabalninkas",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

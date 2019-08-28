@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.47734,54.96063,23.51734,55.00063",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lek\u0117\u010diai"
     ],
@@ -50,8 +54,7 @@
     "name:und_x_variant":[
         "Lekaytse",
         "Lekechyay",
-        "Lek\u0117\u010di\u0173",
-        "Lek\u0117\u010diai"
+        "Lek\u0117\u010di\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1360215977,
-    "wof:lastmodified":1564192847,
+    "wof:lastmodified":1566597891,
     "wof:name":"Lekeciai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

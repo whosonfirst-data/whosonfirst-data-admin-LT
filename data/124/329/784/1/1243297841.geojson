@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.48051,55.86374,22.52051,55.90374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Balokishkis",
         "Baltaki\u0161k\u0117"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243297841,
-    "wof:lastmodified":1537662407,
+    "wof:lastmodified":1566598240,
     "wof:name":"Baltakiske",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

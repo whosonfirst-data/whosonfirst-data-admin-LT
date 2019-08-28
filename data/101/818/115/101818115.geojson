@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":56.272315,
     "lbl:longitude":23.995405,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":56.272315,
     "mps:longitude":23.995405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u017deimelis"
     ],
@@ -55,7 +58,7 @@
     "name:swe_x_preferred":[
         "\u017deimelis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zheymelis"
     ],
     "qs:a0":"Lietuva",
@@ -72,7 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":166,
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":592850,
         "gp:id":479823,
-        "qs:id":125925,
+        "qs_pg:id":125925,
         "wd:id":"Q3316406",
         "wk:page":"\u017deimelis"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101818115,
-    "wof:lastmodified":1563319177,
+    "wof:lastmodified":1566597926,
     "wof:name":"\u017deimelis",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.43224,55.89411,25.47224,55.93411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Panemun\u0117lis"
     ],
@@ -45,11 +49,9 @@
         "Panemun\u0117lis"
     ],
     "name:und_x_variant":[
-        "Poniemunek",
         "Panemun\u0117lio",
         "Panemunis",
-        "Panemun\u2019",
-        "Panemun\u0117lis"
+        "Panemun\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1226272863,
-    "wof:lastmodified":1564193583,
+    "wof:lastmodified":1566598412,
     "wof:name":"Panemunelis",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

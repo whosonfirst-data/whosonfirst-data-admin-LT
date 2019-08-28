@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.81769,56.14795,23.85769,56.18795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Latie\u0161iniai",
         "Layteshinyay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243485867,
-    "wof:lastmodified":1537662199,
+    "wof:lastmodified":1566598138,
     "wof:name":"Laitiesiniai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

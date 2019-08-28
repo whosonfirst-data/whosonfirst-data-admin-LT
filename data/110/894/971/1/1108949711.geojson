@@ -10,9 +10,12 @@
     "geom:latitude":54.748536,
     "geom:longitude":25.382662,
     "iso:country":"LT",
+    "lbl:bbox":"25.3776623009,54.7435358268,25.3876623009,54.7535358268",
     "lbl:latitude":54.748536,
     "lbl:longitude":25.382662,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:lit_x_preferred":[
         "Gvazdik\u0173"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85685759,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108949711,
-    "wof:lastmodified":1497292360,
+    "wof:lastmodified":1566597674,
     "wof:name":"Gvazdiku",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

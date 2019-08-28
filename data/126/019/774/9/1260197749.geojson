@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.39667,55.36333,23.43667,55.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dytskaymi",
         "Didzhkaymyay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260197749,
-    "wof:lastmodified":1537662350,
+    "wof:lastmodified":1566597641,
     "wof:name":"Dickaimis",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.97361,54.71171,23.01361,54.75171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Arminai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242613457,
-    "wof:lastmodified":1537662797,
+    "wof:lastmodified":1566598121,
     "wof:name":"Arminai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

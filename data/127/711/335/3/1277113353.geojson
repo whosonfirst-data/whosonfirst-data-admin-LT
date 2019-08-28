@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.62405,55.54569,21.66405,55.58569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Dauk\u0161ai\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277113353,
-    "wof:lastmodified":1537662356,
+    "wof:lastmodified":1566597326,
     "wof:name":"Dauksaiciai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

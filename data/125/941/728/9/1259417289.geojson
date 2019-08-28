@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.28111,55.799,21.32111,55.839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tru\u0161iai",
         "Trushen",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259417289,
-    "wof:lastmodified":1537661930,
+    "wof:lastmodified":1566598310,
     "wof:name":"Triusiai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

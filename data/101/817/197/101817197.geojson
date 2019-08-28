@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.727083,
     "lbl:longitude":21.925328,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.727083,
     "mps:longitude":21.925328,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u062a\u0627\u0641\u0627\u0633"
     ],
@@ -98,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0442\u0430\u0432\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Retowo"
     ],
     "name:urd_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.725,
     "wd:longitude":21.927778,
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":595284,
         "gp:id":477930,
-        "qs:id":125952,
         "qs_pg:id":125952,
         "wd:id":"Q3657",
         "wk:page":"Rietavas"
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":101817197,
-    "wof:lastmodified":1563319207,
+    "wof:lastmodified":1566597933,
     "wof:name":"Rietavas",
     "wof:parent_id":102073669,
     "wof:placetype":"locality",

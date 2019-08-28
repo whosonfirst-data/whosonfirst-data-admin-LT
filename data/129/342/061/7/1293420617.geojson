@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.59922,54.94636,24.63922,54.98636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rusiai"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Rusyany",
-        "Rusi\u0173",
-        "Rusiai"
+        "Rusi\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293420617,
-    "wof:lastmodified":1537662017,
+    "wof:lastmodified":1566597101,
     "wof:name":"Rusiai",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.03961,54.97937,23.07961,55.01937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Plieni\u0161kiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209846011,
-    "wof:lastmodified":1537662801,
+    "wof:lastmodified":1566597374,
     "wof:name":"Plieniskiai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

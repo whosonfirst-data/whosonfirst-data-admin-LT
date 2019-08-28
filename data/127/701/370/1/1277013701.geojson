@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.19424,55.3269,25.23424,55.3669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160unakojai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277013701,
-    "wof:lastmodified":1537662629,
+    "wof:lastmodified":1566597143,
     "wof:name":"Sunakojai",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

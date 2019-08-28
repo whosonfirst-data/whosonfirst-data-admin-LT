@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.38,55.94667,21.42,55.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Duoniai",
         "Ruchiney-Bol\u2019shoy",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310220007,
-    "wof:lastmodified":1537662020,
+    "wof:lastmodified":1566597721,
     "wof:name":"Ruginiai II",
     "wof:parent_id":102073681,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.20672,55.15442,23.24672,55.19442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Minelgai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243299865,
-    "wof:lastmodified":1537662850,
+    "wof:lastmodified":1566598247,
     "wof:name":"Minelgai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

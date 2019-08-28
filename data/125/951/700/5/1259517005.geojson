@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.75482,55.14297,22.79482,55.18297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Naujininkai"
     ],
@@ -46,8 +50,7 @@
     ],
     "name:und_x_variant":[
         "Noveniki",
-        "Novenikai",
-        "Naujininkai"
+        "Novenikai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1259517005,
-    "wof:lastmodified":1564193485,
+    "wof:lastmodified":1566598347,
     "wof:name":"Naujininkai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

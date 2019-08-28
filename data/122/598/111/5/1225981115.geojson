@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.68737,55.56568,25.72737,55.60568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salos"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1225981115,
-    "wof:lastmodified":1564193724,
+    "wof:lastmodified":1566598508,
     "wof:name":"Salos",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

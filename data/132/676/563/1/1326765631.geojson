@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.29216,55.77722,24.33216,55.81722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "R\u0117kliai"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326765631,
-    "wof:lastmodified":1537662033,
+    "wof:lastmodified":1566596639,
     "wof:name":"Rekliai",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

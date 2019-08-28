@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.28495,56.19361,24.32495,56.23361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nami\u0161i\u0173",
         "Namishyay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293725581,
-    "wof:lastmodified":1537662141,
+    "wof:lastmodified":1566597120,
     "wof:name":"Namisiai",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

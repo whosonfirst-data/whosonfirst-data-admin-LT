@@ -12,8 +12,10 @@
     "gn:latitude":54.78333,
     "gn:longitude":24.91667,
     "iso:country":"LT",
+    "lbl:bbox":"25.169049,54.624101,25.179049,54.634101",
     "lbl:latitude":54.629101,
     "lbl:longitude":25.174049,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.64633,
     "mps:longitude":25.117451,
     "mz:hierarchy_label":0,
@@ -78,12 +80,8 @@
     "name:swe_x_preferred":[
         "Paneriai"
     ],
-    "name:und_x_preferred":[
-        "Paneriai"
-    ],
-    "name:unk_x_variant":[
-        "Dvaras Paneriai",
-        "Paneriai"
+    "name:und_x_variant":[
+        "Dvaras Paneriai"
     ],
     "name:yid_x_preferred":[
         "\u05e4\u05d0\u05e0\u05d0\u05e8"
@@ -132,7 +130,6 @@
     "wof:concordances":{
         "gn:id":596134,
         "gp:id":55848096,
-        "qs:id":233568,
         "qs_pg:id":233568,
         "wd:id":"Q708092"
     },
@@ -152,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566596903,
     "wof:name":"Aukstieji Paneriai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

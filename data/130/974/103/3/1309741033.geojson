@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.19543,55.82116,26.23543,55.86116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Bliokmantas"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309741033,
-    "wof:lastmodified":1537662500,
+    "wof:lastmodified":1566597987,
     "wof:name":"Bliokmantas",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

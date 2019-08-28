@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.44662,55.41407,25.48662,55.45407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pakalniai"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Pokolne",
         "Pakalnyay",
-        "Pakalni\u0173",
-        "Pakalniai"
+        "Pakalni\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1260215103,
-    "wof:lastmodified":1537662105,
+    "wof:lastmodified":1566597648,
     "wof:name":"Pakalniai",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

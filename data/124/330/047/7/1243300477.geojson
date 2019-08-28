@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.5666,55.30054,22.6066,55.34054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "U\u017e\u0161e\u0161uviai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243300477,
-    "wof:lastmodified":1537662773,
+    "wof:lastmodified":1566598066,
     "wof:name":"Uzsesuviai",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

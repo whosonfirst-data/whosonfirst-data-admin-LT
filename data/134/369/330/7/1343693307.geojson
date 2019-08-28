@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.61659,55.53516,23.65659,55.57516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grinki\u0161kis"
     ],
@@ -52,10 +56,8 @@
     ],
     "name:und_x_variant":[
         "Grinkishki",
-        "Grynkiszki",
         "Grinkishkis",
-        "Grinki\u0161kio",
-        "Grinki\u0161kis"
+        "Grinki\u0161kio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":1343693307,
-    "wof:lastmodified":1564191164,
+    "wof:lastmodified":1566596831,
     "wof:name":"Grinkiskis",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

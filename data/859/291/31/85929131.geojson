@@ -13,8 +13,10 @@
     "gn:longitude":24.56667,
     "gn:population":549,
     "iso:country":"LT",
+    "lbl:bbox":"25.288707,54.746299,25.298707,54.756299",
     "lbl:latitude":54.751299,
     "lbl:longitude":25.293707,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.759973,
     "mps:longitude":25.308639,
     "mz:hierarchy_label":0,
@@ -101,12 +103,8 @@
     "name:szl_x_preferred":[
         "Wjeprze"
     ],
-    "name:und_x_preferred":[
-        "Verkiai"
-    ],
-    "name:unk_x_variant":[
-        "Vepry",
-        "Verkiai"
+    "name:und_x_variant":[
+        "Vepry"
     ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_fcode":"PPL",
@@ -154,7 +152,6 @@
     "wof:concordances":{
         "gn:id":593295,
         "gp:id":55848091,
-        "qs:id":429326,
         "qs_pg:id":429326,
         "wd:id":"Q2026687",
         "wk:page":"Vepriai"
@@ -175,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566596904,
     "wof:name":"Verkiai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.28194,54.67184,24.32194,54.71184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Plaskuny",
         "Plask\u016bna",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1210052357,
-    "wof:lastmodified":1537662060,
+    "wof:lastmodified":1566597531,
     "wof:name":"Plaskunai",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

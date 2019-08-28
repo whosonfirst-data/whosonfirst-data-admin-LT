@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.15912,56.22625,23.19912,56.26625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Taru\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276801517,
-    "wof:lastmodified":1537662826,
+    "wof:lastmodified":1566597173,
     "wof:name":"Taruciai",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

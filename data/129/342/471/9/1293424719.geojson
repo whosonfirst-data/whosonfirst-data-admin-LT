@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.09358,55.02051,26.13358,55.06051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u017dibali\u0161kiai",
         "Zybalishki",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293424719,
-    "wof:lastmodified":1537661865,
+    "wof:lastmodified":1566597088,
     "wof:name":"Ziboliske",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

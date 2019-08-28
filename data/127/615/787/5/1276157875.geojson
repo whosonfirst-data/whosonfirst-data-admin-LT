@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.76613,54.40437,22.80613,54.44437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Povishtaytse",
         "Pavi\u0161ty\u010dio",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276157875,
-    "wof:lastmodified":1537662075,
+    "wof:lastmodified":1566597256,
     "wof:name":"Pavistytis",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

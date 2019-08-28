@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.06276,55.0884,25.10276,55.1284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pa\u017e\u016bsiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260016033,
-    "wof:lastmodified":1537662720,
+    "wof:lastmodified":1566597606,
     "wof:name":"Pazusiai",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

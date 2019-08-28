@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.23799,56.24935,23.27799,56.28935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dameli\u0173",
         "Damyalyay",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243590801,
-    "wof:lastmodified":1537662363,
+    "wof:lastmodified":1566598157,
     "wof:name":"Dameliai",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

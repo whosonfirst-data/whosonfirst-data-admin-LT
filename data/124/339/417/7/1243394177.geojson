@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.18484,55.29093,23.22484,55.33093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Girkalnis"
     ],
@@ -71,8 +75,7 @@
     "name:und_x_variant":[
         "Girtoko\u0142",
         "Girtakol\u2019",
-        "Girkalnio",
-        "Girkalnis"
+        "Girkalnio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1243394177,
-    "wof:lastmodified":1564193079,
+    "wof:lastmodified":1566598085,
     "wof:name":"Girkalnis",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

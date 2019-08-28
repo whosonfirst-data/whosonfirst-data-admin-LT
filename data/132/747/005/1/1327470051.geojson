@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.75073,55.29542,21.79073,55.33542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Degu\u010diai"
     ],
@@ -36,8 +40,7 @@
         "Degu\u010di\u0173",
         "Dyaguchyay",
         "Degutse",
-        "Deguchyay",
-        "Degu\u010diai"
+        "Deguchyay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327470051,
-    "wof:lastmodified":1537662352,
+    "wof:lastmodified":1566596615,
     "wof:name":"Deguciai",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

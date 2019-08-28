@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.27596,55.41115,25.31596,55.45115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Ziogai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309942849,
-    "wof:lastmodified":1537662616,
+    "wof:lastmodified":1566597979,
     "wof:name":"Ziogai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

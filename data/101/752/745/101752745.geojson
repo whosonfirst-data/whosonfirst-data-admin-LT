@@ -13,6 +13,8 @@
     "iso:country":"LT",
     "lbl:latitude":54.896296,
     "lbl:longitude":23.92186,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":54.896296,
     "mps:longitude":23.92186,
     "mz:hierarchy_label":1,
@@ -330,7 +332,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0443\u043d\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caunas"
     ],
     "name:urd_x_preferred":[
@@ -471,7 +473,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":48.0,
     "wd:latitude":54.9,
@@ -488,10 +490,12 @@
     "wof:concordances":{
         "gn:id":598316,
         "gp:id":475457,
-        "qs:id":125995,
-        "qs_pg:id":1059310,
+        "qs_pg:id":125995,
         "wd:id":"Q4115712",
         "wk:page":"Kaunas"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1059310
     },
     "wof:country":"LT",
     "wof:geomhash":"8fa8f18e02e533ffec8abb06c7d650c8",
@@ -505,7 +509,7 @@
         }
     ],
     "wof:id":101752745,
-    "wof:lastmodified":1563319136,
+    "wof:lastmodified":1566597915,
     "wof:name":"Kaunas",
     "wof:parent_id":102073611,
     "wof:placetype":"locality",

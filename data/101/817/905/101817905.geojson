@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.098819,
     "lbl:longitude":23.698713,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.098819,
     "mps:longitude":23.698713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0633\u064a\u062c\u0627\u064a"
     ],
@@ -90,7 +93,7 @@
     "name:tat_x_preferred":[
         "\u0412\u0435\u0439\u0441\u0435\u044f\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veyseyay"
     ],
     "name:vol_x_preferred":[
@@ -116,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.1,
     "wd:longitude":23.694444,
@@ -131,7 +134,6 @@
     "wof:concordances":{
         "gn:id":593338,
         "gp:id":479458,
-        "qs:id":962664,
         "qs_pg:id":962664,
         "wd:id":"Q2044626",
         "wk:page":"Veisiejai"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101817905,
-    "wof:lastmodified":1563319210,
+    "wof:lastmodified":1566597934,
     "wof:name":"Veisiejai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

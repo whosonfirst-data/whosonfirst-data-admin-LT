@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.94201,54.99989,22.98201,55.03989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moz\u016bri\u0161kiai"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Mazurishki",
-        "Moz\u016briski\u0173",
-        "Moz\u016bri\u0161kiai"
+        "Moz\u016briski\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243584411,
-    "wof:lastmodified":1537662143,
+    "wof:lastmodified":1566598162,
     "wof:name":"Mozuriskiai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

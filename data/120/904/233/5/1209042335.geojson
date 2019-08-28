@@ -24,8 +24,12 @@
     "gn:population":122,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.09482,54.8158,24.13482,54.8558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209042335,
-    "wof:lastmodified":1536299505,
+    "wof:lastmodified":1566597446,
     "wof:name":"Dubravai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.49985,55.48053,22.53985,55.52053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuoyeyni",
         "T\u016bjainiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310635501,
-    "wof:lastmodified":1537661928,
+    "wof:lastmodified":1566597749,
     "wof:name":"Tujainiai",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

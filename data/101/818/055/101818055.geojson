@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.162141,
     "lbl:longitude":26.000959,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":55.162141,
     "mps:longitude":26.000959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0428\u0432\u044f\u043d\u0447\u043e\u043d\u0435\u043b\u0435\u0439"
     ],
@@ -96,7 +99,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0432\u0435\u043d\u0447\u0435\u043d\u0435\u043b\u044f\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shvench\u00ebnelyay"
     ],
     "name:vol_x_preferred":[
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.166667,
     "wd:longitude":26.0,
@@ -137,7 +140,6 @@
     "wof:concordances":{
         "gn:id":594067,
         "gp:id":478894,
-        "qs:id":1010456,
         "qs_pg:id":1010456,
         "wd:id":"Q392772",
         "wk:page":"\u0160ven\u010dion\u0117liai"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101818055,
-    "wof:lastmodified":1563319155,
+    "wof:lastmodified":1566597919,
     "wof:name":"\u0160ven\u010dion\u0117liai",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

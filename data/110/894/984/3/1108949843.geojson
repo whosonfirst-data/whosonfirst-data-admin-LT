@@ -10,9 +10,12 @@
     "geom:latitude":54.638427,
     "geom:longitude":25.266762,
     "iso:country":"LT",
+    "lbl:bbox":"25.2617622029,54.6334273225,25.2717622029,54.6434273225",
     "lbl:latitude":54.638427,
     "lbl:longitude":25.266762,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,13 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85685759,
         102191581,
         85633269,
         101753031,
-        102073615,
-        85685759
+        102073615
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1108949843,
-    "wof:lastmodified":1492123951,
+    "wof:lastmodified":1566597673,
     "wof:name":"Kirtimai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

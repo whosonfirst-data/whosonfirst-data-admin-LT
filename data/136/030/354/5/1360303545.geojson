@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.19667,55.13,22.23667,55.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Klain-Zhagmanten",
         "\u017dagmanteliai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360303545,
-    "wof:lastmodified":1537661874,
+    "wof:lastmodified":1566597857,
     "wof:name":"Zagmanteliai",
     "wof:parent_id":102073623,
     "wof:placetype":"locality",

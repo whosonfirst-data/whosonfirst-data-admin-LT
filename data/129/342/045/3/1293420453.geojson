@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.496,54.784,25.536,54.824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bezdonys"
     ],
@@ -49,9 +53,7 @@
         "Bezdonys"
     ],
     "name:und_x_variant":[
-        "Bezdany",
-        "Bezdonis",
-        "Bezdonys"
+        "Bezdonis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1293420453,
-    "wof:lastmodified":1564191568,
+    "wof:lastmodified":1566597098,
     "wof:name":"Bezdonys",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

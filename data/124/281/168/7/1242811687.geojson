@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.2075,55.04363,25.2475,55.08363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Zdoni\u0161kiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242811687,
-    "wof:lastmodified":1537662639,
+    "wof:lastmodified":1566598099,
     "wof:name":"Zdoniskiai",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.4487,55.07521,25.4887,55.11521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muralishkyay",
         "Moralishki",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242715165,
-    "wof:lastmodified":1537662143,
+    "wof:lastmodified":1566598187,
     "wof:name":"Muraliskiai",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

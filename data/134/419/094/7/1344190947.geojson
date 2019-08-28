@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.57745,55.35571,22.61745,55.39571",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shurpishkyay",
         "\u0160iurpi\u0161k\u0117"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344190947,
-    "wof:lastmodified":1537661982,
+    "wof:lastmodified":1566596857,
     "wof:name":"Siurpiske",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

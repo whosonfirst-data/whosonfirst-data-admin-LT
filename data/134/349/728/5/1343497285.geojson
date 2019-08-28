@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.24336,54.68052,23.28336,54.72052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pilyuny",
         "Pili\u016bnai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343497285,
-    "wof:lastmodified":1537662063,
+    "wof:lastmodified":1566596810,
     "wof:name":"Piliunai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

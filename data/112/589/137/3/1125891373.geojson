@@ -9,14 +9,18 @@
     "geom:bbox":"25.98333,55.38333,25.98333,55.38333",
     "geom:latitude":55.38333,
     "geom:longitude":25.98333,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LT",
+    "lbl:bbox":"25.96333,55.36333,26.00333,55.40333",
     "lbl:latitude":55.38333,
     "lbl:longitude":25.98333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Ginu\u010diai"
@@ -45,7 +49,7 @@
     "name:sgs_x_preferred":[
         "Ginot\u0113"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ginuchya"
     ],
     "qs_pg:aaroncc":"LT",
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":474662,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
     "woe:name_adm1":"Utenos Apskritis",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1125891373,
-    "wof:lastmodified":1563319338,
+    "wof:lastmodified":1566598026,
     "wof:name":"Ginu\u010diai",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

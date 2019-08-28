@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.29565,55.33916,26.33565,55.37916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Vasiuliai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225875081,
-    "wof:lastmodified":1537662521,
+    "wof:lastmodified":1566598483,
     "wof:name":"Vasiuliai",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

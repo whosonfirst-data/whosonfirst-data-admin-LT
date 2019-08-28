@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.75136,55.40882,22.79136,55.44882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nemak\u0161\u010diai"
     ],
@@ -66,10 +70,8 @@
         "Niemoniuny",
         "Nyamakshchay",
         "Nemakshchyay",
-        "Niemokszty",
         "Nemok\u0161\u010diai",
-        "Nemak\u0161\u010di\u0173",
-        "Nemak\u0161\u010diai"
+        "Nemak\u0161\u010di\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":1226577239,
-    "wof:lastmodified":1564193657,
+    "wof:lastmodified":1566598461,
     "wof:name":"Nemaksciai",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.82601,55.42926,21.86601,55.46926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160iaud\u0117nai I"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276160351,
-    "wof:lastmodified":1537661994,
+    "wof:lastmodified":1566597186,
     "wof:name":"Siaudenai I",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

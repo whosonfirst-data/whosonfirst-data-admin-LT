@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.164081,
     "lbl:longitude":24.183984,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.164081,
     "mps:longitude":24.183984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u044f\u0441\u0442\u044d\u0447\u043a\u0430 \u041c\u044f\u0440\u043a\u0456\u043d\u0435"
     ],
@@ -78,9 +81,6 @@
     "name:swe_x_preferred":[
         "Merkin\u0117"
     ],
-    "name:unk_x_variant":[
-        "Merecz"
-    ],
     "name:zho_x_preferred":[
         "\u6885\u723e\u4eac"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":540,
     "wof:belongsto":[
         102191581,
@@ -112,7 +112,6 @@
     "wof:concordances":{
         "gn:id":597070,
         "gp:id":476438,
-        "qs:id":900127,
         "qs_pg:id":900127,
         "wd:id":"Q1594489",
         "wk:page":"Merkin\u0117"
@@ -129,7 +128,7 @@
         }
     ],
     "wof:id":101817915,
-    "wof:lastmodified":1563319197,
+    "wof:lastmodified":1566597931,
     "wof:name":"Merkin\u0117",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

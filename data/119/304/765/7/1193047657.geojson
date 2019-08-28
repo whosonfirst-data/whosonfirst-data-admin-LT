@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.47605,55.90588,23.51605,55.94588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shubaychyay",
         "\u0160iubai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193047657,
-    "wof:lastmodified":1537661983,
+    "wof:lastmodified":1566597543,
     "wof:name":"Siubaiciai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

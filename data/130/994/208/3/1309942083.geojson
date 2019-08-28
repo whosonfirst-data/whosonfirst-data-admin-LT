@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.44911,55.02535,23.48911,55.06535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u017demoji Panemun\u0117"
     ],
@@ -48,8 +52,7 @@
         "\u017demoji Panemun\u0117"
     ],
     "name:und_x_variant":[
-        "Panemun\u0117s \u017demosios",
-        "\u017demoji Panemun\u0117"
+        "Panemun\u0117s \u017demosios"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1309942083,
-    "wof:lastmodified":1564192945,
+    "wof:lastmodified":1566597984,
     "wof:name":"Zemoji Panemune",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

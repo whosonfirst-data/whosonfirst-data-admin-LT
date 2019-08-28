@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.35412,54.57761,25.39412,54.61761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Parapijoni\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225875235,
-    "wof:lastmodified":1537662666,
+    "wof:lastmodified":1566598490,
     "wof:name":"Parapijoniskes",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

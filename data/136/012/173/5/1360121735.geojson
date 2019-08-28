@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.24476,55.49844,24.28476,55.53844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gudelyuki",
         "Gudeliukai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360121735,
-    "wof:lastmodified":1537662294,
+    "wof:lastmodified":1566597831,
     "wof:name":"Gudeliukai",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Riga",
     "iso:country":"LT",
+    "lbl:bbox":"26.391,55.68358,26.431,55.72358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Mateiki\u0161k\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293231999,
-    "wof:lastmodified":1537662480,
+    "wof:lastmodified":1566596986,
     "wof:name":"Mateikiske",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.58003,55.13164,26.62003,55.17164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1276137775,
-    "wof:lastmodified":1537039022,
+    "wof:lastmodified":1566597226,
     "wof:name":"Kamoja",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

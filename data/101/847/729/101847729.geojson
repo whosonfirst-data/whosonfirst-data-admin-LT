@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.413955,
     "lbl:longitude":21.094688,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.413955,
     "mps:longitude":21.094688,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Neringa"
     ],
@@ -130,7 +133,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":562,
     "wof:belongsto":[
         102191581,
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101847729,
-    "wof:lastmodified":1563319229,
+    "wof:lastmodified":1566597940,
     "wof:name":"Neringa (Pervalka)",
     "wof:parent_id":102073645,
     "wof:placetype":"locality",

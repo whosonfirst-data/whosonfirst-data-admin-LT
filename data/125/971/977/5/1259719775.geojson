@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.46561,54.25618,24.50561,54.29618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "E\u017eeriekai"
     ],
     "name:und_x_variant":[
         "Ozhereki",
-        "E\u017eeriek\u0173",
-        "E\u017eeriekai"
+        "E\u017eeriek\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259719775,
-    "wof:lastmodified":1564193440,
+    "wof:lastmodified":1566598317,
     "wof:name":"Ezeriekai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

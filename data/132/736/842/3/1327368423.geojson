@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.10805,56.03315,22.14805,56.07315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Juod\u0117nai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327368423,
-    "wof:lastmodified":1537662762,
+    "wof:lastmodified":1566596530,
     "wof:name":"Juodenai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

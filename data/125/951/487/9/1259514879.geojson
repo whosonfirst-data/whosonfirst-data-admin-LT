@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.04493,55.41936,25.08493,55.45936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Egliai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259514879,
-    "wof:lastmodified":1537662711,
+    "wof:lastmodified":1566598357,
     "wof:name":"Egliai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

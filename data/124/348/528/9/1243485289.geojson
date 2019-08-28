@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.2522,54.98798,25.2922,55.02798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Nak\u0161ti\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243485289,
-    "wof:lastmodified":1537662652,
+    "wof:lastmodified":1566598137,
     "wof:name":"Nakstiskes",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

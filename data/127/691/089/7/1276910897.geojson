@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.82082,54.34091,24.86082,54.38091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u043b\u044c\u043a\u0456\u043d\u0456\u043d\u043a\u0430\u0439"
     ],
@@ -63,12 +67,10 @@
         "Valkininkai"
     ],
     "name:und_x_variant":[
-        "Olkieniki",
         "Valkiniras",
         "Ol\u2019keniki",
         "Valkininkas",
-        "Val\u2019kininkay",
-        "Valkininkai"
+        "Val\u2019kininkay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":1276910897,
-    "wof:lastmodified":1564191971,
+    "wof:lastmodified":1566597304,
     "wof:name":"Valkininkai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

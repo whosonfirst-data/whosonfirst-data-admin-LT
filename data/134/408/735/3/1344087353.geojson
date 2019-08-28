@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.17528,55.95251,22.21528,55.99251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suraychyay",
         "Sirai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344087353,
-    "wof:lastmodified":1537661984,
+    "wof:lastmodified":1566596764,
     "wof:name":"Siraiciai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

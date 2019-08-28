@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.25543,55.71682,26.29543,55.75682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Saraki\u0161k\u0117s"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343296599,
-    "wof:lastmodified":1537662501,
+    "wof:lastmodified":1566596872,
     "wof:name":"Sarakiskes",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

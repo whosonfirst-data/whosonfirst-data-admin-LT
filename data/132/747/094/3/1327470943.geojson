@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.51574,55.6557,24.55574,55.6957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mie\u017ei\u0161kiai"
     ],
@@ -54,8 +58,7 @@
         "Miyezhishkyay",
         "Mezhishkyay",
         "Mie\u0161kai",
-        "Mie\u017ei\u0161ki\u0173",
-        "Mie\u017ei\u0161kiai"
+        "Mie\u017ei\u0161ki\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1327470943,
-    "wof:lastmodified":1564190821,
+    "wof:lastmodified":1566596615,
     "wof:name":"Mieziskiai",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.34824,54.74164,25.38824,54.78164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Ver\u017euva"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293234809,
-    "wof:lastmodified":1537662670,
+    "wof:lastmodified":1566596987,
     "wof:name":"Verzuva",
     "wof:parent_id":102073615,
     "wof:placetype":"locality",

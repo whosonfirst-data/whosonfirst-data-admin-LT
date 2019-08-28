@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.304514,
     "lbl:longitude":21.002042,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":55.304514,
     "mps:longitude":21.002042,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Nida"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neringa"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -142,10 +145,12 @@
     "wof:concordances":{
         "gn:id":596643,
         "gp:id":476797,
-        "qs:id":1165554,
         "qs_pg:id":489828,
         "wd:id":"Q1004306",
         "wk:page":"Nida, Lithuania"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1165554
     },
     "wof:country":"LT",
     "wof:geomhash":"ec75526a48a45727b67c314e40733e00",
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":101818037,
-    "wof:lastmodified":1563319157,
+    "wof:lastmodified":1566597920,
     "wof:name":"Neringa (Nida)",
     "wof:parent_id":102073645,
     "wof:placetype":"locality",

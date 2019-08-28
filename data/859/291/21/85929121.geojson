@@ -12,8 +12,10 @@
     "gn:latitude":54.66425,
     "gn:longitude":25.28418,
     "iso:country":"LT",
+    "lbl:bbox":"25.268563,54.657677,25.278563,54.667677",
     "lbl:latitude":54.662677,
     "lbl:longitude":25.273563,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.657543,
     "mps:longitude":25.272477,
     "mz:hierarchy_label":0,
@@ -59,12 +61,6 @@
     "name:sgs_x_preferred":[
         "Nauj\u0117nink\u0101"
     ],
-    "name:und_x_preferred":[
-        "Naujininkai"
-    ],
-    "name:unk_x_variant":[
-        "Naujininkai"
-    ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":593116,
@@ -108,7 +104,6 @@
     "wof:concordances":{
         "gn:id":6955408,
         "gp:id":55848089,
-        "qs:id":221412,
         "qs_pg:id":221412,
         "wd:id":"Q1850320",
         "wk:page":"Naujininkai"
@@ -129,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566596904,
     "wof:name":"Naujininkai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

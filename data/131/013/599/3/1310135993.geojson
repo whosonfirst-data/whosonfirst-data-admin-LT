@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.11054,56.04919,25.15054,56.08919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Gumbi\u0161kis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310135993,
-    "wof:lastmodified":1537662685,
+    "wof:lastmodified":1566597708,
     "wof:name":"Gumbiskis",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

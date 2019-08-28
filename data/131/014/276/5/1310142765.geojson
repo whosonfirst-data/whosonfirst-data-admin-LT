@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.94358,56.02123,24.98358,56.06123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kupreli\u0161kis"
     ],
@@ -53,8 +57,7 @@
     "name:und_x_variant":[
         "Kuprelishkis",
         "Kupreli\u0161kio",
-        "Kupryalishkis",
-        "Kupreli\u0161kis"
+        "Kupryalishkis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1310142765,
-    "wof:lastmodified":1564192601,
+    "wof:lastmodified":1566597717,
     "wof:name":"Kupreliskis",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

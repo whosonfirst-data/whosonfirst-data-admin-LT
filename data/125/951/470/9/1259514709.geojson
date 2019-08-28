@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.62509,55.077,24.66509,55.117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhuvinchyay",
         "\u017duvin\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259514709,
-    "wof:lastmodified":1537661858,
+    "wof:lastmodified":1566598349,
     "wof:name":"Zuvinciai",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

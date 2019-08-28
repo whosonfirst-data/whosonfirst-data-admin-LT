@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.91112,54.95322,22.95112,54.99322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Baltkojai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276696697,
-    "wof:lastmodified":1537662800,
+    "wof:lastmodified":1566597190,
     "wof:name":"Baltkojai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

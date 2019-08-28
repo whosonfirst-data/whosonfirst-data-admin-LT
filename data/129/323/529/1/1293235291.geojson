@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.30022,56.06624,23.34022,56.10624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Valdoniai",
         "Valdomay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293235291,
-    "wof:lastmodified":1537661905,
+    "wof:lastmodified":1566596984,
     "wof:name":"Valdomai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

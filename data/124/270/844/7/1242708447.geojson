@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.52928,55.39381,25.56928,55.43381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Papi\u0161kiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242708447,
-    "wof:lastmodified":1537662629,
+    "wof:lastmodified":1566598177,
     "wof:name":"Papiskiai",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.20328,55.1589,24.24328,55.1989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0416\u044d\u0439\u043c\u0435\u0439"
     ],
@@ -62,8 +66,7 @@
         "\u017deim\u0117",
         "Zheymy",
         "\u017deimi\u0173",
-        "Zheymyay",
-        "\u017deimiai"
+        "Zheymyay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1276479781,
-    "wof:lastmodified":1564191771,
+    "wof:lastmodified":1566597233,
     "wof:name":"Zeimiai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

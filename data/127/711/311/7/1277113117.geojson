@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.993,55.783,24.033,55.823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Smilgiai"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Smilgi\u0173",
-        "Smil\u2019ge",
-        "Smilgiai"
+        "Smil\u2019ge"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1277113117,
-    "wof:lastmodified":1564192013,
+    "wof:lastmodified":1566597331,
     "wof:name":"Smilgiai",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

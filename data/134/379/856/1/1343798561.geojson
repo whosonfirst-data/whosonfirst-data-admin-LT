@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.70638,56.32032,23.74638,56.36032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Drasutaychyay",
         "Dr\u0105sutai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343798561,
-    "wof:lastmodified":1537662342,
+    "wof:lastmodified":1566596785,
     "wof:name":"Drasutaiciai",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

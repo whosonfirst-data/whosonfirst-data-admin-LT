@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.62811,54.22205,23.66811,54.26205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0160vente\u017eeris"
     ],
@@ -57,8 +61,7 @@
         "Shventezheris",
         "\u0160vente\u017eerio",
         "Svento-Yezery",
-        "Swi\u0119to-Jeziory",
-        "\u0160vente\u017eeris"
+        "Swi\u0119to-Jeziory"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1344090273,
-    "wof:lastmodified":1564191073,
+    "wof:lastmodified":1566596776,
     "wof:name":"Sventezeris",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.639023,
     "lbl:longitude":22.76311,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":54.639023,
     "mps:longitude":22.76311,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u0431\u0430\u0440\u0442\u0430\u0439"
     ],
@@ -111,9 +114,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0431\u0430\u0440\u0442\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Kibarty"
-    ],
     "name:vol_x_preferred":[
         "Kybartai"
     ],
@@ -137,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.638889,
     "wd:longitude":22.755556,
@@ -152,7 +152,6 @@
     "wof:concordances":{
         "gn:id":597729,
         "gp:id":475928,
-        "qs:id":195591,
         "qs_pg:id":195591,
         "wd:id":"Q1004295",
         "wk:page":"Kybartai"
@@ -169,7 +168,7 @@
         }
     ],
     "wof:id":101817939,
-    "wof:lastmodified":1563319183,
+    "wof:lastmodified":1566597928,
     "wof:name":"Kybartai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

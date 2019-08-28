@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.29077,55.75157,24.33077,55.79157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bli\u016bdzi\u0173",
         "Bl\u016bd\u017ei\u0173",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293328501,
-    "wof:lastmodified":1537662388,
+    "wof:lastmodified":1566597063,
     "wof:name":"Bliudziai",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

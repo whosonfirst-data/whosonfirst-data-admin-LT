@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.38214,54.33566,24.42214,54.37566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Andri\u016bnai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193053073,
-    "wof:lastmodified":1537662945,
+    "wof:lastmodified":1566597550,
     "wof:name":"Andriunai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

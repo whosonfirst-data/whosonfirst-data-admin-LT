@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.684232,
     "lbl:longitude":25.369594,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":55.684232,
     "mps:longitude":25.369594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0432\u0435\u0434\u0430\u0441\u0430\u0439"
     ],
@@ -43,7 +46,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0432\u0435\u0434\u0430\u0441\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shvedasay"
     ],
     "qs:a0":"Lietuva",
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":594076,
         "gp:id":478887,
-        "qs:id":125945,
+        "qs_pg:id":125945,
         "wd:id":"Q5616635",
         "wk:page":"Sv\u0117dasai"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101818077,
-    "wof:lastmodified":1563319148,
+    "wof:lastmodified":1566597917,
     "wof:name":"Sv\u0117dasai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

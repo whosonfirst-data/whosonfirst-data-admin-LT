@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.86947,55.71942,25.90947,55.75942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Voversiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293625285,
-    "wof:lastmodified":1537662544,
+    "wof:lastmodified":1566596927,
     "wof:name":"Voversiai",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.19841,55.25269,24.23841,55.29269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pakshchay",
         "Pak\u0161\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259916473,
-    "wof:lastmodified":1537662100,
+    "wof:lastmodified":1566598277,
     "wof:name":"Paksciai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

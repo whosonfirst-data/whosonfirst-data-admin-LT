@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.78259,55.5653,21.82259,55.6053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Judr\u0117nai"
     ],
@@ -58,8 +62,7 @@
     ],
     "name:und_x_variant":[
         "Yudrenay",
-        "Judr\u0117n\u0173",
-        "Judr\u0117nai"
+        "Judr\u0117n\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1293818845,
-    "wof:lastmodified":1564191589,
+    "wof:lastmodified":1566597114,
     "wof:name":"Judrenai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.99107,55.16539,23.03107,55.20539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pamituvio",
         "Pamituvys"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226676523,
-    "wof:lastmodified":1537662093,
+    "wof:lastmodified":1566598438,
     "wof:name":"Pamituvys",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

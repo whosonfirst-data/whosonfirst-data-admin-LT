@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.9003,55.23464,22.9403,55.27464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vad\u017egirys"
     ],
@@ -36,8 +40,7 @@
         "Vodzhgiry",
         "Vad\u017egirio",
         "Vadzhgiris",
-        "Vad\u017egiris",
-        "Vad\u017egirys"
+        "Vad\u017egiris"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1260220915,
-    "wof:lastmodified":1537661913,
+    "wof:lastmodified":1566597584,
     "wof:name":"Vadzgirys",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

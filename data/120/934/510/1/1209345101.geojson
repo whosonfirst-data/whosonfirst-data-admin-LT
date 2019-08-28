@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.71613,55.64588,22.75613,55.68588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u0160pitol\u0117"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209345101,
-    "wof:lastmodified":1537662780,
+    "wof:lastmodified":1566597465,
     "wof:name":"Spitole",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

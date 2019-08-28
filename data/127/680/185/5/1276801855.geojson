@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.43122,56.20753,23.47122,56.24753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Taus\u0117nai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276801855,
-    "wof:lastmodified":1537662868,
+    "wof:lastmodified":1566597184,
     "wof:name":"Tausenai",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

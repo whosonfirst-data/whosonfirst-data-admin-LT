@@ -24,15 +24,18 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.8986,55.2878,23.9386,55.3278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "K\u0117boniai"
     ],
     "name:und_x_variant":[
         "Kebavichay",
-        "Kebovichi",
-        "K\u0117boniai"
+        "Kebovichi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1360321491,
-    "wof:lastmodified":1564192866,
+    "wof:lastmodified":1566597906,
     "wof:name":"Keboniai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

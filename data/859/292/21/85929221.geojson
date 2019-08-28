@@ -12,8 +12,10 @@
     "gn:latitude":54.75,
     "gn:longitude":24.93333,
     "iso:country":"LT",
+    "lbl:bbox":"25.204514,54.67014,25.214514,54.68014",
     "lbl:latitude":54.67514,
     "lbl:longitude":25.209514,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.662768,
     "mps:longitude":25.195682,
     "mz:hierarchy_label":0,
@@ -68,12 +70,8 @@
     "name:swe_x_preferred":[
         "Lazdynai"
     ],
-    "name:und_x_preferred":[
-        "Lazdynai"
-    ],
-    "name:unk_x_variant":[
-        "Lodzyany",
-        "Lazdynai"
+    "name:und_x_variant":[
+        "Lodzyany"
     ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_fcode":"PPL",
@@ -119,7 +117,6 @@
     "wof:concordances":{
         "gn:id":597599,
         "gp:id":55848104,
-        "qs:id":484231,
         "qs_pg:id":484231,
         "wd:id":"Q1646619"
     },
@@ -139,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566596903,
     "wof:name":"Lazdynai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

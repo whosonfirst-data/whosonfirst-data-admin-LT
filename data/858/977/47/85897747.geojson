@@ -10,8 +10,10 @@
     "geom:latitude":54.692957,
     "geom:longitude":25.411303,
     "iso:country":"LT",
+    "lbl:bbox":"25.406303,54.687957,25.416303,54.697957",
     "lbl:latitude":54.692957,
     "lbl:longitude":25.411303,
+    "lbl:max_zoom":18.0,
     "mps:latitude":54.691285,
     "mps:longitude":25.383949,
     "mz:hierarchy_label":0,
@@ -78,12 +80,8 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0412\u0456\u043b\u044c\u043d\u044f"
     ],
-    "name:und_x_preferred":[
-        "Naujoji Vilnia"
-    ],
-    "name:unk_x_variant":[
-        "Vileika",
-        "Naujoji Vilnia"
+    "name:und_x_variant":[
+        "Vileika"
     ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_fcode":"PPL",
@@ -127,7 +125,6 @@
     "wof:concordances":{
         "gn:id":596713,
         "gp:id":476743,
-        "qs:id":475575,
         "qs_pg:id":475575,
         "wd:id":"Q937667",
         "wk:page":"Naujoji Vilnia"
@@ -148,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247518,
+    "wof:lastmodified":1566596908,
     "wof:name":"Naujoji Vilnia",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

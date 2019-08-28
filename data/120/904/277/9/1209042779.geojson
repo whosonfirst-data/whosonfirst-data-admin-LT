@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.10306,55.49713,23.14306,55.53713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Ribukai"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209042779,
-    "wof:lastmodified":1537662031,
+    "wof:lastmodified":1566597450,
     "wof:name":"Ribukai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.21,55.63,24.25,55.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Upyt\u0117"
     ],
@@ -55,10 +59,8 @@
         "\u0423\u043f\u0438\u0442\u0435"
     ],
     "name:und_x_variant":[
-        "Upita",
         "Upyt\u0117s",
-        "Upite",
-        "Upyt\u0117"
+        "Upite"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1293526181,
-    "wof:lastmodified":1564191345,
+    "wof:lastmodified":1566596940,
     "wof:name":"Upyte",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

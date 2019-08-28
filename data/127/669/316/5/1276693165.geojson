@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.49657,54.59442,23.53657,54.63442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Varnab\u016bd\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276693165,
-    "wof:lastmodified":1537662843,
+    "wof:lastmodified":1566597200,
     "wof:name":"Varnabude",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

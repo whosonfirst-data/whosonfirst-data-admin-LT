@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.04895,55.16128,26.08895,55.20128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Darai\u010diai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260115343,
-    "wof:lastmodified":1537662529,
+    "wof:lastmodified":1566597621,
     "wof:name":"Daraiciai",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

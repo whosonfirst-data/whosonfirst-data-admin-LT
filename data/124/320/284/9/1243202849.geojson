@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.63373,55.48279,25.67373,55.52279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kloviniai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243202849,
-    "wof:lastmodified":1537662551,
+    "wof:lastmodified":1566598225,
     "wof:name":"Kloviniai",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

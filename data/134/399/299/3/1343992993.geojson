@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.17909,54.75522,24.21909,54.79522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pratk\u016bnai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343992993,
-    "wof:lastmodified":1537662916,
+    "wof:lastmodified":1566596759,
     "wof:name":"Pratkunai",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

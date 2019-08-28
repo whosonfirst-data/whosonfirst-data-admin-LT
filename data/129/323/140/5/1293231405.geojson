@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.0889,55.00007,25.1289,55.04007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alionys I"
     ],
@@ -39,8 +43,7 @@
         "Alioniai",
         "Alenyay",
         "Alionys",
-        "Alionys 2",
-        "Alionys I"
+        "Alionys 2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293231405,
-    "wof:lastmodified":1537662435,
+    "wof:lastmodified":1566596990,
     "wof:name":"Alionys I",
     "wof:parent_id":102073633,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.41642,54.72725,24.45642,54.76725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Daynovka",
         "Daynyay",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326967039,
-    "wof:lastmodified":1537662364,
+    "wof:lastmodified":1566596668,
     "wof:name":"Dainiai",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

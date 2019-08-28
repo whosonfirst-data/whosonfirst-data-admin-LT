@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.1081,55.10145,22.1481,55.14145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vilky\u0161kiai"
     ],
@@ -61,9 +65,7 @@
         "Villkishken",
         "Vil\u2019kishkyay",
         "Vil\u2019kishkey",
-        "Vilki\u0161ki\u0173",
-        "Vilky\u0161kiai",
-        "Willkischken"
+        "Vilki\u0161ki\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1243488973,
-    "wof:lastmodified":1564193168,
+    "wof:lastmodified":1566598143,
     "wof:name":"Vilkyskiai",
     "wof:parent_id":102073623,
     "wof:placetype":"locality",

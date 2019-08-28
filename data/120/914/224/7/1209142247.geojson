@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.86564,56.19231,23.90564,56.23231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Stryukay",
         "Striukai"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209142247,
-    "wof:lastmodified":1537662445,
+    "wof:lastmodified":1566597419,
     "wof:name":"Striukai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

@@ -13,6 +13,8 @@
     "iso:country":"LT",
     "lbl:latitude":54.700902,
     "lbl:longitude":25.251531,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":54.700902,
     "mps:longitude":25.251531,
     "mz:hierarchy_label":1,
@@ -559,7 +561,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u043b\u044c\u043d\u044e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vil'nyus"
     ],
     "name:urd_x_preferred":[
@@ -721,7 +723,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -738,7 +740,6 @@
         "gp:id":479616,
         "loc:id":"n82166208",
         "nyt:id":"N38646101874467992981",
-        "qs:id":273801,
         "qs_pg:id":273801,
         "wd:id":"Q216",
         "wk:page":"Vilnius"
@@ -754,7 +755,7 @@
         }
     ],
     "wof:id":101753031,
-    "wof:lastmodified":1563319140,
+    "wof:lastmodified":1566597916,
     "wof:megacity":0,
     "wof:name":"Vilnius",
     "wof:parent_id":102073615,

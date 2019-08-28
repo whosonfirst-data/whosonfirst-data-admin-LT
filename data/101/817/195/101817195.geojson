@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.71527,
     "lbl:longitude":21.394295,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":55.71527,
     "mps:longitude":21.394295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0430\u0440\u0433\u0436\u0434\u0430\u0439"
     ],
@@ -120,7 +123,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u0433\u0436\u0434\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorzdy"
     ],
     "name:urd_x_preferred":[
@@ -149,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.7,
     "wd:longitude":21.4,
@@ -164,7 +167,6 @@
     "wof:concordances":{
         "gn:id":599506,
         "gp:id":474491,
-        "qs:id":501688,
         "qs_pg:id":501688,
         "wd:id":"Q259272"
     },
@@ -180,7 +182,7 @@
         }
     ],
     "wof:id":101817195,
-    "wof:lastmodified":1563319182,
+    "wof:lastmodified":1566597927,
     "wof:name":"Garg\u017edai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

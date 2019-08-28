@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.93979,56.14985,22.97979,56.18985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kinkiai II"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309840559,
-    "wof:lastmodified":1537662233,
+    "wof:lastmodified":1566597957,
     "wof:name":"Kinkiai II",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

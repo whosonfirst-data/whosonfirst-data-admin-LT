@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.936,55.28001,22.976,55.32001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kebishki",
         "Kebi\u0161kiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327367653,
-    "wof:lastmodified":1537662240,
+    "wof:lastmodified":1566596529,
     "wof:name":"Kebiskiai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

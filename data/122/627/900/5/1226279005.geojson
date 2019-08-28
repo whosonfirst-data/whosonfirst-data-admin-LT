@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.10895,55.86587,22.14895,55.90587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sheshaychyay",
         "\u0160a\u0161ai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226279005,
-    "wof:lastmodified":1537662006,
+    "wof:lastmodified":1566598407,
     "wof:name":"Sasaiciai",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

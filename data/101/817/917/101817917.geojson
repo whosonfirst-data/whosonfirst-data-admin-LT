@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.383095,
     "lbl:longitude":23.650222,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":54.383095,
     "mps:longitude":23.650222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u0627\u0646\u0633"
     ],
@@ -90,7 +93,7 @@
     "name:tat_x_preferred":[
         "\u0421\u0438\u043c\u043d\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pos\u00eblok Simno"
     ],
     "name:vol_x_preferred":[
@@ -116,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":54.4,
     "wd:longitude":23.65,
@@ -131,7 +134,6 @@
     "wof:concordances":{
         "gn:id":594639,
         "gp:id":478437,
-        "qs:id":495860,
         "qs_pg:id":495860,
         "wd:id":"Q1892074",
         "wk:page":"Simnas"
@@ -148,7 +150,7 @@
         }
     ],
     "wof:id":101817917,
-    "wof:lastmodified":1563319222,
+    "wof:lastmodified":1566597937,
     "wof:name":"Simnas",
     "wof:parent_id":102073591,
     "wof:placetype":"locality",

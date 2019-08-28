@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.35092,55.06778,23.39092,55.10778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dovmontyshki",
         "Daumantay",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209645563,
-    "wof:lastmodified":1537662344,
+    "wof:lastmodified":1566597349,
     "wof:name":"Domantai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

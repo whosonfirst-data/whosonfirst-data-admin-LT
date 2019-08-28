@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.6563,56.16484,23.6963,56.20484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Melai\u010diai",
         "Melaychyay",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343894477,
-    "wof:lastmodified":1537662162,
+    "wof:lastmodified":1566596884,
     "wof:name":"Mielaiciai",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

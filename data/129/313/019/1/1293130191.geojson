@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.76215,54.13136,24.80215,54.17136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kriviliai"
     ],
@@ -39,8 +43,7 @@
         "Kriviliai"
     ],
     "name:und_x_variant":[
-        "Kriuiliai",
-        "Kriviliai"
+        "Kriuiliai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1293130191,
-    "wof:lastmodified":1564191467,
+    "wof:lastmodified":1566597024,
     "wof:name":"Kriviliai",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

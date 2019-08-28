@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.17166,54.35422,24.21166,54.39422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Terpin\u0117s"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259820629,
-    "wof:lastmodified":1537662909,
+    "wof:lastmodified":1566598328,
     "wof:name":"Terpines",
     "wof:parent_id":1175612921,
     "wof:placetype":"locality",

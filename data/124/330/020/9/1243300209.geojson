@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.29572,54.5348,24.33572,54.5748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boldzei",
         "Baud\u0117jos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243300209,
-    "wof:lastmodified":1537662398,
+    "wof:lastmodified":1566598067,
     "wof:name":"Baudejos",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

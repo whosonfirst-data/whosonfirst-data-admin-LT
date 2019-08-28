@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.503264,
     "lbl:longitude":24.251718,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":54.503264,
     "mps:longitude":24.251718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0440\u0438\u043c\u043e\u043d\u0439\u0441"
     ],
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0442\u0440\u0438\u043c\u043e\u043d\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Butrimantsy"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +93,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":54.502778,
     "wd:longitude":24.252778,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":600213,
         "gp:id":473918,
-        "qs:id":1212900,
+        "qs_pg:id":1212900,
         "wd:id":"Q2483374",
         "wk:page":"Butrimonys"
     },
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101817919,
-    "wof:lastmodified":1563319221,
+    "wof:lastmodified":1566597937,
     "wof:name":"Butrimonys",
     "wof:parent_id":102073591,
     "wof:placetype":"locality",

@@ -24,16 +24,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.34031,55.15061,26.38031,55.19061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ba\u010dkininkai"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0447\u043a\u0438\u043d\u0438\u043d\u043a\u0430\u0439"
-    ],
-    "name:und_x_variant":[
-        "Ba\u010dkininkai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1343594951,
-    "wof:lastmodified":1537662415,
+    "wof:lastmodified":1566596824,
     "wof:name":"Backininkai",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

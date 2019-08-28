@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.75067,55.19552,22.79067,55.23552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kavoliai Pirmieji",
         "Kavoliai I"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276365867,
-    "wof:lastmodified":1537662242,
+    "wof:lastmodified":1566597309,
     "wof:name":"Kavoliai I",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

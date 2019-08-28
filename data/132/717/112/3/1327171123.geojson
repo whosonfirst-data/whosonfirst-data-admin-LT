@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.66087,54.74463,23.70087,54.78463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Tarputi\u0161k\u0117"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327171123,
-    "wof:lastmodified":1537662881,
+    "wof:lastmodified":1566596696,
     "wof:name":"Tarputiske",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

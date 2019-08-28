@@ -24,12 +24,13 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.32841,54.08972,24.36841,54.12972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
-        "Ka\u0161\u0117tos"
-    ],
-    "name:und_x_variant":[
         "Ka\u0161\u0117tos"
     ],
     "src:geom":"geonames",
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1209546545,
-    "wof:lastmodified":1564192027,
+    "wof:lastmodified":1566597340,
     "wof:name":"Kasetos",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

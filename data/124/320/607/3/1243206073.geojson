@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.33508,55.95738,24.37508,55.99738",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kalnas"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243206073,
-    "wof:lastmodified":1537662259,
+    "wof:lastmodified":1566598229,
     "wof:name":"Kalnas",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

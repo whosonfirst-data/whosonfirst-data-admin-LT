@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.85944,55.92341,24.89944,55.96341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salamiestis"
     ],
@@ -47,9 +51,7 @@
     "name:und_x_variant":[
         "Salamies\u010dio",
         "Salamiyestis",
-        "Salamestis",
-        "So\u0142omie\u015b\u0107",
-        "Salamiestis"
+        "Salamestis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1326866555,
-    "wof:lastmodified":1564190726,
+    "wof:lastmodified":1566596553,
     "wof:name":"Salamiestis",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

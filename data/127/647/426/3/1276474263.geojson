@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.88521,55.20545,24.92521,55.24545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Kart\u0117nai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276474263,
-    "wof:lastmodified":1537662713,
+    "wof:lastmodified":1566597234,
     "wof:name":"Kartenai",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

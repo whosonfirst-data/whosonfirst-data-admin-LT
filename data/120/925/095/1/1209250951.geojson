@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Minsk",
     "iso:country":"LT",
+    "lbl:bbox":"26.52516,55.51552,26.56516,55.55552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u010cepukai"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209250951,
-    "wof:lastmodified":1537662441,
+    "wof:lastmodified":1566597405,
     "wof:name":"Cepukai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

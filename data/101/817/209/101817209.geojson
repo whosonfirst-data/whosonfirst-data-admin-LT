@@ -13,10 +13,13 @@
     "iso:country":"LT",
     "lbl:latitude":55.753669,
     "lbl:longitude":23.764159,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":55.753669,
     "mps:longitude":23.764159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u062f\u0648\u0641\u0627"
     ],
@@ -90,7 +93,7 @@
     "name:tat_x_preferred":[
         "\u0428\u04d9\u0434\u0443\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160eduvos"
     ],
     "name:vol_x_preferred":[
@@ -114,7 +117,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":55.766667,
     "wd:longitude":23.75,
@@ -129,7 +132,7 @@
     "wof:concordances":{
         "gn:id":594861,
         "gp:id":478268,
-        "qs:id":125949,
+        "qs_pg:id":125949,
         "wd:id":"Q2356396",
         "wk:page":"\u0160eduva"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101817209,
-    "wof:lastmodified":1563319214,
+    "wof:lastmodified":1566597935,
     "wof:name":"\u0160eduva",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

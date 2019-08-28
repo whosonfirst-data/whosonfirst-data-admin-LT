@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.17466,54.59552,24.21466,54.63552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Ber\u017eynai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360019881,
-    "wof:lastmodified":1537662914,
+    "wof:lastmodified":1566597869,
     "wof:name":"Berzynai",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

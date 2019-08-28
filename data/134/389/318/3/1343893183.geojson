@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.31601,55.51206,21.35601,55.55206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shventvakarey",
         "\u0160ventvakariai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343893183,
-    "wof:lastmodified":1537661945,
+    "wof:lastmodified":1566596894,
     "wof:name":"Sventvakariai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

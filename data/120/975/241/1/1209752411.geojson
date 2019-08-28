@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.53041,55.26215,22.57041,55.30215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Stiegvilai"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209752411,
-    "wof:lastmodified":1537661959,
+    "wof:lastmodified":1566597516,
     "wof:name":"Stiegvilai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

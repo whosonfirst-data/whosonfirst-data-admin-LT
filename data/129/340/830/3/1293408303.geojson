@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.59667,55.88,22.63667,55.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kirklyunay",
         "Kirkliukai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293408303,
-    "wof:lastmodified":1537662232,
+    "wof:lastmodified":1566597010,
     "wof:name":"Kirkliukai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

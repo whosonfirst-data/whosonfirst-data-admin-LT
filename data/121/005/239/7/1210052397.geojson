@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.70941,55.6879,22.74941,55.7279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pavaiguvis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210052397,
-    "wof:lastmodified":1537662784,
+    "wof:lastmodified":1566597538,
     "wof:name":"Pavaiguvis",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

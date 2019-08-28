@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.18507,54.5405,23.22507,54.5805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Balsupni\u0173",
         "Balsupe",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243488095,
-    "wof:lastmodified":1537662407,
+    "wof:lastmodified":1566598142,
     "wof:name":"Balsupiai",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"26.16346,55.29666,26.20346,55.33666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Betsyany",
         "B\u0117\u010di\u016bnai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276696673,
-    "wof:lastmodified":1537662397,
+    "wof:lastmodified":1566597191,
     "wof:name":"Beciunai",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

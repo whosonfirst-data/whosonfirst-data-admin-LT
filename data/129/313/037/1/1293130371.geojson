@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.79618,56.13884,23.83618,56.17884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pa\u0161vitinys"
     ],
@@ -49,8 +53,7 @@
         "Pa\u0161vintinys",
         "Pa\u0161vintinio",
         "Poshvityn",
-        "Pa\u0161vitinio",
-        "Pa\u0161vitinys"
+        "Pa\u0161vitinio"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1293130371,
-    "wof:lastmodified":1564191460,
+    "wof:lastmodified":1566597018,
     "wof:name":"Pasvitinys",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

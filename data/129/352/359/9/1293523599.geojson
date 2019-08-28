@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.6003,56.08744,23.6403,56.12744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gyadvaynyay",
         "Gedvainiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293523599,
-    "wof:lastmodified":1537662320,
+    "wof:lastmodified":1566596943,
     "wof:name":"Gedvainiai",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

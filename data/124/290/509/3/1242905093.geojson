@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.6904,55.41311,22.7304,55.45311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guykalyay",
         "Guikaliai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242905093,
-    "wof:lastmodified":1537662293,
+    "wof:lastmodified":1566598207,
     "wof:name":"Guikaliai",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

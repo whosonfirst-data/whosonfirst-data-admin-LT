@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.87919,55.75556,23.91919,55.79556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Valdeikiai",
         "Dombavas",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276589299,
-    "wof:lastmodified":1537662363,
+    "wof:lastmodified":1566597220,
     "wof:name":"Dambava",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

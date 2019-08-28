@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.02161,56.20098,22.06161,56.24098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Butikiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310537623,
-    "wof:lastmodified":1537662765,
+    "wof:lastmodified":1566597728,
     "wof:name":"Butikiai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

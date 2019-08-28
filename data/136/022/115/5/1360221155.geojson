@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.13215,54.70916,25.17215,54.74916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Gele\u017eiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360221155,
-    "wof:lastmodified":1537662742,
+    "wof:lastmodified":1566597842,
     "wof:name":"Geleziai",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

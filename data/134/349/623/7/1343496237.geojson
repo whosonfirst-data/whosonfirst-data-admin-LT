@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.84783,55.37535,25.88783,55.41535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Gaiveniai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343496237,
-    "wof:lastmodified":1537662567,
+    "wof:lastmodified":1566596807,
     "wof:name":"Gaiveniai",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

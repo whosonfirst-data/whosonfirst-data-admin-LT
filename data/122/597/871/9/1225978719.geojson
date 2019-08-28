@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.48921,54.96997,25.52921,55.00997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suzhenis",
         "Su\u017eany",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1225978719,
-    "wof:lastmodified":1537661947,
+    "wof:lastmodified":1566598500,
     "wof:name":"Suzionys",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

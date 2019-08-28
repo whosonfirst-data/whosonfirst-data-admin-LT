@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.38451,54.40905,23.42451,54.44905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "\u017delsva"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Zhel\u2019stvo",
-        "\u017delsuos",
-        "\u017delsva"
+        "\u017delsuos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243101943,
-    "wof:lastmodified":1537661868,
+    "wof:lastmodified":1566598249,
     "wof:name":"Zelsva",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

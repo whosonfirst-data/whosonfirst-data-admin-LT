@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.34186,55.60139,24.38186,55.64139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Uli\u016bnai"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Ulyunay",
         "Uli\u016bn\u0173",
-        "Ulyuny",
-        "Uli\u016bnai"
+        "Ulyuny"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343389567,
-    "wof:lastmodified":1537661925,
+    "wof:lastmodified":1566596728,
     "wof:name":"Uliunai",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

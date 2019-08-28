@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.73745,54.88612,25.77745,54.92612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "\u017dalia\u0161ilis"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293129843,
-    "wof:lastmodified":1537662577,
+    "wof:lastmodified":1566596993,
     "wof:name":"Zaliasilis",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

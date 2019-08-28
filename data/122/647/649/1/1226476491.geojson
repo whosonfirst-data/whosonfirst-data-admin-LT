@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.42267,55.60886,22.46267,55.64886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gudaychyay",
         "Gudai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226476491,
-    "wof:lastmodified":1537662296,
+    "wof:lastmodified":1566598525,
     "wof:name":"Gudaiciai",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.44422,55.21721,25.48422,55.25721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Cezari\u0161kiai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344190915,
-    "wof:lastmodified":1537662644,
+    "wof:lastmodified":1566596850,
     "wof:name":"Cezariskiai",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

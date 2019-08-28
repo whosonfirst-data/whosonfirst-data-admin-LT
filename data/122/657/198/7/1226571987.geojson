@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.3193,55.20655,23.3593,55.24655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Juodai\u010diai"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Juodia\u010di\u0173",
-        "Iodaytse",
-        "Juodai\u010diai"
+        "Iodaytse"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1226571987,
-    "wof:lastmodified":1537662272,
+    "wof:lastmodified":1566598461,
     "wof:name":"Juodaiciai",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

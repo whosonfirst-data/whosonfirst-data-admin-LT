@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.49823,55.04162,23.53823,55.08162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pa\u0161iliai"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260215339,
-    "wof:lastmodified":1537662854,
+    "wof:lastmodified":1566597641,
     "wof:name":"Pasiliai",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

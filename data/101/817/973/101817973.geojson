@@ -12,10 +12,13 @@
     "iso:country":"LT",
     "lbl:latitude":54.94916,
     "lbl:longitude":23.169489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":54.94916,
     "mps:longitude":23.169489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Luk\u0161iai"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Luk\u0161iai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lukshyay"
     ],
     "qs:a0":"Lietuva",
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":597373,
         "gp:id":476197,
-        "qs:id":292004,
+        "qs_pg:id":292004,
         "wd:id":"Q1871220",
         "wk:page":"Luk\u0161iai"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101817973,
-    "wof:lastmodified":1563319219,
+    "wof:lastmodified":1566597936,
     "wof:name":"Luk\u0161iai",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

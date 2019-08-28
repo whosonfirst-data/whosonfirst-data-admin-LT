@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"22.0161,55.28846,22.0561,55.32846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Govdaytsy",
         "Gaudai\u010diai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310136583,
-    "wof:lastmodified":1537662323,
+    "wof:lastmodified":1566597706,
     "wof:name":"Gaudaiciai",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

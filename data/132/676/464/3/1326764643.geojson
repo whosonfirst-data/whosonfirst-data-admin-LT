@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.37872,55.61499,25.41872,55.65499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "But\u0117nai"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Butenay",
         "Butsyany",
-        "But\u0117n\u0173",
-        "But\u0117nai"
+        "But\u0117n\u0173"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1326764643,
-    "wof:lastmodified":1537662375,
+    "wof:lastmodified":1566596635,
     "wof:name":"Butenai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

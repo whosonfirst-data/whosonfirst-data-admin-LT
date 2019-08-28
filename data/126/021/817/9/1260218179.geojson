@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.63107,56.09079,24.67107,56.13079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bayorishkyay",
         "Bajori\u0161kiai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260218179,
-    "wof:lastmodified":1537662411,
+    "wof:lastmodified":1566597644,
     "wof:name":"Bajoriskiai",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

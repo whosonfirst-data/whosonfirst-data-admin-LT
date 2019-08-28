@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.07824,55.19904,25.11824,55.23904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u017delva"
     ],
@@ -66,11 +70,9 @@
         "\u017delva"
     ],
     "name:und_x_variant":[
-        "Pozelwa",
         "Zhyalva",
         "\u017delvos",
-        "Zhelva",
-        "\u017delva"
+        "Zhelva"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1243490927,
-    "wof:lastmodified":1564193181,
+    "wof:lastmodified":1566598150,
     "wof:name":"Zelva",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

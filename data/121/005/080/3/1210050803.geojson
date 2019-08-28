@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"21.99371,56.30097,22.03371,56.34097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "\u017didikai"
     ],
@@ -82,8 +86,7 @@
         "Zidikiai",
         "Zhidikay",
         "\u017didik\u0173",
-        "Zhidikai",
-        "\u017didikai"
+        "Zhidikai"
     ],
     "name:zho_x_preferred":[
         "\u5e0c\u5e95\u51ef"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1210050803,
-    "wof:lastmodified":1564192334,
+    "wof:lastmodified":1566597535,
     "wof:name":"Zidikai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

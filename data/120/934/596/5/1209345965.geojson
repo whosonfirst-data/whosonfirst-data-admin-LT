@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"23.81119,55.49308,23.85119,55.53308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Tremtiniai"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209345965,
-    "wof:lastmodified":1537661931,
+    "wof:lastmodified":1566597468,
     "wof:name":"Tremtiniai",
     "wof:parent_id":85633269,
     "wof:placetype":"locality",

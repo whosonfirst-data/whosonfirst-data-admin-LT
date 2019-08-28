@@ -9,14 +9,18 @@
     "geom:bbox":"25.58333,55.65,25.58333,55.65",
     "geom:latitude":55.65,
     "geom:longitude":25.58333,
-    "gn:gn_country":"LT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LT",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"LT",
+    "lbl:bbox":"25.56333,55.63,25.60333,55.67",
     "lbl:latitude":55.65,
     "lbl:longitude":25.58333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "U\u017epaliai"
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "U\u017epaliai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uzhpalyay"
     ],
     "qs_pg:aaroncc":"LT",
@@ -78,7 +82,7 @@
     "qs_pg:woe_adm0":23424875,
     "qs_pg:woe_id":479220,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424875,
     "woe:name_adm0":"Lietuva",
     "woe:name_adm1":"Utenos Apskritis",
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1125801115,
-    "wof:lastmodified":1563319339,
+    "wof:lastmodified":1566598026,
     "wof:name":"U\u017epaliai",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

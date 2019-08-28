@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"24.89636,54.22153,24.93636,54.26153",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "V\u0117\u017eionys"
     ],
@@ -36,8 +40,7 @@
         "Vezhantsy",
         "Ve\u017eionai",
         "Wie\u017ca\u0144ce",
-        "Vezhenyay",
-        "V\u0117\u017eionys"
+        "Vezhenyay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1326459171,
-    "wof:lastmodified":1537661893,
+    "wof:lastmodified":1566596565,
     "wof:name":"Vezionys",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.94752,55.2289,25.98752,55.2689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Ber\u017eija"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242587489,
-    "wof:lastmodified":1537662449,
+    "wof:lastmodified":1566598130,
     "wof:name":"Berzija",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",
