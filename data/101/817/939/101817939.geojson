@@ -157,6 +157,9 @@
         "wk:page":"Kybartai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4d8931b1f4f68e6c1bda6a5b4da30067",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101817939,
-    "wof:lastmodified":1566597928,
+    "wof:lastmodified":1582348267,
     "wof:name":"Kybartai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

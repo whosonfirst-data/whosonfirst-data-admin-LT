@@ -130,6 +130,10 @@
         "wk:page":"Naujoji Vilnia"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2c9ff0cfde2967a133c3925eb8b1e4c",
     "wof:hierarchy":[
         {
@@ -145,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566596908,
+    "wof:lastmodified":1582348250,
     "wof:name":"Naujoji Vilnia",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

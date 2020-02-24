@@ -166,6 +166,9 @@
         "wd:id":"Q852272"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f30ce218b25c4f243315ff1ea99f940",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":101817937,
-    "wof:lastmodified":1566597928,
+    "wof:lastmodified":1582348267,
     "wof:name":"Vilkavi\u0161kis",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

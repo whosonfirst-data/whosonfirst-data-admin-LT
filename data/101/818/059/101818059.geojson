@@ -145,6 +145,9 @@
         "wk:page":"Pabrad\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5471cab01a2958bf42012e70f57ac01b",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101818059,
-    "wof:lastmodified":1566597925,
+    "wof:lastmodified":1582348266,
     "wof:name":"Pabrad\u0117",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

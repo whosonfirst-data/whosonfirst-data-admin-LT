@@ -162,6 +162,9 @@
         "wk:page":"Pakruojis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96971cc94c53435038674d7c3f1ccd57",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101818117,
-    "wof:lastmodified":1566597922,
+    "wof:lastmodified":1582348266,
     "wof:name":"Pakruojis",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

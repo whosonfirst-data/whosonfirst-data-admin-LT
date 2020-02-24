@@ -138,6 +138,9 @@
         "wk:page":"D\u016bk\u0161tas"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a89b0c95057e1da53727c6e42b77a70",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101817217,
-    "wof:lastmodified":1566597929,
+    "wof:lastmodified":1582348267,
     "wof:name":"D\u016bk\u0161tas",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

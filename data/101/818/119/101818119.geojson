@@ -143,6 +143,9 @@
         "wd:id":"Q945484"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3f5083c16028686f0f4603eaa4de08f",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101818119,
-    "wof:lastmodified":1566597921,
+    "wof:lastmodified":1582348266,
     "wof:name":"Pasvalys",
     "wof:parent_id":102073719,
     "wof:placetype":"locality",

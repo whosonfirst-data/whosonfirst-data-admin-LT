@@ -436,6 +436,9 @@
         "wk:page":"\u0160iauliai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"91a61a8c7707767ee011a9a51766304c",
     "wof:hierarchy":[
         {
@@ -447,7 +450,7 @@
         }
     ],
     "wof:id":101752753,
-    "wof:lastmodified":1566597915,
+    "wof:lastmodified":1582348265,
     "wof:name":"\u0160iauliai",
     "wof:parent_id":102073683,
     "wof:placetype":"locality",

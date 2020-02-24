@@ -182,6 +182,9 @@
         "wd:id":"Q1693963"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8994874bf9eeaffc50dbf4e5e2780d41",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":101818127,
-    "wof:lastmodified":1566597921,
+    "wof:lastmodified":1582348266,
     "wof:name":"Roki\u0161kis",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

@@ -178,6 +178,9 @@
         "wd:id":"Q1788115"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74fe58674867fbfd087d2543eb86aafe",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":101817213,
-    "wof:lastmodified":1566597935,
+    "wof:lastmodified":1582348268,
     "wof:name":"Kretinga",
     "wof:parent_id":102073681,
     "wof:placetype":"locality",

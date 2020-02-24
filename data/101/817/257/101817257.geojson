@@ -162,6 +162,9 @@
         "wk:page":"\u017dagar\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2d39cb23b9189cbe90c3f5ac580931b",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101817257,
-    "wof:lastmodified":1566597929,
+    "wof:lastmodified":1582348267,
     "wof:name":"\u017dagar\u0117",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

@@ -151,6 +151,9 @@
         "wk:page":"Mol\u0117tai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f2aeb00daead1f89c7a90dbcc62fa99f",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101818049,
-    "wof:lastmodified":1566597918,
+    "wof:lastmodified":1582348266,
     "wof:name":"Mol\u0117tai",
     "wof:parent_id":102073661,
     "wof:placetype":"locality",

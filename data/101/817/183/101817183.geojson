@@ -165,6 +165,9 @@
         "wk:page":"Raseiniai District Municipality"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ca41378d134527078c3ceae0eaf6f28",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101817183,
-    "wof:lastmodified":1566597937,
+    "wof:lastmodified":1582348268,
     "wof:name":"Raseiniai",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

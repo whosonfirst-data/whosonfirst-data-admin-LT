@@ -99,6 +99,9 @@
         "wk:page":"Plateliai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed67c433355aebe528f55a861ef30f8b",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101817223,
-    "wof:lastmodified":1566597934,
+    "wof:lastmodified":1582348268,
     "wof:name":"Plateliai",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

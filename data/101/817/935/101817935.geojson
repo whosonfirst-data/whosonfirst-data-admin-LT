@@ -139,6 +139,9 @@
         "qs_pg:id":550234
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19a393c6aa9c5687142f52a2edb22b78",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101817935,
-    "wof:lastmodified":1566597933,
+    "wof:lastmodified":1582348268,
     "wof:name":"Baltoji Vok\u0117",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

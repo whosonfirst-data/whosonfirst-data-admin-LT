@@ -139,6 +139,9 @@
         "wk:page":"Jieznas"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90d212b3905f398b96383a011b234f84",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101817951,
-    "wof:lastmodified":1566597933,
+    "wof:lastmodified":1582348268,
     "wof:name":"Jieznas",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

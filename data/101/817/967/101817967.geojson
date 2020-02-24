@@ -164,6 +164,9 @@
         "wk:page":"Elektr\u0117nai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16fed0fbe129126d50f88668685bb524",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101817967,
-    "wof:lastmodified":1566597933,
+    "wof:lastmodified":1582348268,
     "wof:name":"Elektr\u0117nai",
     "wof:parent_id":102073613,
     "wof:placetype":"locality",

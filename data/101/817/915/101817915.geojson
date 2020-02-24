@@ -117,6 +117,9 @@
         "wk:page":"Merkin\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d95b2dc62d17dbf346b8dd2a056460c7",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101817915,
-    "wof:lastmodified":1566597931,
+    "wof:lastmodified":1582348267,
     "wof:name":"Merkin\u0117",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

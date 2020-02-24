@@ -159,6 +159,9 @@
         "wd:id":"Q391582"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f36a814d05a979ca167d0f1a784b29e7",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101817185,
-    "wof:lastmodified":1566597938,
+    "wof:lastmodified":1582348268,
     "wof:name":"\u0160ilal\u0117",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",

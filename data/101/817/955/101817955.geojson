@@ -237,6 +237,9 @@
         "wk:page":"Trakai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08db48092e75b229499af7d3d11ec324",
     "wof:hierarchy":[
         {
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":101817955,
-    "wof:lastmodified":1566597928,
+    "wof:lastmodified":1582348267,
     "wof:name":"Trakai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

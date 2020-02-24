@@ -152,6 +152,9 @@
         "wk:page":"Obeliai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"58407b1d11fbc91e4f35623547bf22d7",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101818129,
-    "wof:lastmodified":1566597920,
+    "wof:lastmodified":1582348266,
     "wof:name":"Obeliai",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

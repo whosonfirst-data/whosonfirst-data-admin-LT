@@ -211,6 +211,9 @@
         "wk:page":"Druskininkai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f0bd720bd81d9730c9dd40333dc6513",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":101847719,
-    "wof:lastmodified":1566597939,
+    "wof:lastmodified":1582348269,
     "wof:name":"Druskininkai",
     "wof:parent_id":102073579,
     "wof:placetype":"locality",

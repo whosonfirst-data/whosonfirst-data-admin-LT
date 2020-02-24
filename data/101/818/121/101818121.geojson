@@ -87,6 +87,9 @@
         "wk:page":"Juodup\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cdb4ce89ee0603c4a0485ffc253e1bca",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101818121,
-    "wof:lastmodified":1566597921,
+    "wof:lastmodified":1582348266,
     "wof:name":"Juodup\u0117",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

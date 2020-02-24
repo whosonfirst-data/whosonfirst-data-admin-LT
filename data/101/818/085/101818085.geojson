@@ -239,6 +239,9 @@
         "wk:page":"Tel\u0161iai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d033e0eea12328633e8d39d993a2d4a8",
     "wof:hierarchy":[
         {
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":101818085,
-    "wof:lastmodified":1566597918,
+    "wof:lastmodified":1582348266,
     "wof:name":"Tel\u0161iai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

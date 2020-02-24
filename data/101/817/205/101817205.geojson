@@ -231,6 +231,9 @@
         "wk:page":"Palanga"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"259a019f750b974b5c6a6228d9d2455b",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":101817205,
-    "wof:lastmodified":1566597930,
+    "wof:lastmodified":1582348267,
     "wof:name":"Palanga",
     "wof:parent_id":102073675,
     "wof:placetype":"locality",

@@ -150,6 +150,9 @@
         "wk:page":"Rietavas"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ab10f91e20f871b2a7d5e8082c53525",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101817197,
-    "wof:lastmodified":1566597933,
+    "wof:lastmodified":1582348268,
     "wof:name":"Rietavas",
     "wof:parent_id":102073669,
     "wof:placetype":"locality",

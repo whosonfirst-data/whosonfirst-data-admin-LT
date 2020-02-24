@@ -138,6 +138,9 @@
         "wk:page":"Seda, Lithuania"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c1ab690495fe500ccc692238d658fc4",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101818105,
-    "wof:lastmodified":1566597916,
+    "wof:lastmodified":1582348265,
     "wof:name":"Seda",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

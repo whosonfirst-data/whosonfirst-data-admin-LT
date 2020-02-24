@@ -91,6 +91,9 @@
         "wk:page":"Kulautuva"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf24888bc61a485473dfbd8e0950ce71",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101817993,
-    "wof:lastmodified":1566597933,
+    "wof:lastmodified":1582348268,
     "wof:name":"Kulautuva",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

@@ -140,6 +140,9 @@
         "qs_pg:id":1010443
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3a1d0265bcd690fcc1cf620ed1fb9a5b",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101818019,
-    "wof:lastmodified":1566597924,
+    "wof:lastmodified":1582348266,
     "wof:name":"Skaudvil\u0117",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

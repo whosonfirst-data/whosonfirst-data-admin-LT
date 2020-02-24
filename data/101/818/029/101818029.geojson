@@ -179,6 +179,9 @@
         "wk:page":"\u0160ilut\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"89589cb84f22dd326e24d418770c2a12",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101818029,
-    "wof:lastmodified":1566597923,
+    "wof:lastmodified":1582348266,
     "wof:name":"\u0160ilut\u0117",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

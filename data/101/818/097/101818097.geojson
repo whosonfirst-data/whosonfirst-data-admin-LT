@@ -148,6 +148,9 @@
         "wk:page":"Dusetos"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b72b1d60523c9430adae5bcf45580f0",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101818097,
-    "wof:lastmodified":1566597920,
+    "wof:lastmodified":1582348266,
     "wof:name":"Dusetos",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

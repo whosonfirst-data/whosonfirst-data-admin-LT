@@ -164,6 +164,9 @@
         "wk:page":"Kalvarija, Lithuania"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6da462dd4bf5ac203b2cfe58ce49cf7d",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101817907,
-    "wof:lastmodified":1566597927,
+    "wof:lastmodified":1582348267,
     "wof:name":"Kalvarija",
     "wof:parent_id":102073585,
     "wof:placetype":"locality",

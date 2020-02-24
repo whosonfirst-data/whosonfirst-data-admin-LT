@@ -171,6 +171,9 @@
         "wd:id":"Q259272"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbcaf9f28ba3b933e0319508531df09b",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101817195,
-    "wof:lastmodified":1566597927,
+    "wof:lastmodified":1582348267,
     "wof:name":"Garg\u017edai",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

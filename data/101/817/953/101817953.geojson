@@ -86,6 +86,9 @@
         "wk:page":"Balbieri\u0161kis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7efbc8bdb5ae9d70a2f634cc09823aab",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101817953,
-    "wof:lastmodified":1566597927,
+    "wof:lastmodified":1582348267,
     "wof:name":"Balbieri\u0161kis",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

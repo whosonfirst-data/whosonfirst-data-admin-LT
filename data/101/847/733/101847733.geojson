@@ -158,6 +158,9 @@
         "wk:page":"Kur\u0161\u0117nai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"02dafe879358828f35246a718d88b63c",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101847733,
-    "wof:lastmodified":1566597939,
+    "wof:lastmodified":1582348269,
     "wof:name":"Kur\u0161\u0117nai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

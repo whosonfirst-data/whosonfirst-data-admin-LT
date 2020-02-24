@@ -167,6 +167,9 @@
         "wd:id":"Q820024"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff329e4af64c0c3ebbafc9b6a009f406",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":101818095,
-    "wof:lastmodified":1566597924,
+    "wof:lastmodified":1582348266,
     "wof:name":"Kupi\u0161kis",
     "wof:parent_id":102073705,
     "wof:placetype":"locality",

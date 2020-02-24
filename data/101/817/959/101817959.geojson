@@ -130,6 +130,9 @@
         "wk:page":"R\u016bdi\u0161k\u0117s"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"657caf0022d6c6441da61cc227a6d480",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101817959,
-    "wof:lastmodified":1566597933,
+    "wof:lastmodified":1582348268,
     "wof:name":"R\u016bdi\u0161k\u0117s",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

@@ -238,6 +238,9 @@
         "wk:page":"Utena"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ac22a2ef81aca3985fb59f49176c10a",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":101818081,
-    "wof:lastmodified":1566597923,
+    "wof:lastmodified":1582348266,
     "wof:name":"Utena",
     "wof:parent_id":102073693,
     "wof:placetype":"locality",

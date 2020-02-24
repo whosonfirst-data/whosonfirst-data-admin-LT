@@ -105,6 +105,10 @@
         "wk:page":"\u017dv\u0117rynas"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"589d2002a0bc54f99c4d8d934ae612f5",
     "wof:hierarchy":[
         {
@@ -120,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566596903,
+    "wof:lastmodified":1582348249,
     "wof:name":"Zverynas",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

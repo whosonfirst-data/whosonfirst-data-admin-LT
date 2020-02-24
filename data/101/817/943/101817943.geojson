@@ -144,6 +144,9 @@
         "wk:page":"Virbalis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed0c44d665ef146d940e7993d2539848",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101817943,
-    "wof:lastmodified":1566597938,
+    "wof:lastmodified":1582348268,
     "wof:name":"Virbalis",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

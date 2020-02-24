@@ -134,6 +134,9 @@
         "wk:page":"Ei\u0161i\u0161k\u0117s"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9ec63f66de89b1b755196b3052ac8e9",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101817931,
-    "wof:lastmodified":1566597927,
+    "wof:lastmodified":1582348267,
     "wof:name":"Ei\u0161i\u0161k\u0117s",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

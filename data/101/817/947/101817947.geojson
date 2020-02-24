@@ -179,6 +179,9 @@
         "wd:id":"Q499318"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7951b4ec96fee58e5c5307655ec741e",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101817947,
-    "wof:lastmodified":1566597931,
+    "wof:lastmodified":1582348268,
     "wof:name":"Prienai",
     "wof:parent_id":102073603,
     "wof:placetype":"locality",

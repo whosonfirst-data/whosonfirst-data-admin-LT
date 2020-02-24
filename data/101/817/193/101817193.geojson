@@ -142,6 +142,9 @@
         "wk:page":"Priekul\u0117, Lithuania"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aedf7aff8edb70197a47dbfbf3715c1d",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101817193,
-    "wof:lastmodified":1566597928,
+    "wof:lastmodified":1582348267,
     "wof:name":"Priekul\u0117",
     "wof:parent_id":102073667,
     "wof:placetype":"locality",

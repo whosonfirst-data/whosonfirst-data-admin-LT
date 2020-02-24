@@ -121,6 +121,10 @@
         "wd:id":"Q1646619"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ce2fd9679c330939dc3e1f4ce2eb5a4b",
     "wof:hierarchy":[
         {
@@ -136,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566596903,
+    "wof:lastmodified":1582348249,
     "wof:name":"Lazdynai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

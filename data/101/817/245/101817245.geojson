@@ -167,6 +167,9 @@
         "wk:page":"Naujoji Akmen\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b68a462a577aa12bbb682cffd46db80a",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":101817245,
-    "wof:lastmodified":1566597929,
+    "wof:lastmodified":1582348267,
     "wof:name":"Naujoji Akmen\u0117",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

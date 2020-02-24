@@ -1189,6 +1189,11 @@
     },
     "wof:country":"LT",
     "wof:country_alpha3":"LTU",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"6b2aeff601da2affcdd651525326cb0d",
     "wof:hierarchy":[
         {
@@ -1203,7 +1208,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1566596907,
+    "wof:lastmodified":1582348250,
     "wof:name":"Lithuania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

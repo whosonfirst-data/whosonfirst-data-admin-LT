@@ -96,6 +96,9 @@
         "wd:id":"Q1939758"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8c7f4d360c6bbbbad31263e3c7a852a",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101818033,
-    "wof:lastmodified":1566597925,
+    "wof:lastmodified":1582348266,
     "wof:name":"Rusn\u0117",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

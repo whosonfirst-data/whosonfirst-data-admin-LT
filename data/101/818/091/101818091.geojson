@@ -92,6 +92,9 @@
         "wk:page":"Krekenava"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b4c409495114fa9f44aeea938960047",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101818091,
-    "wof:lastmodified":1566597918,
+    "wof:lastmodified":1582348266,
     "wof:name":"Krekenava",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

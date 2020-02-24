@@ -102,6 +102,9 @@
         "wk:page":"\u017demai\u010di\u0173 Naumiestis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8468e51d7931bdd159d00bd50fd67029",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101818031,
-    "wof:lastmodified":1566597919,
+    "wof:lastmodified":1582348266,
     "wof:name":"\u017demai\u010di\u0173 Naumiestis",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

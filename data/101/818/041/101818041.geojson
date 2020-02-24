@@ -147,6 +147,9 @@
         "wk:page":"Ariogala"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8613c260bdb4f6db4781fb45b792f46",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101818041,
-    "wof:lastmodified":1566597917,
+    "wof:lastmodified":1582348265,
     "wof:name":"Ariogala",
     "wof:parent_id":102073651,
     "wof:placetype":"locality",

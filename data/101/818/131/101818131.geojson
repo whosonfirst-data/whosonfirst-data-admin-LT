@@ -179,6 +179,9 @@
         "wd:id":"Q847715"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7f2870a5ad41788a6c57ff335e08541a",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101818131,
-    "wof:lastmodified":1566597922,
+    "wof:lastmodified":1582348266,
     "wof:name":"Joni\u0161kis",
     "wof:parent_id":102073723,
     "wof:placetype":"locality",

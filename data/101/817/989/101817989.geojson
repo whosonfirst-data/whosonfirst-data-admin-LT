@@ -152,6 +152,9 @@
         "wd:id":"Q614855"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64b9496d518c0264127dda3388a43d69",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101817989,
-    "wof:lastmodified":1566597937,
+    "wof:lastmodified":1582348268,
     "wof:name":"Kai\u0161iadorys",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

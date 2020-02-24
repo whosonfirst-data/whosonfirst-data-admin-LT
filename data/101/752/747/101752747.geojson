@@ -548,6 +548,9 @@
         "wd:id":"Q776965"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa94d22b740f4a23f6a989d11fb20c3b",
     "wof:hierarchy":[
         {
@@ -559,7 +562,7 @@
         }
     ],
     "wof:id":101752747,
-    "wof:lastmodified":1566597915,
+    "wof:lastmodified":1582348265,
     "wof:name":"Klaip\u0117da",
     "wof:parent_id":102073657,
     "wof:placetype":"locality",

@@ -109,6 +109,10 @@
         "wk:page":"Naujininkai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4152a2be5af54ea089c363e06ae9e1e",
     "wof:hierarchy":[
         {
@@ -124,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566596904,
+    "wof:lastmodified":1582348249,
     "wof:name":"Naujininkai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

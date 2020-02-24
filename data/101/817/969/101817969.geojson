@@ -154,6 +154,9 @@
         "wk:page":"Vievis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"237d768c9b30b24e9872892e9e52a0eb",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101817969,
-    "wof:lastmodified":1566597933,
+    "wof:lastmodified":1582348268,
     "wof:name":"Vievis",
     "wof:parent_id":102073613,
     "wof:placetype":"locality",

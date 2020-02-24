@@ -199,6 +199,9 @@
         "wk:page":"Bir\u017eai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7227f40edb03c9b1818f712c335da20",
     "wof:hierarchy":[
         {
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":101818135,
-    "wof:lastmodified":1566597916,
+    "wof:lastmodified":1582348265,
     "wof:name":"Bir\u017eai",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

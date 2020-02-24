@@ -89,6 +89,9 @@
         "wk:page":"Baisogala"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"afd510803ad751af82de9d67a937ddd1",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101818067,
-    "wof:lastmodified":1566597926,
+    "wof:lastmodified":1582348267,
     "wof:name":"Baisogala",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

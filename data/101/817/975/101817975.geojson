@@ -142,6 +142,9 @@
         "wk:page":"Vilkija"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"49b2749a83384907ff479933698c3f82",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101817975,
-    "wof:lastmodified":1566597938,
+    "wof:lastmodified":1582348268,
     "wof:name":"Vilkija",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

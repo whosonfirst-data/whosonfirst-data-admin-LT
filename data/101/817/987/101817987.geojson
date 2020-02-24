@@ -151,6 +151,9 @@
         "wk:page":"\u017die\u017emariai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"97593aa9e255a18819e4f69a5d2551b6",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101817987,
-    "wof:lastmodified":1566597936,
+    "wof:lastmodified":1582348268,
     "wof:name":"\u017die\u017emariai",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",
