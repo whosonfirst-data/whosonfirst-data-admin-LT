@@ -138,6 +138,9 @@
         "wk:page":"Gelgaudi\u0161kis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54f1bed1a070ae4c2ec54c1967de8a0a",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101817983,
-    "wof:lastmodified":1566597930,
+    "wof:lastmodified":1582348267,
     "wof:name":"Gelgaudi\u0161kis",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

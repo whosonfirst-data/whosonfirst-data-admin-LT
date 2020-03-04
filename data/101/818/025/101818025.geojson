@@ -91,6 +91,9 @@
         "wk:page":"\u0160v\u0117k\u0161na"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd06a3366a2e25654897ef6fc184ecb7",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101818025,
-    "wof:lastmodified":1566597918,
+    "wof:lastmodified":1582348266,
     "wof:name":"\u0160v\u0117k\u0161na",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",

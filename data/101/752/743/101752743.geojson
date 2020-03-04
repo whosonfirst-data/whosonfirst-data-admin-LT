@@ -245,6 +245,9 @@
         "wk:page":"Marijampol\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bc16f6a03e513ab17849015eef7b8702",
     "wof:hierarchy":[
         {
@@ -256,7 +259,7 @@
         }
     ],
     "wof:id":101752743,
-    "wof:lastmodified":1566597915,
+    "wof:lastmodified":1582348265,
     "wof:name":"Marijampol\u0117",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

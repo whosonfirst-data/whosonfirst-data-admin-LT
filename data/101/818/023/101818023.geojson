@@ -261,6 +261,9 @@
         "wk:page":"Jonava"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3140f810f341051986932d25bb2e65f",
     "wof:hierarchy":[
         {
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":101818023,
-    "wof:lastmodified":1566597916,
+    "wof:lastmodified":1582348265,
     "wof:name":"Jonava",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

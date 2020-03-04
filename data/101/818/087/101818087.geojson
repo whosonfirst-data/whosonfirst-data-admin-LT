@@ -156,6 +156,9 @@
         "wk:page":"Varniai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a285eb14c1011fdb2b946ac469b453b5",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101818087,
-    "wof:lastmodified":1566597922,
+    "wof:lastmodified":1582348266,
     "wof:name":"Varniai",
     "wof:parent_id":102073699,
     "wof:placetype":"locality",

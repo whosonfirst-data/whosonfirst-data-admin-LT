@@ -190,6 +190,9 @@
         "wk:page":"Radvili\u0161kis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b55a10766b53bd7908021feb0245c4ac",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":101818069,
-    "wof:lastmodified":1566597925,
+    "wof:lastmodified":1582348266,
     "wof:name":"Radvili\u0161kis",
     "wof:parent_id":102073679,
     "wof:placetype":"locality",

@@ -178,6 +178,9 @@
         "wd:id":"Q835843"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c14f791f732004fed2a66e8c4e14e374",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":101817913,
-    "wof:lastmodified":1566597932,
+    "wof:lastmodified":1582348268,
     "wof:name":"Var\u0117na",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

@@ -191,6 +191,9 @@
         "wk:page":"Kelm\u0117 District Municipality"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73171dad08c91444545ada49d08a68a9",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":101817199,
-    "wof:lastmodified":1566597933,
+    "wof:lastmodified":1582348268,
     "wof:name":"Kelm\u0117",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

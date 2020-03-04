@@ -162,6 +162,10 @@
         "wk:page":"Grigi\u0161k\u0117s"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b0647f89dca9cc235fd4f156f07f8c3d",
     "wof:hierarchy":[
         {
@@ -177,7 +181,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566596908,
+    "wof:lastmodified":1582348250,
     "wof:name":"Grigiskes",
     "wof:parent_id":101754089,
     "wof:placetype":"neighbourhood",

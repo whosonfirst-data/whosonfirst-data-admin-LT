@@ -138,6 +138,9 @@
         "wk:page":"Pand\u0117lys"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"855cdd1f13cf0d597bc4fd1b2e95563c",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101818123,
-    "wof:lastmodified":1566597926,
+    "wof:lastmodified":1582348267,
     "wof:name":"Pand\u0117lys",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",

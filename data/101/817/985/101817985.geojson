@@ -106,6 +106,9 @@
         "wk:page":"Rum\u0161i\u0161k\u0117s"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15b267d7626c73e03ac185b74c93260c",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101817985,
-    "wof:lastmodified":1566597931,
+    "wof:lastmodified":1582348268,
     "wof:name":"Rum\u0161i\u0161k\u0117s",
     "wof:parent_id":102073621,
     "wof:placetype":"locality",

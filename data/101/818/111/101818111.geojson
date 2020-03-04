@@ -142,6 +142,9 @@
         "wk:page":"Venta"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"145328839b425f78ead79d2d174e81a1",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101818111,
-    "wof:lastmodified":1566597921,
+    "wof:lastmodified":1582348266,
     "wof:name":"Venta",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

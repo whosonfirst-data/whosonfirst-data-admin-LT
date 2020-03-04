@@ -151,6 +151,9 @@
         "wk:page":"Kudirkos Naumiestis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca72444657f3912f33bdf8e7ebd9407f",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101817977,
-    "wof:lastmodified":1566597930,
+    "wof:lastmodified":1582348267,
     "wof:name":"Kudirkos Naumiestis",
     "wof:parent_id":102073619,
     "wof:placetype":"locality",

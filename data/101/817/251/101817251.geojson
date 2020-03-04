@@ -126,6 +126,9 @@
         "wk:page":"Linkuva"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aeb1a68794ff4ea8b54e45c44266e256",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101817251,
-    "wof:lastmodified":1566597930,
+    "wof:lastmodified":1582348267,
     "wof:name":"Linkuva",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",

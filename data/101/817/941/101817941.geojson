@@ -88,6 +88,9 @@
         "wk:page":"Pilvi\u0161kiai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"be06eb4ac811e57bac06a2583bef23dd",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101817941,
-    "wof:lastmodified":1566597931,
+    "wof:lastmodified":1582348267,
     "wof:name":"Pilvi\u0161kiai",
     "wof:parent_id":102073601,
     "wof:placetype":"locality",

@@ -148,6 +148,9 @@
         "wk:page":"Pag\u0117giai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe6aaa61f0f4527071663897bfc970f9",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101817991,
-    "wof:lastmodified":1566597927,
+    "wof:lastmodified":1582348267,
     "wof:name":"Pag\u0117giai",
     "wof:parent_id":102073623,
     "wof:placetype":"locality",

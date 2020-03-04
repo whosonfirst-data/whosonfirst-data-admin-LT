@@ -83,6 +83,9 @@
         "wk:page":"Igliauka"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"12b2865374d062555c61a78ad11e7807",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101817925,
-    "wof:lastmodified":1566597932,
+    "wof:lastmodified":1582348268,
     "wof:name":"Igliauka",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

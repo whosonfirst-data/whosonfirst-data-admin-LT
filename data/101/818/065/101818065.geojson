@@ -133,6 +133,9 @@
         "wk:page":"Tytuv\u0117nai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6524b94f3a3379eda46ee62ba46ad66f",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101818065,
-    "wof:lastmodified":1566597918,
+    "wof:lastmodified":1582348266,
     "wof:name":"Tytuv\u0117nai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

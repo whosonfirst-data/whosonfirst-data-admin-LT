@@ -240,6 +240,9 @@
         "wk:page":"K\u0117dainiai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a262dc7b484d26e2ffa52a1d583e96a2",
     "wof:hierarchy":[
         {
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":101817187,
-    "wof:lastmodified":1566597930,
+    "wof:lastmodified":1582348267,
     "wof:name":"K\u0117dainiai",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

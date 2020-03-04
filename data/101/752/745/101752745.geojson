@@ -498,6 +498,9 @@
         "qs_pg:id":1059310
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fa8f18e02e533ffec8abb06c7d650c8",
     "wof:hierarchy":[
         {
@@ -509,7 +512,7 @@
         }
     ],
     "wof:id":101752745,
-    "wof:lastmodified":1566597915,
+    "wof:lastmodified":1582348265,
     "wof:name":"Kaunas",
     "wof:parent_id":102073611,
     "wof:placetype":"locality",

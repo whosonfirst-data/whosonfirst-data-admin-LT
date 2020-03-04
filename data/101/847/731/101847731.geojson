@@ -131,6 +131,9 @@
         "wd:id":"Q20990"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"190863d0134d1e03308910e8c31c7e0d",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":101847731,
-    "wof:lastmodified":1566597939,
+    "wof:lastmodified":1582348269,
     "wof:name":"Neringa (Juodkrant\u0117)",
     "wof:parent_id":102073645,
     "wof:placetype":"locality",

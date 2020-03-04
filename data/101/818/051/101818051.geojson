@@ -217,6 +217,9 @@
         "wk:page":"Ukmerg\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9bc2252ade2a5e225d882d2c8b56cc66",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":101818051,
-    "wof:lastmodified":1566597925,
+    "wof:lastmodified":1582348266,
     "wof:name":"Ukmerg\u0117",
     "wof:parent_id":102073663,
     "wof:placetype":"locality",

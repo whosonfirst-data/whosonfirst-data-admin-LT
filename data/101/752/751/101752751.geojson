@@ -415,6 +415,9 @@
         "wk:page":"Panev\u0117\u017eys"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbfcc51a0c2b5c88fc48c44cbc57bcb9",
     "wof:hierarchy":[
         {
@@ -426,7 +429,7 @@
         }
     ],
     "wof:id":101752751,
-    "wof:lastmodified":1566597915,
+    "wof:lastmodified":1582348265,
     "wof:name":"Panev\u0117\u017eys",
     "wof:parent_id":102073677,
     "wof:placetype":"locality",

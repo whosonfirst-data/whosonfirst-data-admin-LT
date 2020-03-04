@@ -91,6 +91,9 @@
         "wk:page":"Mos\u0117dis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"33a1464038dd3d93259da8cc7b4ec10a",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101817237,
-    "wof:lastmodified":1566597935,
+    "wof:lastmodified":1582348268,
     "wof:name":"Mos\u0117dis",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

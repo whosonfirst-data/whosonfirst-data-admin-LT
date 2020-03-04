@@ -215,6 +215,9 @@
         "wk:page":"Taurag\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44b263acf4b0b54e111274cee2e24f39",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":101818021,
-    "wof:lastmodified":1566597924,
+    "wof:lastmodified":1582348266,
     "wof:name":"Taurag\u0117",
     "wof:parent_id":102073637,
     "wof:placetype":"locality",

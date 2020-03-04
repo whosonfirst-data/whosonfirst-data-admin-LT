@@ -214,6 +214,9 @@
         "wd:id":"Q203675"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f06d303b7b2241e57cfc89af5bbfa922",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":101818109,
-    "wof:lastmodified":1566597922,
+    "wof:lastmodified":1582348266,
     "wof:name":"Ma\u017eeikiai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

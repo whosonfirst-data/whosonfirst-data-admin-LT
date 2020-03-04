@@ -148,6 +148,9 @@
         "wk:page":"Salantai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf172da0fc91d03718ef998cabc1e62d",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101817211,
-    "wof:lastmodified":1566597928,
+    "wof:lastmodified":1582348267,
     "wof:name":"Salantai",
     "wof:parent_id":102073681,
     "wof:placetype":"locality",

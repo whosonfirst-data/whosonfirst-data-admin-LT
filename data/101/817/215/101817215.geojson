@@ -151,6 +151,9 @@
         "qs_pg:id":267874
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d79044dba6f8e13db8c12a23e1a50854",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101817215,
-    "wof:lastmodified":1566597934,
+    "wof:lastmodified":1582348268,
     "wof:name":"Ignalina",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

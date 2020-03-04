@@ -145,6 +145,9 @@
         "wk:page":"\u0160ven\u010dion\u0117liai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5559865404ea29edbf0abaff32c02c97",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101818055,
-    "wof:lastmodified":1566597919,
+    "wof:lastmodified":1582348266,
     "wof:name":"\u0160ven\u010dion\u0117liai",
     "wof:parent_id":102073665,
     "wof:placetype":"locality",

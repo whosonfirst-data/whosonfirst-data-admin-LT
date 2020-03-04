@@ -169,6 +169,9 @@
         "wd:id":"Q147750"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd90d1fc61aef7536a9dfe7777ddec14",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":101818099,
-    "wof:lastmodified":1566597919,
+    "wof:lastmodified":1582348266,
     "wof:name":"Zarasai",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

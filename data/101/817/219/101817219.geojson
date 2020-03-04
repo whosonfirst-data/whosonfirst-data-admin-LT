@@ -206,6 +206,9 @@
         "wd:id":"Q203892"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2da887d6a0767a35bf7918ee09bb80d",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":101817219,
-    "wof:lastmodified":1566597929,
+    "wof:lastmodified":1582348267,
     "wof:name":"Visaginas",
     "wof:parent_id":102073691,
     "wof:placetype":"locality",

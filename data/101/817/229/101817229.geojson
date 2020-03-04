@@ -76,6 +76,9 @@
         "wk:page":"Me\u0161kui\u010diai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48f7ef7d95d1a3d316119b3ffd7fe4bf",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101817229,
-    "wof:lastmodified":1566597928,
+    "wof:lastmodified":1582348267,
     "wof:name":"Me\u0161kui\u010diai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

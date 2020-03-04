@@ -129,6 +129,9 @@
         "wk:page":"U\u017eventis"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5309b63e939cf21c5a59cc7b831ae24",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101817201,
-    "wof:lastmodified":1566597935,
+    "wof:lastmodified":1582348268,
     "wof:name":"U\u017eventis",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",

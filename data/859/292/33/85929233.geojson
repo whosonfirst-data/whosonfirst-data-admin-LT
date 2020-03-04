@@ -75,6 +75,10 @@
         "qs_pg:id":216185
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"93977aae57f3721d7e3072163e85231e",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566596903,
+    "wof:lastmodified":1582348249,
     "wof:name":"Naujamiestis",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

@@ -144,6 +144,9 @@
         "wk:page":"Ramygala"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce1e72931ae7f86292100f72eb313dea",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101818093,
-    "wof:lastmodified":1566597926,
+    "wof:lastmodified":1582348267,
     "wof:name":"Ramygala",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",

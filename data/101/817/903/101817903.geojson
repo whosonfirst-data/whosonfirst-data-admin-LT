@@ -157,6 +157,9 @@
         "wd:id":"Q923643"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1812396a3a86d13fef22c9527969535b",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101817903,
-    "wof:lastmodified":1566597933,
+    "wof:lastmodified":1582348268,
     "wof:name":"Lazdijai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

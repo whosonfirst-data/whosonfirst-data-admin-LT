@@ -145,6 +145,9 @@
         "wd:id":"Q1004290"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ab1daf19f5ad1e456447ad4d7bc4ddda",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101818103,
-    "wof:lastmodified":1566597916,
+    "wof:lastmodified":1582348265,
     "wof:name":"Skuodas",
     "wof:parent_id":102073711,
     "wof:placetype":"locality",

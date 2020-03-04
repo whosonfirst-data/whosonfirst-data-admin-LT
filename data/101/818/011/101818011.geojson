@@ -156,6 +156,9 @@
         "wk:page":"Jurbarkas"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6ebc16456fc892b0f49db7e90bf2db7",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101818011,
-    "wof:lastmodified":1566597923,
+    "wof:lastmodified":1582348266,
     "wof:name":"Jurbarkas",
     "wof:parent_id":102073631,
     "wof:placetype":"locality",

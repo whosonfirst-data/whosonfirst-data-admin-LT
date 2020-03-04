@@ -164,6 +164,9 @@
         "wd:id":"Q505416"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c02c77fed7868ab9ed11921e0f89521",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101818079,
-    "wof:lastmodified":1566597917,
+    "wof:lastmodified":1582348265,
     "wof:name":"Anyk\u0161\u010diai",
     "wof:parent_id":102073687,
     "wof:placetype":"locality",

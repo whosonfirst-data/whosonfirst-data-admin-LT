@@ -266,6 +266,9 @@
         "wd:id":"Q1023044"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa264c1cb9f6c67d9d4ab3f064f69fbd",
     "wof:hierarchy":[
         {
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":101817247,
-    "wof:lastmodified":1566597935,
+    "wof:lastmodified":1582348268,
     "wof:name":"Akmen\u0117",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",

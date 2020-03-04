@@ -167,6 +167,9 @@
         "wd:id":"Q185555"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1d840cdc0fb3715ce8c87298ab31bd6",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":101817923,
-    "wof:lastmodified":1566597931,
+    "wof:lastmodified":1582348267,
     "wof:name":"Bir\u0161tonas",
     "wof:parent_id":102073593,
     "wof:placetype":"locality",

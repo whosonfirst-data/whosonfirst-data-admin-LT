@@ -150,6 +150,9 @@
         "wk:page":"Viek\u0161niai"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"59394c2f18fc3a646cee693caf559302",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101817241,
-    "wof:lastmodified":1566597934,
+    "wof:lastmodified":1582348268,
     "wof:name":"Viek\u0161niai",
     "wof:parent_id":102073713,
     "wof:placetype":"locality",

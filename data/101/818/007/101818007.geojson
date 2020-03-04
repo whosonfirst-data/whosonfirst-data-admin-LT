@@ -160,6 +160,9 @@
         "wk:page":"Nemen\u010din\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87d59024eaab384400babbfa7e0c2b09",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101818007,
-    "wof:lastmodified":1566597919,
+    "wof:lastmodified":1582348266,
     "wof:name":"Nemen\u010din\u0117",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

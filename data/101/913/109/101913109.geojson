@@ -89,6 +89,9 @@
         "wk:page":"Pal\u016b\u0161\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7fe74010490e016ef8d3847988b7d992",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101913109,
-    "wof:lastmodified":1566597938,
+    "wof:lastmodified":1582348269,
     "wof:name":"Pal\u016b\u0161\u0117",
     "wof:parent_id":102073685,
     "wof:placetype":"locality",

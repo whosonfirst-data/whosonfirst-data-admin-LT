@@ -195,6 +195,9 @@
         "wk:page":"Plung\u0117"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b99d6fbf69ca9568e0ff54d4e0ee6e27",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":101818083,
-    "wof:lastmodified":1566597917,
+    "wof:lastmodified":1582348265,
     "wof:name":"Plung\u0117",
     "wof:parent_id":102073695,
     "wof:placetype":"locality",

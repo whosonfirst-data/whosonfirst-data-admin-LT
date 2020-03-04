@@ -264,6 +264,9 @@
         "wk:page":"Alytus"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"56d4e9cd114eac626c02ee85f397480b",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":101752741,
-    "wof:lastmodified":1566597915,
+    "wof:lastmodified":1582348265,
     "wof:name":"Alytus",
     "wof:parent_id":102073587,
     "wof:placetype":"locality",

@@ -745,6 +745,9 @@
         "wk:page":"Vilnius"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec1cddc1d5b4c4b352f94ae37f4b74c5",
     "wof:hierarchy":[
         {
@@ -755,7 +758,7 @@
         }
     ],
     "wof:id":101753031,
-    "wof:lastmodified":1566597916,
+    "wof:lastmodified":1582348265,
     "wof:megacity":0,
     "wof:name":"Vilnius",
     "wof:parent_id":102073615,

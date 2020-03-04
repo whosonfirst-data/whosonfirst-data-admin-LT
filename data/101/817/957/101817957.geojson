@@ -157,6 +157,9 @@
         "wk:page":"Lentvaris"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b99094edee29552ccaf223d0eec53c0",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101817957,
-    "wof:lastmodified":1566597932,
+    "wof:lastmodified":1582348268,
     "wof:name":"Lentvaris",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

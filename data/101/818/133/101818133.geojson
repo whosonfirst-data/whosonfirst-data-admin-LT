@@ -150,6 +150,9 @@
         "wk:page":"Vabalninkas"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0970bf5c4be2ab3ee6e68a70f9c062e1",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101818133,
-    "wof:lastmodified":1566597916,
+    "wof:lastmodified":1582348265,
     "wof:name":"Vabalninkas",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

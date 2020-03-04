@@ -121,6 +121,10 @@
         "wd:id":"Q1390465"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55eb94439457b9e5ca9c008f9d9f4f9c",
     "wof:hierarchy":[
         {
@@ -136,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566596908,
+    "wof:lastmodified":1582348250,
     "wof:name":"Fabijoniskes",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

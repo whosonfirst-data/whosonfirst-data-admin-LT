@@ -112,6 +112,9 @@
         "wk:page":"Karm\u0117lava"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2e427f56912367408c0752af599d7a5",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101817997,
-    "wof:lastmodified":1566597928,
+    "wof:lastmodified":1582348267,
     "wof:name":"Karm\u0117lava",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",

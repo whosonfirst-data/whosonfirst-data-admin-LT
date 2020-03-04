@@ -114,6 +114,9 @@
         "wk:page":"\u0160ventoji, Lithuania"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1dd982c1979679468f361baa98dd9638",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101817203,
-    "wof:lastmodified":1566597930,
+    "wof:lastmodified":1582348267,
     "wof:name":"\u0160ventoji",
     "wof:parent_id":102073675,
     "wof:placetype":"locality",

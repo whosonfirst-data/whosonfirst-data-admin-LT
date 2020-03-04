@@ -102,6 +102,10 @@
         "wd:id":"Q2455066"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a4e5d97a9b80041d2a6f79590a3d9aed",
     "wof:hierarchy":[
         {
@@ -117,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566596903,
+    "wof:lastmodified":1582348249,
     "wof:name":"Seskine",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

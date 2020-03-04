@@ -103,6 +103,10 @@
         "wd:id":"Q1005578"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ac716c15968bfcd9829ec304b8978b5",
     "wof:hierarchy":[
         {
@@ -118,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566596903,
+    "wof:lastmodified":1582348249,
     "wof:name":"Pilaite",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

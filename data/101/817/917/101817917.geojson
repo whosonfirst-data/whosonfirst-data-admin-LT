@@ -139,6 +139,9 @@
         "wk:page":"Simnas"
     },
     "wof:country":"LT",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7f9a166d754f9d735e12ffa08553acf",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101817917,
-    "wof:lastmodified":1566597937,
+    "wof:lastmodified":1582348268,
     "wof:name":"Simnas",
     "wof:parent_id":102073591,
     "wof:placetype":"locality",
