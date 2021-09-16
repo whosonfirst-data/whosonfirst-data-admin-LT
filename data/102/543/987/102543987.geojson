@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.5305555556,55.3369444444,21.5305555556,55.3369444444",
+    "geom:bbox":"21.530556,55.336944,21.530556,55.336944",
     "geom:latitude":55.336944,
     "geom:longitude":21.530556,
     "iso:country":"LT",
@@ -15,6 +15,9 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "\u0160ilut\u0117 airfield"
+    ],
+    "name:eng_x_variant":[
+        "EYSI"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30eb\u30c6\u98db\u884c\u5834"
@@ -45,7 +48,7 @@
         "wd:id":"Q12679895"
     },
     "wof:country":"LT",
-    "wof:geomhash":"ad57abad836198fcce7983e96cd150d9",
+    "wof:geomhash":"e5559c61214ab86e9ce4966beffd2893",
     "wof:hierarchy":[
         {
             "campus_id":102543987,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":102543987,
-    "wof:lastmodified":1566596714,
+    "wof:lastmodified":1631750663,
     "wof:name":"Silute Airport",
     "wof:parent_id":85685747,
     "wof:placetype":"campus",
@@ -66,10 +69,10 @@
     ]
 },
   "bbox": [
-    21.530555555556,
-    55.336944444444,
-    21.530555555556,
-    55.336944444444
+    21.530556,
+    55.336944,
+    21.530556,
+    55.336944
 ],
-  "geometry": {"coordinates":[21.530555555556,55.336944444444],"type":"Point"}
+  "geometry": {"coordinates":[21.530556,55.336944],"type":"Point"}
 }

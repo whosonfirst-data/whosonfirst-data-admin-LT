@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.0583333333,54.655,24.0583333333,54.655",
+    "geom:bbox":"24.058333,54.655,24.058333,54.655",
     "geom:latitude":54.655,
     "geom:longitude":24.058333,
     "iso:country":"LT",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "Poci\u016bnai Airport"
+    ],
+    "name:eng_x_variant":[
+        "EYPR"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u067e\u0648\u0686\u06cc\u0626\u0648\u0646\u0627\u06cc"
@@ -67,7 +70,7 @@
         "wd:id":"Q3647115"
     },
     "wof:country":"LT",
-    "wof:geomhash":"d97a5fcf90e2e2975a3e4acbe1e21b73",
+    "wof:geomhash":"d576bc4f7486703b477671afc561f1b8",
     "wof:hierarchy":[
         {
             "campus_id":102543977,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":102543977,
-    "wof:lastmodified":1566596713,
+    "wof:lastmodified":1631750663,
     "wof:name":"Prienai Airport",
     "wof:parent_id":85685773,
     "wof:placetype":"campus",
@@ -88,10 +91,10 @@
     ]
 },
   "bbox": [
-    24.058333333333,
+    24.058333,
     54.655,
-    24.058333333333,
+    24.058333,
     54.655
 ],
-  "geometry": {"coordinates":[24.058333333333,54.655],"type":"Point"}
+  "geometry": {"coordinates":[24.058333,54.655],"type":"Point"}
 }

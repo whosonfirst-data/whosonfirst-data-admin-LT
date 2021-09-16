@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"24.05555556,54.41277778,24.05555556,54.41277778",
+    "geom:bbox":"24.055556,54.412778,24.055556,54.412778",
     "geom:latitude":54.412778,
     "geom:longitude":24.055556,
     "iso:country":"LT",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "Alytus Airport"
+    ],
+    "name:eng_x_variant":[
+        "EYAL"
     ],
     "name:fra_x_preferred":[
         "a\u00e9rodrome d'Alytus"
@@ -60,7 +63,7 @@
         "wd:id":"Q763480"
     },
     "wof:country":"LT",
-    "wof:geomhash":"203bdac935065af30156bf69bfe2c5f7",
+    "wof:geomhash":"07154e1d4facf7579c94aecbda8f9c4b",
     "wof:hierarchy":[
         {
             "campus_id":102544005,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":102544005,
-    "wof:lastmodified":1566596714,
+    "wof:lastmodified":1631750663,
     "wof:name":"Alytus Airport",
     "wof:parent_id":85685765,
     "wof:placetype":"campus",
@@ -81,10 +84,10 @@
     ]
 },
   "bbox": [
-    24.05555556,
-    54.41277778,
-    24.05555556,
-    54.41277778
+    24.055556,
+    54.412778,
+    24.055556,
+    54.412778
 ],
-  "geometry": {"coordinates":[24.05555556,54.41277778],"type":"Point"}
+  "geometry": {"coordinates":[24.055556,54.412778],"type":"Point"}
 }
