@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"LT",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"Lietuva",
+    "eurostat:name_local":"Lietuva",
+    "eurostat:nuts_2021_id":"LT0",
+    "eurostat:nuts_2021_level_0":"LT",
+    "eurostat:nuts_2021_level_1":"LT0",
+    "eurostat:population":2805998,
+    "eurostat:population_year":2022,
     "geom:area":9.24549,
-    "geom:area_square_m":64968481887.709839,
+    "geom:area_square_m":65016229128.874321,
     "geom:bbox":"20.954407,53.898707,26.83565,56.450657",
     "geom:latitude":55.337446,
     "geom:longitude":23.883894,
@@ -1253,7 +1262,8 @@
     ],
     "src:geom_via":"quttroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"370",
     "statoids:ds":"LT",
     "statoids:fifa":"LTU",
@@ -1282,6 +1292,7 @@
     "wof:concordances":{
         "dbp:id":"Lithuania",
         "digitalenvoy:country_code":440,
+        "eurostat:nuts_2021_id":"LT0",
         "fb:id":"en.lithuania",
         "fifa:id":"LTU",
         "fips:code":"LH",
@@ -1311,7 +1322,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"a10b127f2d023bd302de2a2802c91f03",
+    "wof:geomhash":"11d15ab1e2daaad35b04614cfbf9895b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1325,11 +1336,11 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1617827851,
+    "wof:lastmodified":1684351369,
     "wof:name":"Lithuania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":3043429,
+    "wof:population":2805998,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:shortcode":"LT",
