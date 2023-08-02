@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "Alytus"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Alytus"
+    ],
     "name:deu_x_preferred":[
         "Flugplatz Alytus"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":102544005,
-    "wof:lastmodified":1631750663,
+    "wof:lastmodified":1690938603,
     "wof:name":"Alytus Airport",
     "wof:parent_id":85685765,
     "wof:placetype":"campus",

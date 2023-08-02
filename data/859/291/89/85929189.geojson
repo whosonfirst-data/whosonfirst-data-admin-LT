@@ -28,6 +28,12 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043d\u044f\u0440\u0430\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Paneriai"
+    ],
     "name:dan_x_preferred":[
         "Paneriai"
     ],
@@ -37,11 +43,20 @@
     "name:deu_x_variant":[
         "Paneriai"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03ad\u03c1\u03b9\u03b1\u03ca"
+    ],
     "name:eng_x_preferred":[
         "Paneriai"
     ],
+    "name:eng_x_variant":[
+        "Auk\u0161tieji Paneriai"
+    ],
     "name:est_x_preferred":[
         "Paneriai"
+    ],
+    "name:est_x_variant":[
+        "Auk\u0161tieji Paneriai"
     ],
     "name:fra_x_preferred":[
         "Paneriai"
@@ -71,6 +86,9 @@
     "name:pol_x_preferred":[
         "Ponary"
     ],
+    "name:por_x_preferred":[
+        "Auk\u0161tieji Paneriai"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0443\u043a\u0448\u0442\u0435\u0439\u0438-\u041f\u0430\u043d\u044f\u0440\u044f\u0439"
     ],
@@ -80,11 +98,17 @@
     "name:swe_x_preferred":[
         "Paneriai"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0435\u0440\u044f\u0439"
+    ],
     "name:und_x_variant":[
         "Dvaras Paneriai"
     ],
     "name:yid_x_preferred":[
         "\u05e4\u05d0\u05e0\u05d0\u05e8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u5167\u91cc\u827e"
     ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_fcode":"PPL",
@@ -153,7 +177,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348249,
+    "wof:lastmodified":1690938619,
     "wof:name":"Aukstieji Paneriai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

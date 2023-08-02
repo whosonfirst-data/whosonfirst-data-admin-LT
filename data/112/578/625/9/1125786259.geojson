@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u06a4\u064a\u062f\u064a\u0633\u0643\u064a\u0633"
+    ],
     "name:deu_x_preferred":[
         "Buivydi\u0161k\u0117s"
     ],
@@ -31,8 +34,14 @@
     "name:lit_x_preferred":[
         "Buivydi\u0161k\u0117s"
     ],
+    "name:nan_x_preferred":[
+        "Buivydi\u0161k\u0117s"
+    ],
     "name:nld_x_preferred":[
         "Buivydi\u0161k\u0117s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0439\u0432\u0438\u0434\u0438\u0448\u043a\u0435\u0441"
     ],
     "name:sgs_x_preferred":[
         "Boiv\u012bd\u0117\u0161k\u0117s"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1125786259,
-    "wof:lastmodified":1566598035,
+    "wof:lastmodified":1690938687,
     "wof:name":"Buivydi\u0161k\u0117s",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:lit_x_preferred":[
         "Kalveliai"
     ],
+    "name:nan_x_preferred":[
+        "Kalveliai"
+    ],
+    "name:pol_x_preferred":[
+        "Kowalki"
+    ],
     "name:sgs_x_preferred":[
         "Kalvel\u0113"
     ],
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1126049239,
-    "wof:lastmodified":1566598022,
+    "wof:lastmodified":1690938679,
     "wof:name":"Kalveliai",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

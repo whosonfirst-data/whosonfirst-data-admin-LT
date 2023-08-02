@@ -37,6 +37,9 @@
     "name:lit_x_preferred":[
         "Tyruliai"
     ],
+    "name:nan_x_preferred":[
+        "Tyruliai"
+    ],
     "name:nld_x_preferred":[
         "Tyruliai"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125836203,
-    "wof:lastmodified":1566598038,
+    "wof:lastmodified":1690938689,
     "wof:name":"Tyruliai",
     "wof:parent_id":102073703,
     "wof:placetype":"locality",

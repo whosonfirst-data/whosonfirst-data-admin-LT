@@ -28,6 +28,12 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:aze_x_preferred":[
+        "Antakalnis"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u0442\u0430\u043a\u0430\u043b\u044c\u043d\u0456\u0441"
+    ],
     "name:bel_x_variant":[
         "\u0410\u043d\u0442\u043e\u043a\u0430\u043b\u044c"
     ],
@@ -38,6 +44,9 @@
         "Antakalnis"
     ],
     "name:eng_x_preferred":[
+        "Antakalnis"
+    ],
+    "name:est_x_preferred":[
         "Antakalnis"
     ],
     "name:fas_x_preferred":[
@@ -63,6 +72,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043a\u0430\u043b\u044c\u043d\u0456\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5854\u5361\u5c3c\u65af"
     ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_fcode":"PPL",
@@ -134,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348250,
+    "wof:lastmodified":1690938621,
     "wof:name":"Antakalnis",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

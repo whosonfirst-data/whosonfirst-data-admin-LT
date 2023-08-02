@@ -39,6 +39,12 @@
     "name:eng_x_preferred":[
         "\u0160e\u0161kin\u0117"
     ],
+    "name:est_x_preferred":[
+        "\u0160e\u0161kin\u0117"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e9\u05e7\u05d9\u05e0\u05d4"
+    ],
     "name:lav_x_preferred":[
         "\u0160e\u0161kine"
     ],
@@ -121,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348249,
+    "wof:lastmodified":1690938619,
     "wof:name":"Seskine",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Silute"
+    ],
     "name:eng_x_preferred":[
         "\u0160ilut\u0117 airfield"
     ],
@@ -24,6 +27,12 @@
     ],
     "name:lit_x_preferred":[
         "\u0160ilut\u0117s aerodromas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043b\u0443\u0442\u0441\u043a\u0438\u0439 \u0430\u044d\u0440\u043e\u0434\u0440\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Silute"
     ],
     "oa:elevation_ft":"59",
     "oa:type":"small_airport",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":102543987,
-    "wof:lastmodified":1631750663,
+    "wof:lastmodified":1690938603,
     "wof:name":"Silute Airport",
     "wof:parent_id":85685747,
     "wof:placetype":"campus",

@@ -28,11 +28,20 @@
     "name:eng_x_preferred":[
         "Turgeliai"
     ],
+    "name:est_x_preferred":[
+        "Turgeliai"
+    ],
     "name:lit_x_preferred":[
+        "Turgeliai"
+    ],
+    "name:nan_x_preferred":[
         "Turgeliai"
     ],
     "name:pol_x_preferred":[
         "Turgiele"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0433\u044f\u043b\u044f\u0439"
     ],
     "name:sgs_x_preferred":[
         "Torgel\u0113"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1125955297,
-    "wof:lastmodified":1566598014,
+    "wof:lastmodified":1690938679,
     "wof:name":"Turgeliai",
     "wof:parent_id":102073597,
     "wof:placetype":"locality",

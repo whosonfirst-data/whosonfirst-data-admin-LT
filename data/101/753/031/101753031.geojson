@@ -29,6 +29,9 @@
     "name:afr_x_preferred":[
         "Vilnius"
     ],
+    "name:aka_x_preferred":[
+        "Vilnius"
+    ],
     "name:amh_x_preferred":[
         "\u126a\u120d\u1292\u12cd\u1235"
     ],
@@ -41,6 +44,9 @@
     "name:arg_x_preferred":[
         "Vilna"
     ],
+    "name:ary_x_preferred":[
+        "\u06a4\u064a\u0644\u0646\u0648\u0633"
+    ],
     "name:arz_x_preferred":[
         "\u0641\u064a\u0644\u0646\u064a\u0648\u0633"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:ava_x_preferred":[
         "\u0412\u0438\u043b\u044c\u043d\u044e\u0441"
+    ],
+    "name:avk_x_preferred":[
+        "Vilnius"
     ],
     "name:aym_x_preferred":[
         "Wil\u00f1us"
@@ -59,6 +68,12 @@
     "name:bak_x_preferred":[
         "\u0412\u0438\u043b\u044c\u043d\u044e\u0441"
     ],
+    "name:ban_x_preferred":[
+        "Vilnius"
+    ],
+    "name:bcl_x_preferred":[
+        "Vilnius"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0456\u043b\u044c\u043d\u044e\u0441"
     ],
@@ -67,6 +82,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09b2\u09a8\u09bf\u0989\u09b8"
+    ],
+    "name:ben_x_variant":[
+        "\u09ad\u09bf\u09b2\u09a8\u09bf\u09af\u09bc\u09be\u09b8"
     ],
     "name:bis_x_preferred":[
         "Vilnius"
@@ -113,6 +131,9 @@
     "name:cor_x_preferred":[
         "Vilnius"
     ],
+    "name:cre_x_preferred":[
+        "Vilnius"
+    ],
     "name:crh_x_preferred":[
         "Viln\u00fcs"
     ],
@@ -120,6 +141,9 @@
         "Wilna"
     ],
     "name:cym_x_preferred":[
+        "Vilnius"
+    ],
+    "name:dag_x_preferred":[
         "Vilnius"
     ],
     "name:dan_x_preferred":[
@@ -201,6 +225,9 @@
     "name:glv_x_preferred":[
         "Vilnius"
     ],
+    "name:got_x_preferred":[
+        "\ud800\udf45\ud800\udf39\ud800\udf3b\ud800\udf3d\ud800\udf3f\ud800\udf43"
+    ],
     "name:grn_x_preferred":[
         "Vilnius"
     ],
@@ -215,6 +242,12 @@
     ],
     "name:hat_x_preferred":[
         "Vilnis"
+    ],
+    "name:hau_x_preferred":[
+        "Vilnius"
+    ],
+    "name:haw_x_preferred":[
+        "Vilnius"
     ],
     "name:hbs_x_preferred":[
         "Vilnius"
@@ -239,6 +272,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054e\u056b\u056c\u0576\u0575\u0578\u0582\u057d"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054e\u056b\u056c\u0576\u056b\u0582\u057d"
     ],
     "name:ido_x_preferred":[
         "Vilnius"
@@ -306,6 +342,9 @@
     "name:lav_x_preferred":[
         "Vi\u013c\u0146a"
     ],
+    "name:lfn_x_preferred":[
+        "Vilnius"
+    ],
     "name:lij_x_preferred":[
         "Vilnius"
     ],
@@ -372,6 +411,9 @@
     "name:myv_x_preferred":[
         "\u0412\u0438\u043b\u044c\u043d\u044e\u0441 \u043e\u0448"
     ],
+    "name:mzn_x_preferred":[
+        "\u0648\u06cc\u0644\u0646\u06cc\u0648\u0633"
+    ],
     "name:nah_x_preferred":[
         "Vilnius"
     ],
@@ -383,6 +425,9 @@
     ],
     "name:nau_x_preferred":[
         "Vilnius"
+    ],
+    "name:nav_x_preferred":[
+        "T\u00f3 Doolk\u02bcool\u00ed"
     ],
     "name:nds_x_preferred":[
         "Vilnius"
@@ -438,6 +483,9 @@
     "name:que_x_preferred":[
         "Vilnius"
     ],
+    "name:rmy_x_preferred":[
+        "Vilnius"
+    ],
     "name:ron_x_preferred":[
         "\u0412\u0438\u043b\u044c\u043d\u044e\u0441"
     ],
@@ -483,6 +531,12 @@
     "name:sme_x_preferred":[
         "Vilnius"
     ],
+    "name:smn_x_preferred":[
+        "Vilna"
+    ],
+    "name:smo_x_preferred":[
+        "Vilnius"
+    ],
     "name:sna_x_preferred":[
         "Vilnius"
     ],
@@ -496,6 +550,9 @@
         "Vilnius"
     ],
     "name:srd_x_preferred":[
+        "Vilnius"
+    ],
+    "name:srn_x_preferred":[
         "Vilnius"
     ],
     "name:srp_x_preferred":[
@@ -579,6 +636,9 @@
     "name:vie_x_preferred":[
         "Vilnius"
     ],
+    "name:vls_x_preferred":[
+        "Vilnius"
+    ],
     "name:vol_x_preferred":[
         "Vilnius"
     ],
@@ -586,6 +646,9 @@
         "Vilnius"
     ],
     "name:war_x_preferred":[
+        "Vilnius"
+    ],
+    "name:wln_x_preferred":[
         "Vilnius"
     ],
     "name:wol_x_preferred":[
@@ -760,7 +823,7 @@
         }
     ],
     "wof:id":101753031,
-    "wof:lastmodified":1617130299,
+    "wof:lastmodified":1690938635,
     "wof:megacity":0,
     "wof:name":"Vilnius",
     "wof:parent_id":102073615,

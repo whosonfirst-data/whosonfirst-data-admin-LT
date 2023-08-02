@@ -31,6 +31,9 @@
     "name:est_x_preferred":[
         "Pabir\u017e\u0117"
     ],
+    "name:ita_x_preferred":[
+        "Pabir\u017e\u0117"
+    ],
     "name:lit_x_preferred":[
         "Pabir\u017e\u0117"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "Podbir\u017ce"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0431\u0438\u0440\u0436\u0435"
     ],
     "name:swe_x_preferred":[
         "Pabir\u017e\u0117"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125788897,
-    "wof:lastmodified":1566598035,
+    "wof:lastmodified":1690938687,
     "wof:name":"Pabir\u017e\u0117",
     "wof:parent_id":102073727,
     "wof:placetype":"locality",

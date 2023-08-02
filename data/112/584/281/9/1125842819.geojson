@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.3080045,55.3441195,21.3080045,55.3441195",
+    "geom:bbox":"21.308004,55.344119,21.308004,55.344119",
     "geom:latitude":55.344119,
     "geom:longitude":21.308004,
     "gn:country":null,
@@ -23,14 +23,23 @@
     "name:ces_x_preferred":[
         "Uostadvaris"
     ],
+    "name:deu_x_preferred":[
+        "Uostadvaris"
+    ],
     "name:eng_x_preferred":[
         "Uostadvaris"
     ],
     "name:lit_x_preferred":[
         "Uostadvaris"
     ],
+    "name:nan_x_preferred":[
+        "Uostadvaris"
+    ],
     "name:sgs_x_preferred":[
         "Oustadvaris"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u65af\u5854\u74e6\u91cc\u65af"
     ],
     "qs_pg:aaroncc":"LT",
     "qs_pg:gn_country":null,
@@ -69,7 +78,7 @@
     },
     "wof:country":"LT",
     "wof:created":1497293009,
-    "wof:geomhash":"175bba19b7c132237ab334b12b963dcd",
+    "wof:geomhash":"73f3ff89a2c05eee7412829f8f37a95d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":1125842819,
-    "wof:lastmodified":1566598037,
+    "wof:lastmodified":1690938687,
     "wof:name":"Uostadvaris",
     "wof:parent_id":102073641,
     "wof:placetype":"locality",
@@ -90,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.3080045,
-    55.3441195,
-    21.3080045,
-    55.3441195
+    21.308004,
+    55.344119,
+    21.308004,
+    55.344119
 ],
-  "geometry": {"coordinates":[21.3080045,55.3441195],"type":"Point"}
+  "geometry": {"coordinates":[21.308004,55.344119],"type":"Point"}
 }

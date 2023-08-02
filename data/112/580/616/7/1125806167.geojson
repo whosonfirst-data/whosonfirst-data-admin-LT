@@ -31,6 +31,9 @@
     "name:lit_x_preferred":[
         "Verstaminai"
     ],
+    "name:nan_x_preferred":[
+        "Verstaminai"
+    ],
     "name:nld_x_preferred":[
         "Verstaminai"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125806167,
-    "wof:lastmodified":1566598026,
+    "wof:lastmodified":1690938682,
     "wof:name":"Verstaminai",
     "wof:parent_id":102073583,
     "wof:placetype":"locality",

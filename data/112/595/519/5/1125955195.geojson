@@ -25,10 +25,16 @@
     "name:eng_x_preferred":[
         "Avi\u017eieniai"
     ],
+    "name:epo_x_preferred":[
+        "Avi\u017eieniai"
+    ],
     "name:fra_x_preferred":[
         "Avi\u017eieniai"
     ],
     "name:lit_x_preferred":[
+        "Avi\u017eieniai"
+    ],
+    "name:nan_x_preferred":[
         "Avi\u017eieniai"
     ],
     "name:pol_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125955195,
-    "wof:lastmodified":1566598014,
+    "wof:lastmodified":1690938678,
     "wof:name":"Avi\u017eieniai",
     "wof:parent_id":102073629,
     "wof:placetype":"locality",

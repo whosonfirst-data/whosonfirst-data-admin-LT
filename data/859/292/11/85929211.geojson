@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Pilait\u0117 eldership"
     ],
+    "name:est_x_preferred":[
+        "Pilait\u0117 vald"
+    ],
     "name:lav_x_preferred":[
         "Pilaite"
     ],
@@ -48,8 +51,14 @@
     "name:lit_x_variant":[
         "Pilait\u0117s seni\u016bnija"
     ],
+    "name:nan_x_preferred":[
+        "Pilait\u0117 Ti\u00fa\u207f-l\u00f3-khu"
+    ],
     "name:pol_x_preferred":[
         "Zameczek"
+    ],
+    "name:pol_x_variant":[
+        "gmina Zameczek"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u043b\u0430\u0439\u0442\u0435"
@@ -122,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348249,
+    "wof:lastmodified":1690938618,
     "wof:name":"Pilaite",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

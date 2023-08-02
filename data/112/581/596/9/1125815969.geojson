@@ -22,11 +22,20 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u0633\u064a\u0646\u0643\u0648\u0646\u064a\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "Marsinkonis"
+    ],
     "name:ceb_x_preferred":[
         "Marcinkonys"
     ],
     "name:deu_x_preferred":[
         "Marcinkonys"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03c4\u03c3\u03b9\u03bd\u03ba\u03cc\u03bd\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Marcinkonys"
@@ -47,6 +56,9 @@
         "\u30de\u30eb\u30c4\u30a3\u30f3\u30b3\u30cb\u30fc\u30b9"
     ],
     "name:lit_x_preferred":[
+        "Marcinkonys"
+    ],
+    "name:mlt_x_preferred":[
         "Marcinkonys"
     ],
     "name:nld_x_preferred":[
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":1125815969,
-    "wof:lastmodified":1566598024,
+    "wof:lastmodified":1690938681,
     "wof:name":"Marcinkonys",
     "wof:parent_id":102073589,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Justini\u0161k\u0117s"
     ],
+    "name:est_x_preferred":[
+        "Justini\u0161k\u0117s"
+    ],
     "name:lav_x_preferred":[
         "Justini\u0161\u0137es"
     ],
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348249,
+    "wof:lastmodified":1690938619,
     "wof:name":"Justiniskes",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

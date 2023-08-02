@@ -28,6 +28,9 @@
     "name:lit_x_preferred":[
         "Vir\u0161u\u017eiglis"
     ],
+    "name:nan_x_preferred":[
+        "Vir\u0161u\u017eiglis"
+    ],
     "name:sgs_x_preferred":[
         "V\u0117r\u0161o\u017e\u0117glis"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125900057,
-    "wof:lastmodified":1566598031,
+    "wof:lastmodified":1690938685,
     "wof:name":"Vir\u0161u\u017eiglis",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",
