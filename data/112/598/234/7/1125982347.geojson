@@ -25,6 +25,9 @@
     "name:bel_x_preferred":[
         "\u0420\u044b\u043a\u0430\u043d\u0442\u0430\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u0420\u044b\u043a\u0430\u043d\u0442\u0430\u0439"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0439\u043a\u0430\u043d\u0442\u0430\u0438"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125982347,
-    "wof:lastmodified":1566598033,
+    "wof:lastmodified":1690938685,
     "wof:name":"Rykantai",
     "wof:parent_id":102073605,
     "wof:placetype":"locality",

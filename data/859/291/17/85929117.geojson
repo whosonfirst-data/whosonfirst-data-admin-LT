@@ -28,6 +28,9 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0428\u043d\u0456\u043f\u0456\u0448\u043a\u0435\u0441"
+    ],
     "name:dan_x_preferred":[
         "\u0160nipi\u0161k\u0117s"
     ],
@@ -35,6 +38,9 @@
         "\u0160nipi\u0161k\u0117s"
     ],
     "name:eng_x_preferred":[
+        "\u0160nipi\u0161k\u0117s"
+    ],
+    "name:est_x_preferred":[
         "\u0160nipi\u0161k\u0117s"
     ],
     "name:heb_x_preferred":[
@@ -60,6 +66,9 @@
     ],
     "name:und_x_variant":[
         "Snipiskes"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u723e\u7d10\u65af\u5546\u696d\u5340"
     ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_fcode":"PPLX",
@@ -125,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348249,
+    "wof:lastmodified":1690938620,
     "wof:name":"Snipiskes",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

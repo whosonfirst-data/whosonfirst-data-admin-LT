@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0421\u043a\u0440\u0430\u0431\u0456\u043d\u0430\u0439"
+    ],
     "name:eng_x_preferred":[
         "Skrebinai"
     ],
     "name:lit_x_preferred":[
+        "Skrebinai"
+    ],
+    "name:nan_x_preferred":[
         "Skrebinai"
     ],
     "name:und_x_variant":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125943257,
-    "wof:lastmodified":1566598009,
+    "wof:lastmodified":1690938677,
     "wof:name":"Skrebinai",
     "wof:parent_id":102073639,
     "wof:placetype":"locality",

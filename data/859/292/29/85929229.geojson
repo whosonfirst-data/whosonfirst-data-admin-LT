@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0644\u062f\u0629 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
     ],
+    "name:aze_x_preferred":[
+        "Q\u0259dim \u015f\u0259h\u0259r"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b \u0433\u043e\u0440\u0430\u0434"
     ],
@@ -63,8 +66,14 @@
     "name:hun_x_preferred":[
         "\u00d3v\u00e1ros"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u056b\u0576 \u0584\u0561\u0572\u0561\u0584"
+    ],
     "name:ind_x_preferred":[
         "Kota Tua Vilnius"
+    ],
+    "name:ita_x_preferred":[
+        "Citt\u00e0 Vecchia"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a3\u30ea\u30cb\u30e5\u30b9\u65e7\u5e02\u8857"
@@ -77,6 +86,9 @@
     ],
     "name:lit_x_preferred":[
         "Vilniaus senamiestis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440 \u0433\u0440\u0430\u0434"
     ],
     "name:nld_x_preferred":[
         "Oude stad van Vilnius"
@@ -163,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348249,
+    "wof:lastmodified":1690938618,
     "wof:name":"Senamiestis",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

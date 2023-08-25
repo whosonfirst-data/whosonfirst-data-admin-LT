@@ -50,6 +50,9 @@
     "name:eng_x_variant":[
         "Verkiai"
     ],
+    "name:est_x_preferred":[
+        "Verkiai"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u067e\u0631\u06cc\u06cc"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:und_x_variant":[
         "Vepry"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u723e\u57fa\u827e"
     ],
     "qs:gn_adm0_cc":"LT",
     "qs:gn_fcode":"PPL",
@@ -176,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582348249,
+    "wof:lastmodified":1690938620,
     "wof:name":"Verkiai",
     "wof:parent_id":101753031,
     "wof:placetype":"neighbourhood",

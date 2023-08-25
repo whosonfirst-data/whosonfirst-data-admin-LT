@@ -28,6 +28,9 @@
     "name:lit_x_preferred":[
         "Til\u017e\u0117"
     ],
+    "name:nan_x_preferred":[
+        "Til\u017e\u0117"
+    ],
     "name:pol_x_preferred":[
         "Tyl\u017ca"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125848685,
-    "wof:lastmodified":1566598037,
+    "wof:lastmodified":1690938688,
     "wof:name":"Til\u017e\u0117",
     "wof:parent_id":102073709,
     "wof:placetype":"locality",

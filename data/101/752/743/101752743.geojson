@@ -23,6 +23,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a\u0627\u0645\u0628\u0648\u0644\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0627\u0645\u0628\u0648\u0644\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Marijampol\u0117"
+    ],
+    "name:avk_x_preferred":[
+        "Marijampol\u0117"
+    ],
     "name:aze_x_preferred":[
         "Mariyampole"
     ],
@@ -57,6 +66,9 @@
     "name:deu_x_preferred":[
         "Marijampol\u0117"
     ],
+    "name:diq_x_preferred":[
+        "Marijampol\u0117"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c1\u03b9\u03b3\u03b9\u03ac\u03bc\u03c0\u03bf\u03bb\u03b5"
     ],
@@ -81,6 +93,12 @@
     "name:fra_x_preferred":[
         "Marijampol\u0117"
     ],
+    "name:frr_x_preferred":[
+        "Marijampol\u0117"
+    ],
+    "name:gle_x_preferred":[
+        "Marijampol\u0117"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d9\u05d0\u05de\u05e4\u05d5\u05dc"
     ],
@@ -95,6 +113,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0580\u056b\u0561\u0574\u057a\u0578\u056c\u0565"
+    ],
+    "name:ido_x_preferred":[
+        "Marijampol\u0117"
     ],
     "name:ile_x_preferred":[
         "Marijampol\u0117"
@@ -126,6 +147,9 @@
     "name:ltg_x_preferred":[
         "Marijampole"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u044f\u043c\u043f\u043e\u043b\u0435"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0458\u0430\u043c\u043f\u043e\u043b\u0435"
     ],
@@ -141,6 +165,9 @@
     "name:nob_x_preferred":[
         "Marijampol\u0117"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u044f\u043c\u043f\u043e\u043b\u0435"
+    ],
     "name:pms_x_preferred":[
         "Marijampol\u0117"
     ],
@@ -152,6 +179,9 @@
     ],
     "name:por_x_preferred":[
         "Marijampol\u0117"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u0627\u0645\u067e\u0648\u0644\u0647"
     ],
     "name:ron_x_preferred":[
         "Marijampol\u0117"
@@ -175,6 +205,9 @@
         "Marijampol\u0117"
     ],
     "name:swe_x_preferred":[
+        "Marijampol\u0117"
+    ],
+    "name:szl_x_preferred":[
         "Marijampol\u0117"
     ],
     "name:tat_x_preferred":[
@@ -201,8 +234,17 @@
     "name:vol_x_preferred":[
         "Marijampol\u0117"
     ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u91cc\u626c\u6cca\u5217"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u9e97\u6f22\u666e"
+    ],
     "name:zho_x_preferred":[
         "\u99ac\u91cc\u63da\u6cca\u5217"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u91cc\u626c\u6ce2\u83b1"
     ],
     "qs:a0":"Lietuva",
     "qs:a1":"*Marijampole",
@@ -230,8 +272,8 @@
     "wof:belongsto":[
         102191581,
         85633269,
-        102073595,
-        85685753
+        85685753,
+        102073595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -256,7 +298,7 @@
         }
     ],
     "wof:id":101752743,
-    "wof:lastmodified":1615501863,
+    "wof:lastmodified":1690938634,
     "wof:name":"Marijampol\u0117",
     "wof:parent_id":102073595,
     "wof:placetype":"locality",

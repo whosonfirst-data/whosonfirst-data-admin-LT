@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Dotnuva"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u0442\u043d\u0443\u0432\u0430"
+    ],
     "name:ceb_x_preferred":[
         "Dotnuva"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:est_x_preferred":[
         "Dotnuva"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062a\u0646\u0648\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Dotnuva"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":1126006669,
-    "wof:lastmodified":1566598034,
+    "wof:lastmodified":1690938687,
     "wof:name":"Dotnuva",
     "wof:parent_id":102073659,
     "wof:placetype":"locality",

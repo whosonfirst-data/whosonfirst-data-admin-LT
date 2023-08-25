@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u041f\u0443\u043d\u044f"
+    ],
+    "name:deu_x_preferred":[
+        "Punia"
+    ],
     "name:eng_x_preferred":[
         "Punia"
     ],
@@ -44,6 +50,12 @@
         "Punia"
     ],
     "name:pol_x_preferred":[
+        "Punia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u044f"
+    ],
+    "name:spa_x_preferred":[
         "Punia"
     ],
     "name:und_x_variant":[
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1125805767,
-    "wof:lastmodified":1566598028,
+    "wof:lastmodified":1690938683,
     "wof:name":"Punia",
     "wof:parent_id":102073591,
     "wof:placetype":"locality",
