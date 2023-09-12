@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014545,
-    "geom:area_square_m":101804167.496741,
+    "geom:area_square_m":101804167.496742,
     "geom:bbox":"21.0983395,55.4571795,21.25071,55.633858",
     "geom:latitude":55.525218,
     "geom:longitude":21.168444,
     "iso:country":"LT",
+    "label:eng_x_preferred_placetype":[
+        "territorial waters"
+    ],
     "lbl:latitude":55.524091,
     "lbl:longitude":21.167301,
     "lbl:max_zoom":10.0,
@@ -17,7 +20,7 @@
     "mps:latitude":55.524091,
     "mps:longitude":21.167301,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "qs:a0":"Lietuva",
     "qs:a0_lc":"LT000000",
@@ -42,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"LT",
-    "wof:geomhash":"70b377acb3cb5bc15f3a9347c12cf18b",
+    "wof:geomhash":"1d0217301ce1a6d7ee205b30ad91d746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":102073643,
-    "wof:lastmodified":1566596715,
+    "wof:lastmodified":1694492291,
     "wof:name":"",
     "wof:parent_id":85685747,
     "wof:placetype":"county",
