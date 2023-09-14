@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001109,
-    "geom:area_square_m":7732231.081389,
+    "geom:area_square_m":7732337.48522,
     "geom:bbox":"21.0939,55.667202,21.13515,55.722412",
     "geom:latitude":55.690064,
     "geom:longitude":21.112192,
     "iso:country":"LT",
+    "label:eng_x_preferred_longname":[
+        "Klaip\u0117da District Municipality"
+    ],
     "lbl:latitude":55.685599,
     "lbl:longitude":21.113911,
     "lbl:max_zoom":10.0,
@@ -416,7 +419,7 @@
         "wd:id":"Q776965"
     },
     "wof:country":"LT",
-    "wof:geomhash":"02b289e84d0e5a702daa7a5aa040107f",
+    "wof:geomhash":"2acaeb974cbd0cdd617d8920ca62840d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -426,7 +429,7 @@
         }
     ],
     "wof:id":102073647,
-    "wof:lastmodified":1690938611,
+    "wof:lastmodified":1694497831,
     "wof:name":"Klaipeda",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

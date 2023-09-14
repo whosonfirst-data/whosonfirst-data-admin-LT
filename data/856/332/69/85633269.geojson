@@ -23,6 +23,9 @@
     "itu:country_code":[
         "370"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "LT"
     ],
@@ -1386,7 +1389,7 @@
         "quattroshapes",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"a10b127f2d023bd302de2a2802c91f03",
+    "wof:geomhash":"11d15ab1e2daaad35b04614cfbf9895b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1400,7 +1403,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938625,
+    "wof:lastmodified":1694492257,
     "wof:name":"Lithuania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
