@@ -43,7 +43,10 @@
         85685747
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "qs:local_id":"398"
+    },
+    "wof:concordances_official":"qs:local_id",
     "wof:country":"LT",
     "wof:geomhash":"1d0217301ce1a6d7ee205b30ad91d746",
     "wof:hierarchy":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":102073643,
-    "wof:lastmodified":1694492291,
+    "wof:lastmodified":1695886953,
     "wof:name":"",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

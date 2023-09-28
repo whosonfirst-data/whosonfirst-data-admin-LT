@@ -367,8 +367,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_52",
         "eurostat:nuts_2021_id":"52",
-        "hasc:id":"LT.KS.KU"
+        "hasc:id":"LT.KS.KU",
+        "iso:code":"LT-16",
+        "qs:local_id":"252"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"0a5ef7e03a9189e41a89bda428411c99",
     "wof:hierarchy":[
@@ -380,7 +386,7 @@
         }
     ],
     "wof:id":102073625,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886742,
     "wof:name":"Kaunas",
     "wof:parent_id":85685773,
     "wof:placetype":"county",

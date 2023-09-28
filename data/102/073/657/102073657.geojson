@@ -17,7 +17,7 @@
     "eurostat:population":149116,
     "eurostat:population_year":2020,
     "geom:area":0.011556,
-    "geom:area_square_m":80502857.397157,
+    "geom:area_square_m":80502851.768225,
     "geom:bbox":"21.07534,55.612753,21.239835,55.796278",
     "geom:latitude":55.709487,
     "geom:longitude":21.155572,
@@ -449,10 +449,16 @@
         "eg:gisco_id":"LT_21",
         "eurostat:nuts_2021_id":"21",
         "hasc:id":"LT.KP.KC",
+        "iso:code":"LT-20",
+        "qs:local_id":"321",
         "wd:id":"Q776965"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"d11ac2e50f316ea2fcd0f60ac87d2ceb",
+    "wof:geomhash":"a07cf04820c384a48d5d9afe2f68a236",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -462,7 +468,7 @@
         }
     ],
     "wof:id":102073657,
-    "wof:lastmodified":1690938608,
+    "wof:lastmodified":1695886743,
     "wof:name":"Klaipeda",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

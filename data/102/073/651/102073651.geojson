@@ -17,7 +17,7 @@
     "eurostat:population":31230,
     "eurostat:population_year":2020,
     "geom:area":0.222969,
-    "geom:area_square_m":1566193864.037713,
+    "geom:area_square_m":1566193690.610586,
     "geom:bbox":"22.67004,55.176225,23.640447,55.576743",
     "geom:latitude":55.384393,
     "geom:longitude":23.213004,
@@ -162,10 +162,16 @@
         "eg:gisco_id":"LT_72",
         "eurostat:nuts_2021_id":"72",
         "hasc:id":"LT.KS.RN",
+        "iso:code":"LT-38",
+        "qs:local_id":"272",
         "wd:id":"Q2069355"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"0ac92b1bf4d9f6e52c633a2bcbab2c30",
+    "wof:geomhash":"1d656d0ab4e9c903c8acee46d6e07ea6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":102073651,
-    "wof:lastmodified":1690938607,
+    "wof:lastmodified":1695886743,
     "wof:name":"Raseiniai",
     "wof:parent_id":85685773,
     "wof:placetype":"county",

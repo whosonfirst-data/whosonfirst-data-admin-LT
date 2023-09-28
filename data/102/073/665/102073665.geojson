@@ -17,7 +17,7 @@
     "eurostat:population":22929,
     "eurostat:population_year":2020,
     "geom:area":0.238229,
-    "geom:area_square_m":1684809826.80197,
+    "geom:area_square_m":1684809170.845574,
     "geom:bbox":"25.526508,54.822219,26.759367,55.317573",
     "geom:latitude":55.113926,
     "geom:longitude":26.018291,
@@ -173,10 +173,16 @@
         "eurostat:nuts_2021_id":"86",
         "gp:id":2346088,
         "hasc:id":"LT.VI.SV",
+        "iso:code":"LT-49",
+        "qs:local_id":"086",
         "wd:id":"Q1813849"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"ba4e466470fb73e4a014fab0745ef3c0",
+    "wof:geomhash":"19a0a734f3e896251af487a30e27e155",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":102073665,
-    "wof:lastmodified":1690938614,
+    "wof:lastmodified":1695886743,
     "wof:name":"\u0160vencionys",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

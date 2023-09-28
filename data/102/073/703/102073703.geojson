@@ -17,7 +17,7 @@
     "eurostat:population":41447,
     "eurostat:population_year":2020,
     "geom:area":0.260052,
-    "geom:area_square_m":1798817913.075673,
+    "geom:area_square_m":1798817786.196963,
     "geom:bbox":"22.584328,55.731432,23.590205,56.214536",
     "geom:latitude":55.98534,
     "geom:longitude":23.116196,
@@ -395,10 +395,16 @@
         "eg:gisco_id":"LT_91",
         "eurostat:nuts_2021_id":"91",
         "hasc:id":"LT.SH.SA",
+        "iso:code":"LT-44",
+        "qs:local_id":"691",
         "wd:id":"Q134712"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"8e12302ad43e48e17d4320f5d8023603",
+    "wof:geomhash":"5a5fae91bd09d57947804e46365d1c93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -408,7 +414,7 @@
         }
     ],
     "wof:id":102073703,
-    "wof:lastmodified":1690938611,
+    "wof:lastmodified":1695886744,
     "wof:name":"\u0160iauliai",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

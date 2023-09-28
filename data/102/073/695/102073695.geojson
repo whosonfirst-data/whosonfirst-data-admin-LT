@@ -92,8 +92,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_68",
         "eurostat:nuts_2021_id":"68",
-        "hasc:id":"LT.TL.PU"
+        "hasc:id":"LT.TL.PU",
+        "iso:code":"LT-35",
+        "qs:local_id":"868"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"81374e617ffaaa3360f42befb8fb2dfe",
     "wof:hierarchy":[
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":102073695,
-    "wof:lastmodified":1684353994,
+    "wof:lastmodified":1695886744,
     "wof:name":"Plunge",
     "wof:parent_id":85685741,
     "wof:placetype":"county",

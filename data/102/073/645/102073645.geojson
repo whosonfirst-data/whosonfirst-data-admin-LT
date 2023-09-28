@@ -88,8 +88,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_23",
         "eurostat:nuts_2021_id":"23",
-        "hasc:id":"LT.KP.NE"
+        "hasc:id":"LT.KP.NE",
+        "iso:code":"LT-28",
+        "qs:local_id":"323"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"db05579b2b1e5ebdae673b473c341e45",
     "wof:hierarchy":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":102073645,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886743,
     "wof:name":"Neringa",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

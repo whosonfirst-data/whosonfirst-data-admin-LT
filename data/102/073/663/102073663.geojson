@@ -79,8 +79,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_81",
         "eurostat:nuts_2021_id":"81",
-        "hasc:id":"LT.VI.UK"
+        "hasc:id":"LT.VI.UK",
+        "iso:code":"LT-53",
+        "qs:local_id":"081"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"7dd96cafd89578c140bec87f9e0fc3d6",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":102073663,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886743,
     "wof:name":"Ukmerge",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

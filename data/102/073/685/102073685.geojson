@@ -17,7 +17,7 @@
     "eurostat:population":14430,
     "eurostat:population_year":2020,
     "geom:area":0.204585,
-    "geom:area_square_m":1436876811.173402,
+    "geom:area_square_m":1436876821.10525,
     "geom:bbox":"25.857146,55.209159,26.835949,55.611647",
     "geom:latitude":55.389415,
     "geom:longitude":26.313868,
@@ -221,10 +221,16 @@
         "eg:gisco_id":"LT_45",
         "eurostat:nuts_2021_id":"45",
         "hasc:id":"LT.UN.IG",
+        "iso:code":"LT-09",
+        "qs:local_id":"945",
         "wd:id":"Q2069330"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"ded326453d0e64ae6fe86204a33d0c64",
+    "wof:geomhash":"589db9465e0ff7e0e725baea1bddb4aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -234,7 +240,7 @@
         }
     ],
     "wof:id":102073685,
-    "wof:lastmodified":1690938611,
+    "wof:lastmodified":1695886744,
     "wof:name":"Ignalina",
     "wof:parent_id":85685783,
     "wof:placetype":"county",

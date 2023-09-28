@@ -266,8 +266,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_11",
         "eurostat:nuts_2021_id":"11",
-        "hasc:id":"LT.AS.AT"
+        "hasc:id":"LT.AS.AT",
+        "iso:code":"LT-03",
+        "qs:local_id":"111"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"8797ee707279e4db2935a50084f79789",
     "wof:hierarchy":[
@@ -279,7 +285,7 @@
         }
     ],
     "wof:id":1175612921,
-    "wof:lastmodified":1684353994,
+    "wof:lastmodified":1695886745,
     "wof:name":"Alytus",
     "wof:parent_id":85685765,
     "wof:placetype":"county",

@@ -17,7 +17,7 @@
     "eurostat:population":15072,
     "eurostat:population_year":2020,
     "geom:area":0.127173,
-    "geom:area_square_m":901706977.611984,
+    "geom:area_square_m":901706865.746301,
     "geom:bbox":"24.553631,54.859473,25.235812,55.159702",
     "geom:latitude":55.011332,
     "geom:longitude":24.920494,
@@ -186,10 +186,16 @@
         "eg:gisco_id":"LT_89",
         "eurostat:nuts_2021_id":"89",
         "hasc:id":"LT.VI.ST",
+        "iso:code":"LT-47",
+        "qs:local_id":"089",
         "wd:id":"Q58882"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"12514b4e19b5e4b1d272de2e0d680dc8",
+    "wof:geomhash":"b6c96a2d1a23077c481bd5fea68b6e64",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":102073633,
-    "wof:lastmodified":1690938606,
+    "wof:lastmodified":1695886742,
     "wof:name":"\u0160irvintos",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

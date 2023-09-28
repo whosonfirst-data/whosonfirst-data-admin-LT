@@ -416,8 +416,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "qs:local_id":"321",
         "wd:id":"Q776965"
     },
+    "wof:concordances_official":"qs:local_id",
     "wof:country":"LT",
     "wof:geomhash":"2acaeb974cbd0cdd617d8920ca62840d",
     "wof:hierarchy":[
@@ -429,7 +431,7 @@
         }
     ],
     "wof:id":102073647,
-    "wof:lastmodified":1694497831,
+    "wof:lastmodified":1695886740,
     "wof:name":"Klaipeda",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

@@ -79,8 +79,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_18",
         "eurostat:nuts_2021_id":"18",
-        "hasc:id":"LT.MA.MM"
+        "hasc:id":"LT.MA.MM",
+        "iso:code":"LT-25",
+        "qs:local_id":"418"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"fc31c4bcb103fad481284ca2e85c8cae",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":102073595,
-    "wof:lastmodified":1684353992,
+    "wof:lastmodified":1695886741,
     "wof:name":"Marijampole",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

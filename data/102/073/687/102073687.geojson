@@ -17,7 +17,7 @@
     "eurostat:population":23038,
     "eurostat:population_year":2020,
     "geom:area":0.251157,
-    "geom:area_square_m":1756690076.432839,
+    "geom:area_square_m":1756689935.877028,
     "geom:bbox":"24.653043,55.305821,25.519213,55.764396",
     "geom:latitude":55.552335,
     "geom:longitude":25.074306,
@@ -198,10 +198,16 @@
         "eg:gisco_id":"LT_34",
         "eurostat:nuts_2021_id":"34",
         "hasc:id":"LT.UN.AN",
+        "iso:code":"LT-04",
+        "qs:local_id":"934",
         "wd:id":"Q2089772"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"119203cf80dd89022ce3be95720b0d16",
+    "wof:geomhash":"58c93b76f97f93500bf0a97eed86aa1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":102073687,
-    "wof:lastmodified":1690938606,
+    "wof:lastmodified":1695886744,
     "wof:name":"Anyk\u0161ciai",
     "wof:parent_id":85685783,
     "wof:placetype":"county",

@@ -17,7 +17,7 @@
     "eurostat:population":30521,
     "eurostat:population_year":2020,
     "geom:area":0.206215,
-    "geom:area_square_m":1487388808.099216,
+    "geom:area_square_m":1487388648.358764,
     "geom:bbox":"24.756055,54.127403,25.788641,54.50713",
     "geom:latitude":54.315984,
     "geom:longitude":25.273235,
@@ -174,10 +174,16 @@
         "eg:gisco_id":"LT_85",
         "eurostat:nuts_2021_id":"85",
         "hasc:id":"LT.VI.SC",
+        "iso:code":"LT-42",
+        "qs:local_id":"085",
         "wd:id":"Q1799182"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"de715ab375af5b9bc1c30a751fe9f6fb",
+    "wof:geomhash":"af839118061191957f8bfa93b34726ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -187,7 +193,7 @@
         }
     ],
     "wof:id":102073597,
-    "wof:lastmodified":1690938610,
+    "wof:lastmodified":1695886741,
     "wof:name":"\u0160alcininkai",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

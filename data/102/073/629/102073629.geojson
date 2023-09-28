@@ -591,8 +591,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_41",
         "eurostat:nuts_2021_id":"41",
-        "hasc:id":"LT.VI.VL"
+        "hasc:id":"LT.VI.VL",
+        "iso:code":"LT-58",
+        "qs:local_id":"041"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"fd5e7275163349a86a962001ac1d63e5",
     "wof:hierarchy":[
@@ -604,7 +610,7 @@
         }
     ],
     "wof:id":102073629,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886742,
     "wof:name":"Vilnius",
     "wof:parent_id":85685759,
     "wof:placetype":"county",
