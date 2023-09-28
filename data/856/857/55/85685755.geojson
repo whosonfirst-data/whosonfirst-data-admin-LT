@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":1.227318,
-    "geom:area_square_m":8499696517.158152,
+    "geom:area_square_m":8499696488.340685,
     "geom:bbox":"22.465483,55.463028,24.182598,56.414848",
     "geom:latitude":55.938745,
     "geom:longitude":23.307976,
@@ -373,12 +373,18 @@
         "gn:id":864481,
         "gp:id":55848079,
         "hasc:id":"LT.SH",
+        "iso:code":"LT-SA",
         "iso:id":"LT-SA",
+        "qs:local_id":"06",
         "unlc:id":"LT-44",
         "wd:id":"Q186410"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"4bc5cb0e9f48d24129f0789563f58500",
+    "wof:geomhash":"a7e3dd120f975026c4a0e255f24c84ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -393,7 +399,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938623,
+    "wof:lastmodified":1695885311,
     "wof:name":"\u0160iauliai",
     "wof:parent_id":85633269,
     "wof:placetype":"region",
