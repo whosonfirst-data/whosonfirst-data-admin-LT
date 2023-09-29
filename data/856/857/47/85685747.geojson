@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":0.745156,
-    "geom:area_square_m":5188578127.109792,
+    "geom:area_square_m":5188577508.152988,
     "geom:bbox":"20.954407,55.179573,22.024847,56.38535",
     "geom:latitude":55.727666,
     "geom:longitude":21.479956,
@@ -334,12 +334,18 @@
         "gn:id":864478,
         "gp:id":55848085,
         "hasc:id":"LT.KP",
+        "iso:code":"LT-KL",
         "iso:id":"LT-KL",
+        "qs:local_id":"03",
         "unlc:id":"LT-21",
         "wd:id":"Q475207"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"2346f0c7b72f6d08dd690db715237e25",
+    "wof:geomhash":"2e5db41f77ca7b4c0b2845545beef08e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -354,7 +360,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938625,
+    "wof:lastmodified":1695885310,
     "wof:name":"Klaipeda",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

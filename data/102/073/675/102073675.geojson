@@ -17,7 +17,7 @@
     "eurostat:population":16038,
     "eurostat:population_year":2020,
     "geom:area":0.011379,
-    "geom:area_square_m":78745171.579553,
+    "geom:area_square_m":78745069.153836,
     "geom:bbox":"21.04854,55.855274,21.138926,56.077278",
     "geom:latitude":55.969368,
     "geom:longitude":21.090729,
@@ -271,10 +271,16 @@
         "eurostat:nuts_2021_id":"25",
         "gp:id":2346071,
         "hasc:id":"LT.KP.PG",
+        "iso:code":"LT-31",
+        "qs:local_id":"325",
         "wd:id":"Q2047414"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"4ff5d1348a68c6ab43aae9355e52c508",
+    "wof:geomhash":"6566ea7597b363910389ee22cb7a9e80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -284,7 +290,7 @@
         }
     ],
     "wof:id":102073675,
-    "wof:lastmodified":1690938604,
+    "wof:lastmodified":1695886743,
     "wof:name":"Palanga",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

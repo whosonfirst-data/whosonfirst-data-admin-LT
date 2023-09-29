@@ -190,8 +190,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_71",
         "eurostat:nuts_2021_id":"71",
-        "hasc:id":"LT.SH.RD"
+        "hasc:id":"LT.SH.RD",
+        "iso:code":"LT-37",
+        "qs:local_id":"671"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"274b78e6cb982dfd7dbc4f996e2d7e41",
     "wof:hierarchy":[
@@ -203,7 +209,7 @@
         }
     ],
     "wof:id":102073679,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886743,
     "wof:name":"Radvili\u0161kis",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

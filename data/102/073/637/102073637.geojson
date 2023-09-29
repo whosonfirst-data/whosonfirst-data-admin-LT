@@ -79,8 +79,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_77",
         "eurostat:nuts_2021_id":"77",
-        "hasc:id":"LT.TG.TA"
+        "hasc:id":"LT.TG.TA",
+        "iso:code":"LT-50",
+        "qs:local_id":"777"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"6dd5df1b1e70dac4288b15bc11cbd97f",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":102073637,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886742,
     "wof:name":"Taurage",
     "wof:parent_id":85685767,
     "wof:placetype":"county",

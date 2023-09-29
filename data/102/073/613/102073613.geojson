@@ -80,8 +80,14 @@
         "eg:gisco_id":"LT_42",
         "eurostat:nuts_2021_id":"42",
         "gp:id":55848074,
-        "hasc:id":"LT.VI.EL"
+        "hasc:id":"LT.VI.EL",
+        "iso:code":"LT-08",
+        "qs:local_id":"042"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"4be181553c8575d8964f533628024b68",
     "wof:hierarchy":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":102073613,
-    "wof:lastmodified":1684353992,
+    "wof:lastmodified":1695886742,
     "wof:name":"Elektrenai",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

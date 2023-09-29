@@ -17,7 +17,7 @@
     "eurostat:population":28072,
     "eurostat:population_year":2020,
     "geom:area":0.259844,
-    "geom:area_square_m":1798798086.592066,
+    "geom:area_square_m":1798798183.549601,
     "geom:bbox":"25.063441,55.714929,26.046084,56.192005",
     "geom:latitude":55.954836,
     "geom:longitude":25.537505,
@@ -183,10 +183,16 @@
         "eg:gisco_id":"LT_73",
         "eurostat:nuts_2021_id":"73",
         "hasc:id":"LT.PA.RK",
+        "iso:code":"LT-40",
+        "qs:local_id":"573",
         "wd:id":"Q766969"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"0ae87d94ee8a172a7ceca0572f4ef485",
+    "wof:geomhash":"e231b6bbcacae18e8a3c6aa6e79f3b28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -196,7 +202,7 @@
         }
     ],
     "wof:id":102073721,
-    "wof:lastmodified":1690938615,
+    "wof:lastmodified":1695886745,
     "wof:name":"Roki\u0161kis",
     "wof:parent_id":85685779,
     "wof:placetype":"county",

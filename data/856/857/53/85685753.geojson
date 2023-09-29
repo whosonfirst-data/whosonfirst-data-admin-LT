@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"3",
     "geom:area":0.623155,
-    "geom:area_square_m":4452126745.915047,
+    "geom:area_square_m":4452126606.376546,
     "geom:bbox":"22.588819,54.253323,23.79371,55.104864",
     "geom:latitude":54.704442,
     "geom:longitude":23.171032,
@@ -361,12 +361,18 @@
         "gn:id":864479,
         "gp:id":55848078,
         "hasc:id":"LT.MA",
+        "iso:code":"LT-MR",
         "iso:id":"LT-MR",
+        "qs:local_id":"04",
         "unlc:id":"LT-25",
         "wd:id":"Q853948"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"f66b4314bbf030ce23af7dec2b198778",
+    "wof:geomhash":"8b67e4f5642d37ee5bb836abf3616dd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -381,7 +387,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938623,
+    "wof:lastmodified":1695885311,
     "wof:name":"Marijampole",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"3",
     "geom:area":0.623536,
-    "geom:area_square_m":4389132688.55293,
+    "geom:area_square_m":4389133079.624337,
     "geom:bbox":"21.649932,55.02412,23.504275,55.688293",
     "geom:latitude":55.300667,
     "geom:longitude":22.448051,
@@ -364,12 +364,18 @@
         "gn:id":864482,
         "gp:id":55848087,
         "hasc:id":"LT.TG",
+        "iso:code":"LT-TA",
         "iso:id":"LT-TA",
+        "qs:local_id":"07",
         "unlc:id":"LT-50",
         "wd:id":"Q188960"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"8a2f164e52f02d133ebc82680a57d162",
+    "wof:geomhash":"5a7f7104bf607f6bc41a1af4967c9559",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -384,7 +390,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938622,
+    "wof:lastmodified":1695885311,
     "wof:name":"Taurage",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

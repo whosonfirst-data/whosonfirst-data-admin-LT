@@ -17,7 +17,7 @@
     "eurostat:population":14915,
     "eurostat:population_year":2020,
     "geom:area":0.185619,
-    "geom:area_square_m":1293231249.080878,
+    "geom:area_square_m":1293231535.679557,
     "geom:bbox":"25.680158,55.515937,26.638052,55.944107",
     "geom:latitude":55.705506,
     "geom:longitude":26.094168,
@@ -164,10 +164,16 @@
         "eg:gisco_id":"LT_43",
         "eurostat:nuts_2021_id":"43",
         "hasc:id":"LT.UN.ZA",
+        "iso:code":"LT-60",
+        "qs:local_id":"943",
         "wd:id":"Q664415"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"54f1eb19ef6cec867ad7ec70d2a0ed0e",
+    "wof:geomhash":"6310586410a2005c114bcdec4174ea49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":102073709,
-    "wof:lastmodified":1690938604,
+    "wof:lastmodified":1695886744,
     "wof:name":"Zarasai",
     "wof:parent_id":85685783,
     "wof:placetype":"county",

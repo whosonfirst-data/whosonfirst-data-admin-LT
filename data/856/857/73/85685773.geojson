@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":1.137647,
-    "geom:area_square_m":8053161045.345361,
+    "geom:area_square_m":8053161083.573423,
     "geom:bbox":"22.67004,54.454694,24.811578,55.576743",
     "geom:latitude":55.076397,
     "geom:longitude":23.883886,
@@ -371,12 +371,18 @@
         "gn:id":864477,
         "gp:id":55848084,
         "hasc:id":"LT.KS",
+        "iso:code":"LT-KU",
         "iso:id":"LT-KU",
+        "qs:local_id":"02",
         "unlc:id":"LT-16",
         "wd:id":"Q853861"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"ae64defaae8b8ea119c78b3469fc39ce",
+    "wof:geomhash":"be71974bd76f59c7aa12eece0eeaa107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -391,7 +397,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938622,
+    "wof:lastmodified":1695885311,
     "wof:name":"Kaunas",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

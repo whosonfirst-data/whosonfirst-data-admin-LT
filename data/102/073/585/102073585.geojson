@@ -17,7 +17,7 @@
     "eurostat:population":10187,
     "eurostat:population_year":2020,
     "geom:area":0.061003,
-    "geom:area_square_m":439327814.094995,
+    "geom:area_square_m":439327588.577142,
     "geom:bbox":"22.989625,54.253323,23.401077,54.488513",
     "geom:latitude":54.378923,
     "geom:longitude":23.196235,
@@ -165,10 +165,16 @@
         "eg:gisco_id":"LT_48",
         "eurostat:nuts_2021_id":"48",
         "hasc:id":"LT.MA.KV",
+        "iso:code":"LT-14",
+        "qs:local_id":"448",
         "wd:id":"Q1461987"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"bb4d6d37a42877c9231597253e41fd15",
+    "wof:geomhash":"0faddaa95e74c4dee8392bab48e4f1e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":102073585,
-    "wof:lastmodified":1690938614,
+    "wof:lastmodified":1695886741,
     "wof:name":"Kalvarija",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

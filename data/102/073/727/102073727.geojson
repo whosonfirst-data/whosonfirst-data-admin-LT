@@ -190,8 +190,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_36",
         "eurostat:nuts_2021_id":"36",
-        "hasc:id":"LT.PA.BZ"
+        "hasc:id":"LT.PA.BZ",
+        "iso:code":"LT-06",
+        "qs:local_id":"536"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"7d767bbec7e7cd964dc88b99899fa3c7",
     "wof:hierarchy":[
@@ -203,7 +209,7 @@
         }
     ],
     "wof:id":102073727,
-    "wof:lastmodified":1684353994,
+    "wof:lastmodified":1695886745,
     "wof:name":"Bir\u017eai",
     "wof:parent_id":85685779,
     "wof:placetype":"county",

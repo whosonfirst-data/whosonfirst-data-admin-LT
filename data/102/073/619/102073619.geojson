@@ -17,7 +17,7 @@
     "eurostat:population":26707,
     "eurostat:population_year":2020,
     "geom:area":0.203654,
-    "geom:area_square_m":1446288409.606789,
+    "geom:area_square_m":1446288684.84558,
     "geom:bbox":"22.588819,54.724688,23.589393,55.104864",
     "geom:latitude":54.947357,
     "geom:longitude":23.081444,
@@ -181,10 +181,16 @@
         "eg:gisco_id":"LT_84",
         "eurostat:nuts_2021_id":"84",
         "hasc:id":"LT.MA.SK",
+        "iso:code":"LT-41",
+        "qs:local_id":"484",
         "wd:id":"Q2021307"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"d4f85e89462e2c92a44c76e2bfdb1b4f",
+    "wof:geomhash":"1a2429e6b342487a7d50d976ba384688",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":102073619,
-    "wof:lastmodified":1690938605,
+    "wof:lastmodified":1695886742,
     "wof:name":"\u0160akiai",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

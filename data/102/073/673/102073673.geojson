@@ -95,8 +95,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_54",
         "eurostat:nuts_2021_id":"54",
-        "hasc:id":"LT.SH.KM"
+        "hasc:id":"LT.SH.KM",
+        "iso:code":"LT-19",
+        "qs:local_id":"654"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"73131cee09b162cc4068d2f9bc3f25c3",
     "wof:hierarchy":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":102073673,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886743,
     "wof:name":"Kelme",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

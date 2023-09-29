@@ -17,7 +17,7 @@
     "eurostat:population":18324,
     "eurostat:population_year":2020,
     "geom:area":0.180083,
-    "geom:area_square_m":1303422673.309679,
+    "geom:area_square_m":1303422614.53127,
     "geom:bbox":"23.312414,53.898873,23.983542,54.423702",
     "geom:latitude":54.17267,
     "geom:longitude":23.640008,
@@ -164,10 +164,16 @@
         "eg:gisco_id":"LT_59",
         "eurostat:nuts_2021_id":"59",
         "hasc:id":"LT.AS.LA",
+        "iso:code":"LT-24",
+        "qs:local_id":"159",
         "wd:id":"Q2069342"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"df1cd8d45ef419807f03e0381a58944e",
+    "wof:geomhash":"3200ab736dfce25309b9faa1de8afd71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":102073583,
-    "wof:lastmodified":1690938616,
+    "wof:lastmodified":1695886741,
     "wof:name":"Lazdijai",
     "wof:parent_id":85685765,
     "wof:placetype":"county",

@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":0.747375,
-    "geom:area_square_m":5403022091.352426,
+    "geom:area_square_m":5403023021.014661,
     "geom:bbox":"23.312414,53.897053,25.02479,54.56342",
     "geom:latitude":54.22147,
     "geom:longitude":24.125309,
@@ -374,12 +374,18 @@
         "gn:id":864389,
         "gp:id":55848082,
         "hasc:id":"LT.AS",
+        "iso:code":"LT-AL",
         "iso:id":"LT-AL",
+        "qs:local_id":"01",
         "unlc:id":"LT-03",
         "wd:id":"Q669470"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"9e35219d628fcbbdf0a62e9d616d92cf",
+    "wof:geomhash":"edb731cc7a425d4168bc24eab380f676",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -394,7 +400,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938622,
+    "wof:lastmodified":1695885311,
     "wof:name":"Alytus",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

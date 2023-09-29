@@ -80,8 +80,14 @@
         "eg:gisco_id":"LT_58",
         "eurostat:nuts_2021_id":"58",
         "gp:id":55848075,
-        "hasc:id":"LT.MA.KR"
+        "hasc:id":"LT.MA.KR",
+        "iso:code":"LT-17",
+        "qs:local_id":"458"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"15813fd112f33843d694ba2ccbc93662",
     "wof:hierarchy":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":102073607,
-    "wof:lastmodified":1684353992,
+    "wof:lastmodified":1695886741,
     "wof:name":"Kazlu Ruda",
     "wof:parent_id":85685753,
     "wof:placetype":"county",

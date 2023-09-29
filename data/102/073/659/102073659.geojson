@@ -79,8 +79,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_53",
         "eurostat:nuts_2021_id":"53",
-        "hasc:id":"LT.KS.KD"
+        "hasc:id":"LT.KS.KD",
+        "iso:code":"LT-18",
+        "qs:local_id":"253"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"ae2a54dbe2e1f063bc4b14e5bb1f2f0d",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":102073659,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886743,
     "wof:name":"Kedainiai",
     "wof:parent_id":85685773,
     "wof:placetype":"county",

@@ -17,7 +17,7 @@
     "eurostat:population":51056,
     "eurostat:population_year":2020,
     "geom:area":0.176738,
-    "geom:area_square_m":1213599951.134649,
+    "geom:area_square_m":1213600056.977259,
     "geom:bbox":"21.932097,56.08789,22.646966,56.432488",
     "geom:latitude":56.26703,
     "geom:longitude":22.283425,
@@ -180,10 +180,16 @@
         "eg:gisco_id":"LT_61",
         "eurostat:nuts_2021_id":"61",
         "hasc:id":"LT.TL.MZ",
+        "iso:code":"LT-26",
+        "qs:local_id":"861",
         "wd:id":"Q313132"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"2015c5878c1b6f8cc3507d437dede461",
+    "wof:geomhash":"d48d87e21ae51ff4a85589110c65d09d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":102073713,
-    "wof:lastmodified":1690938609,
+    "wof:lastmodified":1695886744,
     "wof:name":"Ma\u017eeikiai",
     "wof:parent_id":85685741,
     "wof:placetype":"county",

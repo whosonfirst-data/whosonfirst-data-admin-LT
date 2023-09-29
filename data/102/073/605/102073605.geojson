@@ -17,7 +17,7 @@
     "eurostat:population":32541,
     "eurostat:population_year":2020,
     "geom:area":0.167673,
-    "geom:area_square_m":1202486128.057717,
+    "geom:area_square_m":1202485863.078714,
     "geom:bbox":"24.393722,54.388384,25.169257,54.739352",
     "geom:latitude":54.550609,
     "geom:longitude":24.782184,
@@ -164,10 +164,16 @@
         "eg:gisco_id":"LT_79",
         "eurostat:nuts_2021_id":"79",
         "hasc:id":"LT.VI.TK",
+        "iso:code":"LT-52",
+        "qs:local_id":"079",
         "wd:id":"Q1987743"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"55eede85a9b811a974501ea3c065c07d",
+    "wof:geomhash":"5b0cfeef94324d865c5eb8192cb8f1cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":102073605,
-    "wof:lastmodified":1690938606,
+    "wof:lastmodified":1695886741,
     "wof:name":"Trakai",
     "wof:parent_id":85685759,
     "wof:placetype":"county",

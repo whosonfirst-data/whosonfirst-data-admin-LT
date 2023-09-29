@@ -80,8 +80,14 @@
         "eg:gisco_id":"LT_88",
         "eurostat:nuts_2021_id":"88",
         "gp:id":2346085,
-        "hasc:id":"LT.KP.SE"
+        "hasc:id":"LT.KP.SE",
+        "iso:code":"LT-46",
+        "qs:local_id":"388"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"445b3bc26cbf910775e603bb36fb830f",
     "wof:hierarchy":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":102073641,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886742,
     "wof:name":"\u0160ilute",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

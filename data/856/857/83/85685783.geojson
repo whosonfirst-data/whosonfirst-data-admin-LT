@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":1.022064,
-    "geom:area_square_m":7162051297.046462,
+    "geom:area_square_m":7162052193.302017,
     "geom:bbox":"24.653043,55.030913,26.835949,55.944107",
     "geom:latitude":55.478867,
     "geom:longitude":25.699798,
@@ -364,12 +364,18 @@
         "gn:id":864484,
         "gp:id":55848081,
         "hasc:id":"LT.UN",
+        "iso:code":"LT-UT",
         "iso:id":"LT-UT",
+        "qs:local_id":"09",
         "unlc:id":"LT-54",
         "wd:id":"Q188659"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"b8621a4e08682e77020e68e607128680",
+    "wof:geomhash":"b674dfc3881b25527c1ee66210696f1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -384,7 +390,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938624,
+    "wof:lastmodified":1695885311,
     "wof:name":"Utena",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

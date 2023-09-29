@@ -17,7 +17,7 @@
     "eurostat:population":37425,
     "eurostat:population_year":2020,
     "geom:area":0.142235,
-    "geom:area_square_m":984053492.455108,
+    "geom:area_square_m":984053098.995284,
     "geom:bbox":"21.100703,55.785644,21.700139,56.152087",
     "geom:latitude":55.977727,
     "geom:longitude":21.37834,
@@ -167,10 +167,16 @@
         "eg:gisco_id":"LT_56",
         "eurostat:nuts_2021_id":"56",
         "hasc:id":"LT.KP.KG",
+        "iso:code":"LT-22",
+        "qs:local_id":"356",
         "wd:id":"Q156560"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"3083a9befd846458b6b397e464e975be",
+    "wof:geomhash":"ee21cd57728b994b296e6c17d2c9ec4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":102073681,
-    "wof:lastmodified":1690938605,
+    "wof:lastmodified":1695886744,
     "wof:name":"Kretinga",
     "wof:parent_id":85685747,
     "wof:placetype":"county",

@@ -17,7 +17,7 @@
     "eurostat:population":20730,
     "eurostat:population_year":2020,
     "geom:area":0.166927,
-    "geom:area_square_m":1146828415.413551,
+    "geom:area_square_m":1146828410.029232,
     "geom:bbox":"23.072803,56.061718,23.961327,56.383056",
     "geom:latitude":56.247172,
     "geom:longitude":23.502662,
@@ -178,10 +178,16 @@
         "eg:gisco_id":"LT_47",
         "eurostat:nuts_2021_id":"47",
         "hasc:id":"LT.SH.JS",
+        "iso:code":"LT-11",
+        "qs:local_id":"647",
         "wd:id":"Q610133"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"37b0dd9e5bbe2cc2a5d68021d1840ead",
+    "wof:geomhash":"e7a3f0941b5c2692fbd3d5baea2e2332",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":102073723,
-    "wof:lastmodified":1690938609,
+    "wof:lastmodified":1695886745,
     "wof:name":"Joni\u0161kis",
     "wof:parent_id":85685755,
     "wof:placetype":"county",

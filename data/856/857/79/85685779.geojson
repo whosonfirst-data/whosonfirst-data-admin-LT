@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":1.132562,
-    "geom:area_square_m":7847710869.292499,
+    "geom:area_square_m":7847709966.003186,
     "geom:bbox":"23.879444,55.386662,26.046084,56.450657",
     "geom:latitude":55.917882,
     "geom:longitude":24.802874,
@@ -374,12 +374,18 @@
         "gn:id":864480,
         "gp:id":55848086,
         "hasc:id":"LT.PA",
+        "iso:code":"LT-PN",
         "iso:id":"LT-PN",
+        "qs:local_id":"05",
         "unlc:id":"LT-33",
         "wd:id":"Q188085"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"b01d8b00e6fd4caa56ed2a6ecf6bc1c4",
+    "wof:geomhash":"3d70c261600ae2fc85ef6b5b2c1fe495",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -394,7 +400,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938623,
+    "wof:lastmodified":1695885311,
     "wof:name":"Paneve\u017eys",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

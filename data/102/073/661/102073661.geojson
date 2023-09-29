@@ -79,8 +79,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_62",
         "eurostat:nuts_2021_id":"62",
-        "hasc:id":"LT.UN.ML"
+        "hasc:id":"LT.UN.ML",
+        "iso:code":"LT-27",
+        "qs:local_id":"962"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"56a3e2121a1b95712d1174ff9bebfa8a",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":102073661,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886743,
     "wof:name":"Moletai",
     "wof:parent_id":85685783,
     "wof:placetype":"county",

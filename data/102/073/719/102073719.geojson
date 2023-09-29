@@ -17,7 +17,7 @@
     "eurostat:population":22829,
     "eurostat:population_year":2020,
     "geom:area":0.185979,
-    "geom:area_square_m":1283958199.64804,
+    "geom:area_square_m":1283957987.229786,
     "geom:bbox":"24.013254,55.839861,24.68224,56.300617",
     "geom:latitude":56.060093,
     "geom:longitude":24.338781,
@@ -167,10 +167,16 @@
         "eg:gisco_id":"LT_67",
         "eurostat:nuts_2021_id":"67",
         "hasc:id":"LT.PA.PS",
+        "iso:code":"LT-34",
+        "qs:local_id":"567",
         "wd:id":"Q1461920"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"338c837d49476bd94efe556f6b565bd2",
+    "wof:geomhash":"c109ac5457bb9526f37f35cfdd7cf379",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":102073719,
-    "wof:lastmodified":1690938615,
+    "wof:lastmodified":1695886745,
     "wof:name":"Pasvalys",
     "wof:parent_id":85685779,
     "wof:placetype":"county",

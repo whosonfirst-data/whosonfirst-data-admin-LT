@@ -17,7 +17,7 @@
     "eurostat:population":20844,
     "eurostat:population_year":2020,
     "geom:area":0.305441,
-    "geom:area_square_m":2210519496.300067,
+    "geom:area_square_m":2210519956.804256,
     "geom:bbox":"23.960643,53.897053,25.02479,54.44764",
     "geom:latitude":54.176924,
     "geom:longitude":24.499986,
@@ -189,10 +189,16 @@
         "eg:gisco_id":"LT_38",
         "eurostat:nuts_2021_id":"38",
         "hasc:id":"LT.AS.VR",
+        "iso:code":"LT-55",
+        "qs:local_id":"138",
         "wd:id":"Q1351747"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"d1d52fb265b2b658e77466981e35d772",
+    "wof:geomhash":"4de0949767c2781094337aa0ba3447b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -202,7 +208,7 @@
         }
     ],
     "wof:id":102073589,
-    "wof:lastmodified":1690938610,
+    "wof:lastmodified":1695886741,
     "wof:name":"Varena",
     "wof:parent_id":85685765,
     "wof:placetype":"county",

@@ -218,8 +218,14 @@
         "eg:gisco_id":"LT_78",
         "eurostat:nuts_2021_id":"78",
         "gp:id":2346090,
-        "hasc:id":"LT.TL.TE"
+        "hasc:id":"LT.TL.TE",
+        "iso:code":"LT-51",
+        "qs:local_id":"878"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"645d8bf603a96bb843ff7d71e491d7e7",
     "wof:hierarchy":[
@@ -231,7 +237,7 @@
         }
     ],
     "wof:id":102073699,
-    "wof:lastmodified":1684353994,
+    "wof:lastmodified":1695886744,
     "wof:name":"Tel\u0161iai",
     "wof:parent_id":85685741,
     "wof:placetype":"county",

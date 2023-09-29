@@ -17,7 +17,7 @@
     "eurostat:population":4066,
     "eurostat:population_year":2020,
     "geom:area":0.016905,
-    "geom:area_square_m":121190038.871542,
+    "geom:area_square_m":121190028.223287,
     "geom:bbox":"23.885839,54.49064,24.172392,54.64855",
     "geom:latitude":54.565057,
     "geom:longitude":24.021092,
@@ -186,10 +186,16 @@
         "eg:gisco_id":"LT_12",
         "eurostat:nuts_2021_id":"12",
         "hasc:id":"LT.KS.BS",
+        "iso:code":"LT-05",
+        "qs:local_id":"212",
         "wd:id":"Q2015893"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"064e1bb9b06267e277d3fa16733c44a3",
+    "wof:geomhash":"b13b381d385d2b4c4ae205f5279a106e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":102073593,
-    "wof:lastmodified":1690938604,
+    "wof:lastmodified":1695886741,
     "wof:name":"Bir\u0161tonas",
     "wof:parent_id":85685773,
     "wof:placetype":"county",

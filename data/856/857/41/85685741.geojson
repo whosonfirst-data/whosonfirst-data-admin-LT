@@ -19,7 +19,7 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":0.626082,
-    "geom:area_square_m":4328871305.887101,
+    "geom:area_square_m":4328871702.569123,
     "geom:bbox":"21.512083,55.597018,22.738152,56.432488",
     "geom:latitude":56.001482,
     "geom:longitude":22.164776,
@@ -364,12 +364,18 @@
         "gn:id":864483,
         "gp:id":55848080,
         "hasc:id":"LT.TL",
+        "iso:code":"LT-TE",
         "iso:id":"LT-TE",
+        "qs:local_id":"08",
         "unlc:id":"LT-51",
         "wd:id":"Q188963"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"98d9d18fb295e169ea315ec7a3c44ad2",
+    "wof:geomhash":"fffb8817b44e57fb95954c77fe3353f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -384,7 +390,7 @@
     "wof:lang_x_spoken":[
         "lit"
     ],
-    "wof:lastmodified":1690938624,
+    "wof:lastmodified":1695885310,
     "wof:name":"Tel\u0161iai",
     "wof:parent_id":85633269,
     "wof:placetype":"region",

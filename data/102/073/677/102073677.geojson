@@ -79,8 +79,14 @@
     "wof:concordances":{
         "eg:gisco_id":"LT_27",
         "eurostat:nuts_2021_id":"27",
-        "hasc:id":"LT.PA.PV"
+        "hasc:id":"LT.PA.PV",
+        "iso:code":"LT-32",
+        "qs:local_id":"527"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
     "wof:geomhash":"4e6ff5653e2ce56bcf5450dd32b7f9fc",
     "wof:hierarchy":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":102073677,
-    "wof:lastmodified":1684353993,
+    "wof:lastmodified":1695886743,
     "wof:name":"Paneve\u017eys",
     "wof:parent_id":85685779,
     "wof:placetype":"county",

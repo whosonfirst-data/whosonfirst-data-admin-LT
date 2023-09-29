@@ -17,7 +17,7 @@
     "eurostat:population":18243,
     "eurostat:population_year":2020,
     "geom:area":0.008268,
-    "geom:area_square_m":57780644.871395,
+    "geom:area_square_m":57780517.217425,
     "geom:bbox":"26.386784,55.550468,26.626777,55.620435",
     "geom:latitude":55.586301,
     "geom:longitude":26.490656,
@@ -247,10 +247,16 @@
         "eg:gisco_id":"LT_30",
         "eurostat:nuts_2021_id":"30",
         "hasc:id":"LT.UN.VG",
+        "iso:code":"LT-59",
+        "qs:local_id":"930",
         "wd:id":"Q203892"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"LT",
-    "wof:geomhash":"f4e83523a1d9716e30a0953bc80d26ad",
+    "wof:geomhash":"dbf298dc46b5f171b563543757116230",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -260,7 +266,7 @@
         }
     ],
     "wof:id":102073691,
-    "wof:lastmodified":1690938614,
+    "wof:lastmodified":1695886744,
     "wof:name":"Visaginas",
     "wof:parent_id":85685783,
     "wof:placetype":"county",
