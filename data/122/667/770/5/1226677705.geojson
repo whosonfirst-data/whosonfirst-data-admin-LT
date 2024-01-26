@@ -12,6 +12,7 @@
     "gn:admin1_code":"61.0",
     "gn:admin2_code":"65.0",
     "gn:asciiname":"Noreikoniai",
+    "gn:cc2":"LT",
     "gn:country_code":"LT",
     "gn:dem":53,
     "gn:feature_class":"P",
@@ -51,6 +52,11 @@
     "wof:concordances":{
         "gn:id":596648
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            864417
+        ]
+    },
     "wof:country":"LT",
     "wof:geomhash":"44d10039f6c5ac7148269aeb03d88d9f",
     "wof:hierarchy":[
@@ -63,13 +69,15 @@
         }
     ],
     "wof:id":1226677705,
-    "wof:lastmodified":1566598436,
+    "wof:lastmodified":1706240344,
     "wof:name":"Noreikoniai",
     "wof:parent_id":102073717,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293820261
+    ],
     "wof:tags":[]
 },
   "bbox": [

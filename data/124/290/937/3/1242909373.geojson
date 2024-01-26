@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11302373
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11302545
+        ]
+    },
     "wof:country":"LT",
     "wof:geomhash":"a8a69cbb9f2ca19e33168fe0b5f073f0",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1242909373,
-    "wof:lastmodified":1566598197,
+    "wof:lastmodified":1706240344,
     "wof:name":"Vaidatoniai",
     "wof:parent_id":102073673,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293328601
+    ],
     "wof:tags":[]
 },
   "bbox": [

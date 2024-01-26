@@ -9,7 +9,22 @@
     "geom:bbox":"25.782781,55.921343,25.81905,55.95165",
     "geom:latitude":55.940008,
     "geom:longitude":25.801012,
+    "gn:admin1_code":"60.0",
+    "gn:admin2_code":"73.0",
+    "gn:asciiname":"Obeliai",
+    "gn:country_code":"LT",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":596545,
+    "gn:latitude":55.94651,
+    "gn:longitude":25.79768,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Obeliai",
+    "gn:population":0,
+    "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
+    "lbl:bbox":"25.77768,55.92651,25.81768,55.96651",
     "lbl:latitude":55.946199,
     "lbl:longitude":25.797715,
     "lbl:max_zoom":18.0,
@@ -131,6 +146,13 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0435\u043b\u044f\u0439"
     ],
+    "name:und_x_variant":[
+        "Obeli\u0173",
+        "Abeli",
+        "Obelyay",
+        "Myasto Obelyay",
+        "Obyalyay"
+    ],
     "name:vol_x_preferred":[
         "Obeliai"
     ],
@@ -175,6 +197,14 @@
         "wd:id":"Q1987043",
         "wk:page":"Obeliai"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            596545
+        ],
+        "wk:page":[
+            "Obeliai"
+        ]
+    },
     "wof:country":"LT",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -190,13 +220,15 @@
         }
     ],
     "wof:id":101818129,
-    "wof:lastmodified":1690938643,
+    "wof:lastmodified":1706240344,
     "wof:name":"Obeliai",
     "wof:parent_id":102073721,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310636829
+    ],
     "wof:tags":[]
 },
   "bbox": [

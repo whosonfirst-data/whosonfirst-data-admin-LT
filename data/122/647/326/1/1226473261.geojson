@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":11302540
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11302242
+        ]
+    },
     "wof:country":"LT",
     "wof:geomhash":"72bbaf0633c04dae06912ee7b5cd5aa4",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1226473261,
-    "wof:lastmodified":1566598532,
+    "wof:lastmodified":1706240344,
     "wof:name":"Pakarcemis",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293424095
+    ],
     "wof:tags":[]
 },
   "bbox": [

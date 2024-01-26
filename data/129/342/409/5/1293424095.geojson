@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"22.50945,55.47519,22.50945,55.47519",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Pakar\u010demis"
@@ -45,7 +47,7 @@
         "gn:id":11302242
     },
     "wof:country":"LT",
-    "wof:geomhash":"a66dd28ca564df2baccf70038f3acad2",
+    "wof:geomhash":"1fafcd7eb2b947f86449e242c4cd24e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,20 +58,22 @@
         }
     ],
     "wof:id":1293424095,
-    "wof:lastmodified":1566597092,
+    "wof:lastmodified":1706240344,
     "wof:name":"Pakarcemis",
     "wof:parent_id":102073655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lt",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226473261
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     22.50945,
-    55.47519000000001,
+    55.47519,
     22.50945,
-    55.47519000000001
+    55.47519
 ],
-  "geometry": {"coordinates":[22.50945,55.47519000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.50945,55.47519],"type":"Point"}
 }
