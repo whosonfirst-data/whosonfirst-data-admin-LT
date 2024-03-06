@@ -9,9 +9,22 @@
     "geom:bbox":"23.92848,54.75792,23.92848,54.75792",
     "geom:latitude":54.75792,
     "geom:longitude":23.92848,
+    "gn:admin1_code":"57.0",
+    "gn:admin2_code":"19.0",
+    "gn:asciiname":"Linksmakalnis",
     "gn:country":"LT",
+    "gn:country_code":"LT",
+    "gn:dem":66,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":597442,
+    "gn:latitude":54.75762,
+    "gn:longitude":23.93079,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Linksmakalnis",
     "gn:population":817,
+    "gn:timezone":"Europe/Vilnius",
     "iso:country":"LT",
     "lbl:bbox":"23.90848,54.73792,23.94848,54.77792",
     "lbl:latitude":54.75792,
@@ -24,6 +37,11 @@
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u041b\u0438\u043d\u043a\u0441\u043c\u0430\u043a\u0430\u043b\u043d\u0438\u0441"
+    ],
+    "name:und_x_variant":[
+        "Luisberg",
+        "Fol\u2019vark Lyustberg",
+        "Linksmakalnis"
     ],
     "qs_pg:aaroncc":"LT",
     "qs_pg:gn_country":"LT",
@@ -62,6 +80,11 @@
         "gp:id":56039311,
         "qs_pg:id":985036
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            597442
+        ]
+    },
     "wof:country":"LT",
     "wof:created":1497296799,
     "wof:geomhash":"2911d3f52a2f0493f8b8ef37aaa909a6",
@@ -75,7 +98,7 @@
         }
     ],
     "wof:id":1125930815,
-    "wof:lastmodified":1566598010,
+    "wof:lastmodified":1706240344,
     "wof:name":"Linksmakalnis",
     "wof:parent_id":102073625,
     "wof:placetype":"locality",
@@ -83,7 +106,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293424417
+    ],
     "wof:tags":[]
 },
   "bbox": [

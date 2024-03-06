@@ -37,6 +37,9 @@
     "name:deu_x_preferred":[
         "Smilgiai"
     ],
+    "name:eng_x_preferred":[
+        "Smilgiai"
+    ],
     "name:est_x_preferred":[
         "Smilgiai"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:pol_x_preferred":[
         "Smilgie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u0438\u043b\u044c\u0433\u044f\u0439"
     ],
     "name:swe_x_preferred":[
         "Smilgiai"
@@ -65,7 +71,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":594411
+        "gn:id":594411,
+        "wk:page":"Smilgiai"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            594408
+        ]
     },
     "wof:country":"LT",
     "wof:geomhash":"b807f55b5c107578e9f5eeb5fc6ec1c3",
@@ -79,13 +91,15 @@
         }
     ],
     "wof:id":1277113117,
-    "wof:lastmodified":1566597331,
+    "wof:lastmodified":1706240345,
     "wof:name":"Smilgiai",
     "wof:parent_id":102073701,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360017003
+    ],
     "wof:tags":[]
 },
   "bbox": [

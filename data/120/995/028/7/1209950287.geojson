@@ -12,6 +12,7 @@
     "gn:admin1_code":"61.0",
     "gn:admin2_code":"32.0",
     "gn:asciiname":"Kruopiai",
+    "gn:cc2":"LT",
     "gn:country_code":"LT",
     "gn:dem":83,
     "gn:feature_class":"P",
@@ -66,8 +67,13 @@
         "gn:id":597933,
         "wk:page":"Kruopiai"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            597934
+        ]
+    },
     "wof:country":"LT",
-    "wof:geomhash":"4aa87228c4b6262dab8dcacb1ec9ddbb",
+    "wof:geomhash":"ed10510a2eb16aca3e6ba3a4937fe153",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,20 +84,22 @@
         }
     ],
     "wof:id":1209950287,
-    "wof:lastmodified":1566597429,
+    "wof:lastmodified":1706240344,
     "wof:name":"Kruopiai",
     "wof:parent_id":102073715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lt",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327270989
+    ],
     "wof:tags":[]
 },
   "bbox": [
     23.01168,
-    56.24276999999999,
+    56.24277,
     23.01168,
-    56.24276999999999
+    56.24277
 ],
-  "geometry": {"coordinates":[23.01168,56.24276999999999],"type":"Point"}
+  "geometry": {"coordinates":[23.01168,56.24277],"type":"Point"}
 }
